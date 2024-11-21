@@ -1,0 +1,274 @@
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png", Tsports 
+https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
+ 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM8-hmJjPP2shDkmu11AJjmX2AKVz3ThP2S3naDU7Yjm56vFNzI8uTSdo&s=10", Gazi Tv
+https://iptvcable.netlify.app/Altogether-007/GaziTv.m3u8 
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbA87mgTW6BL00Lm3TboXRvJcc318-lYW-ag&s", Eurosport
+https://altogether-007.vercel.app/Discovery/api/Eurosport.m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png", Sony Sports 1
+https://iptvcable.netlify.app/Altogether-007/SonySports1.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbdho8ETskFR9WpDlOrqbyuno-b3153QpeAQ&s", Sony Sports 2
+https://iptvcable.netlify.app/Altogether-007/SonySports2.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png", Sony Sports 3
+https://iptvcable.netlify.app/Altogether-007/SonySports3.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png", Sony Sports 4
+https://iptvcable.netlify.app/Altogether-007/SonySports4.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png", Sony Sports 5
+https://iptvcable.netlify.app/Altogether-007/SonySports5.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png", Sports18 1
+https://iptvcable.netlify.app/Altogether-007/Sports18-1.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_2.png", Sports18 2
+https://iptvcable.netlify.app/Altogether-007/Sports18-2.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_3.png", Sports18 3
+https://iptvcable.netlify.app/Altogether-007/Sports18-3.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_Khel.png", Sports18 khel
+https://iptvcable.netlify.app/Altogether-007/Sports18khel.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png", Star Sports 1 Hindi
+https://iptvcable.netlify.app/Altogether-007/StarSports1hin-1.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSbQYPtCQpDyIUycG7t6916M4uFfCQc_-HTosVQGQVwF3W2_GYKWOgfXE&s=10", Star Sports 1 Hindi
+https://iptvcable.netlify.app/Altogether-007/StarSports1hin.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLS-lIP6RXEk3fVoZUDTKQepIGcTfnla4lskJHo1hislprrmvXo83yroY&s=10", Star Sports 2
+https://iptvcable.netlify.app/Altogether-007/StarSports2.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbwyIx255tT4LWQWeMxU91ocR1NZ6z9NkDig&s", Star Sports Select 1
+https://iptvcable.netlify.app/Altogether-007/StarSportsSel1.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/Star-Sports-Select-2-hd.png", Star Sports Select 2
+https://iptvcable.netlify.app/Altogether-007/StarSportsSel2.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png", Btv
+https://iptvcable.netlify.app/Altogether-007/Bangladesh/BTV.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3AttwzEy0-jvCtYFju4viRlvTDHPXOqZCEcXXUiOxyiN5V-3XMOi3djo&s=10", EkushyTv
+https://iptvcable.netlify.app/Altogether-007/Bangladesh/EkushyTv.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1LJLVkY8wZBI7QP8GW1t2uQpKYcG3WUuCgA&s", RTV
+https://iptvcable.netlify.app/Altogether-007/Bangladesh/RTV.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png", My TV
+https://iptvcable.netlify.app/Altogether-007/Bangladesh/MyTv.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8HCmRXIV5i61tWmlMRBrt-Aq-SL_snYkK6zORy=s900-c-k-c0x00ffffff-no-rj", Movie Bangla
+https://iptvcable.netlify.app/Altogether-007/Bangladesh/MovieBangla.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/800px-Channel9_bd.svg.png", Channel9
+https://iptvcable.netlify.app/Altogether-007/Bangladesh/Channel9.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThYHt4yjNmyR2579DSXG8tuekTtYudy5uODu8Z1OzhPFvlgcq5Wg5KwYc&s=10", SRK tv
+https://cdn.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3FTsPoV3OV4Tas7Efx2op1C4lilKyxYkcJx-rCg1f9HeXOQvRIjH8NXurrA&s", Me Tv
+https://iptvcable.netlify.app/Altogether-007/Bangladesh/MeTv.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://play-lh.googleusercontent.com/HRmqkaMrGmM5fphzcCoYbqWQZLhFKI3Mjc4RWLvgnipk7KI094BIhZEXdlVLR89jrQ", Vokta Tv
+https://iptvcable.netlify.app/Altogether-007/Bangladesh/VoktaTv.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwC1FLrSDqYkWTu0CK8zCygVIBMpoQq_ef4g&s",Doyel Tv
+https://iptvcable.netlify.app/Altogether-007/Bangladesh/DoyelTv.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQttOoq1gC8VFet-OuGNB-kwAdoxMPCkgsEyh7DOQr0mLmXb6wRbE8-J22l&s=10", Matribumi Tv
+https://iptvcable.netlify.app/Altogether-007/Bangladesh/MatribumiTv.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl51CN0odcPjCA1PcX8M3ze0WhK4R44ID3Ew&s", Magic bangla tv
+https://iptvcable.netlify.app/Altogether-007/Bangladesh/Magicbanglatv.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://live.probashinews24.tv/images/logo.png", Probashi Tv
+https://iptvcable.netlify.app/Altogether-007/Bangladesh/ProbashiTv.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBcCig8liSTxxTOglj7-IFmKKyTij_LSRCwA&s", Nandan Tv
+https://weblive.nandansyst.com/hls/nandan_src/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdCGsEMHmjePno7O2rluZtzxqkZ5k20-oWqg&s", Bangla news tv
+https://iptvcable.netlify.app/Altogether-007/Bangladesh/BanglaNewsTv.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTByug-Cd5uLhhGqID0mWAJSvgaVq1N0r4ELXr2d2UTw_uBqsbFr38KJDc&s=10", Jhankar Tv
+https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
+
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png", DeeptoTv
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0aXuHhGADmE7hh4UqmyQLRLpTCW9k2hBpD232rDNsEH51YeVfNVsYWWo&s=10", Kids Creations
+https://iptvcable.netlify.app/Altogether-007/Bangladesh/KidsCreations.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYt_tdZ3HYZO0zbHKxDJxrphZ1Le5KsTHWBNjh_ed2sF09UaBJBTBKjNKW&s=10", Zee Bangla
+https://iptvcable.netlify.app/Altogether-007/Kolkata/ZeeBangla.m3u8
+
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png", Colors Bangla Hd
+https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
+
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpN5qktc_HtDbFFHYV8zvoVBsDK5Z1mo-GjQ&s", Star Jolsha
+https://iptvcable.netlify.app/Altogether-007/Kolkata/StarJalsha.m3u8
+
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwX8YAIUv2wASFgHQLA1gqWkaQZtNaH9LWY5YDnJa7pg&s", Enter 10 Bangla
+https://iptvcable.netlify.app/Altogether-007/Kolkata/EnteerTenBangla.m3u8
+
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR19iZeDWCRTVE2uO2g6lJ7rfMJYpFLPfsKdA&usqp=CAU", Sangeet Bangla
+https://iptvcable.netlify.app/Altogether-007/Kolkata/SangeetBangla.m3u8
+
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png", Sony Aath
+https://iptvcable.netlify.app/Altogether-007/Kolkata/SonyAath.m3u8
+
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWwAH9zylGlCiA7Ak-96qVSJvbVeic36CE7AxO3jT71g&s", Bangla plus
+https://iptvcable.netlify.app/Altogether-007/Kolkata/BanglaPlus.m3u8
+
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWwUyv4yOvRJxQRRNROFj3e0LVNjDNNi1eE-OPjPeqW2FwSxfcoZSAM1A&s=10", Tara Bangla Movie
+https://iptvcable.netlify.app/Altogether-007/Kolkata/TaraBanglaMovie.m3u8
+
+#EXTINF:-1 group-title="Kolkata" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m-ErSMpMzKe9hSvK2-i-y3z7-1SA3Q5r_irXehULBv9R0=s900-c-k-c0x00ffffff-no-rj", Star Jolsha Movies 
+https://iptvcable.netlify.app/Altogether-007/Kolkata/StarJolshaMovies.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBNQErEpRzLPLQi_iJoc070F4FhKaqRh_el_F57ef3VwFpp3xDoYi6qWGy&s=10", Cartoon Network
+https://iptvcable.netlify.app/Altogether-007/Cartoon/CartoonNetworkhin.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlfEj2Jh8AWTrVEoiE8p729oRrJ6yfKoYKdTIreXndfzZzywU9RBMbaOw&s=10", Disney
+http://119.156.26.155:8000/play/a05u/index.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpMCoR3VuXQCF0y_pAqLnCcoVE6fOJKAiLpw&s", Hungama
+http://119.156.26.155:8000/play/a05t/index.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://cdn6.aptoide.com/imgs/c/8/5/c85cfb9e41175a27e904247af5ec77db_icon.png", Nick Hindi
+https://iptvcable.netlify.app/Altogether-007/Cartoon/NickHindi.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI7jqQNmrU9M5OsuybdQ5jFCpYSz1NX20BE8vFR-xcOfhV781I6xXtacE&s=10", Sonic
+https://keralamaxtv.com/sliv/stream.php?id=168569&e=.m3u8|referer=https://keralamaxtv.com//
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS09GDLqbyCyEdbEiL4WSENm2l9l_k12aERGpvxnsDUv4WRk-vlRWQgHZFq&s=10", POGO
+https://iptvcable.netlify.app/Altogether-007/Cartoon/POGO.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png", SonyYaY
+https://iptvcable.netlify.app/Altogether-007/Cartoon/SonyYAY.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png", Gubbare
+https://iptvcable.netlify.app/Altogether-007/Cartoon/Gubbare.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png", RONGEEN TV
+https://iptvcable.netlify.app/Altogether-007/Cartoon/RongeenTv.m3u8
+
+https://altogether-007.vercel.app/Discovery/api/Discovery_Kids.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTerg__lLRxfNcamdtoNS2Y0t5VLjO976Pcag&s", Discovery Bangla
+https://iptvcable.netlify.app/Altogether-007/Documentary/DiscoveryBangla.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://standfirst-designweek-production.imgix.net/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg?fit=crop&crop=faces&q=80&auto=compress,format&w=647&h=500", Animal planet
+https://altogether-007.vercel.app/Discovery/api/Animal_Planet.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://eu1-prod-images.disco-api.com/2023/08/08/b2118319-0565-34ee-bccf-6228b1ec0426.png?bf=0&f=jpg&p=true&q=70&w=1920", DMAX
+https://altogether-007.vercel.app/Discovery/api/DMAX.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lq1X3lW3djcTr4x8s__Ds5eoR_Af2TZMavK7Dr6dkIdw=s900-c-k-c0x00ffffff-no-rj", Discovery+
+https://altogether-007.vercel.app/Discovery/api/Discovery+.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTerg__lLRxfNcamdtoNS2Y0t5VLjO976Pcag&s", Discovery
+https://altogether-007.vercel.app/Discovery/api/Discovery_Channel.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://eu1-prod-images.disco-api.com/2023/06/14/6caf3353-36aa-3dd0-931d-ceada7b8cb96.png?bf=0&f=jpg&p=true&q=70&w=1920", DiscoveryScience
+https://altogether-007.vercel.app/Discovery/api/Discovery_Science.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzB2Vxvf1QOeB8hGL3GjU8EyeHm2Mve30uvA&s", DiscoveryTurbo
+https://altogether-007.vercel.app/Discovery/api/Discovery_Turbo.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png", FoodNetwork
+https:/altogether-007.vercel.app/Discovery/api/Food%20Network.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlehx4fmC66L3dwYXXmG47-S_dDCGRHWj7Lg&s", HGTV
+https://altogether-007.vercel.app/Discovery/api/HGTV.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/InvestigationDiscovery.png", InvestigationDiscovery
+https://altogether-007.vercel.app/Discovery/api/Investigation_Discovery.m3u8
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://iconape.com/wp-content/png_logo_vector/tlc-logo.png", TLC
+https://altogether-007.vercel.app/Discovery/api/TLC.m3u8 
+
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://travel.home.sndimg.com/content/dam/images/travel/editorial/homepage/TRVL-default-image_4x3.jpg.rend.hgtvcom.616.462.suffix/1539121995359.jpeg", TRVL
+https://altogether-007.vercel.app/Discovery/api/TRVL_Channel.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/d/d3/%E0%A6%AA%E0%A6%BF%E0%A6%B8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png",Peace tv Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://m1pfxzepyyyj.merlincdn.net/content/Q/k_/169572/logo_50.png?v=638436887129585083",Peace tv English
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqMHzocSRlSU3-YArh9EJ5cRM_ueSsApAWog&s",Peace tv urdu
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO8BwkRbONmFNKxYkCDXaiR8GU8L7EONQ3lpwRrw_WaIqYFWaqr6Jhp_I&s=10",Islam Channel Bangla
+https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
+
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHGvpRJ9lN4D5icvLOGl-Rnxs_91yBRnE3omOst2ffwA&s",Iqra  tv Bangla
+https://pull-cdnw.anystream.uk/live/2da6b413018e100097c37f4200000000/playlist.m3u8
+
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIMsHwdNctyJQ_04j6u4PVg-JthwyhLTWVoQ&usqp=CAU",Deen tv Bangla
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
+
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStglpxxjpfZ0EF38x2L9QHnu6UkWOWchw1Yw&s",Azan Tv
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR7wDS1cl2Yg7fJt42Dzm4qMJATh3wL3gXTSrqNWk7AuLUTUsEUIU96E0I&s=10",EmanChannel
+https://pull-cdnw.anystream.uk/live/251888cb018c1000a1a47e5500000000/playlist.m3u8
+
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTu7EfbUv_wKh1x0GSTVMZUYi3tUCZFiZGeR2QmzZwMuWgsfaw1LcKrTAT&s=10",itv usa
+https://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8
+
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoSBGhSxcx_g8pn4JXCmsEFnD75CiPMdcFtAG5N20bEnEC5eUsTWQSllk&s=10",Taqbeer Tv
+https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
+
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPVmiW9annZUDjqhSrL-jXEw_8SlORcA8aQcdCpNn9VAgqSnSnglkWnd56&s=10",Huda Tv
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9qXUk8hVXEeVGAluHlY2veTVUcfUeyubRtM1NbQQapNT8l_bXx--P9k&s=10",Mercy tv
+https://cdn2.pishow.tv/live/147/master.m3u8
+
+
+
+#EXTINF:-1 group-title="24/7 Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2qokcs5Qt253SegEQFWq8bcR_Tvq0f_4lsFgIgsfuxQ&s", 24/7 Bollywood Movie
+https://iptvcable.netlify.app/Altogether-007/247Channel/BollywoodMovie.m3u8
+
+#EXTINF:-1 group-title="24/7 Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyPrZqyLxCYQr5nzjtlgslgqBgoIsGjYWd8fyhQeUzIANvoLUMe6S3NU4&s=10", Netflix Action
+https://iptvcable.netlify.app/Altogether-007/247Channel/NetflixAction.m3u8
+
+#EXTINF:-1 group-title="24/7 Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyiDWkk7oaPQP4zBaZOAJ5Pd49ycrkifc8jeRxN1FjXCoTseOrPpy1Ux8&s=10", 24/7 Hollywood Movie 1
+https://iptvcable.netlify.app/Altogether-007/247Channel/HollywoodMovie1.m3u8
+
+#EXTINF:-1 group-title="24/7 Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3VYnnWTghMUcVgLBNJ0Z3c4QMxPBHweGJ4DNg0ybSwQ&s", South hindi Dubbed
+https://iptvcable.netlify.app/Altogether-007/247Channel/SouthHindiDubbed.m3u8
+
+#EXTINF:-1 group-title="24/7 Channel" tvg-logo="https://parade.com/.image/t_share/MTkyODQ2ODI2MjcxOTQyMzUy/classic-horror-movie-remakes-the-ring-2002.jpg", Horror Drama(hindi)
+https://iptvcable.netlify.app/Altogether-007/247Channel/HorrorDrama.m3u8
+
+#EXTINF:-1 group-title="24/7 Channel" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/6424239.546c7d15d17d4.jpg", Dubbed turkish drama(urdu 1)
+https://vodzong.mjunoon.tv:8087/streamtest/Urdu1-158-4/playlist.m3u8|referer=https://vodzong.mjunoon.tv:8087//
