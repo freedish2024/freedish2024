@@ -119,7 +119,7 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 #EXTINF:-1 tvg-id="SunnaTV.sa" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/small_879e557011826f507a045b4e0b4c3b57ba93edae.png" ,السنة النبوية
 https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/47/4f/small_64167a679b7b2b43aa0e9549a920b50dc01cd531.png" ,السعودية الآن 
-
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/992
 #EXTINF:-1 tvg-id="" tvg-logo="https://aloula.faulio.com/storage/mediagallery/11/78/small_3b55efbef523c3a6d6e45d8c5a2d28b86bdf4117.png" ,الثقافية
 https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8
 
@@ -1206,10 +1206,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="AlShoub.eg",AlShoub (720p)
 https://alshoobtv.rp.tactivemedia.com/alshoobtv/live/playlist.m3u8
 
-
-
-
-
+#EXTINF:-1,RM ▎RAMADAN PRAYER TIMES 2025
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1611076
+#EXTINF:-1,RM ▎ RAMADAN SONGS 
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1610203
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] MISR QURAN KAREEM HD
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/454782
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] SAUDI QURAN HD
@@ -1246,6 +1246,19 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1036
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1212
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] DAWAAH TV HD
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/72541
+
+#EXTINF:-1,AR ▎AL MAJD SPACE
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/660577
+#EXTINF:-1,AR ▎AL MAJD QURAN
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/660578
+#EXTINF:-1,AR ▎AL MAJD HADEETH
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/660579
+#EXTINF:-1,AR ▎AL MAJD EDU
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/660580
+#EXTINF:-1,Kaif TV (1080p)
+http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/578644
+#EXTINF:-1,Kaif TV (1080p)
+http://line.4k-beast.co:80/D8:E0:E1:64:48:63/2725D1/578649
 
 
 
@@ -1500,6 +1513,16 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/96758
 #EXTINF:-1 group-title="Arab" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alsahraatv.jpg?v=6",Al Sharaa Tv 
 https://ns2.elahmad.com/tv718_www.elahmad.com_alsahraa/index.m3u8?token=be422ff547dd5722cf07a2be87234ceafc29c38a-3ef642de1a0d6105d382d0a5feee5923-1738496186-1738485386
 
+#EXTINF:-1,Art Hekayat
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/102
+#EXTINF:-1,Art Hekayat 2
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/105
+#EXTINF:-1,Art Cinema
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/106
+#EXTINF:-1,Art Aflam 1
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/107
+#EXTINF:-1,Art Aflam 2
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108
 
 
 
@@ -1510,9 +1533,7 @@ https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/2eb1ad0f29984a339bc0fce4ce94dcbb
 #EXTINF:-1 group-title="Arab" tvg-logo="http://www.azrotv.com/iphone/images/ar_jpg/bedayatv.jpg",Bedaya Tv 
 https://shls-live-enc.edgenextcdn.net/out/v1/97427be47b79457b9ca245e22a8db23a/index.m3u8
 #EXTINF:-1 group-title="Arab" tvg-logo="http://www.azrotv.com/iphone/images/ar_jpg/lbcsat.jpg",LBC 
-https://live.kwikmotion.com/rlbclive/rlbc.smil/rlbcpublish/rlbc_source/hdntl=exp=1738480124~acl=%2frlbclive%2frlbc.smil%2f*~data=hdntl~hmac=21e8386d18415f72d74c20bc1605195582d1f4151b2f30ca5cd1bf22ecd7dfb0/chunks.m3u8
-
-
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/34067
 
 
 
@@ -2430,309 +2451,6 @@ http://ktv.im:8080/vZLVqaZqmE/uTfWGYyzU3/71259
 http://ktv.im:8080/vZLVqaZqmE/uTfWGYyzU3/71265
 #EXTINF:-1,M Mixm 
 http://89.179.247.144/hls/mixm.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] MISR QURAN KAREEM HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/454782
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] SAUDI QURAN HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1024
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] SAUDI QURAN FHD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/72518
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] SAUDI SUNNAH HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/90433
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] SAUDI SUNNAH HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1025
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] IQRAA HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1023
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] RESALA HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/34066
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL RAHMA TV
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1027
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] MECCA TV HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1031
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] BIN OUTHAYMINE HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/3889
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] TANASOH HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/3895
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] SAFA HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/3888
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL RESALA HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1030
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] MTA AL ARABIA HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1034
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] MTA WORLD TV  HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1035
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL HAQIQA HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1036
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL SIRAT HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1212
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] DAWAAH TV HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/72541
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] QURAN TV HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191378
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL ERTH NABAWI HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191375
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] MAKKAH TV  HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191374
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] DUAA TV  HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191371
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL FATEH QURAN HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191369
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] ALMAHDI TV HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191367
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL ISTIQAMA  HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191365
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL ZAHRA TV HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191364
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] SALAAM TV HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191357
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] ALIMAN TV HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191356
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] ALFATH SONA  HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191353
-
-
-
-#EXTINF:-1 group-title="Arab" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-thaqafeya-sa.png",Al Thaqafeya
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446004
-#EXTINF:-1,Arab  
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446005
-#EXTINF:-1,Aflam Comedy
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446009
-#EXTINF:-1,Drama turkis
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446014
-#EXTINF:-1,Bollywood
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446015
-#EXTINF:-1,Desi play
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446017
-#EXTINF:-1,Freej
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446018
-#EXTINF:-1,Al Hayba
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446020
-#EXTINF:-1,Omar
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446023
-#EXTINF:-1,Till death
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446024
-#EXTINF:-1,Arous beirut 
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446025
-#EXTINF:-1,Stiletto
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446026
-#EXTINF:-1,West al Balad
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446028
-#EXTINF:-1, Al Meerath
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446030
-#EXTINF:-1,Ragel we set settal
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446031
-#EXTINF:-1,Farid
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446036
-#EXTINF:-1 group-title="Arab" tvg-logo="http://www.azrotv.com/iphone/images/ar_jpg/wifitv.jpg",Wifi Tv
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446034
-EXTINF:-1 group-title="Arab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCCY8hF50d-V4KsdeXEPNg6vCmzTcyG3fPxivM8S3RoI1_fDIgRK7uzFL-&s=10",Aflam
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446007
-#EXTINF:-1 group-title="Arab" tvg-logo="https://nowmelive.com/wp-content/uploads/2023/08/movies.webp",Movies
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446010
-#EXTINF:-1 group-title="Arab" tvg-logo="https://nowmelive.com/wp-content/uploads/2024/07/moviesaction.webp",Movies Action
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446013
-#EXTINF:-1 group-title="Arab" tvg-logo="https://nowmelive.com/wp-content/uploads/2024/07/mthriller.webp",Movies Thriller
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446012
-#EXTINF:-1 group-title="Arab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8xi_x_mpc3w5VRdZ0z8-qd5m7_fwuAPR4vA&s",Ahla Ma Tash
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446042
-#EXTINF:-1 group-title="Arab" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Al-Kabeer/original/thump_Al-Kabeer.jpg?height=253&width=450&croppingPoint=&version=1&type=webp&q=10",Al Kabeer Awi
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446029
-#EXTINF:-1 group-title="Arab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzPE5ZjAs8f9X2cQiFSXeY-tEvdseSz3pgUQ&usqp=CAU",Tasa
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446032
-#EXTINF:-1 group-title="Arab" tvg-logo="https://shahid.mbc.net/mediaObject/2024/AMR-EID/untitled/LogoEN_Alabqari/original/LogoEN_Alabqari.png?version=1&type=webp",Al Abqari
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446035
-#EXTINF:-1,Al Leaba
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446027
-#EXTINF:-1,Bab Al Ha#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] MISR QURAN KAREEM HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/454782
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] SAUDI QURAN HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1024
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] SAUDI QURAN FHD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/72518
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] SAUDI SUNNAH HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/90433
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] SAUDI SUNNAH HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1025
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] IQRAA HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1023
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] RESALA HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/34066
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL RAHMA TV
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1027
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] MECCA TV HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1031
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] BIN OUTHAYMINE HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/3889
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] TANASOH HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/3895
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] SAFA HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/3888
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL RESALA HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1030
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] MTA AL ARABIA HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1034
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] MTA WORLD TV  HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1035
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL HAQIQA HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1036
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL SIRAT HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1212
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] DAWAAH TV HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/72541
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] QURAN TV HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191378
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL ERTH NABAWI HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191375
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] MAKKAH TV  HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191374
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] DUAA TV  HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191371
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL FATEH QURAN HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191369
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] ALMAHDI TV HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191367
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL ISTIQAMA  HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191365
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL ZAHRA TV HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191364
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] SALAAM TV HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191357
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] ALIMAN TV HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191356
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] ALFATH SONA  HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191353
-
-
-
-#EXTINF:-1 group-title="Arab" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-thaqafeya-sa.png",Al Thaqafeya
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446004
-#EXTINF:-1,Arab  
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446005
-#EXTINF:-1,Aflam Comedy
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446009
-#EXTINF:-1,Drama turkis
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446014
-#EXTINF:-1,Bollywood
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446015
-#EXTINF:-1,Desi play
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446017
-#EXTINF:-1,Freej
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446018
-#EXTINF:-1,Al Hayba
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446020
-#EXTINF:-1,Omar
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446023
-#EXTINF:-1,Till death
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446024
-#EXTINF:-1,Arous beirut 
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446025
-#EXTINF:-1,Stiletto
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446026
-#EXTINF:-1,West al Balad
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446028
-#EXTINF:-1, Al Meerath
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446030
-#EXTINF:-1,Ragel we set settal
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446031
-#EXTINF:-1,Farid
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446036
-#EXTINF:-1 group-title="Arab" tvg-logo="http://www.azrotv.com/iphone/images/ar_jpg/wifitv.jpg",Wifi Tv
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446034
-EXTINF:-1 group-title="Arab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCCY8hF50d-V4KsdeXEPNg6vCmzTcyG3fPxivM8S3RoI1_fDIgRK7uzFL-&s=10",Aflam
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446007
-#EXTINF:-1 group-title="Arab" tvg-logo="https://nowmelive.com/wp-content/uploads/2023/08/movies.webp",Movies
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446010
-#EXTINF:-1 group-title="Arab" tvg-logo="https://nowmelive.com/wp-content/uploads/2024/07/moviesaction.webp",Movies Action
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446013
-#EXTINF:-1 group-title="Arab" tvg-logo="https://nowmelive.com/wp-content/uploads/2024/07/mthriller.webp",Movies Thriller
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446012
-#EXTINF:-1 group-title="Arab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8xi_x_mpc3w5VRdZ0z8-qd5m7_fwuAPR4vA&s",Ahla Ma Tash
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446042
-#EXTINF:-1 group-title="Arab" tvg-logo="https://shahid.mbc.net/mediaObject/2023/AmrAhmed/Aug/thump_Al-Kabeer/original/thump_Al-Kabeer.jpg?height=253&width=450&croppingPoint=&version=1&type=webp&q=10",Al Kabeer Awi
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446029
-#EXTINF:-1 group-title="Arab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzPE5ZjAs8f9X2cQiFSXeY-tEvdseSz3pgUQ&usqp=CAU",Tasa
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446032
-#EXTINF:-1 group-title="Arab" tvg-logo="https://shahid.mbc.net/mediaObject/2024/AMR-EID/untitled/LogoEN_Alabqari/original/LogoEN_Alabqari.png?version=1&type=webp",Al Abqari
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446035
-#EXTINF:-1,Al Leaba
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446027
-#EXTINF:-1,Bab Al Hara
-
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446021
-#EXTINF:-1 group-title="Arab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ1INKGofCgHsqagACXEr0RrG2TffhnsoGBQ&s",Masrah Masr
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446019
-#EXTINF:-1 group-title="Arab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVrT-gLfKPebbHhaJP-7jMHeQudUc1REHdOg&s",Selfie
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446033
-#EXTINF:-1,Otroq babi
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446037
-#EXTINF:-1,Al hufra
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446038
-#EXTINF:-1,Kosal khoul
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446039
-#EXTINF:-1,Al zaeem
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446040
-#EXTINF:-1,Al Ostoura
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446041
-#EXTINF:-1,Elham ali 
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446043
-#EXTINF:-1,Alliqa min alsifr
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446044
-#EXTINF:-1,Naseral Al Qassaby
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446045
-#EXTINF:-1,Ghumud
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446048
-#EXTINF:-1,Nature Time
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446054
-#EXTINF:-1,Atfaal
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446061
-#EXTINF:-1,Wwe
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446060
-#EXTINF:-1,Top Chef
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446049
-#EXTINF:-1,Top Chef 2
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446050
-#EXTINF:-1,25 Soal
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446052
-#EXTINF:-1,Top Gear
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446051
-#EXTINF:-1 group-title="Arab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLhy3oSRQ8q8pAtQpPCNnxNkPCVTtws_Llkw&s",Maraya
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446022
-#EXTINF:-1,Rashed Al zmajed
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446058
-#EXTINF:-1,Muhammad Abdo
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446057
-#EXTINF:-1,Abd Ulmajeed Abdulla 
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446059
-#EXTINF:-1 group-title="Arab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGkc7OrzQ3yyzO66WoV3flDB4bMzoVjGRGZmTnNB8co01d3936-BELUoJd&s=10",Big Time
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446056
-#EXTINF:-1,Shahid Clip
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446074
-#EXTINF:-1,Chada FM
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/110150
-#EXTINF:-1 group-title="Arab" tvg-logo="https://vipotv.com/wp-content/uploads/2022/05/rotan-music-live-vipotv-saudi-arabia.png",Rotana music
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/110153
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [MUSIC] ROTANA KHALIJIA HD 
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/110152
-#EXTINF:-1,Rotana Clip
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/110154
-#EXTINF:-1,Wanasah Tv 
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/110156
-#EXTINF:-1,Mazzika
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/110157
-#EXTINF:-1,Nogoum FM Tv 
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/110163
-#EXTINF:-1,Free Tv Music
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/110164
-#EXTINF:-1,Arabica HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/110167
-#EXTINF:-1,Roya music
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1446222
 #EXTINF:-1,Nogoum Fm Tv
 https://nogoumtv.nrpstream.com/hls/stream.m3u8?cachebust=d85da1f6
 #EXTINF:-1,Al Jamal Tv
@@ -2741,8 +2459,7 @@ https://aljamaltv.net/hls/aljamaltv.m3u8
 https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8
 #EXTINF:-1,Navahang
 https://hls.navahang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [LB] ONE TV HD 
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/73584
+
 
 
 
@@ -2880,50 +2597,7 @@ http://vip.ates81.com:2095/live/221122mvLt/zHbLQq584fW3/168420.m3u
 http://vip.ates81.com:2095/live/221122mvLt/zHbLQq584fW3/168084.m3u
 
 
-#EXTINF:-1,Iqraan  (1080p)
-http://zeintv.xyz:8080/Yaser123/Yaser123/453
-#EXTINF:-1,Al Resala
-http://zeintv.xyz:8080/Yaser123/Yaser123/454
-#EXTINF:-1,Al Rahma
-http://zeintv.xyz:8080/Yaser123/Yaser123/455
-#EXTINF:-1,Al Nas
-http://zeintv.xyz:8080/Yaser123/Yaser123/456
-#EXTINF:-1,Bin Othman
-http://zeintv.xyz:8080/Yaser123/Yaser123/459
-#EXTINF:-1,Bharian Quran
-http://zeintv.xyz:8080/Yaser123/Yaser123/464
-#EXTINF:-1,Al Anis Tv
-http://zeintv.xyz:8080/Yaser123/Yaser123/469
-#EXTINF:-1,Alerth Alnbawi
-http://zeintv.xyz:8080/Yaser123/Yaser123/470
-#EXTINF:-1,Al Fateh Sunnah
-http://zeintv.xyz:8080/Yaser123/Yaser123/471
-#EXTINF:-1,Al An war
-http://zeintv.xyz:8080/Yaser123/Yaser123/465
-#EXTINF:-1,Al Ons
-http://zeintv.xyz:8080/Yaser123/Yaser123/475
-#EXTINF:-1,Tanasus Tv
-http://zeintv.xyz:8080/Yaser123/Yaser123/477
-#EXTINF:-1,Alnacem Tv
-http://zeintv.xyz:8080/Yaser123/Yaser123/479
-#EXTINF:-1,Safa
-http://zeintv.xyz:8080/Yaser123/Yaser123/480
-#EXTINF:-1,Al Qamar
-http://zeintv.xyz:8080/Yaser123/Yaser123/481
-#EXTINF:-1,Al Salam
-http://zeintv.xyz:8080/Yaser123/Yaser123/483
-#EXTINF:-1 Mdeeh Plus
-http://zeintv.xyz:8080/Yaser123/Yaser123/487
-#EXTINF:-1,El Eiman Tv
-http://zeintv.xyz:8080/Yaser123/Yaser123/488
-#EXTINF:-1,Al Istiqama
-http://zeintv.xyz:8080/Yaser123/Yaser123/497
-#EXTINF:-1,Awhad 
-http://zeintv.xyz:8080/Yaser123/Yaser123/498
-#EXTINF:-1,Al Masref
-http://zeintv.xyz:8080/Yaser123/Yaser123/499
-#EXTINF:-1,Islam
-http://zeintv.xyz:8080/Yaser123/Yaser123/59864
+
 
 
 #EXTINF:-1,Abalfadhl Tv
@@ -2946,174 +2620,15 @@ https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 
 
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  ISLAM- Saudi Ch. For Quran
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938539
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam  Saudia Sunna HD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938540
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Iqraa TV
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938564
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Makkah LIVE HD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938553
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Iqraa ENG
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938565
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Misr Quran Kareem
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938534
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Al Rahma
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938547
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Al Resalah
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938548
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam  ISLAMIC BROADCASTING NETWORK
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938536
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Al EsteQama
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938541
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam  Tayba TV
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938544
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Al Nas TV
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938546
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Al Wilaya
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938551
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Al-Islam
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938552
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Channel Urdu Pk
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938554
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Justflix Islam HD
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938559
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Iqraa Bangla
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938563
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam LIFE Islam
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938566
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Peace TV
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938569
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Safa TV
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938572
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Zad
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938573
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Al Anis
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938574
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Al-Afasy TV
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938535
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Al Anwar 1
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938537
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Al Anwar 2
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938538
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Al Kawthar
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938542
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Al Maaref TV
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938543
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Al Maaref
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938545
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Al Sirat
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938549
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Al Thaqalayn
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938550
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Hadi 1 TV
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938555
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Hadi 2 TV
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938556
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  ISlam Hadi 3 TV
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938557
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Hadi 4 TV
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938558
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Noble TV
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938567
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Noor TV
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938568
-#EXTINF:0 tvg-id="ext" group-title="AR- ISLAM اسلام",AR-  Islam Qaf TV
-http://play-plus.net:80/lwr8kmj925/i5ai8pvvtr/938571
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] MISR QURAN KAREEM HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/454782
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] SAUDI QURAN HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1024
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] SAUDI QURAN FHD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/72518
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] SAUDI SUNNAH HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/90433
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] SAUDI SUNNAH HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1025
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] IQRAA HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1023
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] RESALA HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/34066
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL RAHMA TV
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1027
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] MECCA TV HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1031
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] BIN OUTHAYMINE HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/3889
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] TANASOH HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/3895
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] SAFA HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/3888
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL RESALA HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1030
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] MTA AL ARABIA HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1034
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] MTA WORLD TV  HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1035
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL HAQIQA HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1036
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL SIRAT HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/1212
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] DAWAAH TV HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/72541
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] QURAN TV HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191378
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL ERTH NABAWI HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191375
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] MAKKAH TV  HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191374
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] DUAA TV  HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191371
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL FATEH QURAN HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191369
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] ALMAHDI TV HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191367
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL ISTIQAMA  HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191365
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] AL ZAHRA TV HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191364
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] SALAAM TV HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191357
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] ALIMAN TV HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191356
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", [AR] ALFATH SONA  HD
-http://line.4k-beast.co:80/70:2A:D5:6E:55:52/4CC77F/191353
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/26ym5h8w/image_81.jpg",Hoora TV
-http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/5591
-
-#EXTINF:-1 group-title="BANGLADESH"tvg-logo="http://flix.bdtype.com/uploads/tv_image/al-dawah-tv.png",Al Dawah Tv
-https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dawah-eu.stream/playlist.m3u8|Referer=https://livess.ncare.live//&key=BDStreamHub
 
 
 #EXTINF:-1 group-title="BANGLADESH"tvg-logo="http://flix.bdtype.com/uploads/tv_image/al-dawah-tv.png",Al Dawah Tv
@@ -3201,7 +2716,9 @@ https://4gradgmttgwzdecjq8y5y.ourdvsssvip.com/pull-cdnw.anystream.uk/live/2dac68
 #EXTINF:-0 tvg-logo="https://assets.peacetv.tv/images/intro/en-logo.png",Peace TV English
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8?sid=AovZo0Pda0uHNhFXhb22zw
 #EXTINF:-1 tvg-id="" tvg-name="IS: Dua Channel" tvg-link="" tvg-logo="" group-title="ISLAMIC CHANNELS" ,IS: Dua Channel
-http://tv.indigotv.me:80/live.ts?channelId=37317&uid=7245&deviceMac=00:1A:79:4A:02:91
+http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/578649
+#EXTINF:-1,Kaif TV (1080p)
+http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/578644
 #EXTINF:-1 tvg-id="" tvg-name="IS: Islam Channel English" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/8b5eae16.png" group-title="ISLAMIC CHANNELS" ,IS: Islam Channel English
 https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IS: Islam Channel Urdu" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/3d81fade" group-title="ISLAMIC CHANNELS" ,IS: Islam Channel Urdu
@@ -3210,49 +2727,22 @@ https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
 #EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰" tvg-logo="https://i.postimg.cc/0NGTJkJw/image.jpg",𝙄'𝙢 𝙖 𝙈𝙪𝙨𝙡𝙞𝙢
 https://utube.buddyxiptv.com/@iamamuslim.m3u8
-#EXTINF:-1 group-title="DATA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Islam_Channel_Logo_COLOUR.png",Islam TV
-https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/islamtv.stream/playlist.m3u8?wmsAuthSign=
+#EXTINF:-1,Pon TV (1080p)
+https://63b2dc7196c38.streamlock.net/PONTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1,Quraan 24/7 
+https://streamcdn2.nayeem-parvez.workers.dev/quraan-24/7/index.m3u8
+
+
 
 #EXTINF:-1,Qaf TV (1080p)
 https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
-#EXTINF:-1,Al Rahma tv
-http://sansat.net:88/02028278886959/1701849580/7270
-#EXTINF:-1,Bin outhaymine
-http://sansat.net:88/02028278886959/1701849580/50001
-#EXTINF:-1,Tanasoh
-http://sansat.net:88/02028278886959/1701849580/638297
+#EXTINF:-1,Kaif TV (1080p)
+http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/578644
 
 
 
 
-#EXTINF:-1,Safa
-http://sansat.net:88/02028278886959/1701849580/50002
-#EXTINF:-1,Kaifa
-http://filex.tv:8080/03219869954/8774343AbC/296122
-#EXTINF:-1,Dawaah Tv
-http://sansat.net:88/02028278886959/1701849580/50003
-#EXTINF:-1,Al Mahdi Tv
-http://sansat.net:88/02028278886959/1701849580/638300
-#EXTINF:-1,Al Zahra Tv
-http://sansat.net:88/02028278886959/1701849580/638304
-#EXTINF:-1,Al Istiqama
-http://sansat.net:88/02028278886959/1701849580/638305
-#EXTINF:-1,Al sirat
-http://sansat.net:88/02028278886959/1701849580/7258
-#EXTINF:-1,Al Nas
-http://sansat.net:88/02028278886959/1701849580/28300
-#EXTINF:-1,Al Majd Quran
-http://sansat.net:88/02028278886959/1701849580/618763
-#EXTINF:-1,Al Majd Hadeeth
-http://sansat.net:88/02028278886959/1701849580/618795
-#EXTINF:-1,Al Majd Quran
-http://xtv.ooo:8080/52882216/581881255/103657
-#EXTINF:-1,Al Majd Quran
-http://xtv.ooo:8080/52882216/581881255/353509
-#EXTINF:-1,Al Majd Hadeeth
-http://xtv.ooo:8080/52882216/581881255/353508
-#EXTINF:-1,Al Majd Quran
-http://xtv.ooo:8080/52882216/581881255/103657
+
 #EXTINF:-1,https://watch.toughprotection.com/uploads/tv_image/sm/pooya-and-nahal-kids.png
 https://stream.wpbond.com/live/pooya.m3u8
 #EXTINF:-1,https://watch.toughprotection.com/uploads/tv_image/sm/al-wilayah-arabic.png
@@ -3945,15 +3435,16 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglaplushd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/samaykolkata-768x768.jpg",Samay Kolkata
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/samaykolkata.stream/playlist.m3u8
-#EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/Z51VChst/IMG-20240308-055223.jpg",Bangla+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/04/TIMES-24-TV.jpg?x67896",Times 24 Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/times24tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/ibtv-768x768.jpg",IB TV USA
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ibtvus.stream/playlist.m3u8
 #EXTINF:-1 group-title="PROBASHI BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMlrgKcsKrh2fus_sXBQT1vfPbi2wY3CtClRZbKbBF2g49RMT9ZKW5D2E9SOEN6uQAUyjpby9nxqNhqPpo2ujXVl25cJMLhRpebWfLIhvQPAVjjxkihk8Unk_RZaqxYYWXhpck_3bfm8b8ym-DmE29462NO4aMQFMOv6v4fftOh3FIGewTLDwgj9Z6mto/s320/LogoWiz_07022025_033725%5B1%5D.JPEG" ,VISION HD BDIX
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/visionhd.stream/playlist.m3u8
-
-
-
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/03/sadhinbangla.jpg",Sadign  Bangla tv 
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/sadhinbangla.stream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/04/TIMES-24-TV.jpg?x67896",Times 24 Tv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/times24tv.stream/playlist.m3u8
 
 
 
@@ -4885,7 +4376,14 @@ http://xtv.ooo:8080/213112/213112/3894226
 
 
 
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/04/TIMES-24-TV.jpg?x67896",Times 24 Tv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/times24tv.stream/playlist.m3u8
 
+
+
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/04/TIMES-24-TV.jpg?x67896",Times 24 Tv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/times24tv.stream/playlist.m3u8
 
 
 
@@ -6707,7 +6205,7 @@ http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2776.t
 #EXTINF:-1 tvg-id="ts114" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Hindi;Animation;Kids;Cartoons",Disney 
 http://119.156.26.155:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="ts114" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Hindi;Animation;Kids;Cartoons",Disney 
-http://on.deflix.xyz:8880/live/hasan19/hasan1519/3360.ts
+https://fifabd.site/JIOBE/play.m3u8?id=1091
 #EXTINF:-1 tvg-id="ts114" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Hindi;Animation;Kids;Cartoons",Disney
 https://tp.yg048.workers.dev/ch/114.m3u8
 #EXTINF:-1 tvg-id="ts114" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Hindi;Animation;Kids;Cartoons",Disney
@@ -6813,34 +6311,114 @@ http://xtv.ooo:8080/213112/213112/388459
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?&token=demo
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png",Sony Yay
 https://otttv.co.in/d2h/livestream/sony-yay/master.m3u8
-#EXTINF:-1,hungama tv-Rs 1
-http://14.102.123.50:6969/play/a05u
-#EXTINF:-1,nick - Rs 6
-http://14.102.123.50:6969/play/a05w
-#EXTINF:-1,nick HD+- Rs 10
-http://14.102.123.50:6969/play/a05i
-#EXTINF:-1,CHUMBAK TV
-http://14.102.123.50:6969/play/a0mj
-#EXTINF:-1,Disney Jr.-Rs 4
-http://14.102.123.50:6969/play/a05y
-#EXTINF:-1,Disney-Rs 10
-http://14.102.123.50:6969/play/a05v
-#EXTINF:-1,ETV Bal Bharat-Rs4
-http://14.102.123.50:6969/play/a0jc
-#EXTINF:-1,Discovery Kids-Rs3.50
-http://14.102.123.50:6969/play/a064
-#EXTINF:-1,Manoranjan TV
-http://14.102.123.50:6969/play/a0m9
-#EXTINF:-1,MANORANJAN GRAND
-http://14.102.123.50:6969/play/a0lk
-#EXTINF:-1,Nick Jr.- Rs 1
-http://14.102.123.50:6969/play/a063
-#EXTINF:-1,SONIC- Rs 2
-http://14.102.123.50:6969/play/a05z
-#EXTINF:-1,Super Hungama- Rs 4
-http://14.102.123.50:6969/play/a0jj
-#EXTINF:-1,THE Q
-http://14.102.123.50:6969/play/a0lz
+
+
+
+#EXTINF:-1,Disney Channel
+https://fifabd.site/JIOBE/play.m3u8?id=1091
+#EXTINF:-1,Disney Channel hd
+https://fifabd.site/JIOBE/play.m3u8?id=1097
+#EXTINF:-1,Disney Channel Inter
+https://fifabd.site/JIOBE/play.m3u8?id=1110
+#EXTINF:-1,Etv bal varot
+https://fifabd.site/JIOBE/play.m3u8?id=1138
+#EXTINF:-1,Cartoon Network india
+https://fifabd.site/JIOBE/play.m3u8?id=1115
+#EXTINF:-1,DISNEY JR HD
+https://fifabd.site/JIOBE/play.m3u8?id=1092
+#EXTINF:-1,n
+https://fifabd.site/JIOBE/play.m3u8?id=1140
+#EXTINF:-1,NI
+https://fifabd.site/JIOBE/play.m3u8?id=1141
+#EXTINF:-1,Bo
+https://fifabd.site/JIOBE/play.m3u8?id=1143
+#EXTINF:-1,CB
+https://fifabd.site/JIOBE/play.m3u8?id=1148
+#EXTINF:-1,BBC 
+https://fifabd.site/JIOBE/play.m3u8?id=1149
+#EXTINF:-1,CA
+https://fifabd.site/JIOBE/play.m3u8?id=1131
+#EXTINF:-1,BABY TV
+https://fifabd.site/JIOBE/play.m3u8?id=1100
+#EXTINF:-1,bv
+https://fifabd.site/JIOBE/play.m3u8?id=1132
+#EXTINF:-1,gg
+https://fifabd.site/JIOBE/play.m3u8?id=1133
+#EXTINF:-1,Disney XD
+https://fifabd.site/JIOBE/play.m3u8?id=1101
+#EXTINF:-1,DI
+https://fifabd.site/JIOBE/play.m3u8?id=1134
+#EXTINF:-1,NICKtoons
+https://fifabd.site/JIOBE/play.m3u8?id=1112
+#EXTINF:-1,Hg
+https://fifabd.site/JIOBE/play.m3u8?id=1120
+#EXTINF:-1,NI
+https://fifabd.site/JIOBE/play.m3u8?id=1121
+#EXTINF:-1,PO
+https://fifabd.site/JIOBE/play.m3u8?id=1122
+#EXTINF:-1,Pv
+https://fifabd.site/JIOBE/play.m3u8?id=1123
+#EXTINF:-1,Di
+https://fifabd.site/JIOBE/play.m3u8?id=1125
+#EXTINF:-1,PO
+https://fifabd.site/JIOBE/play.m3u8?id=1126
+#EXTINF:-1,IE: RT
+https://fifabd.site/JIOBE/play.m3u8?id=1127
+#EXTINF:-1,IN: NICK HD+
+https://fifabd.site/JIOBE/play.m3u8?id=1129
+#EXTINF:-1,Ni
+https://fifabd.site/JIOBE/play.m3u8?id=1119
+#EXTINF:-1,WO
+https://fifabd.site/JIOBE/play.m3u8?id=1118
+#EXTINF:-1,So
+https://fifabd.site/JIOBE/play.m3u8?id=1117
+#EXTINF:-1,Dis
+https://fifabd.site/JIOBE/play.m3u8?id=1116
+#EXTINF:-1,NI
+https://fifabd.site/JIOBE/play.m3u8?id=1111
+#EXTINF:-1,PO
+https://fifabd.site/JIOBE/play.m3u8?id=1104
+#EXTINF:-1,SON
+https://fifabd.site/JIOBE/play.m3u8?id=1105
+#EXTINF:-1,CN
+https://fifabd.site/JIOBE/play.m3u8?id=1106
+#EXTINF:-1,Spa
+https://fifabd.site/JIOBE/play.m3u8?id=1107
+#EXTINF:-1,Ro
+https://fifabd.site/JIOBE/play.m3u8?id=1108
+#EXTINF:-1,Car
+https://fifabd.site/JIOBE/play.m3u8?id=1109
+#EXTINF:-1,Mbc 3
+https://fifabd.site/JIOBE/play.m3u8?id=1098
+#EXTINF:-1,D
+https://fifabd.site/JIOBE/play.m3u8?id=1099
+#EXTINF:-1,DI
+https://fifabd.site/JIOBE/play.m3u8?id=1095
+#EXTINF:-1,NICKtoons
+https://fifabd.site/JIOBE/play.m3u8?id=1094
+#EXTINF:-1,Hg
+https://fifabd.site/JIOBE/play.m3u8?id=1093
+#EXTINF:-1,NI
+https://fifabd.site/JIOBE/play.m3u8?id=1090
+#EXTINF:-1,PO
+https://fifabd.site/JIOBE/play.m3u8?id=1082
+#EXTINF:-1,Pv
+https://fifabd.site/JIOBE/play.m3u8?id=1084
+#EXTINF:-1,Di
+https://fifabd.site/JIOBE/play.m3u8?id=1085
+#EXTINF:-1,PO
+https://fifabd.site/JIOBE/play.m3u8?id=1087
+#EXTINF:-1,IE: RT
+https://fifabd.site/JIOBE/play.m3u8?id=1089
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="cartoon-tv-classics" tvg-name="CARTOON TV CLASSICS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/cartoon_classics_512X512_balck.png" tvg-language="ENG" group-title="ENT",CARTOON TV CLASSICS 
 https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
@@ -7523,8 +7101,8 @@ https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/inde
 #EXTINF:-1 tvg-id="" tvg-logo="https://qanawat.taghtia.com/assets/channels/atfal-wa-mawahib.png" ,أطفال و مواهب 
 https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 
-
-
+#EXTINF:-1,RM ▎ KIDS
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1610229
 #EXTINF:-1 group-title="Arab" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/almajd/taghreed.jpg?v=6",Al Maj Taghred
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/660585
 #EXTINF:-1 group-title="Arab" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atfal-and-mawaheb-sa.png",Atfal And Mawaheb
@@ -7553,7 +7131,14 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1445991
 #EXTINF:-1 group-title="Arab" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6xz2FOarj8mxh7xNj9CJVaQ2C7gYPuozDNJ9TLwE3JK3oYU6fSFHC-pw&s=10",Mbc Toon 
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1445992
 
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1445920
+#EXTINF:-1,AR ▎AL MAJD BASMA
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/660583
+#EXTINF:-1,AR ▎AL MAJD RAWDA 
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/660587
+#EXTINF:-1,AR ▎AL MAJD KIDS 
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/660589
+
+
 
 #EXTINF:-1 group-title="Arab" tvg-logo="https://royakids.tv/gallery/logo1.png",Roya Kids 
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1446254
