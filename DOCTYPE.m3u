@@ -1,0 +1,475 @@
+#EXTM3U
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+  window.location.href = "https://t.me/bdixtv_official"
+  // setTimeout(function() {
+  //   window.location.href = "https://t.me/HTLivesm3u";
+  // }, 0.1); // 3000ms = 3 seconds
+</script>
+
+</head>
+<body>
+    <div class="loader">
+       <span></span>
+       <span></span> 
+       <span></span>
+       <span></span>
+    </div>
+</body>
+</html>
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5gVjqSh0/Red-Abstract-Live-Stream-Free-Logo-20250309-192127-0002.png" group-title="𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠", t.me/bdixtv_official
+https://bdixtv.short.gy/bdixtv_official.m3u8
+#EXTINF:-1 tvg-ID="zeeaction.in" tvg-name="HINDI &#9614;ZEE ACTION &#9673; rec" tvg-logo="https://img.logo-cdn.cc/zeeaction.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ZEE ACTION &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/109165
+#EXTINF:-1 tvg-ID="zeetv.in" tvg-name="HINDI &#9614;ZEE TV HD &#9673; rec" tvg-logo="https://img.logo-cdn.cc/zeetv.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ZEE TV HD &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/63561
+#EXTINF:-1 tvg-ID="zeecinema.in" tvg-name="HINDI &#9614;ZEE CINEMA HD &#9673; rec" tvg-logo="https://img.logo-cdn.cc/zeecinema.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ZEE CINEMA HD &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/63581
+#EXTINF:-1 tvg-ID="zeeclassic.in" tvg-name="HINDI &#9614;ZEE CLASSICS &#9673; rec" tvg-logo="https://img.logo-cdn.cc/zeeclassics.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ZEE CLASSICS &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/452279
+#EXTINF:-1 tvg-ID="zing.in" tvg-name="HINDI &#9614;ZING" tvg-logo="https://img.logo-cdn.cc/zing.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ZING
+http://line.ultrab.xyz:80/ZeeALI1/465841/63435
+#EXTINF:-1 tvg-ID="starbharat.in" tvg-name="HINDI &#9614;STAR BHARAT HD &#9673; rec" tvg-logo="https://img.logo-cdn.cc/starbharat.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;STAR BHARAT HD &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/63484
+#EXTINF:-1 tvg-ID="stargold.in" tvg-name="HINDI &#9614;STAR GOLD HD &#9673; rec" tvg-logo="https://img.logo-cdn.cc/stargold.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;STAR GOLD HD &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/63565
+#EXTINF:-1 tvg-ID="stargoldselect.in" tvg-name="HINDI &#9614;STAR GOLD SELECT HD &#9673; rec" tvg-logo="https://img.logo-cdn.cc/stargold.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;STAR GOLD SELECT HD &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/63564
+#EXTINF:-1 tvg-ID="starplus.in" tvg-name="HINDI &#9614;STAR PLUS HD &#9673; rec" tvg-logo="https://img.logo-cdn.cc/starplus.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;STAR PLUS HD &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/63563
+#EXTINF:-1 tvg-ID="starutsav.in" tvg-name="HINDI &#9614;STAR UTSAV &#9673; rec" tvg-logo="https://img.logo-cdn.cc/starutsav.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;STAR UTSAV &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/63428
+#EXTINF:-1 tvg-ID="starutsavmovies.in" tvg-name="HINDI &#9614;STAR UTSAV MOVIES &#9673; rec" tvg-logo="https://img.logo-cdn.cc/starutsav.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;STAR UTSAV MOVIES &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/63376
+#EXTINF:-1 tvg-ID="sony.in" tvg-name="HINDI &#9614;SONY HD &#9673; rec" tvg-logo="https://img.logo-cdn.cc/sony.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SONY HD &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/63588
+#EXTINF:-1 tvg-ID="sonymax.in" tvg-name="HINDI &#9614;SONY MAX HD &#9673; rec" tvg-logo="https://img.logo-cdn.cc/sonymax.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SONY MAX HD &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/63568
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;SONY MAX 2 &#9673; rec" tvg-logo="https://img.logo-cdn.cc/sonymax2.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SONY MAX 2 &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/109166
+#EXTINF:-1 tvg-ID="sonypix.in" tvg-name="HINDI &#9614;SONY PIX HD &#9673; rec" tvg-logo="https://img.logo-cdn.cc/sonypix.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SONY PIX HD &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/63582
+#EXTINF:-1 tvg-ID="sonybbcearth.in" tvg-name="HINDI &#9614;SONY BBC EARTH HD" tvg-logo="https://img.logo-cdn.cc/sonybbcearth.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SONY BBC EARTH HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/63583
+#EXTINF:-1 tvg-ID="sonysab.in" tvg-name="HINDI &#9614;SONY SAB HD &#9673; rec" tvg-logo="https://img.logo-cdn.cc/sonysab.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SONY SAB HD &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/63566
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;SONY PAL" tvg-logo="https://img.logo-cdn.cc/sonypal.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SONY PAL
+http://line.ultrab.xyz:80/ZeeALI1/465841/97824
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;SONY WAH" tvg-logo="https://img.logo-cdn.cc/sonywah.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SONY WAH
+http://line.ultrab.xyz:80/ZeeALI1/465841/97826
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;SONY YAY" tvg-logo="https://img.logo-cdn.cc/sonyyay.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SONY YAY
+http://line.ultrab.xyz:80/ZeeALI1/465841/97825
+#EXTINF:-1 tvg-ID="b4umovies.in" tvg-name="HINDI &#9614;B4U MOVIES &#9673; rec" tvg-logo="https://img.logo-cdn.cc/b4umovies.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;B4U MOVIES &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/63424
+#EXTINF:-1 tvg-ID="colors.in" tvg-name="HINDI &#9614;COLORS HD &#9673; rec" tvg-logo="https://img.logo-cdn.cc/colors.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;COLORS HD &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/63576
+#EXTINF:-1 tvg-ID="9xjalwa.in" tvg-name="HINDI &#9614;9X JALWA" tvg-logo="https://img.logo-cdn.cc/9xjalwa.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;9X JALWA
+http://line.ultrab.xyz:80/ZeeALI1/465841/63426
+#EXTINF:-1 tvg-ID="aajtak.in" tvg-name="HINDI &#9614;AAJ TAK HD" tvg-logo="https://img.logo-cdn.cc/aajtak.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;AAJ TAK HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/63298
+#EXTINF:-1 tvg-ID="aajtak.in" tvg-name="HINDI &#9614;AAJ TAK TEZ" tvg-logo="https://img.logo-cdn.cc/aajtaktez.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;AAJ TAK TEZ
+http://line.ultrab.xyz:80/ZeeALI1/465841/63297
+#EXTINF:-1 tvg-ID="zoom.in" tvg-name="HINDI &#9614;ZOOM TV HD" tvg-logo="https://img.logo-cdn.cc/zoomtv.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ZOOM TV HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/63442
+#EXTINF:-1 tvg-ID="aastha.in" tvg-name="HINDI &#9614;AASTHA" tvg-logo="https://img.logo-cdn.cc/aastha.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;AASTHA
+http://line.ultrab.xyz:80/ZeeALI1/465841/63437
+#EXTINF:-1 tvg-ID="aasthabhajan.in" tvg-name="HINDI &#9614;AASTHA BHAJAN" tvg-logo="https://img.logo-cdn.cc/aastha.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;AASTHA BHAJAN
+http://line.ultrab.xyz:80/ZeeALI1/465841/63350
+#EXTINF:-1 tvg-ID="abpnews.in" tvg-name="HINDI &#9614;ABP NEWS INDIA" tvg-logo="https://img.logo-cdn.cc/abpnews.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ABP NEWS INDIA
+http://line.ultrab.xyz:80/ZeeALI1/465841/63425
+#EXTINF:-1 tvg-ID="andpictures.in" tvg-name="HINDI &#9614;AND PICTURES HD" tvg-logo="https://img.logo-cdn.cc/andpictures.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;AND PICTURES HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/63580
+#EXTINF:-1 tvg-ID="andtv.in" tvg-name="HINDI &#9614;& TV HD &#9673; rec" tvg-logo="https://img.logo-cdn.cc/andtv.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;& TV HD &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/63579
+#EXTINF:-1 tvg-ID="animalplanet.in" tvg-name="HINDI &#9614;ANIMAL PLANET HD" tvg-logo="https://img.logo-cdn.cc/animalplanet.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ANIMAL PLANET HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/63333
+#EXTINF:-1 tvg-ID="arihant.in" tvg-name="HINDI &#9614;ARIHANT" tvg-logo="https://img.logo-cdn.cc/arihant.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ARIHANT
+http://line.ultrab.xyz:80/ZeeALI1/465841/63281
+#EXTINF:-1 tvg-ID="babytv.in" tvg-name="HINDI &#9614;DISNEY FHD" tvg-logo="https://img.logo-cdn.cc/babytv.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DISNEY FHD
+http://line.ultrab.xyz:80/ZeeALI1/465841/63578
+#EXTINF:-1 tvg-ID="bigmagic.in" tvg-name="HINDI &#9614;BIG MAGIC HD" tvg-logo="https://img.logo-cdn.cc/bigmagic.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;BIG MAGIC HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/63399
+#EXTINF:-1 tvg-ID="bindass.in" tvg-name="HINDI &#9614;BINDAS MOVIES" tvg-logo="https://img.logo-cdn.cc/bindasmovies.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;BINDAS MOVIES
+http://line.ultrab.xyz:80/ZeeALI1/465841/63306
+#EXTINF:-1 tvg-ID="cineplex.in" tvg-name="HINDI &#9614;CINEPLEX HD &#9673; rec" tvg-logo="https://img.logo-cdn.cc/cineplex.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;CINEPLEX HD &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/63577
+#EXTINF:-1 tvg-ID="ddnational.in" tvg-name="HINDI &#9614;DD NATIONAL HD &#9673; rec" tvg-logo="https://img.logo-cdn.cc/ddnational.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD NATIONAL HD &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/63420
+#EXTINF:-1 tvg-ID="ddrajasthan.in" tvg-name="HINDI &#9614;DD RAJASTHAN" tvg-logo="https://img.logo-cdn.cc/ddrajasthan.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD RAJASTHAN
+http://line.ultrab.xyz:80/ZeeALI1/465841/63479
+#EXTINF:-1 tvg-ID="ddbharati.in" tvg-name="HINDI &#9614;DD BHARATI" tvg-logo="https://img.logo-cdn.cc/ddbharati.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD BHARATI
+http://line.ultrab.xyz:80/ZeeALI1/465841/66100
+#EXTINF:-1 tvg-ID="ddbihar.in" tvg-name="HINDI &#9614;DD BIHAR" tvg-logo="https://img.logo-cdn.cc/ddbihar.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD BIHAR
+http://line.ultrab.xyz:80/ZeeALI1/465841/66101
+#EXTINF:-1 tvg-ID="ddindia.in" tvg-name="HINDI &#9614;DD INDIA" tvg-logo="https://img.logo-cdn.cc/ddindia.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD INDIA
+http://line.ultrab.xyz:80/ZeeALI1/465841/66102
+#EXTINF:-1 tvg-ID="ddnews.in" tvg-name="HINDI &#9614;DD NEWS HD" tvg-logo="https://img.logo-cdn.cc/ddnews.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD NEWS HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/66104
+#EXTINF:-1 tvg-ID="ddsports.in" tvg-name="HINDI &#9614;DD SPORTS" tvg-logo="https://img.logo-cdn.cc/ddsports.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD SPORTS
+http://line.ultrab.xyz:80/ZeeALI1/465841/66106
+#EXTINF:-1 tvg-ID="ddoriya.in" tvg-name="HINDI &#9614;DD ORIYA" tvg-logo="https://img.logo-cdn.cc/ddoriya.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD ORIYA
+http://line.ultrab.xyz:80/ZeeALI1/465841/66109
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DD UP" tvg-logo="https://img.logo-cdn.cc/ddup.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD UP
+http://line.ultrab.xyz:80/ZeeALI1/465841/66105
+#EXTINF:-1 tvg-ID="ddurdu.in" tvg-name="HINDI &#9614;DD URDU" tvg-logo="https://img.logo-cdn.cc/ddurdu.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD URDU
+http://line.ultrab.xyz:80/ZeeALI1/465841/66113
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DD MP" tvg-logo="https://img.logo-cdn.cc/ddmp.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD MP
+http://line.ultrab.xyz:80/ZeeALI1/465841/112920
+#EXTINF:-1 tvg-ID="discoverychannel.in" tvg-name="HINDI &#9614;DISCOVERY WORLD HD" tvg-logo="https://img.logo-cdn.cc/discoveryworld.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DISCOVERY WORLD HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/63315
+#EXTINF:-1 tvg-ID="e24.in" tvg-name="HINDI &#9614;E24" tvg-logo="https://img.logo-cdn.cc/e24.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;E24
+http://line.ultrab.xyz:80/ZeeALI1/465841/63421
+#EXTINF:-1 tvg-ID="enterr10.in" tvg-name="HINDI &#9614;ENTER 10 MOVIES" tvg-logo="https://img.logo-cdn.cc/enter10movies.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ENTER 10 MOVIES
+http://line.ultrab.xyz:80/ZeeALI1/465841/63436
+#EXTINF:-1 tvg-ID="epic.in" tvg-name="HINDI &#9614;EPIC HD" tvg-logo="https://img.logo-cdn.cc/epic.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;EPIC HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/63587
+#EXTINF:-1 tvg-ID="foxlife.in" tvg-name="HINDI &#9614;FOX LIFE HD" tvg-logo="https://img.logo-cdn.cc/foxlife.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;FOX LIFE HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/63586
+#EXTINF:-1 tvg-ID="historytv18.in" tvg-name="HINDI &#9614;HISTORY TV18 HD" tvg-logo="https://img.logo-cdn.cc/history.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;HISTORY TV18 HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/63573
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;HINDI TIMES" tvg-logo="https://img.logo-cdn.cc/housefullaction.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;HINDI TIMES
+http://line.ultrab.xyz:80/ZeeALI1/465841/63423
+#EXTINF:-1 tvg-ID="livingfoodz.in" tvg-name="HINDI &#9614;ZEE ZEST HD" tvg-logo="https://img.logo-cdn.cc/livingfoodz.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ZEE ZEST HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/63482
+#EXTINF:-1 tvg-ID="multiplex.in" tvg-name="HINDI &#9614;MINIPLEX HD &#9673; rec" tvg-logo="https://img.logo-cdn.cc/miniplex.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;MINIPLEX HD &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/63572
+#EXTINF:-1 tvg-ID="mtvbeats.in" tvg-name="HINDI &#9614;MTV BEATS HD" tvg-logo="https://img.logo-cdn.cc/mtvbeats.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;MTV BEATS HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/63571
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;MTV PLUS HD" tvg-logo="https://img.logo-cdn.cc/mtvhd.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;MTV PLUS HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/63585
+#EXTINF:-1 tvg-ID="musicindia.in" tvg-name="HINDI &#9614;MUSIC INDIA" tvg-logo="https://img.logo-cdn.cc/musicindia.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;MUSIC INDIA
+http://line.ultrab.xyz:80/ZeeALI1/465841/63403
+#EXTINF:-1 tvg-ID="ngc.in" tvg-name="HINDI &#9614;NAT GEO WILD HD" tvg-logo="https://img.logo-cdn.cc/natgeowild.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;NAT GEO WILD HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/63584
+#EXTINF:-1 tvg-ID="ngc.in" tvg-name="HINDI &#9614;NATIONAL GEOGRAPHIC HD" tvg-logo="https://img.logo-cdn.cc/nationalgeographic.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;NATIONAL GEOGRAPHIC HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/63570
+#EXTINF:-1 tvg-ID="news18india.in" tvg-name="HINDI &#9614;NEWS 18 INDIA" tvg-logo="https://img.logo-cdn.cc/news18india.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;NEWS 18 INDIA
+http://line.ultrab.xyz:80/ZeeALI1/465841/63290
+#EXTINF:-1 tvg-ID="newsnation.in" tvg-name="HINDI &#9614;NEWS NATION" tvg-logo="https://img.logo-cdn.cc/newsnation.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;NEWS NATION
+http://line.ultrab.xyz:80/ZeeALI1/465841/63418
+#EXTINF:-1 tvg-ID="newsstateupuk.in" tvg-name="HINDI &#9614;NEWS STATE" tvg-logo="https://img.logo-cdn.cc/newsstate.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;NEWS STATE
+http://line.ultrab.xyz:80/ZeeALI1/465841/63417
+#EXTINF:-1 tvg-ID="nickhdplus.in" tvg-name="HINDI &#9614;NICK PLUS HD" tvg-logo="https://img.logo-cdn.cc/nick.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;NICK PLUS HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/63569
+#EXTINF:-1 tvg-ID="parastv.in" tvg-name="HINDI &#9614;PARAS TV" tvg-logo="https://img.logo-cdn.cc/parastv.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;PARAS TV
+http://line.ultrab.xyz:80/ZeeALI1/465841/63342
+#EXTINF:-1 tvg-ID="peaceofmind.in" tvg-name="HINDI &#9614;PEACE OF MIND HD" tvg-logo="https://img.logo-cdn.cc/peaceofmind.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;PEACE OF MIND HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/63341
+#EXTINF:-1 tvg-ID="skystar.in" tvg-name="HINDI &#9614;MAHA MOVIES" tvg-logo="https://img.logo-cdn.cc/skystarmovies.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;MAHA MOVIES
+http://line.ultrab.xyz:80/ZeeALI1/465841/63375
+#EXTINF:-1 tvg-ID="utvaction.in" tvg-name="HINDI &#9614;STAR GOLD THRILLS" tvg-logo="https://img.logo-cdn.cc/utvaction.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;STAR GOLD THRILLS
+http://line.ultrab.xyz:80/ZeeALI1/465841/63305
+#EXTINF:-1 tvg-ID="vedic.in" tvg-name="HINDI &#9614;VEDIC TV" tvg-logo="https://img.logo-cdn.cc/vedic.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;VEDIC TV
+http://line.ultrab.xyz:80/ZeeALI1/465841/63344
+#EXTINF:-1 tvg-ID="zanmol.in" tvg-name="HINDI &#9614;ZEE ANMOL" tvg-logo="https://img.logo-cdn.cc/zeeanmol.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ZEE ANMOL
+http://line.ultrab.xyz:80/ZeeALI1/465841/63429
+#EXTINF:-1 tvg-ID="zeeanmolcinema.in" tvg-name="HINDI &#9614;ZEE ANMOL CINEMA" tvg-logo="https://img.logo-cdn.cc/zeeanmolcinema.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ZEE ANMOL CINEMA
+http://line.ultrab.xyz:80/ZeeALI1/465841/63430
+#EXTINF:-1 tvg-ID="zeehindustan.in" tvg-name="HINDI &#9614;ZEE HINDUSTAN NEWS" tvg-logo="https://img.logo-cdn.cc/zeehindustannews.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ZEE HINDUSTAN NEWS
+http://line.ultrab.xyz:80/ZeeALI1/465841/63559
+#EXTINF:-1 tvg-ID="zeenews.in" tvg-name="HINDI &#9614;ZEE NEWS" tvg-logo="https://img.logo-cdn.cc/zeenews.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ZEE NEWS
+http://line.ultrab.xyz:80/ZeeALI1/465841/63434
+#EXTINF:-1 tvg-ID="zeebiharjharkhand.in" tvg-name="HINDI &#9614;ZEE NEWS BIHAR" tvg-logo="https://img.logo-cdn.cc/zeenewsmp.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ZEE NEWS BIHAR
+http://line.ultrab.xyz:80/ZeeALI1/465841/63433
+#EXTINF:-1 tvg-ID="zeempcg.in" tvg-name="HINDI &#9614;ZEE NEWS MP/CHATTISGARH" tvg-logo="https://img.logo-cdn.cc/zeenewsmp.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ZEE NEWS MP/CHATTISGARH
+http://line.ultrab.xyz:80/ZeeALI1/465841/63432
+#EXTINF:-1 tvg-ID="zeeupuk.in" tvg-name="HINDI &#9614;ZEE NEWS UP" tvg-logo="https://img.logo-cdn.cc/zeenews.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ZEE NEWS UP
+http://line.ultrab.xyz:80/ZeeALI1/465841/63431
+#EXTINF:-1 tvg-ID="zrajasthan news.in" tvg-name="HINDI &#9614;ZEE RAJASTHAN" tvg-logo="https://img.logo-cdn.cc/zeerajasthan.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ZEE RAJASTHAN
+http://line.ultrab.xyz:80/ZeeALI1/465841/63478
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;POGO KIDS" tvg-logo="https://img.logo-cdn.cc/pogokids.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;POGO KIDS
+http://line.ultrab.xyz:80/ZeeALI1/465841/112864
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;CINEMA TV" tvg-logo="https://img.logo-cdn.cc/cinema.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;CINEMA TV
+http://line.ultrab.xyz:80/ZeeALI1/465841/112865
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;MOVIES PLUS" tvg-logo="https://img.logo-cdn.cc/moviehouse.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;MOVIES PLUS
+http://line.ultrab.xyz:80/ZeeALI1/465841/112866
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;ZEE GANGA" tvg-logo="https://img.logo-cdn.cc/ganga.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ZEE GANGA
+http://line.ultrab.xyz:80/ZeeALI1/465841/112867
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;AND FLIX HD" tvg-logo="https://img.logo-cdn.cc/andflix.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;AND FLIX HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/112868
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;EVERGREEN CLASSIC" tvg-logo="https://img.logo-cdn.cc/evergreen.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;EVERGREEN CLASSIC
+http://line.ultrab.xyz:80/ZeeALI1/465841/112870
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DISNEY SD" tvg-logo="https://img.logo-cdn.cc/disneychannel.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DISNEY SD
+http://line.ultrab.xyz:80/ZeeALI1/465841/112872
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;CNBC TV18 NEWS HD" tvg-logo="https://img.logo-cdn.cc/cnbc.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;CNBC TV18 NEWS HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/112873
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;TIMES NOW WORLD HD" tvg-logo="https://img.logo-cdn.cc/timesnow.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;TIMES NOW WORLD HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/112874
+#EXTINF:-1 tvg-ID="mnx.in" tvg-name="HINDI &#9614;MNX HD &#9673; rec" tvg-logo="https://img.logo-cdn.cc/mnx.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;MNX HD &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/112876
+#EXTINF:-1 tvg-ID="moviesnowhd.in" tvg-name="HINDI &#9614;MOVIES NOW HD &#9673; rec" tvg-logo="https://img.logo-cdn.cc/moviesnow.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;MOVIES NOW HD &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/112877
+#EXTINF:-1 tvg-ID="mnplushd.in" tvg-name="HINDI &#9614;MN PLUS HD &#9673; rec" tvg-logo="https://img.logo-cdn.cc/mnplus.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;MN PLUS HD &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/112878
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DISNEY INTERNATIONAL HD" tvg-logo="https://img.logo-cdn.cc/disneyinternational.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DISNEY INTERNATIONAL HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/112879
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;CN PLUS HD" tvg-logo="https://img.logo-cdn.cc/cartoonnetworkplus1.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;CN PLUS HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/112881
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;STAR GOLD ROMANCE" tvg-logo="https://img.logo-cdn.cc/stargold.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;STAR GOLD ROMANCE
+http://line.ultrab.xyz:80/ZeeALI1/465841/112883
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DISNEY JR" tvg-logo="https://img.logo-cdn.cc/disneyxd.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DISNEY JR
+http://line.ultrab.xyz:80/ZeeALI1/465841/112884
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;ISHWAR TV" tvg-logo="https://img.logo-cdn.cc/ishwartv.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ISHWAR TV
+http://line.ultrab.xyz:80/ZeeALI1/465841/112885
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;CARTOON NETWORK" tvg-logo="https://img.logo-cdn.cc/cartoonnetwork.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;CARTOON NETWORK
+http://line.ultrab.xyz:80/ZeeALI1/465841/112886
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;REPUBLIC BHARAT" tvg-logo="https://img.logo-cdn.cc/republictvbharat.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;REPUBLIC BHARAT
+http://line.ultrab.xyz:80/ZeeALI1/465841/112887
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;B4U MUSIC" tvg-logo="https://img.logo-cdn.cc/b4umusic.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;B4U MUSIC
+http://line.ultrab.xyz:80/ZeeALI1/465841/112888
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;INDIA NEWS" tvg-logo="https://img.logo-cdn.cc/indianews.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;INDIA NEWS
+http://line.ultrab.xyz:80/ZeeALI1/465841/112890
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;INDIA TV" tvg-logo="https://img.logo-cdn.cc/indiatv.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;INDIA TV
+http://line.ultrab.xyz:80/ZeeALI1/465841/112891
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DANGAL" tvg-logo="https://img.logo-cdn.cc/dangal.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DANGAL
+http://line.ultrab.xyz:80/ZeeALI1/465841/112892
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;MASTII" tvg-logo="https://img.logo-cdn.cc/mastii.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;MASTII
+http://line.ultrab.xyz:80/ZeeALI1/465841/112893
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;NDTV INDIA" tvg-logo="https://img.logo-cdn.cc/ndtvindia.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;NDTV INDIA
+http://line.ultrab.xyz:80/ZeeALI1/465841/112894
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;INDIA NEWS MP" tvg-logo="https://img.logo-cdn.cc/indianews.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;INDIA NEWS MP
+http://line.ultrab.xyz:80/ZeeALI1/465841/112895
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;INDIA NEWS UP" tvg-logo="https://img.logo-cdn.cc/indianews.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;INDIA NEWS UP
+http://line.ultrab.xyz:80/ZeeALI1/465841/112896
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;INDIA NEWS HARYANA" tvg-logo="https://img.logo-cdn.cc/indianews.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;INDIA NEWS HARYANA
+http://line.ultrab.xyz:80/ZeeALI1/465841/112897
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;NEWS X" tvg-logo="https://img.logo-cdn.cc/newsx.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;NEWS X
+http://line.ultrab.xyz:80/ZeeALI1/465841/112898
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;INDIA NEWS RAJASTHAN" tvg-logo="https://img.logo-cdn.cc/indianews.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;INDIA NEWS RAJASTHAN
+http://line.ultrab.xyz:80/ZeeALI1/465841/112899
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;SUDARSHAN NEWS" tvg-logo="https://img.logo-cdn.cc/sudarshannews.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SUDARSHAN NEWS
+http://line.ultrab.xyz:80/ZeeALI1/465841/112900
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;MAHAA NEWS" tvg-logo="https://img.logo-cdn.cc/mahamovie.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;MAHAA NEWS
+http://line.ultrab.xyz:80/ZeeALI1/465841/112901
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;NDTV GOOD TIMES" tvg-logo="https://img.logo-cdn.cc/ndtvgoodtimes.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;NDTV GOOD TIMES
+http://line.ultrab.xyz:80/ZeeALI1/465841/112912
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;OM SHANTI" tvg-logo="https://img.logo-cdn.cc/omshanti.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;OM SHANTI
+http://line.ultrab.xyz:80/ZeeALI1/465841/112915
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;IBC 24" tvg-logo="https://img.logo-cdn.cc/ibc24.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;IBC 24
+http://line.ultrab.xyz:80/ZeeALI1/465841/112916
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;NEWS 24" tvg-logo="https://img.logo-cdn.cc/news24.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;NEWS 24
+http://line.ultrab.xyz:80/ZeeALI1/465841/112917
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;SHUBH TV" tvg-logo="https://img.logo-cdn.cc/shubhtv.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SHUBH TV
+http://line.ultrab.xyz:80/ZeeALI1/465841/112921
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;RAMDHENU" tvg-logo="https://img.logo-cdn.cc/ramdhenu.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;RAMDHENU
+http://line.ultrab.xyz:80/ZeeALI1/465841/112923
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;RENGONI" tvg-logo="https://img.logo-cdn.cc/rengoni.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;RENGONI
+http://line.ultrab.xyz:80/ZeeALI1/465841/112924
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;FOOD FOOD HD" tvg-logo="https://img.logo-cdn.cc/foodfood.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;FOOD FOOD HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/112925
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;KRISHNA VANI HD" tvg-logo="https://img.logo-cdn.cc/krishnavani.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;KRISHNA VANI HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/112926
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DILLI AAJ TAKK" tvg-logo="https://img.logo-cdn.cc/dilliaajtak.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DILLI AAJ TAKK
+http://line.ultrab.xyz:80/ZeeALI1/465841/112928
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;PRAG NEWS" tvg-logo="https://img.logo-cdn.cc/pragnews.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;PRAG NEWS
+http://line.ultrab.xyz:80/ZeeALI1/465841/112929
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;RANG" tvg-logo="https://img.logo-cdn.cc/rang.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;RANG
+http://line.ultrab.xyz:80/ZeeALI1/465841/112930
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;NEWS 18 LIVE" tvg-logo="https://img.logo-cdn.cc/news18live.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;NEWS 18 LIVE
+http://line.ultrab.xyz:80/ZeeALI1/465841/112931
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;NDTV PROFIT" tvg-logo="https://img.logo-cdn.cc/ndtvprofit.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;NDTV PROFIT
+http://line.ultrab.xyz:80/ZeeALI1/465841/112932
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;NDTV 24x7" tvg-logo="https://img.logo-cdn.cc/ndtv24x7.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;NDTV 24x7
+http://line.ultrab.xyz:80/ZeeALI1/465841/112933
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;INDIA TODAY" tvg-logo="https://img.logo-cdn.cc/indiatoday.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;INDIA TODAY
+http://line.ultrab.xyz:80/ZeeALI1/465841/112934
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;9X MUSIC" tvg-logo="https://img.logo-cdn.cc/9xmusic.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;9X MUSIC
+http://line.ultrab.xyz:80/ZeeALI1/465841/112935
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;E NEWS 24" tvg-logo="https://img.logo-cdn.cc/enews24.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;E NEWS 24
+http://line.ultrab.xyz:80/ZeeALI1/465841/112936
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;ZEE BUSINESS" tvg-logo="https://img.logo-cdn.cc/zeebusiness.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ZEE BUSINESS
+http://line.ultrab.xyz:80/ZeeALI1/465841/112937
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;SANSKAR TV" tvg-logo="https://img.logo-cdn.cc/sanskartv.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SANSKAR TV
+http://line.ultrab.xyz:80/ZeeALI1/465841/112938
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;SATSANG TV" tvg-logo="https://img.logo-cdn.cc/satsangtv.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SATSANG TV
+http://line.ultrab.xyz:80/ZeeALI1/465841/112940
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DISCOVERY KIDS" tvg-logo="https://img.logo-cdn.cc/discoverykids.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DISCOVERY KIDS
+http://line.ultrab.xyz:80/ZeeALI1/465841/112942
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;CHANNEL WIN" tvg-logo="https://img.logo-cdn.cc/channelwin.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;CHANNEL WIN
+http://line.ultrab.xyz:80/ZeeALI1/465841/143808
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;STAR GOLD 2" tvg-logo="https://img.logo-cdn.cc/stargold2.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;STAR GOLD 2
+http://line.ultrab.xyz:80/ZeeALI1/465841/143806
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;AND EXPLORER HD" tvg-logo="https://img.logo-cdn.cc/andexplorer.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;AND EXPLORER HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/143805
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;ZEE ETC BOLLYWOOD &#9673; rec" tvg-logo="https://img.logo-cdn.cc/zeeetcbollywood.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ZEE ETC BOLLYWOOD &#9673; rec
+http://line.ultrab.xyz:80/ZeeALI1/465841/143804
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;MIRROR NOW" tvg-logo="https://img.logo-cdn.cc/mirrornow.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;MIRROR NOW
+http://line.ultrab.xyz:80/ZeeALI1/465841/143802
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;ZEE YUVA" tvg-logo="https://img.logo-cdn.cc/zeeyuva.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ZEE YUVA
+http://line.ultrab.xyz:80/ZeeALI1/465841/143799
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;PRARTHANA BHAWAN" tvg-logo="https://img.logo-cdn.cc/prarthanabhawan.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;PRARTHANA BHAWAN
+http://line.ultrab.xyz:80/ZeeALI1/465841/143798
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;REPUBLIC NEWS" tvg-logo="https://img.logo-cdn.cc/republictvbharat.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;REPUBLIC NEWS
+http://line.ultrab.xyz:80/ZeeALI1/465841/143796
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;IDN LOKMAT" tvg-logo="https://img.logo-cdn.cc/idnlokmat.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;IDN LOKMAT
+http://line.ultrab.xyz:80/ZeeALI1/465841/143793
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;ZEE NEWS MP" tvg-logo="https://img.logo-cdn.cc/zeenewsmp.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ZEE NEWS MP
+http://line.ultrab.xyz:80/ZeeALI1/465841/143791
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DIVYA TV" tvg-logo="https://img.logo-cdn.cc/divyatv.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DIVYA TV
+http://line.ultrab.xyz:80/ZeeALI1/465841/143789
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;TARANG TV" tvg-logo="https://img.logo-cdn.cc/tarangtv.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;TARANG TV
+http://line.ultrab.xyz:80/ZeeALI1/465841/143788
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;ALANKAR TV" tvg-logo="https://img.logo-cdn.cc/alankartv.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ALANKAR TV
+http://line.ultrab.xyz:80/ZeeALI1/465841/143787
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;TARANG MUSIC" tvg-logo="https://img.logo-cdn.cc/tarangtv.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;TARANG MUSIC
+http://line.ultrab.xyz:80/ZeeALI1/465841/143785
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;SARTHAK TV" tvg-logo="https://img.logo-cdn.cc/sarthaktv.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SARTHAK TV
+http://line.ultrab.xyz:80/ZeeALI1/465841/143784
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;ZEE KALINGA" tvg-logo="https://img.logo-cdn.cc/zeekalinga.png" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ZEE KALINGA
+http://line.ultrab.xyz:80/ZeeALI1/465841/143780
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;TATA PLAY CLASSIC TV" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;TATA PLAY CLASSIC TV
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441415
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;TATA PLAY SOUTH TALKIES" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;TATA PLAY SOUTH TALKIES
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441416
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;AIRTEL HOLLYWOOD MASALA" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;AIRTEL HOLLYWOOD MASALA
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441417
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;AIRTEL COMEDY MASALA" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;AIRTEL COMEDY MASALA
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441418
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DD YADAGIRI" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD YADAGIRI
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441419
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DD UTTARAKHAND" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD UTTARAKHAND
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441420
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DD SAPTIGIRI" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD SAPTIGIRI
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441421
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DD TRIPURA" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD TRIPURA
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441422
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DD NAGALAND" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD NAGALAND
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441423
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DD MEZORAM" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD MEZORAM
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441424
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DD MEGHALAYA" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD MEGHALAYA
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441425
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DD MANIPUR" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD MANIPUR
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441426
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DD KISHAR" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD KISHAR
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441427
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DD KISAN" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD KISAN
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441428
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DD JHARKHAND" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD JHARKHAND
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441429
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DD HARYANA" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD HARYANA
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441430
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DD HIMACHAL PARDESH" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD HIMACHAL PARDESH
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441431
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DD GOA" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD GOA
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441432
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DD CHATTISGARH" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DD CHATTISGARH
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441433
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;CNBC TV 18" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;CNBC TV 18
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441434
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DANGAL 2 HD" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DANGAL 2 HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441435
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;ISHAARA TV " tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ISHAARA TV 
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441436
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;ZEE TV INDIA " tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ZEE TV INDIA 
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441437
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;TIMES NOW NAVBHARAT HD" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;TIMES NOW NAVBHARAT HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441439
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DHINCHAK 2 MOVIES" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DHINCHAK 2 MOVIES
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441440
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;GOLDMINE MOVIES" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;GOLDMINE MOVIES
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441441
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;SADHNA PRIME NEWS" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SADHNA PRIME NEWS
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441442
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;MANORANJAN GRAND" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;MANORANJAN GRAND
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441443
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;FIRST INDIA NEWS" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;FIRST INDIA NEWS
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441444
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;ENTER 10" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ENTER 10
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441445
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;MH1 SHRADDHA 4" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;MH1 SHRADDHA 4
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441446
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;SHUBH CINEMA TV" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SHUBH CINEMA TV
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441448
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;NEWS STATE UP UK" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;NEWS STATE UP UK
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441449
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;NEWS STATE MP CHG" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;NEWS STATE MP CHG
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441450
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;ZEE BOLLYWOOD" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ZEE BOLLYWOOD
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441452
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;TOTAL TV HARYANA" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;TOTAL TV HARYANA
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441453
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;NEWS INDIA 24x7" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;NEWS INDIA 24x7
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441454
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;FIRANGI" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;FIRANGI
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441455
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;ANAADI TV" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;ANAADI TV
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441456
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;HUNGAMA KADAK HITS" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;HUNGAMA KADAK HITS
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441457
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;B4U KADAK" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;B4U KADAK
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441458
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;INDIA WIZ" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;INDIA WIZ
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441459
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;BFLIX HD" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;BFLIX HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441460
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;HUNGAMA KIDS" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;HUNGAMA KIDS
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441461
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;SVBC" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SVBC
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441462
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DISCOVERY ID HD" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DISCOVERY ID HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441463
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;NICK PLUS HD" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;NICK PLUS HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441464
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;TATA PLAY BOLLYWOOD PREMIER FHD" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;TATA PLAY BOLLYWOOD PREMIER FHD
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441465
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DISNEY JUNIOR" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DISNEY JUNIOR
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441466
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DABANGG" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;DABANGG
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441467
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;SAHARA NEWS NATIONAL" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SAHARA NEWS NATIONAL
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441470
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;SAHARA ONE" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SAHARA ONE
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441471
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;SAHARA BIHAR" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SAHARA BIHAR
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441472
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;SAHARA MP" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SAHARA MP
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441473
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;SAHARA MUMBAI" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SAHARA MUMBAI
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441474
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;SAHARA NCR" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SAHARA NCR
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441475
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;SAHARA UP" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SAHARA UP
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441476
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;SAHARA SAMAY ALAMI" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SAHARA SAMAY ALAMI
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441477
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;SAHARA FILMY" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SAHARA FILMY
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441478
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;HINDI KHABAR" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;HINDI KHABAR
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441479
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;SOHAM TV" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SOHAM TV
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441480
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;NEWS 18 RAJASTHAN" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;NEWS 18 RAJASTHAN
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441481
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;JANTA TV" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;JANTA TV
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441482
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;HARE KRISHNA HD" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;HARE KRISHNA HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441483
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;SHOWBOX" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;SHOWBOX
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441484
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;INDIA VOICE" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;INDIA VOICE
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441485
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;APN NEWS" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;APN NEWS
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441486
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;BHAKTI SAGAR HD" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;BHAKTI SAGAR HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441487
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;HUNGAMA DIL SE HD" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;HUNGAMA DIL SE HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441488
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;HUNGAMA NAZRANA HD" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;HUNGAMA NAZRANA HD
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441489
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;NEWS 18 BIHAR" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;NEWS 18 BIHAR
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441490
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;NEWS 18 MP &amp; CHATTISGARH" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;NEWS 18 MP &amp; CHATTISGARH
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441491
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;NEWS 18 UP &amp; UK" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;NEWS 18 UP &amp; UK
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441492
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;9X TASHAN" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;9X TASHAN
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441496
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;HUNGAMA POP PATAKA" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;HUNGAMA POP PATAKA
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441501
+#EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;NAZARA TV" tvg-logo="" group-title="IPTV07INDIA   &#9614;    AIRTEL",HINDI &#9614;NAZARA TV
+http://line.ultrab.xyz:80/ZeeALI1/465841/1441570
