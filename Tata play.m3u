@@ -1,0 +1,289 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ts587" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" group-title="Kids",Super Hungama
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=587||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts114" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Kids",Disney
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=114||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts71" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25721-jia4i70o-v2/imageContent-25721-jia4i70o-m3.PNG" group-title="Knowledge",Tata Play English in Hindi
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=71||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts433" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png" group-title="Kids",Nick HD+
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=433||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts138" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-v1/imageContent-465-j5jw9va0-m1.png" group-title="Kids",Nick
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=138||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts626" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-13094-jbdzlsfs-v2/imageContent-13094-jbdzlsfs-m2.png" group-title="Kids",Tata Play Fun Learn Preschool
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=626||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts627" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-13097-jbdzn9og-v2/imageContent-13097-jbdzn9og-m2.png" group-title="Kids",Tata Play Fun Learn Junior
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=627||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts681" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png" group-title="Kids",Cartoon Network HD+
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=681||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts238" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png" group-title="Kids",Cartoon Network
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=238||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts239" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" group-title="Kids",Pogo
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=239||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts119" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png" group-title="Kids",Discovery Kids
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=119||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts127" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8018-j7a7n1a8-v1/imageContent-8018-j7a7n1a8-m1.png" group-title="Kids",Sonic
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=127||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts45" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png" group-title="Kids",SONY YAY!
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=45||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts994" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71550-l4zi50uw-v2/imageContent-71550-l4zi50uw-m5.png" group-title="Kids",Tata Play Toons+
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=994||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts867" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57985-khvdchrs-v2/imageContent-57985-khvdchrs-m2.png" group-title="Kannada",Gubbare
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=867||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts1340" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ETVBBHD_Thumbnail-v1/ETVBBHD_Thumbnail.png" group-title="Kids",ETV Bal Bharat HD
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=1340||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts905" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62236-kny7yzaw-v1/imageContent-62236-kny7yzaw-m1.png" group-title="Kids",ETV Bal Bharat
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=905||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts1363" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPANML_Thumbnail-v2/TPANML_Thumbnail.png" group-title="Entertainment",Tata Play Anime Local
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=1363||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts118" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-390-j5jpps1s-v1/imageContent-390-j5jpps1s-m1.png" group-title="Kids",Nick Jr
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=118||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts144" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png" group-title="Kids",Disney Junior
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=144||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts816" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52868-k9af4lxs-v1/imageContent-52868-k9af4lxs-m1.png" group-title="Kids",CBeeBies
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=816||http-user-agent=Shraddha/5.0
+
+
+
+
+#EXTINF:-1 tvg-id="ts305" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" group-title="Bengali",Colors Bangla HD
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=305||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts26" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png" group-title="Bengali",Colors Bangla
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=26||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts522" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="Bengali",Zee Bangla HD
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=522||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts468" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" group-title="Bengali",Star Jalsha HD
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=468||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts34" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png" group-title="Bengali",SONY AATH
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=34||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts995" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSBEN_Thumbnail-v5/TONSBEN_Thumbnail.png" group-title="Kids",Tata Play Toons+
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=995||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts129" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-267-j5j8x17s-v1/imageContent-267-j5j8x17s-m2.png" group-title="Bengali",Aakaash Aath
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=129||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts3" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9-j5f6oezc-v1/imageContent-9-j5f6oezc-m1.png" group-title="Bengali",Ruposhi Bangla
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=3||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts788" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48494-k3zd1a80-v1/imageContent-48494-k3zd1a80-m4.png" group-title="Bengali",Enterr10 Bangla
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=788||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts537" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png" group-title="Bengali",Jalsha Movies HD
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=537||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts254" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11009-j8xbk7js-v1/imageContent-11009-j8xbk7js-m1.png" group-title="Bengali",Zee Bangla Cinema
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=254||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts896" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/CLRBANG_Thumbnail-v6/CLRBANG_Thumbnail.png" group-title="Bengali",Colors Bangla Cinema
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=896||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts379" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27017-jjo92wyg-v1/imageContent-27017-jjo92wyg-m1.png" group-title="Bengali",Khushboo Bangla
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=379||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts1132" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RONGEEN_Thumbnail-v1/RONGEEN_Thumbnail.png" group-title="Kids",Rongeen TV
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=1132||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts102" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-321-j5jl5g5k-v2/imageContent-321-j5jl5g5k-m2.png" group-title="Bengali",ABP Ananda
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=102||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts258" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9031-j7u3nz6w-v1/imageContent-9031-j7u3nz6w-m1.png" group-title="Bengali",Zee 24 Ghanta
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=258||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts381" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11533-j9jtxqgo-v1/imageContent-11533-j9jtxqgo-m1.png" group-title="Bengali",Kolkata TV
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=381||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts23" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-22186-jenuxy6g-v2/imageContent-22186-jenuxy6g-m5.png" group-title="Bengali",News18 Bangla
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=23||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts873" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-59401-kjudpa1c-v2/imageContent-59401-kjudpa1c-m3.png" group-title="Bengali",TV9 Bangla
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=873||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts890" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61251-klylf4u0-v2/imageContent-61251-klylf4u0-m9.png" group-title="News",Republic Bangla
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=890||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts207" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-852-j5m9xe80-v1/imageContent-852-j5m9xe80-m1.png" group-title="Bengali",News Time Bangla
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=207||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts311" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11299-j9j61p1k-v1/imageContent-11299-j9j61p1k-m1.png" group-title="Bengali",CTVN AKD Plus
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=311||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts648" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24685-jgrl9bqg-v1/imageContent-24685-jgrl9bqg-m2.png" group-title="Bengali",Calcutta News
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=648||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts314" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11314-j9j8kcxk-v1/imageContent-11314-j9j8kcxk-m1.png" group-title="Bengali",DD Bangla
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=314||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts215" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-864-j5mava4o-v1/imageContent-864-j5mava4o-m1.png" group-title="Bengali",Sangeet Bangla
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=215||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts865" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BBHAKTI_Thumbnail-v3/BBHAKTI_Thumbnail.png" group-title="Bengali",Bangla Bhakti
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=865||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts866" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57969-khu0zsnc-v1/imageContent-57969-khu0zsnc-m1.png" group-title="Bengali",Tara News
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=866||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts101" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-333-j5jl5q6o-v1/imageContent-333-j5jl5q6o-m1.png" group-title="Others",Rang
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=101||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts214" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-860-j5mao56o-v1/imageContent-860-j5mao56o-m1.png" group-title="Others",Rengoni TV
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=214||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts1082" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ASMON_Thumbnail-v1/ASMON_Thumbnail.png" group-title="Action",Tata Play Asomiya Monoronjan
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=1082||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts1352" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PEARTV_Thumbnail-v1/PEARTV_Thumbnail.png" group-title="Entertainment",Pear TV
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=1352||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts368" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11485-j9jsysqw-v1/imageContent-11485-j9jsysqw-m1.png" group-title="Others",Indradhanu
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=368||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts47" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/JONTV_Thumbnail-v3/JONTV_Thumbnail.png" group-title="Music",Jonack TV
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=47||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts353" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11411-j9jqocds-v1/imageContent-11411-j9jqocds-m1.png" group-title="Others",DY 365
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=353||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts68" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12390-jai3fgy0-v1/imageContent-12390-jai3fgy0-m1.png" group-title="Others",News18 Assam North East
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=68||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts226" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-956-j5mipkxs-v1/imageContent-956-j5mipkxs-m1.png" group-title="Others",NEWS LIVE
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=226||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts221" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-879-j5mdmlqw-v1/imageContent-879-j5mdmlqw-m1.png" group-title="Others",Protidin Time
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=221||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts423" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11673-j9kfe73s-v1/imageContent-11673-j9kfe73s-m1.png" group-title="Others",Prag News
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=423||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts417" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11644-j9k1gjow-v1/imageContent-11644-j9k1gjow-m1.png" group-title="Others",North East Live
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=417||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts894" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NKTVPLUS_Thumbnail-v2/NKTVPLUS_Thumbnail.png" group-title="Others",NKTV PLUS
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=894||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts898" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/HORNBLTV_Thumbnail-v2/HORNBLTV_Thumbnail.png" group-title="Others",Hornbill TV
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=898||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts977" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69824-l1dfgvcg-v1/imageContent-69824-l1dfgvcg-m3.png" group-title="Others",ND24-Newsdaily.in
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=977||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts1076" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NBNEWS_Thumbnail-v2/NBNEWS_Thumbnail.png" group-title="News",NB News
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=1076||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts1115" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PTKB_Thumbnail-v1/PTKB_Thumbnail.png" group-title="News",Pratham Khabar 24x7
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=1115||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts1268" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NENEWS_Thumbnail-v1/NENEWS_Thumbnail.png" group-title="News",NE NEWS
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=1268||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts331" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11363-j9jprc40-v1/imageContent-11363-j9jprc40-m1.png" group-title="Others",DD North East
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=331||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts325" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11345-j9jpidkw-v1/imageContent-11345-j9jpidkw-m1.png" group-title="Others",DD Kashir
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=325||http-user-agent=Shraddha/5.0
+
+#EXTINF:-1 tvg-id="ts449" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11728-j9kw1zp4-v1/imageContent-11728-j9kw1zp4-m1.png" group-title="Others",Ramdhenu
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=449||http-user-agent=Shraddha/5.0
+#EXTINF:-1 tvg-id="ts1448" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/24HrsTV_Thumbnail-v1/24HrsTV_Thumbnail.png" group-title="Regional Bengali",24Hrs TV
+#EXTVLCOPT:http-|http-user-agent=Shraddha/5.0
+http://play.denver1769.fun/Play/TPv3.php?id=1448||http-user-agent=Shraddha/5.0
+
+
+
+
+
+
