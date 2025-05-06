@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bangla 1 FHD" tvg-logo="" group-title="24/7 | CineMania (Multi-Language)",CineMania Bangla 1 FHD
+https://rolextv.asia:443/3456/3456/258952
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bangla 2 FHD" tvg-logo="" group-title="24/7 | CineMania (Multi-Language)",CineMania Bangla 2 FHD
+https://rolextv.asia:443/3456/3456/258953
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bangla 3 FHD" tvg-logo="" group-title="24/7 | CineMania (Multi-Language)",CineMania Bangla 3 FHD
+https://rolextv.asia:443/3456/3456/258954
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bangla 4 FHD" tvg-logo="" group-title="24/7 | CineMania (Multi-Language)",CineMania Bangla 4 FHD
+https://rolextv.asia:443/3456/3456/258955
+#EXTINF:-1 tvg-id="" tvg-name="CineMania Bangla 5 FHD" tvg-logo="" group-title="24/7 | CineMania (Multi-Language)",CineMania Bangla 5 FHD
+https://rolextv.asia:443/3456/3456/258956
+#EXTINF:-1 group-title="INDIAN | KIDS Cartoon" ,Oggy and the Cockroaches Hindi
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i7nbnsmjfp/out/v1/26b80ebb4f1840f78028aec6c44f4872/cenc.mpd
+#EXTINF:-1 group-title="INDIAN | KIDS Cartoon" ,KIDS: Zig
+https://abgqjfuaaaaaaaamdrehgoedzimk2.ed28fac3403247a9b39a1f7fbaedd7cf.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w1dbliut83/out/v1/8898a2bac81e41329840d8d627427a84/cenc.mpd
+#EXTINF:-1,UTSAV GOLD
+http://45.148.145.57/IN_STU/index.m3u8
+#EXTINF:-1,Persiana jun
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Hindi Music",8XM
+http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2PYV0B/BFlix-Movies.jpg" group-title="Hindi Movies",BFlix Movies
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1441460
+
+https://rex-streaming.vercel.app/api/x/150478.m3u8
+
+http://38.96.178.201/live/BanglaTV/index.m3u8
+
