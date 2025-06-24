@@ -4980,7 +4980,7 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",Flix Srk Tv
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/06/ASH-TV-768x768.jpg"Ash Tv
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/06/ASH-TV-768x768.jpg",Ash Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ashtv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://appv10static.jaagobd.com/media/channel_logos/macau_lotus_tv_mo_eKbv6l5.png",Lotus Macau
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/lotusmacautv.stream/tracks-v1a1/mono.m3u8
@@ -5434,7 +5434,8 @@ https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live024/4gtv-live-mid/index.m3
 https://vood.yflix.top/api/Sonic_Nickelodeon_voot_MOB/mono.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://img.logo-cdn.cc/nick.png",Nick plus
 https://vood.yflix.top/api/Nick_voot_MOB/mono.m3u8
-
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-FE0w9oV0EKEdjMkoN1eNdo4cz4uD7hX7VA&s",,24/7 KIDS | Tom And Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6VW8yo69XZOzaRklyFyCyE18gnNsiMnLfFECQHop7g&s",Shinchan
 https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png",,24/7 KIDS | DORAEMON
@@ -5588,7 +5589,7 @@ https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/chunklist_w325692278_b8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnIZ4skR_p141ReCcm6pvf67msiJ6bgP_gJg&s",Spacetoon 
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/Y2BqP9m.png",Atfal & Mawaheb TV  
-http://streamlock.net/atfal1.com/atfal2/playlist.m3u8
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc3.jpg?v=6",Mbc 3 
 https://mbcbollywood-prod-dub-enc.edgenextcdn.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc3.jpg?v=6",Mbc 3 Usa 
@@ -6381,6 +6382,35 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1484320
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1484225
 #EXTINF:-1 group-title="Kids" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/2b375f18cb4e488ab5268dc0d0a478b5_big.jpg",SpongeBob 
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1484321
+
+#EXTINF:-1,BAN || CARTOON NET WORK
+http://mxonlive-restream.atwebpages.com/mx/default.php/5.m3u8
+#EXTINF:-1,BAN || Nick Jr
+http://mxonlive-restream.atwebpages.com/mx/default.php/9.m3u8
+#EXTINF:-1,BAN || Nick HD +
+http://mxonlive-restream.atwebpages.com/mx/default.php/11.m3u8
+#EXTINF:-1,BAN || Pogo
+http://mxonlive-restream.atwebpages.com/mx/default.php/320.m3u8
+#EXTINF:-1,BAN || Hangama
+http://mxonlive-restream.atwebpages.com/mx/default.php/123826.m3u8
+#EXTINF:-1,BAN || DISNEY JUNIOR
+http://mxonlive-restream.atwebpages.com/mx/default.php/123848.m3u8
+#EXTINF:-1,BAN || DISNEY CHANNEL
+http://mxonlive-restream.atwebpages.com/mx/default.php/246763.m3u8
+#EXTINF:-1,BAN || DISNEY INDIA
+http://mxonlive-restream.atwebpages.com/mx/default.php/246765.m3u8
+#EXTINF:-1,BAN || SONIC NICK HD
+http://mxonlive-restream.atwebpages.com/mx/default.php/246767.m3u8
+#EXTINF:-1,BAN || NICK HD
+http://mxonlive-restream.atwebpages.com/mx/default.php/246770.m3u8
+#EXTINF:-1,BAN || DISNEY JUNIOR
+http://mxonlive-restream.atwebpages.com/mx/default.php/246769.m3u8
+#EXTINF:-1,BAN || KIDS ZONE HD
+http://mxonlive-restream.atwebpages.com/mx/default.php/246774.m3u8
+#EXTINF:-1,BAN || PLANET FUN HD
+http://mxonlive-restream.atwebpages.com/mx/default.php/246775.m3u8
+#EXTINF:-1,BAN || HOORA TV HD
+http://mxonlive-restream.atwebpages.com/mx/default.php/246778.m3u8
 
 
 #EXTINF:-1,BAN || DURONTO TV HD
