@@ -4909,6 +4909,13 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-6-231/list/rsz1170x658withlogoa42e8a74c9f14b5782c42e183fcb5e19.jpg",Batul The Great
 https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
+#EXTINF:-1 tvg-id="1341" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids",Nick Bangla  (Kids)
+https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
+#EXTINF:-1 tvg-id="1345" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="Kids",Sonic Bangla  (Kids)
+https://live.dinesh29.com.np/stream/jiotv/sonicbangla/master.m3u8
+
+
+
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgOKtkFIEnXQ2kWRKrQArUd3lNG2WSlWEnSFPIdC9plQ&s",KHUSHBOO BANGLA
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/movieaction.stream/tracks-v1a1/mono.m3u8
@@ -5421,6 +5428,54 @@ https://tvsen6.aynaott.com/kolkatatv/index.m3u8?e=1753741217&u=9a031201-22d8-4f7
 https://tvsen7.aynaott.com/AssamTalks/index.m3u8?e=1753741219&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=626d5df89ae6869c16196f2c7b16d50
 #EXTINF:-1 tvg-id="AndoTV.cn",Colors Bangla Cinema
 https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
+#EXTINF:-1 ,Sun bangla
+https://live.dinesh29.com.np/stream/jiotv/sunbangla/master.m3u8
+#EXTINF:-1 ,Star Jalsha
+https://live.dinesh29.com.np/stream/jiotvplus/starjalsha/master.m3u8
+#EXTINF:-1 ,Star Jalsha hd
+https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
+#EXTINF:-1 ,Jalsha Movies
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/master.m3u8
+#EXTINF:-1 ,Jalsha Movies hd
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
+#EXTINF:-1 ,Akashaath
+https://live.dinesh29.com.np/stream/jiotv/akashaath/master.m3u8
+#EXTINF:-1 ,ruposhi bangla
+https://live.dinesh29.com.np/stream/jiotv/ruposhibangla/master.m3u8
+#EXTINF:-1 ,dd bangla
+https://live.dinesh29.com.np/stream/jiotv/ddbangla/master.m3u8
+#EXTINF:-1 ,u bangla
+https://live.dinesh29.com.np/stream/jiotv/ubangla/master.m3u8
+#EXTINF:-1 ,rang
+https://live.dinesh29.com.np/stream/jiotv/rang/master.m3u8
+#EXTINF:-1 ,kolkata tv
+https://live.dinesh29.com.np/stream/jiotv/kolkatatv/master.m3u8
+#EXTINF:-1 ,tara tv
+https://live.dinesh29.com.np/stream/jiotv/taratv/master.m3u8
+#EXTINF:-1 ,bhoomi24×7
+https://live.dinesh29.com.np/stream/jiotv/bhoomi24×7/master.m3u8
+#EXTINF:-1 ,24hrs tv
+https://live.dinesh29.com.np/stream/jiotv/24hrstv/master.m3u8
+#EXTINF:-1 ,nd24
+https://live.dinesh29.com.np/stream/jiotv/nd24/master.m3u8
+#EXTINF:-1 ,purnima tv
+https://live.dinesh29.com.np/stream/jiotv/purnimatv/master.m3u8
+#EXTINF:-1 ,friends tv
+https://live.dinesh29.com.np/stream/jiotv/friendstv/master.m3u8
+#EXTINF:-1 ,spondon
+https://live.dinesh29.com.np/stream/jiotv/spondon/master.m3u8
+#EXTINF:-1 ,prag news
+https://live.dinesh29.com.np/stream/jiotv/pragnews/master.m3u8
+#EXTINF:-1 ,dy365
+https://live.dinesh29.com.np/stream/jiotv/dy365/master.m3u8
+#EXTINF:-1 ,Ramdhenu
+https://live.dinesh29.com.np/stream/jiotv/ramdhenu/master.m3u8
+#EXTINF:-1 ,ranggen tv
+https://live.dinesh29.com.np/stream/jiotv/rongeentv/master.m3u8
+#EXTINF:-1 ,Colors bangla
+https://live.dinesh29.com.np/stream/jiotv/colorsbanglasd/master.m3u8
+
+
 
 
 #EXTINF:-1,Zee-Bangla-Cinema
@@ -5501,6 +5556,29 @@ https://tvsen7.aynaott.com/RongeenTV/index.m3u8?e=1753741255&u=9a031201-22d8-4f7
 https://tv.ddns.vn/tv/cartoonhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.ddns.vn/logo/dreamworks.png" group-title="Quốc tế",Dreamworks 
 https://tv.ddns.vn/tv/dreamworks/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",Disney Channel
+https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/master.m3u8
+#EXTINF:-1 tvg-id="ts127" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8018-j7a7n1a8-v1/imageContent-8018-j7a7n1a8-m1.png" group-title="Telugu;Bengali;Malayalam;Kannada;Marathi;Hindi;Tamil;Animation;Kids;Cartoons",Sonic Nickelodeon
+https://live.dinesh29.com.np/stream/jiotv/sonichindi/master.m3u8
+#EXTINF:-1 tvg-id="ts239" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" group-title="Telugu;Hindi;Tamil;Animation;Kids;Cartoons",Pogo
+https://live.dinesh29.com.np/stream/jiotv/pogohindi/master.m3u8
+#EXTINF:-1 tvg-id="ts433" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png" group-title="English;Hindi;Animation;Kids;Cartoons",Nick HD+ 
+https://live.dinesh29.com.np/stream/jiotv/nickhd/master.m3u8
+#EXTINF:-1 tvg-id="ts144" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png" group-title="English;Telugu;Hindi;Tamil;Animation;Kids;Cartoons",Disney Junior 
+https://live.dinesh29.com.np/stream/jiotvplus/disneyjunior/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRacidgUrSdyYWwcBvzsJlre5vwTH-v7Xrh0Q&usqp=CAU",Disney HD 
+https://stream.himelop-pro.top/vm/disneyop.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/DIHDlogo.png",Disney International HD
+https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/800px-Hungama_TV.svg.png" ,HUNGAMA KIDS 
+https://live.dinesh29.com.np/stream/jiotvplus/hungama/master.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/700/-/2024-10-17/241017545017.jpg" ,NICK HINDI 
+https://live.dinesh29.com.np/stream/jiotv/nickhindi/master.m3u8
+#EXTINF:-1 ,power kids
+https://live.dinesh29.com.np/stream/jiotv/powerkidstv/master.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/YTfbaxj.png",Super Hungama tv  
+https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
+
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",Disney Channel
 https://live.dinesh29.com.np/stream/livetv/disneychannel/master.m3u8
@@ -5522,6 +5600,84 @@ https://live.dinesh29.com.np/stream/livetv/animax/master.m3u8
 https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/cf0759d6-81b1-41f7-ac28-d05767f1d957/0.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://onezoo.net/wp-content/uploads/2025/07/ChatGPT-Image-Jul-18-2025-11_37_38-AM-200x300.png",ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
+#EXTINF:-1 ,Toonami Aftermath East
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 tvg-chno=139 tvg-id="inazuma-eleven-go" tvg-name="Inazuma Eleven Collection" group-title="programmi_tv",Inazuma Eleven Collection
+https://fb48d2109ad543dbba5100bae02bd86f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_InazumaElevenGo/playlist.m3u8
+#EXTINF:-1 tvg-chno=142 tvg-id="yu-gi-oh-new-ita" tvg-name="Yu-Gi-Oh!" group-title="programmi_tv",Yu-Gi-Oh!
+https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-chno=143 tvg-id="mr-bean-it" tvg-name="Mr. Bean" group-title="programmi_tv",Mr. Bean
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+#EXTINF:-1 tvg-chno=144 tvg-id="mr-bean-live-action" tvg-name="Mr. Bean - Live Action" group-title="programmi_tv",Mr. Bean - Live Action
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="mrbean" tvg-name="Mr. Bean Anime" tvg-logo="https://8upload.com/image/685d05f1760bd/mrbeanhilay.png" group-title="General",Mr. Bean Anime 
+https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="sensicaljr" tvg-name="Sensical Jr" tvg-logo="https://8upload.com/image/68247b8a9e355/sensicaljrhilay.png" group-title="Kids",Sensical Jr
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/588249d5-ab5b-40f9-8951-7f99f488d05a/4.m3u8
+#EXTINF:-1 tvg-id="sensicalmakers" tvg-name="Sensical Makers" tvg-logo="https://8upload.com/image/68247b8ab6e9c/sensicalmakershilay.png" group-title="Kids",Sensical Makers
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/bb3bdc6c-a3a7-4029-b0fe-f25d170a11f1/4.m3u8
+#EXTINF:-1 tvg-id="Babyfirst" tvg-name="Baby First" tvg-logo="https://8upload.com/image/6807ce190e521/babyfirsthilay.png" group-title="Kids",Baby First
+https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/d3bb2ef6-3e31-4ee6-8697-944ecd3a029d/1.m3u8
+#EXTINF:-1 tvg-id="ToonGoggles" tvg-name="Toon Goggles" tvg-logo="https://8upload.com/image/680637c515d85/tghilay.png" group-title="Kids",Toon Goggles
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
+#EXTINF:-1 tvg-id="Cartoonnetwork" tvg-name="Cartoon Network US" tvg-logo="http://www.cartoonnetwork.com.au/" group-title="Kids",Cartoon Network US
+https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Moonbug" tvg-name="Moonbug kids" tvg-logo="https://8upload.com/image/680636e6e82ea/moonbughilay.png" group-title="Kids",Moonbug kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Disney" tvg-name="Disney Channel" tvg-logo="https://8upload.com/image/681f402c00822/disneychannelhilay.png" group-title="Kids",Disney Channel
+https://fl5.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJr" tvg-name="Disney Junior" tvg-logo="https://8upload.com/image/681f402be7fca/disneyjrhilay.png" group-title="Kids",Disney Junior
+http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXD" tvg-name="Disney XD" tvg-logo="https://8upload.com/image/681f402bdee16/disneyxdhilay.png" group-title="Kids",Disney XD
+http://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://8upload.com/image/681f471c52caa/boomeranghilay.png" group-title="Kids",Boomerang
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://8upload.com/image/681f402bd3b9e/nickelodeonhilay.png" group-title="Kids",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons" tvg-logo="https://8upload.com/image/681f402bc8357/nicktoonshilay.png" group-title="Kids",Nicktoons
+http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr" tvg-logo="https://8upload.com/image/681f402bb9fc0/nickjrhilay.png" group-title="Kids",Nick Jr
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/98815.ts
+#EXTINF:-1 tvg-id="PBSKids" tvg-name="PBS Kids" tvg-logo="https://8upload.com/image/681f471c5ef06/pbskidshilay.png" group-title="Kids",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="babyrhmes" tvg-name="Baby Rhymes" tvg-logo="https://8upload.com/image/6823b56d99a8e/babyrhyneshilay.png" group-title="Kids",Baby Rhymes
+http://45.148.145.57/rhymes247_1/index.m3u8
+#EXTINF:-1 tvg-id="pop" tvg-name="POP" tvg-logo="https://8upload.com/image/687b7dcfd2289/pophilay.png" group-title="Kids",POP
+https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="popup" tvg-name="POP UP" tvg-logo="https://8upload.com/image/687b86f091f45/popuphilay.png" group-title="Kids",POP UP
+https://narrative-fast-popup-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-popup-live-amagi/playlist.m3u8
+#EXTINF:-1 tvg-id="cbeebies" tvg-name="Cbeebies" tvg-logo="https://8upload.com/image/682c177ba0c79/cbeebieshilay.png" group-title="Kids",Cbeebies
+http://primestreams.tv:826/live/SF11/vulwBvtfo9/98851.ts
+#EXTINF:-1 tvg-id="zoomoo" tvg-name="ZooMoo Kids" tvg-logo="https://8upload.com/image/6832d139157cc/zoomoohilay.png" group-title="Kids",ZooMoo Kids
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,aghapykids
+https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
+#EXTINF:-1 ,Karusel
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1 ,chinolatv
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+#EXTINF:-1 ,gubbare
+https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+#EXTINF:-1 ,A
+https://d3f4oii5n0oeqi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_tcl-ams-aws/cbfe9581-9b48-4084-aab0-186c37b2325b/0.m3u8
+#EXTINF:-1 ,b
+https://d29h829bjuxghm.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_lgchannels-cdp-publica/8fdf29f4-aab9-424f-99e2-032c9ba28628/0.m3u8
+#EXTINF:-1 ,c
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5482
+#EXTINF:-1 ,d
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5476
+#EXTINF:-1 ,
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5478
+#EXTINF:-1 tvg-id="Etv Balbharat SD" tvg-logo="https://assets.etvbalbharat.com/languageimages/ETV_HINDI.png" group-title="Kids",ETV BalBharat SD Hindi livetvbox
+http://livetvbox.live:8080/Ashraf123/Ashraf321/355286
+#EXTINF:-1 tvg-id="Etv Balbharat SD" tvg-logo="https://assets.etvbalbharat.com/languageimages/ETV_HINDI.png" group-title="Kids",ETV BalBharat SD Hindi m3u8 livetvbox
+http://livetvbox.live:8080/live/Ashraf123/Ashraf321/355286.m3u8
+
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney HD Multi Language livetvbox
+http://livetvbox.live:8080/Ashraf123/Ashraf321/19741
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney HD Multi Language m3u8 livetvbox
+http://livetvbox.live:8080/live/Ashraf123/Ashraf321/19741.m3u8
+
 
 #EXTINF:-1tvg-id="AndoTV.cn",Comedy Senter
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
@@ -7627,7 +7783,12 @@ http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102588
 
 
 
-
+#EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://i.postimg.cc/pVC4ZQS8/kpop.png",KPOP
+https://live.24hrkpop.com/hls/3/stream.m3u8
+#EXTINF:-1 group-title="ALL SPORTS" tvg-logo="https://i.postimg.cc/630jMwMw/new-kpop.png",NEW KPOP
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/76da8a34-9b9c-4920-b86f-934fbdaa2fcf/2.m3u8
+#EXTINF:-1 ,Biztv
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/3633.DistroTv.in/en/1x1/208x208/test_pic1690463007562.jpg" group-title="MX Player",BritAsiaTV 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://appv10static.jaagobd.com/media/channel_logos/8xm.png",8XM
@@ -7777,32 +7938,53 @@ https://live.drmlive-02.workers.dev/zee/0-9-zing.m3u8
 
 
 
+#EXTINF:-1 ,afghannobel
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1694401036.m3u8
+#EXTINF:-1 ,Biz
+https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/playlist.m3u8
+#EXTINF:-1 ,miracle1
+https://edgestream2.frodo.hel1.hc.boxigy.com/hls/miracle1.m3u8
+#EXTINF:-1 ,mekameleen
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 ,yemenshabab
+https://starmenajo.com/hls/yemenshabab/index.m3u8
+#EXTINF:-1 ,maahtv
+https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:-1 ,hls
+https://metafilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 ,SUNDANCE
+https://fl3.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 ,pltv
+https://lenz.splus.ir/PLTV/88888888/224/3221226879/index.m3u8
+#EXTINF:-1 tvg-id="nasatv" tvg-name="NASA TV" tvg-logo="https://8upload.com/image/68642a7caa778/nasatvhilay.png" group-title="General",NASA TV
+https://api.m3use.projectmoose.xyz/m3u/bastisoo/Sebastian%20M3U/67f5b4554567877a434a2b9a.m3u8?uid=hilaytv&pkey=hilaytv
+
 #EXTINF:-1 tvg-id=",Filmbox 
-https://live.dinesh29.com.np/stream/livetv/starplushd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
 #EXTINF:-1 tvg-id=",Filmbox 
-https://live.dinesh29.com.np/stream/livetv/colorshd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotv/colorshd/master.m3u8
 #EXTINF:-1 tvg-id=",Filmbox 
-https://live.dinesh29.com.np/stream/livetv/zeetvhd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotv/zeetvhd/master.m3u8
 #EXTINF:-1 tvg-id=",Filmbox 
-https://live.dinesh29.com.np/stream/livetv/starbharathd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
 #EXTINF:-1 tvg-id=",Filmbox 
-https://live.dinesh29.com.np/stream/livetv/andtvhd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotv/andtvhd/master.m3u8
 #EXTINF:-1 tvg-id=",Filmbox 
-https://live.dinesh29.com.np/stream/livetv/zeecafehd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotv/zeecafehd/master.m3u8
 #EXTINF:-1 tvg-id=",Filmbox 
-https://live.dinesh29.com.np/stream/livetv/zeetv/master.m3u8
+https://live.dinesh29.com.np/stream/jiotv/zeetv/master.m3u8
 #EXTINF:-1 tvg-id=",Filmbox 
-https://live.dinesh29.com.np/stream/livetv/rishtey/master.m3u8
+https://live.dinesh29.com.np/stream/jiotv/rishtey/master.m3u8
 #EXTINF:-1 tvg-id=",Filmbox 
-https://live.dinesh29.com.np/stream/livetv/sonysab/master.m3u8
+https://live.dinesh29.com.np/stream/jiotv/sonysab/master.m3u8
 #EXTINF:-1 tvg-id=",Filmbox 
-https://live.dinesh29.com.np/stream/livetv/starmovieshd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
 #EXTINF:-1 tvg-id=",Filmbox 
-https://live.dinesh29.com.np/stream/livetv/starmoviesselecthd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
 #EXTINF:-1 tvg-id=",Filmbox 
 https://live.dinesh29.com.np/stream/livetv/stargoldhd/master.m3u8
 #EXTINF:-1 tvg-id=",Filmbox 
-https://live.dinesh29.com.np/stream/livetv/stargoldselecthd/master.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
 #EXTINF:-1 tvg-id=",Filmbox 
 https://live.dinesh29.com.np/stream/livetv/zeecinemahd/master.m3u8
 #EXTINF:-1 tvg-id=",Filmbox 
