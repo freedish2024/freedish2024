@@ -1,4 +1,203 @@
-x#EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id="20714fd4-dc3c-46d6-924f-3038d61f027c" tvg-name="Channel I" tvg-logo="https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261" group-title="Channels",Channel I
+https://tvsen6.aynaott.com/channeli/index.m3u8
+
+#EXTINF:-1 tvg-id="1a2c8ec3-61d5-4355-80e2-fc3c9b178a0d" tvg-name="NTV" tvg-logo="https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449" group-title="Channels",NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+
+#EXTINF:-1 tvg-id="21e75798-3b6a-4214-9d93-b3fecaa4e700" tvg-name="Bangla Vision" tvg-logo="https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043" group-title="Channels",Bangla Vision
+https://tvsen5.aynaott.com/banglavision/index.m3u8
+
+#EXTINF:-1 tvg-id="70e97db9-5a9e-4642-874e-af3d30ba9925" tvg-name="RTV" tvg-logo="https://s3.aynaott.com/storage/fd634ca672c8294f109225ca42d20991" group-title="Channels",RTV
+https://tvsen5.aynaott.com/RtvHD/index.m3u8
+
+#EXTINF:-1 tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" tvg-name="ATN Bangla" tvg-logo="https://s3.aynaott.com/storage/a4d2bbdb65b4abc239eaddedda1e5d22" group-title="Channels",ATN Bangla
+https://tvsen5.aynaott.com/atnbangla/index.m3u8
+
+#EXTINF:-1 tvg-id="9a94b22f-c4a4-4150-8eb9-129d0ddeb934" tvg-name="Maasranga TV" tvg-logo="https://s3.aynaott.com/storage/5db4a54244a315684254b441e92539e2" group-title="Channels",Maasranga TV
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+
+#EXTINF:-1 tvg-id="0be12af9-e713-4c65-b4ed-b735793a0418" tvg-name="Deepto TV" tvg-logo="https://s3.aynaott.com/storage/12462ef0383fa0e927215d56cd51acf8" group-title="Channels",Deepto TV
+https://tvsen5.aynaott.com/DeeptoTVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c" tvg-name="Duronto TV" tvg-logo="https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc" group-title="Channels",Duronto TV
+https://tvsen5.aynaott.com/durontotv/index.m3u8
+
+#EXTINF:-1 tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-name="ETV" tvg-logo="https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4" group-title="Channels",ETV
+https://tvsen6.aynaott.com/etv/index.m3u8
+
+#EXTINF:-1 tvg-id="27ec4394-7640-4dab-abf8-6a48893dfdfe" tvg-name="Somoy News TV" tvg-logo="https://s3.aynaott.com/storage/cbadf009eebf7506c7633b3a98a2f042" group-title="Channels",Somoy News TV
+https://tvsen6.aynaott.com/somoytv/index.m3u8
+
+#EXTINF:-1 tvg-id="fc95d30e-5323-4c12-bb38-7a1e3f04acc2" tvg-name="T Sports HD" tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32" group-title="Channels",T Sports HD
+https://tvsen5.aynaott.com/tsports/index.m3u8
+
+#EXTINF:-1 tvg-id="b1808fb2-8892-49dc-965e-d038e5334995" tvg-name="Gazi TV" tvg-logo="https://s3.aynaott.com/storage/0b4d83d0baf7513beae135e134fced2c" group-title="Channels",Gazi TV
+https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
+
+#EXTINF:-1 tvg-id="dd8c50e9-5dad-4cb9-9df8-5763e95281ad" tvg-name="Desh TV" tvg-logo="https://s3.aynaott.com/storage/9ef657aca7c0009e4f0675af3b5190d8" group-title="Channels",Desh TV
+https://tvsen6.aynaott.com/deshtv/index.m3u8
+
+#EXTINF:-1 tvg-id="92890d5c-473a-454c-ad10-2c6c0c91062a" tvg-name="Boishakhi TV" tvg-logo="https://s3.aynaott.com/storage/ec66cdf9538da75b08112f9ae2f151bc" group-title="Channels",Boishakhi TV
+https://tvsen6.aynaott.com/boishakhitv/index.m3u8
+
+#EXTINF:-1 tvg-id="56f7abf3-1586-4f6d-9df2-1726ccb43779" tvg-name="Channel 9" tvg-logo="https://s3.aynaott.com/storage/affd223f023a705e3a1c5df263d0a7ef" group-title="Channels",Channel 9
+https://tvsen6.aynaott.com/channel9/index.m3u8
+
+#EXTINF:-1 tvg-id="89247cb9-3c3e-465c-bbc7-d444b0d65424" tvg-name="Channel 24" tvg-logo="https://s3.aynaott.com/storage/502b8de24fcfc4443c376270a6e45527" group-title="Channels",Channel 24
+https://tvsen6.aynaott.com/channel24/index.m3u8
+
+#EXTINF:-1 tvg-id="4d629b90-cfc2-4426-9eef-62b879efdb02" tvg-name="Asian TV" tvg-logo="https://s3.aynaott.com/storage/8faf522ac37bfcd9c163145f77a9a024" group-title="Channels",Asian TV
+https://tvsen6.aynaott.com/asiantv/index.m3u8
+
+#EXTINF:-1 tvg-id="a0a29f90-f7c2-4cc2-b0b4-667253585b84" tvg-name="ATN News" tvg-logo="https://s3.aynaott.com/storage/8e9db8284bf110dce597f48674d1968a" group-title="Channels",ATN News
+https://tvsen6.aynaott.com/atnnews/index.m3u8
+
+#EXTINF:-1 tvg-id="22f28ae5-8c15-4904-b9f6-70bbd94cbc43" tvg-name="Independent TV" tvg-logo="https://s3.aynaott.com/storage/ee4466e6b775bf83f4f5a90a1dc89234" group-title="Channels",Independent TV
+https://tvsen6.aynaott.com/independenttv/index.m3u8
+
+#EXTINF:-1 tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-name="SA TV" tvg-logo="https://s3.aynaott.com/storage/83796140b05a889d37c4c98ed8c43821" group-title="Channels",SA TV
+https://tvsen6.aynaott.com/satv/index.m3u8
+
+#EXTINF:-1 tvg-id="0875f2c8-2043-499b-9472-2872412a6340" tvg-name="DBC News" tvg-logo="https://s3.aynaott.com/storage/e8bb743022a2b6b0ee714bbdb2715cbe" group-title="Channels",DBC News
+https://tvsen6.aynaott.com/dbcnews/index.m3u8
+
+#EXTINF:-1 tvg-id="0579659b-2854-40d1-ad6a-69b70641ad17" tvg-name="Ekhon TV" tvg-logo="https://s3.aynaott.com/storage/94ff4123b6c533d0332d63944ccf5868" group-title="Channels",Ekhon TV
+https://tvsen6.aynaott.com/ekhontv/index.m3u8
+
+#EXTINF:-1 tvg-id="2b1a4340-2557-4d57-b77c-657bb30ce0c8" tvg-name="News 24 BD" tvg-logo="https://s3.aynaott.com/storage/b102f206ea73dfdbc591e9cf6c8c478d" group-title="Channels",News 24 BD
+https://tvsen6.aynaott.com/news24/index.m3u8
+
+#EXTINF:-1 tvg-id="addb7014-1d2e-41d8-982d-7cafbdc48770" tvg-name="Bangla TV" tvg-logo="https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08" group-title="Channels",Bangla TV
+https://tvsen6.aynaott.com/banglatv/index.m3u8
+
+#EXTINF:-1 tvg-id="1a7a1365-ae2c-470f-9fb2-25c6e83bb108" tvg-name="Ekattor TV" tvg-logo="https://s3.aynaott.com/storage/c69d4851784c5fefa6d0117653d227c3" group-title="Channels",Ekattor TV
+https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8
+
+#EXTINF:-1 tvg-id="8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa" tvg-name="Jamuna TV" tvg-logo="https://s3.aynaott.com/storage/18c65f48bb15b1e59a8d91b8d1675122" group-title="Channels",Jamuna TV
+https://tvsen6.aynaott.com/jamunatv/index.m3u8
+
+#EXTINF:-1 tvg-id="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" tvg-name="Mohona TV" tvg-logo="https://s3.aynaott.com/storage/663c8079982ff6a45fc99e78c865a63d" group-title="Channels",Mohona TV
+https://tvsen6.aynaott.com/mohonatv/index.m3u8
+
+#EXTINF:-1 tvg-id="e64e1c11-1167-43a1-9e0f-995cbf6f7ff9" tvg-name="NEXUS TV" tvg-logo="https://s3.aynaott.com/storage/db85422953e3a1652e26b0a14eed92a9" group-title="Channels",NEXUS TV
+https://tvsen6.aynaott.com/nexustv/index.m3u8
+
+#EXTINF:-1 tvg-id="f7c89459-37bf-4129-904d-33b0a4c0d590" tvg-name="Bijoy TV" tvg-logo="https://s3.aynaott.com/storage/589934eb6a1c264a0ee6bf6d82fad81c" group-title="Channels",Bijoy TV
+https://tvsen6.aynaott.com/bijoytv/index.m3u8
+
+#EXTINF:-1 tvg-id="0ac6af3d-acce-4d9d-9ce5-32d4b53f9326" tvg-name="Global TV" tvg-logo="https://s3.aynaott.com/storage/bda05e1c2173251baebc20ffe43dea0b" group-title="Channels",Global TV
+https://tvsen6.aynaott.com/globaltvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="c0480a4a-f066-4a20-9f7d-73bbd852260f" tvg-name="My TV" tvg-logo="https://s3.aynaott.com/storage/d93b76211f818fcce66e7f44119ce0be" group-title="Channels",My TV
+https://tvsen6.aynaott.com/mytv/index.m3u8
+
+#EXTINF:-1 tvg-id="a108c4e9-ccfa-42f2-8f8f-169ded28cca2" tvg-name="Ananda TV" tvg-logo="https://s3.aynaott.com/storage/225c955ff4174c976ab01d7214b3f28f" group-title="Channels",Ananda TV
+https://tvsen6.aynaott.com/anandatv/index.m3u8
+
+#EXTINF:-1 tvg-id="a3d48c46-7902-45e2-abf9-0fab60c4d117" tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/f32cb68f73e383cf0e3f12ad2732b902" group-title="Channels",A sports
+https://tvsen7.aynaott.com/asports-bkp/index.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="sony-hd" tvg-name="SET HD" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" group-title="Entertainment",SET HD
+https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-sab-hd" tvg-name="Sony SAB HD" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" group-title="Entertainment",Sony SAB HD
+https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" tvg-language="Marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="Entertainment",Sony Marathii
+https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-pal" tvg-name="Sony Pal" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png" group-title="Entertainment",Sony Pal
+https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Entertainment",Sony Aath
+https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-yay" tvg-name="Sony Yay" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" group-title="Kids",Sony Yay
+https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony MAX HD" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png" group-title="Movies",Sony MAX HD
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-max" tvg-name="Sony MAX" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/X7MmrgCs/SONY-MAX.png" group-title="Movies",Sony MAX
+https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-max-2" tvg-name="Sony MAX 2" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies" group-logo="https://i.postimg.cc/ZnBh92s3/SONY-MAX-2.png", Sony MAX 2
+https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-wah" tvg-name="Sony WAH" tvg-language="Hindi" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies" group-logo="https://i.postimg.cc/jq6Qh61g/SONY-WAH.png", Sony WAH
+https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" tvg-language="English" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" group-title="Movies",Sony PIX HD
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-name="Sony BBC Earth HD" tvg-language="English" tvg-logo="https://i.postimg.cc/t4g4cy4Z/SONY-BBC-EARTH.png" group-title="Infotainment",Sony BBC Earth HD
+https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1 HD" tvg-language="English" tvg-logo="https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png" group-title="Sports",Sony Sports Ten 1 HD
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-name="Sony Sports Ten 2 HD" tvg-language="English" tvg-logo="https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png" group-title="Sports",Sony Sports Ten 2 HD
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-name="Sony Sports Ten 3 HD" tvg-language="Hindi" tvg-logo="https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png" group-title="Sports",Sony Sports Ten 3 HD
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-4-hd" tvg-name="Sony Sports Ten 4 HD" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqTzjp5hQzAllLUx0A_fJ5ThFLGdt-X7rIPKzw25coi6AUVjo_KyvDQrsb&s=10", Sony Sports Ten 4 HD
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" tvg-language="English" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" group-title="Sports", Sony Sports Ten 5 HD
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+
+#EXTINF:-1 tvg-id="sony-kal" tvg-name="Sony KAL" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" tvg-chno="sony-kal" group-title="SonyLIV by CRICFy",Sony KAL
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
+
+
+
+
+ 
+
+
+
+#EXTINF:-1 tvg-id="starsportshindi1" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportshindi1.png" group-title="Entertainment",Star Sports Hindi 1
+https://live.dinesh29.com.np/stream/jiotvplus/starsportshindi1/master.m3u8
+
+#EXTINF:-1 tvg-id="starsportsselecthd1" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportsselecthd1.png" group-title="Sports",Star Sports Select HD1
+https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
+
+#EXTINF:-1 tvg-id="starsportsselecthd2" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportsselecthd2.png" group-title="Sports",Star Sports Select HD2
+https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8 
+
+#EXTINF:-1 tvg-id="starsportshd1" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportshd1.png" group-title="Sports",Star Sports HD1
+https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8 
+
+#EXTINF:-1 tvg-id="starsportshd2" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportshd2.png" group-title="Sports",Star Sports HD2
+https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8
+ 
+#EXTINF:-1 tvg-id="stargoldselecthd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldselecthd.png" group-title="Movies",Star Gold Select HD
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
+
+#EXTINF:-1 tvg-id="stargold2hd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargold2hd.png" group-title="Movies",Star Gold 2 HD
+https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8 
+
+#EXTINF:-1 tvg-id="stargoldhd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldhd.png" group-title="Movies",Star Gold HD
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
+
+#EXTINF:-1 tvg-id="starjalshahd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starjalshahd.png" group-title="Entertainment",Star Jalsha HD
+https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8 
+
+#EXTINF:-1 tvg-id="jalshamovieshd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/jalshamovieshd.png" group-title="Movies",Jalsha Movies HD
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8 
+
+#EXTINF:-1 tvg-id="colorshd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorshd.png" group-title="Entertainment",Colors HD
+https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8 
+
+#EXTINF:-1 tvg-id="colorsbengalihd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/colorsbengalihd.png" group-title="Entertainment",Colors Bengali HD
+https://live.dinesh29.com.np/stream/jiotvplus/colorsbengalihd/master.m3u8 
 
 
 #EXTINF:-1 ,TSPORTS
