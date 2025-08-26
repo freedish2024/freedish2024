@@ -4854,10 +4854,10 @@ https://jolshabd.com/live/sbanglatv/chunklist_w414063973.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/usbdjournal/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.usbdjournal24.com/wp-content/uploads/2024/11/LOGO-USBDJOURNAL.png",Usbdjournal24 Tv
 https://live20.bozztv.com/akamaissh101/ssh101/usbdjournal/chunks.m3u8
-
-
-
-
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/05/Jhankartv.jpg",Jhankar Tv 
+https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/chLzRXC/Nagorik-TV-Logo.png" group-title="", Nagorik TV /index.m3u8
+http://103.122.252.100:8080/NAGORIK-TV/tracks-v1a1
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/04/movieplus.jpg",Movies Plus
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/movieplus.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://eyetvbangla24.com/wp-content/uploads/2023/11/Final-jpg3-Logo-eyeTvbangla.jpg",Eye Tv Bangla
@@ -5013,6 +5013,8 @@ http://stvlive.net:8080/spremier/tracks-v1a1/mono.m3u8
 http://103.122.252.100:8080/NAGORIK-TV/index.m3u8
 #EXTINF:-1 tvg-id="AndoTV.cn",tara Tv
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tara-tv/d0e26b64-8e0d-47aa-8121-36a950d5451f/0.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/6qPT58m2/20250522-024115.jpg",AHIL TV HD
+http://ottking.duckdns.org:8184/Ahil_Tv_HD/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://www.newspapersstore.com/wp-content/uploads/2018/04/jonmobhumi-tv-live.jpg",JONMOBHUMI TV
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tracks-v1a1/mono.ts.m3u8?t=02de70e0281844f08530ceb7d4b34fdb
@@ -5592,6 +5594,11 @@ http://202.78.232.181:8090/playontv/playon@admin/157
 http://202.78.232.181:8090/playontv/playon@admin/194
 #EXTINF:-1 group-title="MOVIS" tvg-logo="http://ott.playontv.in:8090/images/wM9PrGmOMl2R1ko2OeeDo96Dqr_myadOuj1S_--xpWW4xakA4NV0TlnHI26k4F0X.jpg" ,B PRIME BANGLA
 http://202.78.232.181:8090/playontv/playon@admin/197
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrHPJF4hEHGrDJDpdItZCEfHoL4ofVapDbhg&s" ,MONTEL NEWS
+http://202.78.232.181:8090/playontv/playon@admin/105
+#EXTINF:-1 group-title="DEVOTIONAL" tvg-logo="http://ott.playontv.in:8090/images/wM9PrGmOMl2R1ko2OeeDo9b1lMea5YIyRuHudl8PqfQqlTawW7ow3rO8zhZUhTdx.jpg" ,BHAKTI PURNIMA
+http://202.78.232.181:8090/playontv/playon@admin/165
+
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ott.playontv.in:8090/images/wM9PrGmOMl2R1ko2OeeDo9CkYR8ymZi2oOBU9Nugf9ZHDwWZwVC899EWY3yvEs6D.png" ,SANANDA TV
 http://115.187.41.216:8080/sanandatv.ts
 #EXTINF:-1 group-title="MOVIS" tvg-logo="http://ott.playontv.in:8090/images/sEaHFabRvK7QzgNkgmCcQ7CcZ-DUkSOjZn7PuOUUeYxoC7tv7_aP1RQyAcnjfTxf.jpg" ,KALIYAGANJ TV
@@ -5600,7 +5607,10 @@ https://tiger-hub.vercel.app/Kaliagong-tv/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/Toffee-drama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Rana Cble Tv
 http://ranacabletv.fun/hls/live/ranacabletv.m3u8
-
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/cHRc7hTk/Sun-Bangla.jpg",Sun Bangla HD 
+https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png" group-title="LIVE TV", SUN BANGLA HD
+http://103.122.252.100:8080/SUN-BANGLA/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,zee bangla sonara
 http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 
@@ -5822,6 +5832,37 @@ https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8
 https://amg02333-pbs-amg02333c6-lg-us-3175.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsretro-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Barney_and_Friends" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1843-LG-960x540_v1.png" group-title="Kids",Barney and Friends
 https://aae52452.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQmFybmV5YW5kRnJpZW5kc19ITFM/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="sonicentric" tvg-logo="https://a.jsrdn.com/hls/22801/sonicentric/poster_20240104_210850.png" group-title="Moods",SoniCentric
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sonicentric/master.m3u8
+#EXTINF:-1 tvg-id="dronetv" tvg-logo="https://a.jsrdn.com/hls/23176/dronetv/poster_20240521_191238.png" group-title="Moods",DroneTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8
+#EXTINF:-1 tvg-id="stingray-naturescape" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22865/stingray-naturescape/poster_20200717_232723.jpg" group-title="Moods",Stingray Naturescape
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/naturescape-a003-montreal/distrotv/master.m3u8
+#EXTINF:-1 tvg-id="naturestreamtv" tvg-logo="https://a.jsrdn.com/hls/23037/naturestreamtv/poster_20250116_192327.jpg" group-title="Moods",NatureStream.tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8
+#EXTINF:-1 tvg-id="nomadslow-tv" tvg-logo="https://a.jsrdn.com/hls/23195/nomadslow-tv/poster_20250225_225157.jpg" group-title="Moods",NOMADslow tv
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QB4B9Z7EPNS0GAY8VTBZ/hls3/now,-1m/m.m3u8
+#EXTINF:-1 tvg-id="fireplace-lounge" tvg-logo="https://a.jsrdn.com/hls/22801/fireplace-lounge/poster_20220608_205108.png" group-title="Moods",Fireplace Lounge
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/master.m3u8
+#EXTINF:-1 tvg-id="relaxing-rain" tvg-logo="https://a.jsrdn.com/hls/22801/relaxing-rain/poster_20220608_205342.png" group-title="Moods",Relaxing Rain
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/master.m3u8
+#EXTINF:-1 tvg-id="fish-tank" tvg-logo="https://a.jsrdn.com/hls/22801/fish-tank/poster_20220608_205206.png" group-title="Moods",Fish Tank
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8
+#EXTINF:-1 tvg-id="relaxing-winterscapes" tvg-logo="https://a.jsrdn.com/hls/22801/relaxing-winterscapes/poster_20220510_231127.jpg" group-title="Moods",Relaxing WinterScapes
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-winterscapes/master.m3u8
+#EXTINF:-1 tvg-id="spring-escape" tvg-logo="https://a.jsrdn.com/hls/22801/spring-escape/poster_20220510_231804.jpg" group-title="Moods",Spring Escape
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/spring-escape/master.m3u8
+#EXTINF:-1 tvg-id="autumn-escape" tvg-logo="https://a.jsrdn.com/hls/22801/autumn-escape/poster_20220510_225205.jpg" group-title="Moods",Autumn Escape
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/autumn-escape/master.m3u8
+#EXTINF:-1 tvg-id="island-escape" tvg-logo="https://a.jsrdn.com/hls/22801/island-escape/poster_20220608_205300.png" group-title="Moods",Island Escape
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/master.m3u8
+#EXTINF:-1 tvg-id="tranquil-thunderstorms" tvg-logo="https://a.jsrdn.com/hls/22801/tranquil-thunderstorms/poster_20220608_205517.png" group-title="Moods",Tranquil Thunderstorms
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tranquil-thunderstorms/master.m3u8
+#EXTINF:-1 tvg-id="study-lounge" tvg-logo="https://a.jsrdn.com/hls/22801/study-lounge/poster_20220510_232147.jpg" group-title="Moods",Study Lounge
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/study-lounge/master.m3u8
+
 
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",Disney Channel
@@ -8924,7 +8965,34 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-id="wild-nature" tvg-logo="https://a.jsrdn.com/hls/23208/wild-nature/poster_20250401_214212.jpg" group-title="Outdoors",Wild Nature
+https://dg5rg8emlfy55.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildNature2/491.m3u8
+#EXTINF:-1 tvg-id="outside-tv" tvg-logo="https://a.jsrdn.com/hls/22765/outside-tv/poster_20220613_202039.png" group-title="Outdoors",Outside
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/playlist.m3u8
+#EXTINF:-1 tvg-id="fork-and-flight" tvg-logo="https://a.jsrdn.com/hls/23147/fork-and-flight/poster_20241001_172112.jpg" group-title="Food & Travel",Fork & Flight
+https://amg00346-vizioono-amg00346c1-distrotv-us-1397.playouts.now.amagi.tv/playlist/amg00346-vizioincfast-forkandflight-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="gusto-tv" tvg-logo="https://a.jsrdn.com/hls/23062/gusto-tv/poster_20240328_235541.jpg" group-title="Food & Travel",Gusto TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="unchainedtv" tvg-logo="https://a.jsrdn.com/hls/23064/unchainedtv/poster_20250617_212357.png" group-title="Food & Travel",UnchainedTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/unchainedtv/master.m3u8
+#EXTINF:-1 tvg-id="journy" tvg-logo="https://a.jsrdn.com/hls/22944/journy/poster_20220621_221039.jpg" group-title="Food & Travel",Journy
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/journy/playlist.m3u8
+#EXTINF:-1 tvg-id="dronetv" tvg-logo="https://a.jsrdn.com/hls/23176/dronetv/poster_20240521_191238.png" group-title="Food & Travel",DroneTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8
+#EXTINF:-1 tvg-id="4k-travel-tv" tvg-logo="https://a.jsrdn.com/hls/23064/4k-travel-tv/poster_20220531_183816.jpg" group-title="Food & Travel",4K TRAVEL TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+#EXTINF:-1 tvg-id="naturestreamtv" tvg-logo="https://a.jsrdn.com/hls/23037/naturestreamtv/poster_20250116_192327.jpg" group-title="Food & Travel",NatureStream.tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8
+#EXTINF:-1 tvg-id="crematv" tvg-logo="https://a.jsrdn.com/hls/22886/crematv/poster_20230911_181813.png" group-title="Food & Travel",crema.tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/crematv/master.m3u8
+#EXTINF:-1 tvg-id="trontv" tvg-logo="https://a.jsrdn.com/hls/22912/trontv/poster_20201016_172926.jpg" group-title="Food & Travel",TronTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trontv/master.m3u8
+#EXTINF:-1 tvg-id="cooking-panda" tvg-logo="https://a.jsrdn.com/hls/22882/cooking-panda/poster_20201006_170136.jpg" group-title="Food & Travel",Cooking Panda
+https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8
+#EXTINF:-1 tvg-id="viajar-tv" tvg-logo="https://a.jsrdn.com/hls/23195/viajar-tv/poster_20250102_223332.jpg" group-title="Food & Travel",Viajar TV
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8
+#EXTINF:-1 tvg-id="WeatherSpy" tvg-logo="https://img.platform.wurl.dev/channel/1143/lg/d69ea1/LG-400x225_v2.png" group-title="Nature",WeatherSpy
+https://c3b4be95.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfV2VhdGhlclNweV9ITFM/playlist.m3u8
 
 #EXTINF:-1 group-title="NATURE" tvg-logo="http://ott.playontv.in:8090/images/mFbmnRp6w0x__pwB0jFxiZE0a_wkMTW0yUXiusTbuOF3cCXa-AdLBbnYJd1KmJ_3mCJW6eOxv5RtI4VL00L-drSbSKaciFonEAi8biNfw8k.png" ,LIVE NATURE
 http://202.78.232.181:8090/playontv/playon@admin/160
