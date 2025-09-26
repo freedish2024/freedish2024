@@ -4917,7 +4917,8 @@ https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/pla
 #EXTINF:-1,Channel 12
 https://smart.bengaldigital.live/channel12/index.m3u8
 
-
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://s3.aynaott.com/storage/08773290bf83a917aebc07810f12ed49",Gseries Drama
+https://vods2.aynascope.net/gseriesDrama/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/U1CkSyj.png",Teliflim
 https://api.mp4.to/static/downloads/060faaa911e04a29858ce5911e402688/New%20video%201.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/2ngv3Y0/71-Bangla-TV.jpg",71 Bangla TV
@@ -5010,9 +5011,9 @@ https://www.tbn24.com/api/video/20201_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YJxFSMQ.jpg" group-title="BANGLA ENT.",Magic Bangla IPTV [BD] 
 https://jolshabd.com/live/mbanglatv/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://github.com/NmAlifKhan/Channel-Icon/blob/tv/Channel%20A1.png?raw=true",Channel A1
-https://iptvbd.live/channela1/1080.m3u8
+https://stream.shariarsuvo.com/hls_live2/channela1.m3u8
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://www.rajdhani.tv/storage/app/image/1709550169rajdhanitv_logo.png",RAJDHANI TV 
-https://iptvbd.live/rajdhanitv/1080.m3u8
+https://stream.shariarsuvo.com/hls6/rajdhaniweb.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/musicbangla.jpg",Music Bangla
 https://matribhumi.globalplay.live/music-bangla/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.imgur.com/gTnzXlx.png",Me Tv
@@ -7647,6 +7648,92 @@ http://wolvestv.net:8880/80746551156356/22314879512479/531912
 #EXTINF:-1 group-title="|KU|KURDISTAN KIDS " tvg-logo="https://png.pngtree.com/png-clipart/20220511/original/pngtree-round-country-flag-kurdistan-png-image_7712285.png" ,ZARO KIDS زارۆ
 http://wolvestv.net:8880/80746551156356/22314879512479/531913
 
+#EXTINF:-1 tvg-id="" tvg-name="WANASAH TV" tvg-logo="none" group-title="Kids - الاطفال",WANASAH TV
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/232570
+#EXTINF:-1 tvg-id="" tvg-name="LEARN ALPHABET TV" tvg-logo="none" group-title="Kids - الاطفال",LEARN ALPHABET TV
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/232566
+#EXTINF:-1 tvg-id="" tvg-name="MARAH TV" tvg-logo="none" group-title="Kids - الاطفال",MARAH TV
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/232567
+#EXTINF:-1 tvg-id="" tvg-name="MARAH ANIMAL TV" tvg-logo="none" group-title="Kids - الاطفال",MARAH ANIMAL TV
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/232568
+#EXTINF:-1 tvg-id="" tvg-name="MARAH MUSHAKASA TV" tvg-logo="none" group-title="Kids - الاطفال",MARAH MUSHAKASA TV
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/232569
+#EXTINF:-1 tvg-id="" tvg-name="LILA TV" tvg-logo="https://logo.iptveditor.com/latv.png" group-title="Kids - الاطفال",LILA TV
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/43758
+#EXTINF:-1 tvg-id="" tvg-name="MR  BEAN" tvg-logo="https://logo.iptveditor.com/mrbean.png" group-title="Kids - الاطفال",MR  BEAN
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/80903
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 1 TV" tvg-logo="none" group-title="Kids - الاطفال",DISNEY 1 TV
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/232589
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 2 TV" tvg-logo="none" group-title="Kids - الاطفال",DISNEY 2 TV
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/232590
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 3 TV" tvg-logo="none" group-title="Kids - الاطفال",DISNEY 3 TV
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/232591
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY 4 TV" tvg-logo="none" group-title="Kids - الاطفال",DISNEY 4 TV
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/232592
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://logo.iptveditor.com/mbc3.png" group-title="Kids - الاطفال",MBC 3
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/1917
+#EXTINF:-1 tvg-id="" tvg-name="TOYOR BABY" tvg-logo="https://logo.iptveditor.com/toyorbaby.png" group-title="Kids - الاطفال",TOYOR BABY
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/2240
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="TOYOR ALJANEH" tvg-logo="https://logo.iptveditor.com/toyoraljanah.png" group-title="Kids - الاطفال",TOYOR ALJANEH
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/35
+#EXTINF:-1 tvg-id="" tvg-name="TOM&JERRY 2" tvg-logo="https://logo.iptveditor.com/tomejerry.png" group-title="Kids - الاطفال",TOM&JERRY 2
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/80902
+#EXTINF:-1 tvg-id="" tvg-name="SPACETOON ARABIC" tvg-logo="https://logo.iptveditor.com/spacetoonarabic.png" group-title="Kids - الاطفال",SPACETOON ARABIC
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/1722
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONNETWORK AR" tvg-logo="https://logo.iptveditor.com/cartoonnetwork.png" group-title="Kids - الاطفال",CARTOONNETWORK AR
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/58
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="KARAMESH" tvg-logo="https://logo.iptveditor.com/karameesh.png" group-title="Music - الاغاني",KARAMESH
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/37
+#EXTINF:-1 tvg-id="100%tv.nl" tvg-name="MAJID KIDS" tvg-logo="https://logo.iptveditor.com/majidkids.png" group-title="Kids - الاطفال",MAJID KIDS
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/6723
+#EXTINF:-1 tvg-id="" tvg-name="ATFAL MAWAHEB" tvg-logo="https://logo.iptveditor.com/atfal&mawaheb.png" group-title="Kids - الاطفال",ATFAL MAWAHEB
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/4817
+#EXTINF:-1 tvg-id="100%tv.nl" tvg-name="ROTANA KIDS HD" tvg-logo="https://logo.iptveditor.com/rotanaaflam.png" group-title="Kids - الاطفال",ROTANA KIDS HD
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/12576
+#EXTINF:-1 tvg-id="" tvg-name="TAHA" tvg-logo="https://logo.iptveditor.com/taha.png" group-title="Kids - الاطفال",TAHA
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/1728
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="JEEM KIDS" tvg-logo="https://logo.iptveditor.com/kidsjeem.png" group-title="Kids - الاطفال",JEEM KIDS
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/1732
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="BARAEM KIDS" tvg-logo="https://logo.iptveditor.com/kidsbaraem.png" group-title="Kids - الاطفال",BARAEM KIDS
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/1723
+#EXTINF:-1 tvg-id="" tvg-name="MAJD KIDS HD" tvg-logo="https://logo.iptveditor.com/almajdkids.png" group-title="Kids - الاطفال",MAJD KIDS HD
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/61446
+#EXTINF:-1 tvg-id="" tvg-name="KOKKY TV" tvg-logo="https://logo.iptveditor.com/kokkytv.png" group-title="Kids - الاطفال",KOKKY TV
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/83881
+#EXTINF:-1 tvg-id="" tvg-name="ATFAL WE MAWAHEB TV" tvg-logo="https://logo.iptveditor.com/atfalwmawaheb.png" group-title="Kids - الاطفال",ATFAL WE MAWAHEB TV
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/83883
+#EXTINF:-1 tvg-id="" tvg-name="HODHOD TV" tvg-logo="https://logo.iptveditor.com/hodhodtv.png" group-title="Kids - الاطفال",HODHOD TV
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/83884
+#EXTINF:-1 tvg-id="" tvg-name="MODY KIDS TV" tvg-logo="https://logo.iptveditor.com/modykids.png" group-title="Kids - الاطفال",MODY KIDS TV
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/83885
+#EXTINF:-1 tvg-id="" tvg-name="SAT-7 KIDS TV" tvg-logo="https://logo.iptveditor.com/kidstv.png" group-title="Kids - الاطفال",SAT-7 KIDS TV
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/83887
+#EXTINF:-1 tvg-id="" tvg-name="تعليم اطفال KIDS 1" tvg-logo="https://logo.iptveditor.com/kids1.png" group-title="Kids - الاطفال",تعليم اطفال KIDS 1
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/80618
+#EXTINF:-1 tvg-id="" tvg-name="تعليم اطفال KIDS 2" tvg-logo="https://logo.iptveditor.com/kids2.png" group-title="Kids - الاطفال",تعليم اطفال KIDS 2
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/80619
+#EXTINF:-1 tvg-id="" tvg-name="تعليم اطفال KIDS 3" tvg-logo="https://logo.iptveditor.com/kids3.png" group-title="Kids - الاطفال",تعليم اطفال KIDS 3
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/80620
+#EXTINF:-1 tvg-id="" tvg-name="تعليم اطفال KIDS 4" tvg-logo="https://logo.iptveditor.com/kids.png" group-title="Kids - الاطفال",تعليم اطفال KIDS 4
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/80621
+#EXTINF:-1 tvg-id="" tvg-name="تعليم اطفال KIDS 5" tvg-logo="https://logo.iptveditor.com/kids5.png" group-title="Kids - الاطفال",تعليم اطفال KIDS 5
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/80622
+#EXTINF:-1 tvg-id="" tvg-name="تعليم اطفال KIDS 6" tvg-logo="https://logo.iptveditor.com/kids.png" group-title="Kids - الاطفال",تعليم اطفال KIDS 6
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/80623
+#EXTINF:-1 tvg-id="" tvg-name="تعليم اطفال KIDS 7" tvg-logo="https://logo.iptveditor.com/kids.png" group-title="Kids - الاطفال",تعليم اطفال KIDS 7
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/80624
+#EXTINF:-1 tvg-id="" tvg-name="KIDS ZONE AR 1" tvg-logo="https://logo.iptveditor.com/kidszonetv.png" group-title="Kids - الاطفال",KIDS ZONE AR 1
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/38768
+#EXTINF:-1 tvg-id="" tvg-name="KIDS ZONE AR 2" tvg-logo="https://logo.iptveditor.com/kidszonetv.png" group-title="Kids - الاطفال",KIDS ZONE AR 2
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/38767
+#EXTINF:-1 tvg-id="" tvg-name="KIDS ZONE AR 3" tvg-logo="https://logo.iptveditor.com/kidszonetv.png" group-title="Kids - الاطفال",KIDS ZONE AR 3
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/38766
+#EXTINF:-1 tvg-id="" tvg-name="KIDS ZONE AR 4" tvg-logo="https://logo.iptveditor.com/kidszonetv.png" group-title="Kids - الاطفال",KIDS ZONE AR 4
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/38765
+#EXTINF:-1 tvg-id="" tvg-name="KIDS ZONE AR 5" tvg-logo="https://logo.iptveditor.com/kidszonetv.png" group-title="Kids - الاطفال",KIDS ZONE AR 5
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/38764
+#EXTINF:-1 tvg-id="" tvg-name="KIDS ZONE AR 6" tvg-logo="https://logo.iptveditor.com/kidszonetv.png" group-title="Kids - الاطفال",KIDS ZONE AR 6
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/38763
 
 #EXTINF:-1 group-title="AR | Kids " tvg-logo="http://194.163.160.164/KURDY/AFARINBAXCHA.png" ,kids- AFARIN BAXCHA
 http://forevertv.me:2095/d0:d0:03:3d:cf:37aa/pDSMSfNYsG/351222
@@ -8461,6 +8548,13 @@ https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/playlist.m3u8
 #EXTINF:-1 ,Vision Beats
 http://a-edge.bliscdn.com/Visionbeats/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 ,B4u music 
+http://89.187.189.98/B4UMUSIC/index.m3u8
+#EXTINF:-1 ,MTVPLUSHD
+http://89.187.189.98/MTVPLUSHD/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/3633.DistroTv.in/en/1x1/208x208/test_pic1690463007562.jpg" group-title="MX Player",BritAsiaTV 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://appv10static.jaagobd.com/media/channel_logos/8xm.png",8XM
@@ -8657,8 +8751,10 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226879/index.m3u8
 #EXTINF:-1 tvg-id="nasatv" tvg-name="NASA TV" tvg-logo="https://8upload.com/image/68642a7caa778/nasatvhilay.png" group-title="General",NASA TV
 https://api.m3use.projectmoose.xyz/m3u/bastisoo/Sebastian%20M3U/67f5b4554567877a434a2b9a.m3u8?uid=hilaytv&pkey=hilaytv
 
-
-
+#EXTINF:-1 tvg-id=",tvod 
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
+#EXTINF:-1 tvg-id=",Rodja Tv
+https://rodjatv.com/rodjatv/live.m3u8
 #EXTINF:-1 tvg-id=",Filmbox 
 https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
 #EXTINF:-1 tvg-id=",Filmbox 
@@ -8778,9 +8874,20 @@ https://www.xfireflix.fun/test/live.php?id=bce59316a966&e=.m3u8
 #EXTINF:-1 tvg-id="a53f9e0ba020" tvg-name="HUM Sitaray" tvg-country="IN" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_240,q_100/WtPBX5UBm1RY_In7mXEU/posters/188d51f6-aeef-41ed-835b-e25ff911e209.png" tvg-chno="a53f9e0ba020" group-title="None",HUM Sitaray
 https://www.xfireflix.fun/test/live.php?id=a53f9e0ba020&e=.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id=",Star Movies TV
+http://89.187.189.98/STARMOVIESHD/index.m3u8
+#EXTINF:-1 tvg-id=",Movies Now
+http://89.187.189.98/MOVIESNOWHD/index.m3u8
+#EXTINF:-1 tvg-id=",B4u movies
+http://89.187.189.98/B4UMOVIES/index.m3u8
+#EXTINF:-1 tvg-id=",B4u Kadak
+http://89.187.189.98/B4UKADAK/index.m3u8
+#EXTINF:-1 tvg-id=",Mnx
+http://89.187.189.98/MNXHD/index.m3u8
+#EXTINF:-1 tvg-id=",Sony Max2
+http://89.187.189.98/SONYMAX2/index.m3u8
+#EXTINF:-1 tvg-id=",Comedy Central
+http://176.10.117.68:6060/ComedyCentral/index.m3u8
 
 #EXTINF:-1 tvg-id=",Macau Lotus TV
 https://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
@@ -9415,10 +9522,14 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e4
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cff3309e-ded1-40dd-a6dc-e3a6d0a92d72/manifest.m3u8
 #EXTINF:-1 tvg-id="",The Explorers
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
-
-
-
-
+#EXTINF:-1 tvg-id="",Travelxp
+http://89.187.189.98/TRAVELXPHD/index.m3u8
+#EXTINF:-1 tvg-id="",History Tv
+http://89.187.189.98/HISTORYTV18HD/index.m3u8
+#EXTINF:-1 tvg-id="",Discovery jeet
+http://89.187.189.98/DISCOVERYJEETHD/index.m3u
+#EXTINF:-1 group-title="Travel" tvg-logo="https://s3.aynaott.com/storage/be9b48d87dcd7711cac19c17d8e01b27",Persiana Travel
+https://ptravelhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="NATURE" tvg-logo="http://ott.playontv.in:8090/images/mFbmnRp6w0x__pwB0jFxiZE0a_wkMTW0yUXiusTbuOF3cCXa-AdLBbnYJd1KmJ_3mCJW6eOxv5RtI4VL00L-drSbSKaciFonEAi8biNfw8k.png" ,LIVE NATURE
 http://202.78.232.181:8090/playontv/playon@admin/160
 #EXTINF:-1 group-title="NATURE" tvg-logo="http://ott.playontv.in:8090/images/sEaHFabRvK7QzgNkgmCcQ_CFzEpk83FWXukgndUAZQqrU_xds3IPVVOWYWX02Aq-.jpg" ,WILD TV GUJRAT
