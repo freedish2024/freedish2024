@@ -4916,6 +4916,12 @@ http://103.122.252.100:8080/NAGORIK-TV/tracks-v1a1/index.m3u8
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8?t=02de70e0281844f08530ceb7d4b34fdb
 #EXTINF:-1,Channel 12
 https://smart.bengaldigital.live/channel12/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH  tvg-logo="https://jatvbd.com/wp-content/uploads/2024/12/Jatv-Logo-new.png",Ja Tv  
+https://stream10.smartsolbd.com/jatv/jatvbd/chunklist_w1171728127.m3u8
+#EXTINF:-1 group-title="BANGLADESH  tvg-logo="https://jatvbd.com/wp-content/uploads/2024/12/Jatv-Logo-new.png",Ja Tv  
+https://stream10.smartsolbd.com/jatv/jatvbd/index.m3u8
+#EXTINF:-1 group-title="Indian-bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png",Bangla dhum
+https://tplay.live/originals/bengali-beats/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://s3.aynaott.com/storage/08773290bf83a917aebc07810f12ed49",Gseries Drama
 https://vods2.aynascope.net/gseriesDrama/index.m3u8
@@ -5669,8 +5675,8 @@ http://202.78.232.181:8090/playontv/playon@admin/1977
 http://202.78.232.181:8090/playontv/playon@admin/1976
 #EXTINF:-1 xui-id="1971" tvg-id="" tvg-name="NEWS 10 TV" tvg-logo="http://ott.playontv.in:8090/images/wM9PrGmOMl2R1ko2OeeDo8qiONwA9BHjqwaW1Q3JYveZP_SihVKWR3teU2h7sVu0B138EsRC84wr5-eLe_BXHg.jpg" group-title="NEWS",NEWS 10 TV
 http://202.78.232.181:8090/playontv/playon@admin/1971
-
-
+#EXTINF:-1 xui-id="1978" tvg-id="" tvg-name="N TV" tvg-logo="http://ott.playontv.in:8090/images/wM9PrGmOMl2R1ko2OeeDo7RA9zCCG7dFD6YUfsNUcnbTj3iZUUANsIC_5anjha5k9v1Gos0YLy_IuCRnY3pBgg.jpg" group-title="LOCAL CHANNEL",N TV 
+http://202.78.232.181:8090/playontv/playon@admin/1978
 
 #EXTINF:-1 ,Kolkata TV
 https://server.thelegitpro.in/kolkatatv/index.m3u8
@@ -5678,6 +5684,8 @@ https://server.thelegitpro.in/kolkatatv/index.m3u8
 https://newsliveindia.com/banglaprimehls/banglaprime.m3u8
 #EXTINF:-1 group-title="MOVIS" tvg-logo="http://ott.playontv.in:8090/images/sEaHFabRvK7QzgNkgmCcQ7CcZ-DUkSOjZn7PuOUUeYxoC7tv7_aP1RQyAcnjfTxf.jpg" ,KALIYAGANJ TV
 https://live-stream.utkalbongo.com/utkalbongo/stream1/hls/kaliyaganjtvlive.m3u8
+#EXTINF:-1 group-title="Indian-bangla" tvg-logo="https://i.postimg.cc/jjmyWm0m/om-bangla-2.jpg",OM Bangla 
+https://tplay.live/originals/om-bangla/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ott.playontv.in:8090/images/wM9PrGmOMl2R1ko2OeeDo9CkYR8ymZi2oOBU9Nugf9ZHDwWZwVC899EWY3yvEs6D.png" ,SANANDA TV
 http://115.187.41.216:8080/sanandatv.ts
