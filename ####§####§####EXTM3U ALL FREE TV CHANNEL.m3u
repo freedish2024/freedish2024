@@ -3003,7 +3003,7 @@ https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
 #EXTINF:-0 tvg-logo="https://globalbroadcastingcorporation.com/wp-content/uploads/elementor/thumbs/Salaam-final-logo-with-Tagline-03-1-71cgjvmnhj36qa0l02rf7sowa06hgzf9r1zew73giva.png",Peace TV Urdu
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="IS: Ary Qtv" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/ARYQTV1.jpg" group-title="ISLAMIC CHANNELS" ,IS: Ary Qtv
-http://xtv.ooo:8080/150324003/11150324/3
+https://cdn149.anystream.uk:8082/app/qtvglmb/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IS: Ary Qtv" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/ARYQTV1.jpg" group-title="ISLAMIC CHANNELS" ,IS: Ary Qtv
 http://fast.luckonline.eu/Ali130225/Cpyej2JL56Xy/694.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IS: Huda TV" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/9e4b655b.jpg" group-title="ISLAMIC CHANNELS" ,IS: Huda TV
@@ -3025,7 +3025,7 @@ https://live.imamhossaintv.com/live/ih6.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="IS: Noor TV" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/ff9c8dfc" group-title="ISLAMIC CHANNELS" ,IS: Noor TV
-http://xtv.ooo:8080/150324003/11150324/92
+http://xtv.ooo:8080/SumainFaisal/33157027/92
 #EXTINF:-1 tvg-id="" tvg-name="IS: Al Mahdi TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/331ab8e.png" group-title="ISLAMIC CHANNELS" ,IS: Al Mahdi TV
 https://iptv.almahditv.com/almahditv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IS: Madani Channel English" tvg-link="" tvg-logo="http://ujm.from-in.com/imageicon/91443da2" group-title="ISLAMIC CHANNELS" ,IS: Madani Channel English
@@ -3041,7 +3041,7 @@ http://tv.indigotv.me:80/live.ts?channelId=123910&uid=7245&deviceMac=00:1A:79:4A
 #EXTINF:-0 tvg-logo="https://pbs.twimg.com/profile_images/1131554149/peacetv_400x400.jpg",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-0 tvg-logo="https://pbs.twimg.com/profile_images/1131554149/peacetv_400x400.jpg",Peace TV
-http://xtv.ooo:8080/150324003/11150324/11
+http://xtv.ooo:8080/SumainFaisal/33157027/11
 #EXTINF:-1 tvg-id="PeaceTVAlbanian.xk" tvg-logo="https://i.imgur.com/cK3KATX.png" group-title="Religious",Peace TV Albanian (360p) [Not 24/7] 
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 tvg-id="PeaceTVChinese.ae" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg" group-title="Religious",Peace TV Chinese (1080p)  
@@ -4737,6 +4737,8 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 group-title="Arab" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sunna-tv-sa.png",Saudi Sunna 
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhp8eZhD8h7M36b9PBdYR7PkhIH0YUvPi5CmMOFzoidla7lumaMLQRhF8G&s=10",Bangla Waz Mahfil
+https://tplay.live/originals/ilm-tv/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhp8eZhD8h7M36b9PBdYR7PkhIH0YUvPi5CmMOFzoidla7lumaMLQRhF8G&s=10",Bangla Waz Mahfil
 https://live20.bozztv.com/giatvplayout7/giatv-209617/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/alwafa.png" group-title="RELIGI",Al Wafa Tarim TV
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
@@ -4819,9 +4821,20 @@ http://172.16.29.2:8090/hls/duronto.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://tulnit.com/wp-content/uploads/2025/05/ChatGPT-Image-May-28-2025-08_51_43-AM-200x300.png",Zillar Barta Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS824divMKgrWNVfYRT7qTw5UVDDf02fzNAG9LlU-oF3bHaQijj-0qHvIcj&s=10",Gopal Bhar
+https://tplay.live/playlist/kids/gopal-bhar/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-6-231/list/rsz1170x658withlogoa42e8a74c9f14b5782c42e183fcb5e19.jpg",Batul The Great
+https://tplay.live/playlist/kids/bantul-the-great/index.m3u8
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS824divMKgrWNVfYRT7qTw5UVDDf02fzNAG9LlU-oF3bHaQijj-0qHvIcj&s=10",Gopal Bhar
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-6-231/list/rsz1170x658withlogoa42e8a74c9f14b5782c42e183fcb5e19.jpg",Batul The Great
+https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS824divMKgrWNVfYRT7qTw5UVDDf02fzNAG9LlU-oF3bHaQijj-0qHvIcj&s=10",Gopal Bhar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-6-231/list/rsz1170x658withlogoa42e8a74c9f14b5782c42e183fcb5e19.jpg",Batul The Great
 https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
+
 #EXTINF:-1 tvg-id="1341" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids",Nick Bangla  (Kids)
 https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
 #EXTINF:-1 tvg-id="1345" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="Kids",Sonic Bangla  (Kids)
@@ -4882,6 +4895,23 @@ https://stream10.smartsolbd.com/jatv/jatvbd/chunklist_w1171728127.m3u8
 https://stream10.smartsolbd.com/jatv/jatvbd/index.m3u8
 #EXTINF:-1 group-title="Indian-bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png",Bangla dhum
 https://tplay.live/originals/bengali-beats/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH"tvg-logo="https://i.postimg.cc/jj5QHB7R/csb.jpg",Coke Studio 
+https://tplay.live/playlist/music/coke-studio-bangla/index.m3u8
+#EXTINF:-1 group-title="BANGLADESH"tvg-logo="https://i.postimg.cc/mZ7yRY36/ha24-7.jpg",Humayun Ahmed 
+https://tplay.live/playlist/mix/humayun-ahmed/index.m3u8
+#EXTINF:-1 group-title="Bangladesh"tvg-logo="https://i.postimg.cc/7YR2vbGk/bm.jpg",Bangla Movies 
+https://tplay.live/playlist/movies/bangla-movies/index.m3u8
+
+#EXTINF:-1 group-title="BANGLADESH"tvg-logo="https://i.postimg.cc/mZ7yRY36/ha24-7.jpg",Humayun Ahmed 
+https://live20.bozztv.com/giatvplayout7/giatv-210444/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Bangladesh"tvg-logo="https://i.postimg.cc/7YR2vbGk/bm.jpg",Bangla Movies 
+https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="BANGLADESH"tvg-logo="https://i.postimg.cc/jj5QHB7R/csb.jpg",Coke Studio 
+https://live20.bozztv.com/giatvplayout7/giatv-210733/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Indian-bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png",Bangla dhum
+https://live20.bozztv.com/giatvplayout7/giatv-209901/tracks-v1a1/mono.ts.m3u8
+
+
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://s3.aynaott.com/storage/08773290bf83a917aebc07810f12ed49",Gseries Drama
 https://vods2.aynascope.net/gseriesDrama/index.m3u8
@@ -5765,6 +5795,50 @@ https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b
 #EXTINF:-1 tvg-id="101" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-10013.jpg" group-title="Entertainment",NKTV PLUS  (Pishow)
 https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=67343c45f3659eebe8f0ffac
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-FE0w9oV0EKEdjMkoN1eNdo4cz4uD7hX7VA&s",,24/7 KIDS | Tom And Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6VW8yo69XZOzaRklyFyCyE18gnNsiMnLfFECQHop7g&s",Shinchan
+https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png",,24/7 KIDS | DORAEMON
+https://tplay.live/playlist/kids/doraemon/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeLp4P6XZ1SDTn8quiW6P34E1kbIR5mpYUvawTyXyvUx6yaQbDy1dQAHY&s=10",Motu Patlu 
+https://tplay.live/playlist/kids/motu-patlu/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/25T1j5cX/oggy2.jpg",Oggy
+https://tplay.live/playlist/kids/oggy-and-the-cockroaches/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/Kz0h2LzX/ninja-hattori.jpg",Ninja Hattori
+https://tplay.live/playlist/kids/ninja-hattori/index.m3u8
+
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-FE0w9oV0EKEdjMkoN1eNdo4cz4uD7hX7VA&s",,24/7 KIDS | Tom And Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png",,24/7 KIDS | DORAEMON
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeLp4P6XZ1SDTn8quiW6P34E1kbIR5mpYUvawTyXyvUx6yaQbDy1dQAHY&s=10",Motu Patlu 
+https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/25T1j5cX/oggy2.jpg",Oggy
+https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/Kz0h2LzX/ninja-hattori.jpg",Ninja Hattori
+https://live20.bozztv.com/giatvplayout7/giatv-210448/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",BBC Cbeebies 
+https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
+https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids
+https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Disney Junior
+https://live20.bozztv.com/giatvplayout7/giatv-209650/index.m3u8
+
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/25T1j5cX/oggy2.jpg",Oggy
+https://cloudfrontnet.vercel.app/tplay/playout/210728/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-FE0w9oV0EKEdjMkoN1eNdo4cz4uD7hX7VA&s",,24/7 KIDS | Tom And Jerry
+https://cloudfrontnet.vercel.app/tplay/playout/208314/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/Kz0h2LzX/ninja-hattori.jpg",Ninja Hattori
+https://cloudfrontnet.vercel.app/tplay/playout/210448/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Doraemon_character.png",,24/7 KIDS | DORAEMON
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeLp4P6XZ1SDTn8quiW6P34E1kbIR5mpYUvawTyXyvUx6yaQbDy1dQAHY&s=10",Motu Patlu 
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png",Bejoy
@@ -5779,14 +5853,6 @@ https://vood.yflix.top/api/Nick_voot_MOB/mono.m3u8
 https://tvsen6.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",BBC Cbeebies 
-https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",Cartoon Network
-https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/gjZzG3WD/Fight-Network.jpg",Discovery Kids
-https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Disney Junior
-https://live20.bozztv.com/giatvplayout7/giatv-209650/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duck TV
 https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick
@@ -8806,7 +8872,38 @@ http://a-edge.bliscdn.com/Visionbeats/tracks-v1a1/mono.m3u8
 http://89.187.189.98/B4UMUSIC/index.m3u8
 #EXTINF:-1 ,MTVPLUSHD
 http://89.187.189.98/MTVPLUSHD/index.m3u8
+#EXTINF:-1 group-title="Music"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play
+https://tplay.live/playlist/music/tplay-special/index.m3u8
+#EXTINF:-1 group-title="Music"tvg-logo="https://i.postimg.cc/XJsR2R2k/T-Series.jpg",T Series
+https://tplay.live/playlist/music/t-series/index.m3u8
+#EXTINF:-1 group-title="Music"  tvg-logo="https://i.postimg.cc/QMQsqnGY/dance.jpg",Dance 
+https://tplay.live/playlist/music/dance-performance/index.m3u8
+#EXTINF:-1 group-title="Music"  tvg-logo="https://i.postimg.cc/mk6mMRdL/bhojpuri.jpg",Bhojpuri
+https://tplay.live/playlist/music/bhojpuri/index.m3u8
+#EXTINF:-1 group-title="Music"  tvg-logo="https://i.postimg.cc/SxVJGs6X/adnan-sami.jpg",Adnan Sami 
+https://tplay.live/playlist/music/adnan-sami/index.m3u8
 
+#EXTINF:-1 group-title="Music"  tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Music"tvg-logo="https://i.postimg.cc/XJsR2R2k/T-Series.jpg",T Series
+https://live20.bozztv.com/giatvplayout7/giatv-210427/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Music"  tvg-logo="https://i.postimg.cc/QMQsqnGY/dance.jpg",Dance
+https://live20.bozztv.com/giatvplayout7/giatv-210419/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Music"  tvg-logo="https://i.postimg.cc/mk6mMRdL/bhojpuri.jpg",Bhojpuri
+https://live20.bozztv.com/giatvplayout7/giatv-210677/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Music"  tvg-logo="https://i.postimg.cc/SxVJGs6X/adnan-sami.jpg",Adnan Sami 
+https://live20.bozztv.com/giatvplayout7/giatv-210663/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Music"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play  
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+#EXTINF:-1 group-title="Music"tvg-logo="https://i.postimg.cc/XJsR2R2k/T-Series.jpg",T Series
+https://cloudfrontnet.vercel.app/tplay/playout/210427/master.m3u8
+#EXTINF:-1 group-title="Music"  tvg-logo="https://i.postimg.cc/QMQsqnGY/dance.jpg",Dance
+https://cloudfrontnet.vercel.app/tplay/playout/210419/master.m3u8
+#EXTINF:-1 group-title="Music"  tvg-logo="https://i.postimg.cc/mk6mMRdL/bhojpuri.jpg",Bhojpuri
+https://cloudfrontnet.vercel.app/tplay/playout/210677/master.m3u8
+#EXTINF:-1 group-title="Music"  tvg-logo="https://i.postimg.cc/SxVJGs6X/adnan-sami.jpg",Adnan Sami 
+https://cloudfrontnet.vercel.app/tplay/playout/210663/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/3633.DistroTv.in/en/1x1/208x208/test_pic1690463007562.jpg" group-title="MX Player",BritAsiaTV 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8
@@ -8979,9 +9076,21 @@ http://fl3.moveonjoy.com/HBO_2/index.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
 #EXTINF:-1 tvg-id=",Aboy Tv
 https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
-#EXTINF:-1 tvg-id=",
 
+#EXTINF:-1 group-title="Movies"  tvg-logo="https://i.postimg.cc/DZmhKfbK/dubbed.jpg",Dubbed Movies
+https://tplay.live/playlist/movies/dubbed-movies/index.m3u8
+#EXTINF:-1 group-title="Movies"  tvg-logo="https://i.postimg.cc/HsvPf09Y/bollywood.jpg",Bollywood Movies
+https://tplay.live/playlist/movies/bollywood-movies/index.m3u8
 
+#EXTINF:-1 group-title="Movies"  tvg-logo="https://i.postimg.cc/DZmhKfbK/dubbed.jpg",Dubbed Movies 
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Movies"  tvg-logo="https://i.postimg.cc/HsvPf09Y/bollywood.jpg",Bollywood Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Movies"  tvg-logo="https://i.postimg.cc/DZmhKfbK/dubbed.jpg",Dubbed Movies 
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+#EXTINF:-1 group-title="Movies"  tvg-logo="https://i.postimg.cc/HsvPf09Y/bollywood.jpg",Bollywood Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 
 #EXTINF:-1 ,afghannobel
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1694401036.m3u8
