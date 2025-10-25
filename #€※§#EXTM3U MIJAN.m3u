@@ -1,0 +1,544 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="PINKFONG NURSERY RHYMES" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/10414.png" group-title="Tata Play",PINKFONG NURSERY RHYMES
+https://stalker.tnm3us.workers.dev/10498.m3u8
+#EXTINF:-1 tvg-id="disneychannel.ca" tvg-name="DISNEY CHANNEL. 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/1763.png" group-title="Tata Play",DISNEY CHANNEL. 4K
+https://stalker.tnm3us.workers.dev/1846.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="DISNEY JUNIOR US 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/1760.png" group-title="Tata Play",DISNEY JUNIOR US 4K
+https://stalker.tnm3us.workers.dev/1843.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.ca" tvg-name="DISNEY JUNIOR CA 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/16879.jpg" group-title="Tata Play",DISNEY JUNIOR CA 4K
+https://stalker.tnm3us.workers.dev/16966.m3u8
+#EXTINF:-1 tvg-id="Default" tvg-name="DISNEY INTERNATIONAL" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/25761.jpg" group-title="Tata Play",DISNEY INTERNATIONAL
+https://stalker.tnm3us.workers.dev/25869.m3u8
+#EXTINF:-1 tvg-id="disneyxd.ca" tvg-name="DISNEY XD 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/1767.png" group-title="Tata Play",DISNEY XD 4K
+https://stalker.tnm3us.workers.dev/1850.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.ca" tvg-name="CARTOON NETWORK 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/1764.png" group-title="Tata Play",CARTOON NETWORK 4K
+https://stalker.tnm3us.workers.dev/1847.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="CARTOON NETWORK USA" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/1765.png" group-title="Tata Play",CARTOON NETWORK USA
+https://stalker.tnm3us.workers.dev/1848.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.ca" tvg-name="CARTOON NETWORK CANADA" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2458.png" group-title="Tata Play",CARTOON NETWORK CANADA
+https://stalker.tnm3us.workers.dev/2541.m3u8
+#EXTINF:-1 tvg-id="24/7 PAW PATROL" tvg-name="PAW PATROL" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/9135.jpg" group-title="Tata Play",PAW PATROL
+https://stalker.tnm3us.workers.dev/9219.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="PAW PATROL RESCUE" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/28607.jpeg" group-title="Tata Play",PAW PATROL RESCUE
+https://stalker.tnm3us.workers.dev/28727.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="PAW PATROL SERIES" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/30855.jpg" group-title="Tata Play",PAW PATROL SERIES
+https://stalker.tnm3us.workers.dev/30985.m3u8
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="NICKTOONS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/1756.png" group-title="Tata Play",NICKTOONS
+https://stalker.tnm3us.workers.dev/1839.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.ca" tvg-name="NICKELODEON" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2584.png" group-title="Tata Play",NICKELODEON
+https://stalker.tnm3us.workers.dev/2667.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="NICKELODEON UK 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2796.png" group-title="Tata Play",NICKELODEON UK 4K
+https://stalker.tnm3us.workers.dev/2879.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.ca" tvg-name="NICKELODEON EAST 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/1761.png" group-title="Tata Play",NICKELODEON EAST 4K
+https://stalker.tnm3us.workers.dev/1844.m3u8
+#EXTINF:-1 tvg-id="babyfirst.us" tvg-name="BABY FIRST 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/1759.png" group-title="Tata Play",BABY FIRST 4K
+https://stalker.tnm3us.workers.dev/1842.m3u8
+#EXTINF:-1 tvg-id="babyfirst.us" tvg-name="BABY FIRST TV 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/16909.jpeg" group-title="Tata Play",BABY FIRST TV 4K
+https://stalker.tnm3us.workers.dev/16996.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="LAUGH & LEARN" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/16921.png" group-title="Tata Play",LAUGH & LEARN
+https://stalker.tnm3us.workers.dev/17008.m3u8
+#EXTINF:-1 tvg-id="familyjr.ca" tvg-name="FAMILY JR. HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2447.png" group-title="Tata Play",FAMILY JR. HD
+https://stalker.tnm3us.workers.dev/2530.m3u8
+#EXTINF:-1 tvg-id="ca.Family CHRGD HD" tvg-name="FAMILY CHRGD HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2515.png" group-title="Tata Play",FAMILY CHRGD HD
+https://stalker.tnm3us.workers.dev/2598.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="BABY BUS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/25750.jpg" group-title="Tata Play",BABY BUS
+https://stalker.tnm3us.workers.dev/25855.m3u8
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="NICK JR." tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/49824.png" group-title="Tata Play",NICK JR.
+https://stalker.tnm3us.workers.dev/50040.m3u8
+#EXTINF:-1 tvg-id="nickjunior.uk" tvg-name="NICK JR UK" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2794.png" group-title="Tata Play",NICK JR UK
+https://stalker.tnm3us.workers.dev/2877.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="MARVELS ANIMATION" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/16861.jpg" group-title="Tata Play",MARVELS ANIMATION
+https://stalker.tnm3us.workers.dev/16948.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="MIKE AND MIA" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/10421.jpg" group-title="Tata Play",MIKE AND MIA
+https://stalker.tnm3us.workers.dev/10505.m3u8
+#EXTINF:-1 tvg-id="teletoon.ca" tvg-name="TELETOON HD EAST" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2448.png" group-title="Tata Play",TELETOON HD EAST
+https://stalker.tnm3us.workers.dev/2531.m3u8
+#EXTINF:-1 tvg-id="treehouse.ca" tvg-name="TREEHOUSE HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2449.png" group-title="Tata Play",TREEHOUSE HD
+https://stalker.tnm3us.workers.dev/2532.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="METV TOONS." tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/68909.png" group-title="Tata Play",METV TOONS.
+https://stalker.tnm3us.workers.dev/68619.m3u8
+#EXTINF:-1 tvg-id="24/7 PEPPA PIG" tvg-name="PEPPA PIG" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/10415.png" group-title="Tata Play",PEPPA PIG
+https://stalker.tnm3us.workers.dev/10499.m3u8
+#EXTINF:-1 tvg-id="24/7 PJ MASKS" tvg-name="PJ MASKS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/10419.jpg" group-title="Tata Play",PJ MASKS
+https://stalker.tnm3us.workers.dev/10503.m3u8
+#EXTINF:-1 tvg-id="ca.YTV (Youth Television) - East DV" tvg-name="YTV HD EAST" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2610.jpg" group-title="Tata Play",YTV HD EAST
+https://stalker.tnm3us.workers.dev/2693.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="WARNER BROS KIDS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58225.png" group-title="Tata Play",WARNER BROS KIDS
+https://stalker.tnm3us.workers.dev/58441.m3u8
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="BOOMERANG" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/1849.png" group-title="Tata Play",BOOMERANG
+https://stalker.tnm3us.workers.dev/1932.m3u8
+#EXTINF:-1 tvg-id="disneychannel.ca" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2454.png" group-title="Tata Play",DISNEY CHANNEL HD
+https://stalker.tnm3us.workers.dev/2537.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.ca" tvg-name="DISNEY JUNIOR" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2455.png" group-title="Tata Play",DISNEY JUNIOR
+https://stalker.tnm3us.workers.dev/2538.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.ca" tvg-name="DISNEY JR UK 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/10417.jpg" group-title="Tata Play",DISNEY JR UK 4K
+https://stalker.tnm3us.workers.dev/10501.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.ca" tvg-name="DISNEY JUNIOR" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2455.png" group-title="Tata Play",DISNEY JUNIOR
+https://stalker.tnm3us.workers.dev/2538.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.ca" tvg-name="DISNEY JR UK 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/10417.jpg" group-title="Tata Play",DISNEY JR UK 4K
+https://stalker.tnm3us.workers.dev/10501.m3u8
+#EXTINF:-1 tvg-id="disneyxd.ca" tvg-name="DISNEY XD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2446.png" group-title="Tata Play",DISNEY XD
+https://stalker.tnm3us.workers.dev/2529.m3u8
+#EXTINF:-1 tvg-id="24/7 MR BEAN" tvg-name="MR BEAN ANIMATED" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/16852.png" group-title="Tata Play",MR BEAN ANIMATED
+https://stalker.tnm3us.workers.dev/16939.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="POWER RANGERS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/16864.jpg" group-title="Tata Play",POWER RANGERS
+https://stalker.tnm3us.workers.dev/16951.m3u8
+#EXTINF:-1 tvg-id="universalkids.us" tvg-name="UNIVERSAL KIDS 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/1766.png" group-title="Tata Play",UNIVERSAL KIDS 4K
+https://stalker.tnm3us.workers.dev/1849.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="RAINBOW RUBY" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/68948.jpg" group-title="Tata Play",RAINBOW RUBY
+https://stalker.tnm3us.workers.dev/68794.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="BARBIE 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/10427.png" group-title="Tata Play",BARBIE 4K
+https://stalker.tnm3us.workers.dev/10511.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="MINNIE HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12154.png" group-title="Tata Play",MINNIE HD
+https://stalker.tnm3us.workers.dev/12238.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="RYAN WORLD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12150.png" group-title="Tata Play",RYAN WORLD
+https://stalker.tnm3us.workers.dev/12234.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="PUPPY DOG HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12155.png" group-title="Tata Play",PUPPY DOG HD
+https://stalker.tnm3us.workers.dev/12239.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="PUPPY DOGS PALS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/16846.jpg" group-title="Tata Play",PUPPY DOGS PALS
+https://stalker.tnm3us.workers.dev/16933.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="MY LITTLE PONY" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/16849.png" group-title="Tata Play",MY LITTLE PONY
+https://stalker.tnm3us.workers.dev/16936.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="LITTLE BABY BUM" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/12148.jpg" group-title="Tata Play",LITTLE BABY BUM
+https://stalker.tnm3us.workers.dev/12232.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="LEGO STAR" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/16858.png" group-title="Tata Play",LEGO STAR
+https://stalker.tnm3us.workers.dev/16945.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="THOMAS AND FRIENDS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/10420.png" group-title="Tata Play",THOMAS AND FRIENDS
+https://stalker.tnm3us.workers.dev/10504.m3u8
+#EXTINF:-1 tvg-id="pbskids.us" tvg-name="PBS KIDS HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/63310.png" group-title="Tata Play",PBS KIDS HD
+https://stalker.tnm3us.workers.dev/63587.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="REV AND ROLL" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/68949.jpg" group-title="Tata Play",REV AND ROLL
+https://stalker.tnm3us.workers.dev/68795.m3u8
+#EXTINF:-1 tvg-id="NickHits.nl" tvg-name="NICK MUSIC SD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/1755.png" group-title="Tata Play",NICK MUSIC SD
+https://stalker.tnm3us.workers.dev/1838.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="TEENVEE" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/10429.jpg" group-title="Tata Play",TEENVEE
+https://stalker.tnm3us.workers.dev/10513.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="SUPER TOONS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/10424.jpg" group-title="Tata Play",SUPER TOONS
+https://stalker.tnm3us.workers.dev/10508.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="SCOOBY DOO" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/16867.png" group-title="Tata Play",SCOOBY DOO
+https://stalker.tnm3us.workers.dev/16954.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="TOM AND JERRY HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/16840.png" group-title="Tata Play",TOM AND JERRY HD
+https://stalker.tnm3us.workers.dev/16927.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="PRIMO TV USA KIDS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/1932.png" group-title="Tata Play",PRIMO TV USA KIDS
+https://stalker.tnm3us.workers.dev/2015.m3u8
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BABYTV" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/3095.png" group-title="Tata Play",BABYTV
+https://stalker.tnm3us.workers.dev/3178.m3u8
+ #EXTINF:-1 tvg-id="kidsstreet.us" tvg-name="KIDS STREET" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/1758.png" group-title="Tata Play",KIDS STREET
+https://stalker.tnm3us.workers.dev/1841.m3u8
+#EXTINF:-1 tvg-id="24/7 PEPPA PIG" tvg-name="PEPPA PIG." tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/10430.png" group-title="Tata Play",PEPPA PIG.
+https://stalker.tnm3us.workers.dev/10514.m3u8
+#EXTINF:-1 tvg-id="teennick.us" tvg-name="TEENNICK 4K" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/1762.png" group-title="Tata Play",TEENNICK 4K
+https://stalker.tnm3us.workers.dev/1845.m3u8
+#EXTINF:-1 tvg-id="familychannel.ca" tvg-name="FAMILY HD EAST" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/2560.png" group-title="Tata Play",FAMILY HD EAST
+https://stalker.tnm3us.workers.dev/2643.m3u8
+#EXTINF:-1 tvg-id="babytvhd.in" tvg-name="BABY TV ENGLISH IN HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11896.png" group-title="Tata Play",BABY TV ENGLISH IN HD
+https://stalker.tnm3us.workers.dev/11980.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CBEEBIES" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/11626.png" group-title="Tata Play",CBEEBIES
+https://stalker.tnm3us.workers.dev/11710.m3u8
+#EXTINF:-1 tvg-id="cartoonito.uk" tvg-name="CARTOONITO UK" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/16882.png" group-title="Tata Play",CARTOONITO UK
+https://stalker.tnm3us.workers.dev/16969.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="DISNEY XD UK" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/62744.png" group-title="Tata Play",DISNEY XD UK
+https://stalker.tnm3us.workers.dev/63013.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="DISNEY CHANNEL UK" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/62745.png" group-title="Tata Play",DISNEY CHANNEL UK
+https://stalker.tnm3us.workers.dev/63014.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="CARTOON NETWORK EAST" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/62746.png" group-title="Tata Play",CARTOON NETWORK EAST
+https://stalker.tnm3us.workers.dev/63015.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="HUNGAMA KIDS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/62747.png" group-title="Tata Play",HUNGAMA KIDS
+https://stalker.tnm3us.workers.dev/63016.m3u8
+#EXTINF:-1 tvg-id="DEFAULT" tvg-name="DISCOVERY KIDS FHD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/62806.png" group-title="Tata Play",DISCOVERY KIDS FHD
+https://stalker.tnm3us.workers.dev/63075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="*******KIDS MOVIE INFO*******" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/67934.png" group-title="Tata Play",*******KIDS MOVIE INFO*******
+https://stalker.tnm3us.workers.dev/67415.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 1" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/67935.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 1
+https://stalker.tnm3us.workers.dev/67416.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 2" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/67936.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 2
+https://stalker.tnm3us.workers.dev/67417.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 3" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/67937.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 3
+https://stalker.tnm3us.workers.dev/67418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 4" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/67938.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 4
+https://stalker.tnm3us.workers.dev/67419.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 5" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/67939.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 5
+https://stalker.tnm3us.workers.dev/67420.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 6" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/67940.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 6
+https://stalker.tnm3us.workers.dev/67421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 7" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/67941.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 7
+https://stalker.tnm3us.workers.dev/67422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 8" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/67942.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 8
+https://stalker.tnm3us.workers.dev/67423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 9" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/67943.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 9
+https://stalker.tnm3us.workers.dev/67424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 10" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/67944.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 10
+https://stalker.tnm3us.workers.dev/67425.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 11" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/67945.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 11
+https://stalker.tnm3us.workers.dev/67426.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 12" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/67946.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 12
+https://stalker.tnm3us.workers.dev/67427.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 13" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/67947.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 13
+https://stalker.tnm3us.workers.dev/67428.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 14" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/67948.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 14
+https://stalker.tnm3us.workers.dev/67429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 15" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/72570.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 15
+https://stalker.tnm3us.workers.dev/73230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 16" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/72572.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 16
+https://stalker.tnm3us.workers.dev/73232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 17" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/72574.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 17
+https://stalker.tnm3us.workers.dev/73234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 18" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/72577.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 18
+https://stalker.tnm3us.workers.dev/73237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 19" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/72579.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 19
+https://stalker.tnm3us.workers.dev/73239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 20" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/72581.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 20
+https://stalker.tnm3us.workers.dev/73241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 21" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/72584.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 21
+https://stalker.tnm3us.workers.dev/73244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 22" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/72586.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 22
+https://stalker.tnm3us.workers.dev/73246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 23" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/72588.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 23
+https://stalker.tnm3us.workers.dev/73248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 24" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/72590.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 24
+https://stalker.tnm3us.workers.dev/73250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 MOVIE 25" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/72592.png" group-title="Tata Play",PREMIUM KIDS 24X7 MOVIE 25
+https://stalker.tnm3us.workers.dev/73252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 ANIMATED MOVIES 1 HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58389.jpg" group-title="Tata Play",PREMIUM KIDS 24X7 ANIMATED MOVIES 1 HD
+https://stalker.tnm3us.workers.dev/67430.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 ANIMATED MOVIES 2 HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58390.jpg" group-title="Tata Play",PREMIUM KIDS 24X7 ANIMATED MOVIES 2 HD
+https://stalker.tnm3us.workers.dev/67431.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 ANIMATED MOVIES 3 HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58393.jpg" group-title="Tata Play",PREMIUM KIDS 24X7 ANIMATED MOVIES 3 HD
+https://stalker.tnm3us.workers.dev/67432.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 ANIMATED MOVIES 4 HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58395.jpg" group-title="Tata Play",PREMIUM KIDS 24X7 ANIMATED MOVIES 4 HD
+https://stalker.tnm3us.workers.dev/67433.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM KIDS 24X7 ANIMATED MOVIES 5 HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58391.jpg" group-title="Tata Play",PREMIUM KIDS 24X7 ANIMATED MOVIES 5 HD
+https://stalker.tnm3us.workers.dev/67434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - COCOMELON" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60535.png" group-title="Tata Play",24X7 - COCOMELON
+https://stalker.tnm3us.workers.dev/60751.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - ANGRY BIRDS HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61594.jpg" group-title="Tata Play",24X7 - ANGRY BIRDS HD
+https://stalker.tnm3us.workers.dev/61825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - ANGRY BIRDS BLUE HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61595.png" group-title="Tata Play",24X7 - ANGRY BIRDS BLUE HD
+https://stalker.tnm3us.workers.dev/61826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - BABYSHARK" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60530.jpg" group-title="Tata Play",24X7 - BABYSHARK
+https://stalker.tnm3us.workers.dev/60746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - WOLFO HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/63437.jpg" group-title="Tata Play",24X7 - WOLFO HD
+https://stalker.tnm3us.workers.dev/63716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - DIANA SHOW" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60534.jpg" group-title="Tata Play",24X7 - DIANA SHOW
+https://stalker.tnm3us.workers.dev/60750.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - NASTYA" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60518.jpg" group-title="Tata Play",24X7 - NASTYA
+https://stalker.tnm3us.workers.dev/60734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - GECKO GARAGE HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/63438.jpg" group-title="Tata Play",24X7 - GECKO GARAGE HD
+https://stalker.tnm3us.workers.dev/63717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - OMAR & HANA HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/63440.png" group-title="Tata Play",24X7 - OMAR & HANA HD
+https://stalker.tnm3us.workers.dev/63719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - MRBEAN HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/63439.jpg" group-title="Tata Play",24X7 - MRBEAN HD
+https://stalker.tnm3us.workers.dev/63718.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - PROPHET STORIES HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/63441.png" group-title="Tata Play",24X7 - PROPHET STORIES HD
+https://stalker.tnm3us.workers.dev/63720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - ABC HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61591.jpg" group-title="Tata Play",24X7 - ABC HD
+https://stalker.tnm3us.workers.dev/61822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - 123 HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61592.png" group-title="Tata Play",24X7 - 123 HD
+https://stalker.tnm3us.workers.dev/61823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - ALVINN CHIPMUNKS HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61593.jpg" group-title="Tata Play",24X7 - ALVINN CHIPMUNKS HD
+https://stalker.tnm3us.workers.dev/61824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - BABYTV" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60532.png" group-title="Tata Play",24X7 - BABYTV
+https://stalker.tnm3us.workers.dev/60748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - BLUEY HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/63443.jpg" group-title="Tata Play",24X7 - BLUEY HD
+https://stalker.tnm3us.workers.dev/63722.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - SUPER WINGS HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61596.png" group-title="Tata Play",24X7 - SUPER WINGS HD
+https://stalker.tnm3us.workers.dev/61827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - CUPHEAD SHOW HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61597.jpg" group-title="Tata Play",24X7 - CUPHEAD SHOW HD
+https://stalker.tnm3us.workers.dev/61828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - GO DOG GO HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61598.jpg" group-title="Tata Play",24X7 - GO DOG GO HD
+https://stalker.tnm3us.workers.dev/61829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - SHARKDOG HD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61599.jpg" group-title="Tata Play",24X7 - SHARKDOG HD
+https://stalker.tnm3us.workers.dev/61830.m3u8
+v#EXTINF:-1 tvg-id="" tvg-name="24X7 - TRANSFORMERS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/62318.jpg" group-title="Tata Play",24X7 - TRANSFORMERS
+https://stalker.tnm3us.workers.dev/62566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - VLAD&NIKI" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60517.jpg" group-title="Tata Play",24X7 - VLAD&NIKI
+https://stalker.tnm3us.workers.dev/60733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - PJ MASKS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60521.jpg" group-title="Tata Play",24X7 - PJ MASKS
+https://stalker.tnm3us.workers.dev/60737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - MASHA&BEAR" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60520.jpg" group-title="Tata Play",24X7 - MASHA&BEAR
+https://stalker.tnm3us.workers.dev/60736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - MICKEY MOUSE" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60522.jpg" group-title="Tata Play",24X7 - MICKEY MOUSE
+https://stalker.tnm3us.workers.dev/60738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - TOM&JERRY" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60523.png" group-title="Tata Play",24X7 - TOM&JERRY
+https://stalker.tnm3us.workers.dev/60739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - BOSS BABY" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61306.jpg" group-title="Tata Play",24X7 - BOSS BABY
+https://stalker.tnm3us.workers.dev/61528.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - BLOOPIES" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60533.jpg" group-title="Tata Play",24X7 - BLOOPIES
+https://stalker.tnm3us.workers.dev/60749.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - LITTLEPONY" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61309.jpg" group-title="Tata Play",24X7 - LITTLEPONY
+https://stalker.tnm3us.workers.dev/61531.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - SPONGEBOB" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60525.png" group-title="Tata Play",24X7 - SPONGEBOB
+https://stalker.tnm3us.workers.dev/60741.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - PETS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60526.jpg" group-title="Tata Play",24X7 - PETS
+https://stalker.tnm3us.workers.dev/60742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - ODDBODS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60527.jpg" group-title="Tata Play",24X7 - ODDBODS
+https://stalker.tnm3us.workers.dev/60743.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - LARVA" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60528.jpg" group-title="Tata Play",24X7 - LARVA
+https://stalker.tnm3us.workers.dev/60744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - GRIZZY" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60536.jpg" group-title="Tata Play",24X7 - GRIZZY
+https://stalker.tnm3us.workers.dev/60752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - BOB THE BUILDER" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60529.png" group-title="Tata Play",24X7 - BOB THE BUILDER
+https://stalker.tnm3us.workers.dev/60745.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - CLOUDBABIES" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60531.jpg" group-title="Tata Play",24X7 - CLOUDBABIES
+https://stalker.tnm3us.workers.dev/60747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - TOY STORY" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/62319.jpg" group-title="Tata Play",24X7 - TOY STORY
+https://stalker.tnm3us.workers.dev/62567.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - KIDS CHANNELS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60537.jpg" group-title="Tata Play",24X7 - KIDS CHANNELS
+https://stalker.tnm3us.workers.dev/60753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - DISNEY MOVIES" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58257.png" group-title="Tata Play",24X7 - DISNEY MOVIES
+https://stalker.tnm3us.workers.dev/58473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - DISNEY MOVIES 2" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58262.png" group-title="Tata Play",24X7 - DISNEY MOVIES 2
+https://stalker.tnm3us.workers.dev/58478.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - DISNEY MOVIES 3" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58266.png" group-title="Tata Play",24X7 - DISNEY MOVIES 3
+https://stalker.tnm3us.workers.dev/58482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - SPIDEY." tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60538.jpg" group-title="Tata Play",24X7 - SPIDEY.
+https://stalker.tnm3us.workers.dev/60754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - BLIPPI" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60540.jpeg" group-title="Tata Play",24X7 - BLIPPI
+https://stalker.tnm3us.workers.dev/60756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - MIGHTYLITTE BHEEM" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61307.jpg" group-title="Tata Play",24X7 - MIGHTYLITTE BHEEM
+https://stalker.tnm3us.workers.dev/61529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - SONIC" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61308.jpg" group-title="Tata Play",24X7 - SONIC
+https://stalker.tnm3us.workers.dev/61530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - SHAUNTHESHEEP" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61310.jpg" group-title="Tata Play",24X7 - SHAUNTHESHEEP
+https://stalker.tnm3us.workers.dev/61532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - GARFIELDSHOW" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61311.jpg" group-title="Tata Play",24X7 - GARFIELDSHOW
+https://stalker.tnm3us.workers.dev/61533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - OGGY" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61312.jpg" group-title="Tata Play",24X7 - OGGY
+https://stalker.tnm3us.workers.dev/61534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - CURIOUSGEORGE" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61313.jpg" group-title="Tata Play",24X7 - CURIOUSGEORGE
+https://stalker.tnm3us.workers.dev/61535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - PUCCA" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61314.jpg" group-title="Tata Play",24X7 - PUCCA
+https://stalker.tnm3us.workers.dev/61536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - PINKPANTHER" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61315.jpg" group-title="Tata Play",24X7 - PINKPANTHER
+https://stalker.tnm3us.workers.dev/61537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - FIREMANSAM" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/61316.jpg" group-title="Tata Play",24X7 - FIREMANSAM
+https://stalker.tnm3us.workers.dev/61538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - TMNT" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/62320.jpg" group-title="Tata Play",24X7 - TMNT
+https://stalker.tnm3us.workers.dev/62568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - POWER RANGERS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/62321.jpg" group-title="Tata Play",24X7 - POWER RANGERS
+https://stalker.tnm3us.workers.dev/62569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - BUBBLE GUPPIES" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/60812.jpg" group-title="Tata Play",24X7 - BUBBLE GUPPIES
+https://stalker.tnm3us.workers.dev/61031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - DRAKE AND JOSH" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58238.jpg" group-title="Tata Play",24X7 - DRAKE AND JOSH
+https://stalker.tnm3us.workers.dev/58454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - ADVENTURE TIME" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58237.png" group-title="Tata Play",24X7 - ADVENTURE TIME
+https://stalker.tnm3us.workers.dev/58453.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - PINKY AND THE BRAIN" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/62322.jpg" group-title="Tata Play",24X7 - PINKY AND THE BRAIN
+https://stalker.tnm3us.workers.dev/62570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - AVATAR" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58242.jpg" group-title="Tata Play",24X7 - AVATAR
+https://stalker.tnm3us.workers.dev/58458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - BATMAN BRAVE AND THE BOLD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58247.png" group-title="Tata Play",24X7 - BATMAN BRAVE AND THE BOLD
+https://stalker.tnm3us.workers.dev/58463.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - BATMAN THE ANIMATED SERIES" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58250.png" group-title="Tata Play",24X7 - BATMAN THE ANIMATED SERIES
+https://stalker.tnm3us.workers.dev/58466.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - BEN 10" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58251.jpg" group-title="Tata Play",24X7 - BEN 10
+https://stalker.tnm3us.workers.dev/58467.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - BEN AND HOLLY" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58249.png" group-title="Tata Play",24X7 - BEN AND HOLLY
+https://stalker.tnm3us.workers.dev/58465.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - BLUEY" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58258.jpg" group-title="Tata Play",24X7 - BLUEY
+https://stalker.tnm3us.workers.dev/58474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - ARCADE" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58267.jpg" group-title="Tata Play",24X7 - ARCADE
+https://stalker.tnm3us.workers.dev/58483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - DOC MCSTUFFINS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58271.jpg" group-title="Tata Play",24X7 - DOC MCSTUFFINS
+https://stalker.tnm3us.workers.dev/58487.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - SPIDERMAN AND HIS AMAZING FRIENDS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58272.jpg" group-title="Tata Play",24X7 - SPIDERMAN AND HIS AMAZING FRIENDS
+https://stalker.tnm3us.workers.dev/58488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - SARAH AND DUCK" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58274.jpg" group-title="Tata Play",24X7 - SARAH AND DUCK
+https://stalker.tnm3us.workers.dev/58490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - DREAMWORKS ANIMATION" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58281.jpg" group-title="Tata Play",24X7 - DREAMWORKS ANIMATION
+https://stalker.tnm3us.workers.dev/58497.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - FAIRLY ODD PARENTS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58283.png" group-title="Tata Play",24X7 - FAIRLY ODD PARENTS
+https://stalker.tnm3us.workers.dev/58499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - CHARLIE AND LOLA" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58278.png" group-title="Tata Play",24X7 - CHARLIE AND LOLA
+https://stalker.tnm3us.workers.dev/58494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - BATFINK" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58282.jpg" group-title="Tata Play",24X7 - BATFINK
+https://stalker.tnm3us.workers.dev/58498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - GRAVITY FALLS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58288.jpg" group-title="Tata Play",24X7 - GRAVITY FALLS
+https://stalker.tnm3us.workers.dev/58504.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - A PLACE TO CALL HOME" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58287.jpg" group-title="Tata Play",24X7 - A PLACE TO CALL HOME
+https://stalker.tnm3us.workers.dev/58503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - JOHNNY BRAVO" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58299.png" group-title="Tata Play",24X7 - JOHNNY BRAVO
+https://stalker.tnm3us.workers.dev/58515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - JOHNY TEST" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58233.jpg" group-title="Tata Play",24X7 - JOHNY TEST
+https://stalker.tnm3us.workers.dev/58449.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - LEGO MOVIES" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58240.jpg" group-title="Tata Play",24X7 - LEGO MOVIES
+https://stalker.tnm3us.workers.dev/58456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - LEGO STAR WARS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58243.png" group-title="Tata Play",24X7 - LEGO STAR WARS
+https://stalker.tnm3us.workers.dev/58459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - LOONEY TUNES" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58236.png" group-title="Tata Play",24X7 - LOONEY TUNES
+https://stalker.tnm3us.workers.dev/58452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - MICKEY MOUSE CLUBHOUSE" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58235.png" group-title="Tata Play",24X7 - MICKEY MOUSE CLUBHOUSE
+https://stalker.tnm3us.workers.dev/58451.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - SAINT SEIYA OMEGA" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58260.jpg" group-title="Tata Play",24X7 - SAINT SEIYA OMEGA
+https://stalker.tnm3us.workers.dev/58476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - MR BEAN ANIMATED" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58239.jpg" group-title="Tata Play",24X7 - MR BEAN ANIMATED
+https://stalker.tnm3us.workers.dev/58455.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - MUPPET BABIES" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58241.png" group-title="Tata Play",24X7 - MUPPET BABIES
+https://stalker.tnm3us.workers.dev/58457.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - PJ MASKS." tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58376.jpg" group-title="Tata Play",24X7 - PJ MASKS.
+https://stalker.tnm3us.workers.dev/58592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - PAW PATROL" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58246.jpg" group-title="Tata Play",24X7 - PAW PATROL
+https://stalker.tnm3us.workers.dev/58462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - PEPPA PIG" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58244.png" group-title="Tata Play",24X7 - PEPPA PIG
+https://stalker.tnm3us.workers.dev/58460.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - PINKY MALINKY" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58253.png" group-title="Tata Play",24X7 - PINKY MALINKY
+https://stalker.tnm3us.workers.dev/58469.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - POKEMON" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58248.jpg" group-title="Tata Play",24X7 - POKEMON
+https://stalker.tnm3us.workers.dev/58464.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - POPEYE" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58252.png" group-title="Tata Play",24X7 - POPEYE
+https://stalker.tnm3us.workers.dev/58468.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - POWERPUFF GIRLS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58256.png" group-title="Tata Play",24X7 - POWERPUFF GIRLS
+https://stalker.tnm3us.workers.dev/58472.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - PUPPY DOG PALS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58255.jpg" group-title="Tata Play",24X7 - PUPPY DOG PALS
+https://stalker.tnm3us.workers.dev/58471.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - RECESS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58261.png" group-title="Tata Play",24X7 - RECESS
+https://stalker.tnm3us.workers.dev/58477.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - RUGRATS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58265.png" group-title="Tata Play",24X7 - RUGRATS
+https://stalker.tnm3us.workers.dev/58481.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - SCOOBY DOO" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58276.png" group-title="Tata Play",24X7 - SCOOBY DOO
+https://stalker.tnm3us.workers.dev/58492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - SHAUN THE SHEEP" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58275.jpg" group-title="Tata Play",24X7 - SHAUN THE SHEEP
+https://stalker.tnm3us.workers.dev/58491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - SOFIA THE FIRST" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58273.jpg" group-title="Tata Play",24X7 - SOFIA THE FIRST
+https://stalker.tnm3us.workers.dev/58489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - SPIDERMAN" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58280.png" group-title="Tata Play",24X7 - SPIDERMAN
+https://stalker.tnm3us.workers.dev/58496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - SPONGEBOB SQUAREPANTS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58277.png" group-title="Tata Play",24X7 - SPONGEBOB SQUAREPANTS
+https://stalker.tnm3us.workers.dev/58493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - STAR WARS REBELS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58294.jpg" group-title="Tata Play",24X7 - STAR WARS REBELS
+https://stalker.tnm3us.workers.dev/58510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - STAR WARS THE CLONE WARS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58279.png" group-title="Tata Play",24X7 - STAR WARS THE CLONE WARS
+https://stalker.tnm3us.workers.dev/58495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - STEVEN UNIVERSE" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58284.png" group-title="Tata Play",24X7 - STEVEN UNIVERSE
+https://stalker.tnm3us.workers.dev/58500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - DRAGONBALL Z" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58234.png" group-title="Tata Play",24X7 - DRAGONBALL Z
+https://stalker.tnm3us.workers.dev/58450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - THE REN & STIMPY SHOW" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58285.jpg" group-title="Tata Play",24X7 - THE REN & STIMPY SHOW
+https://stalker.tnm3us.workers.dev/58501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - TEEN TITANS GO" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58293.png" group-title="Tata Play",24X7 - TEEN TITANS GO
+https://stalker.tnm3us.workers.dev/58509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - THE BATMAN" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58291.jpg" group-title="Tata Play",24X7 - THE BATMAN
+https://stalker.tnm3us.workers.dev/58507.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - THE FLINSTONES" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58300.png" group-title="Tata Play",24X7 - THE FLINSTONES
+https://stalker.tnm3us.workers.dev/58516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - THE REGULAR SHOW" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58296.png" group-title="Tata Play",24X7 - THE REGULAR SHOW
+https://stalker.tnm3us.workers.dev/58512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - THE SPECTACULAR SPIDERMAN" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58308.png" group-title="Tata Play",24X7 - THE SPECTACULAR SPIDERMAN
+https://stalker.tnm3us.workers.dev/58524.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - THOMAS AND FRIENDS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58305.png" group-title="Tata Play",24X7 - THOMAS AND FRIENDS
+https://stalker.tnm3us.workers.dev/58521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - TOM AND JERRY." tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58377.png" group-title="Tata Play",24X7 - TOM AND JERRY.
+https://stalker.tnm3us.workers.dev/58593.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - TOP CAT" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58314.jpg" group-title="Tata Play",24X7 - TOP CAT
+https://stalker.tnm3us.workers.dev/58530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - WACKY RACES" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58385.jpg" group-title="Tata Play",24X7 - WACKY RACES
+https://stalker.tnm3us.workers.dev/58601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - X-MEN CARTOON" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58325.png" group-title="Tata Play",24X7 - X-MEN CARTOON
+https://stalker.tnm3us.workers.dev/58541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - ALVIN AND THE CHIPMUNKS TV" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58326.jpg" group-title="Tata Play",24X7 - ALVIN AND THE CHIPMUNKS TV
+https://stalker.tnm3us.workers.dev/58542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - PETER RABBIT" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58324.jpg" group-title="Tata Play",24X7 - PETER RABBIT
+https://stalker.tnm3us.workers.dev/58540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - ZENIMATION" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58323.jpg" group-title="Tata Play",24X7 - ZENIMATION
+https://stalker.tnm3us.workers.dev/58539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - ANDI MACK" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58331.jpg" group-title="Tata Play",24X7 - ANDI MACK
+https://stalker.tnm3us.workers.dev/58547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - BAYMAX" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58330.jpg" group-title="Tata Play",24X7 - BAYMAX
+https://stalker.tnm3us.workers.dev/62249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - BEN 10 ULTIMATE ALIEN" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58335.png" group-title="Tata Play",24X7 - BEN 10 ULTIMATE ALIEN
+https://stalker.tnm3us.workers.dev/58551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - THE CARE BEARS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58254.jpg" group-title="Tata Play",24X7 - THE CARE BEARS
+https://stalker.tnm3us.workers.dev/62248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - NINJAGO: MASTERS OF SPINJITZU" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58263.jpg" group-title="Tata Play",24X7 - NINJAGO: MASTERS OF SPINJITZU
+https://stalker.tnm3us.workers.dev/58479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - BUGS BUNNY" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58259.jpg" group-title="Tata Play",24X7 - BUGS BUNNY
+https://stalker.tnm3us.workers.dev/58475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - CAILLOU" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58269.png" group-title="Tata Play",24X7 - CAILLOU
+https://stalker.tnm3us.workers.dev/58485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - CAPTAIN PLANET AND THE PLANETEERS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58264.jpg" group-title="Tata Play",24X7 - CAPTAIN PLANET AND THE PLANETEERS
+https://stalker.tnm3us.workers.dev/58480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - COW & CHICKEN" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58268.png" group-title="Tata Play",24X7 - COW & CHICKEN
+https://stalker.tnm3us.workers.dev/58484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - DANIEL TIGER'S NEIGHBOURHOOD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58354.png" group-title="Tata Play",24X7 - DANIEL TIGER'S NEIGHBOURHOOD
+https://stalker.tnm3us.workers.dev/58570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - DESPICABLE ME." tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58382.png" group-title="Tata Play",24X7 - DESPICABLE ME.
+https://stalker.tnm3us.workers.dev/58598.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - DISNEY SHORTS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58289.jpg" group-title="Tata Play",24X7 - DISNEY SHORTS
+https://stalker.tnm3us.workers.dev/58505.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - DONALD DUCK" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58286.png" group-title="Tata Play",24X7 - DONALD DUCK
+https://stalker.tnm3us.workers.dev/58502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - DOTA DRAGON"S BLOOD" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58383.jpg" group-title="Tata Play",24X7 - DOTA DRAGON"S BLOOD
+https://stalker.tnm3us.workers.dev/58599.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - DRAGON BALL Z KAI" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58295.png" group-title="Tata Play",24X7 - DRAGON BALL Z KAI
+https://stalker.tnm3us.workers.dev/58511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - DUCKTALES( 80'S)" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58292.jpg" group-title="Tata Play",24X7 - DUCKTALES( 80'S)
+https://stalker.tnm3us.workers.dev/58508.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - ED EDD N EDDY" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58301.png" group-title="Tata Play",24X7 - ED EDD N EDDY
+https://stalker.tnm3us.workers.dev/58517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - FELIX THE CAT" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58297.jpg" group-title="Tata Play",24X7 - FELIX THE CAT
+https://stalker.tnm3us.workers.dev/58513.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - FRAGGLE ROCK" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58306.jpg" group-title="Tata Play",24X7 - FRAGGLE ROCK
+https://stalker.tnm3us.workers.dev/58522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - GUARDIANS OF THE GALAXY" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58304.jpg" group-title="Tata Play",24X7 - GUARDIANS OF THE GALAXY
+https://stalker.tnm3us.workers.dev/58520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - INVINCIBLE" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58307.png" group-title="Tata Play",24X7 - INVINCIBLE
+https://stalker.tnm3us.workers.dev/58523.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - MARVEL AVENGERS ASSEMBLE" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/62324.jpg" group-title="Tata Play",24X7 - MARVEL AVENGERS ASSEMBLE
+https://stalker.tnm3us.workers.dev/62572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - HARLEY QUINN" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58313.png" group-title="Tata Play",24X7 - HARLEY QUINN
+https://stalker.tnm3us.workers.dev/58529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - HE-MAN" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58319.png" group-title="Tata Play",24X7 - HE-MAN
+https://stalker.tnm3us.workers.dev/58535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - HENRY DANGER" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58320.jpg" group-title="Tata Play",24X7 - HENRY DANGER
+https://stalker.tnm3us.workers.dev/58536.m3u8
+
+https://stalker.tnm3us.workers.dev/58618.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - TRANFORMERS PRIME" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58398.jpg" group-title="Tata Play",24X7 - TRANFORMERS PRIME
+https://stalker.tnm3us.workers.dev/58614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - KIDS CARTOON | TOM AND JERRY TALES" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58407.jpg" group-title="Tata Play",24X7 - KIDS CARTOON | TOM AND JERRY TALES
+https://stalker.tnm3us.workers.dev/58623.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - KIDS CARTOON | THE SMURFS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58401.png" group-title="Tata Play",24X7 - KIDS CARTOON | THE SMURFS
+https://stalker.tnm3us.workers.dev/58617.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - KIDS CARTOON | SWAT KATS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58403.png" group-title="Tata Play",24X7 - KIDS CARTOON | SWAT KATS
+https://stalker.tnm3us.workers.dev/58619.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - KIDS CARTOON | SPIDER MAN-2008" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58406.png" group-title="Tata Play",24X7 - KIDS CARTOON | SPIDER MAN-2008
+https://stalker.tnm3us.workers.dev/58622.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - KIDS CARTOON | SHINCHAN" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58409.jpg" group-title="Tata Play",24X7 - KIDS CARTOON | SHINCHAN
+https://stalker.tnm3us.workers.dev/58625.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - KIDS CARTOON | CHUCHU TV" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58411.jpg" group-title="Tata Play",24X7 - KIDS CARTOON | CHUCHU TV
+https://stalker.tnm3us.workers.dev/58627.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - KIDS CARTOONS | KUNG FU PANDA" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58415.jpg" group-title="Tata Play",24X7 - KIDS CARTOONS | KUNG FU PANDA
+https://stalker.tnm3us.workers.dev/58631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - KIDS CARTOONS | GENERATOR REX HINDI" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58417.jpg" group-title="Tata Play",24X7 - KIDS CARTOONS | GENERATOR REX HINDI
+https://stalker.tnm3us.workers.dev/58633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - KIDS CARTOON | DUCK TALES-2017" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58414.png" group-title="Tata Play",24X7 - KIDS CARTOON | DUCK TALES-2017
+https://stalker.tnm3us.workers.dev/58630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - KIDS CARTOON | DUCK TALES" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58420.png" group-title="Tata Play",24X7 - KIDS CARTOON | DUCK TALES
+https://stalker.tnm3us.workers.dev/58636.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - KIDS CARTOON | DORAEMON HINDI" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58418.png" group-title="Tata Play",24X7 - KIDS CARTOON | DORAEMON HINDI
+https://stalker.tnm3us.workers.dev/58634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - KIDS CARTOON | AVATAR THE LAST AIRBENDER" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58424.jpg" group-title="Tata Play",24X7 - KIDS CARTOON | AVATAR THE LAST AIRBENDER
+https://stalker.tnm3us.workers.dev/58640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - BEN 10 ULTIMATE ALIEN HINDI" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58416.jpg" group-title="Tata Play",24X7 - BEN 10 ULTIMATE ALIEN HINDI
+https://stalker.tnm3us.workers.dev/58632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24X7 - BEN 10 CLASSIC HINDI" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/58426.jpg" group-title="Tata Play",24X7 - BEN 10 CLASSIC HINDI
+https://stalker.tnm3us.workers.dev/58642.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM | GOOSEBUMPS" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/70791.jpg" group-title="Tata Play",PREMIUM | GOOSEBUMPS
+https://stalker.tnm3us.workers.dev/70877.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM DISNEY MOVIES 1" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/72525.png" group-title="Tata Play",PREMIUM DISNEY MOVIES 1
+https://stalker.tnm3us.workers.dev/73185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM DISNEY MOVIES 2" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/72530.png" group-title="Tata Play",PREMIUM DISNEY MOVIES 2
+https://stalker.tnm3us.workers.dev/73190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM DISNEY MOVIES 3" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/72533.png" group-title="Tata Play",PREMIUM DISNEY MOVIES 3
+https://stalker.tnm3us.workers.dev/73193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIUM DISNEY MOVIES 4" tvg-logo="http://tatatv.cc/stalker_portal/misc/logos/320/72536.png" group-title="Tata Play",PREMIUM DISNEY MOVIES 4
+https://stalker.tnm3us.workers.dev/73194.m3u8
+
