@@ -5005,7 +5005,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000024/1024.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://api.visionplustv.id/static/twljkq.webp",Muslim Tv
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vo6cEYi.png" group-title="Religious",Iman TV (720p)
+https://live.relentlessinnovations.net:1936/imantv/imantv/index.m3u8
 
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="http://ott.playontv.in:8090/images/sEaHFabRvK7QzgNkgmCcQ7YxQCA09nJWi-xPXitFK-TgDzTE0HBS_j_OfjIADDk5.jpg" ,SALAM BANGLA
@@ -5082,9 +5083,9 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/12625.ts
 https://jolshabd.com/live/sbanglatv/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSeTyzQpsgMfMzaaM479k2Ia1LNK5Ephjalg&s",S Bangla Tv
 https://jolshabd.com/live/sbanglatv/chunklist_w414063973.m3u8
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.usbdjournal24.com/wp-content/uploads/2024/11/LOGO-USBDJOURNAL.png",Usbdjournal24 Tv
+#EXTINF:-1 tvg-logo="https://journal24bd.com/wp-content/uploads/2021/04/2.png" group-title="Bangla",US-BD Journal 24 TV
 https://live20.bozztv.com/akamaissh101/ssh101/usbdjournal/playlist.m3u8
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.usbdjournal24.com/wp-content/uploads/2024/11/LOGO-USBDJOURNAL.png",Usbdjournal24 Tv
+#EXTINF:-1 tvg-logo="https://journal24bd.com/wp-content/uploads/2021/04/2.png" group-title="Bangla",US-BD Journal 24 TV
 https://live20.bozztv.com/akamaissh101/ssh101/usbdjournal/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/05/Jhankartv.jpg",Jhankar Tv 
 https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
@@ -5106,6 +5107,11 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://padmaonline.duckdns.org:8088/SamiTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/sami-768x768.jpg",Sami Tv
 https://padmaonline.duckdns.org:8088/SamiTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://journal24bd.com/wp-content/uploads/2021/04/2.png" group-title="Bangla",US-BD Journal 24 TV
+http://208.86.19.13:81/510.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla" group-title="",ATN Bangla UK
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="Indian-bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png",Bangla dhum
@@ -6070,6 +6076,54 @@ https://live20.bozztv.com/giatvplayout7/giatv-209644/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209634/index.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play Cartoon
 https://live20.bozztv.com/giatvplayout7/giatv-209599/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Oggy e as Baratas Tontas" tvg-logo="https://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png" group-title="PLUTO TV BRASIL",Oggy e as Baratas Tontas
+https://stitcher.pluto.tv/stitch/hls/channel/63221bafdc6e110007b50270/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=47ec9a07-62bc-11ef-af0a-6eb4f045f593
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68b17414c23bb80b3c1d5bb5/colorLogoPNG_1760606450398.png" group-title="Nouveau sur Pluto TV",Doraemon
+https://stitcher.pluto.tv/stitch/hls/channel/68b17414c23bb80b3c1d5bb5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e0c10eff-b78b-11f0-9294-42e12391786b
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/667f3852efa2a10008e1e514/colorLogoPNG.png" group-title="Kids",Go Go Gadget!
+https://stitcher.pluto.tv/stitch/hls/channel/667f3852efa2a10008e1e514/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
+#EXTINF:-1 tvg-logo="https://i.imgur.com/evzfe9C.png" group-title="Kids",Garfield and Friends
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f176-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=68c3c9ce-0e68-43fa-ade2-43491d9d88e2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68b16d2282862c1f067dc763/colorLogoPNG_1760383270761.png" group-title="Nouveau sur Pluto TV",Les Schtroumpfs
+https://stitcher.pluto.tv/stitch/hls/channel/68b16d2282862c1f067dc763/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e0c10eff-b78b-11f0-9294-42e12391786b
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6675c7868768aa0008d7f1c7/colorLogoPNG.png" group-title="Kids",Pokémon
+https://stitcher.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6812948d5a1ac24c25fac322/colorLogoPNG_1747069932836.png" group-title="Kids",Kids Anime
+https://stitcher.pluto.tv/stitch/hls/channel/6812948d5a1ac24c25fac322/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60fb053712f22a0007ff14d2/colorLogoPNG.png" group-title="Kids",Transformers TV
+https://stitcher.pluto.tv/stitch/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/667f3852efa2a10008e1e514/colorLogoPNG.png" group-title="Kids",Go Go Gadget!
+https://stitcher.pluto.tv/stitch/hls/channel/667f3852efa2a10008e1e514/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png" group-title="Kids",LEGO Kids TV
+https://stitcher.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/667f393836a2f90008fd17c0/colorLogoPNG_1753982261322.png" group-title="Kids",Strawberry Shortcake and Friends
+https://stitcher.pluto.tv/stitch/hls/channel/667f393836a2f90008fd17c0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60fb040d4795a6000762fe8f/colorLogoPNG.png" group-title="Kids",Kartoon Channel!
+https://stitcher.pluto.tv/stitch/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fb584b7613a31000789de5a/colorLogoPNG.png" group-title="Kids",Ryan and Friends
+https://stitcher.pluto.tv/stitch/hls/channel/5fb584b7613a31000789de5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="Kids",Forever Kids
+https://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" group-title="Kids",Garfield and Friends
+https://stitcher.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qDF8pHQ/tdcc.png" group-title="Uncategorized",TRT DÄ°YANET Ã‡OCUK
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L8ftBdN/minikacocuk.png" group-title="Uncategorized",MÄ°NÄ°KA Ã‡OCUK
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_480p.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R2Zgy7F/minikago.png" group-title="Uncategorized",MÄ°NÄ°KA GO
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8
+#EXTINF:-1,Super
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="Uncategorized",GULLI
+https://lbcdn.6cloud.fr/resource/m6web/l/gulli_hls_sd_short_q2hyb21h.m3u8?groups[]=m6web-live-gulli_ext
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="Uncategorized",GULLI
+https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-15-2025-01_36_16-PM-1-200x300.png",Shaun the Sheep 
 https://d2r2is7i9uumbe.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xlooshm8xqxh8/shaun.m3u8
