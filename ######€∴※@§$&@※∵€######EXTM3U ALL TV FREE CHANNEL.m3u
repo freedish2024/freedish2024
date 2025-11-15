@@ -4951,6 +4951,27 @@ https://cd198.anystream.uk:8082/hls/s4ne/index.m3u8
 https://nl2.livekadeh.com/hls2/velayattv_high.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="Relagion Channel", Madani TV
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1,AL ISTIQAMA 
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:-1,AL SUNNAH TV 
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1,AL SUNNAH TV
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+#EXTINF:-1,BAHRAIN QURAN 
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1,SHARJAH QURAN 
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8 
+#EXTINF:-1,AL QAMAR 
+https://streamer3.premio.link/alqamar/playlist.m3u8
+#EXTINF:-1,AL SHALLAL
+https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
+#EXTINF:-1,AL HAYAT
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-0 tvg-logo="https://ethnicmediagroup.co.uk/wp-content/uploads/2022/02/Untitled-design-24-1600x900.png",iON TV 
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/live-orgin/iontvuk.stream/chunks.m3u8
+#EXTINF:-0 tvg-logo="https://www.tvoneuk.tv/wp-content/uploads/2021/06/TVONE-LOGO-Colour.png",TV One
+https://app.ncare.live/live-orgin/tvoneuksni.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/alwafa.png" group-title="RELIGI",Al Wafa Tarim TV
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
@@ -5053,7 +5074,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
 
 
-
+#EXTINF:-1 tvg-id="1341" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids",Nick Bangla  (Kids)
+http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/5011
 #EXTINF:-1 tvg-id="1341" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids",Nick Bangla  (Kids)
 https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8
 #EXTINF:-1 tvg-id="1345" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="Kids",Sonic Bangla  (Kids)
@@ -5066,7 +5088,8 @@ http://202.78.232.181:8090/playontv/playon@admin/118
 http://202.78.232.181:8090/playontv/playon@admin/1093
 #EXTINF:-1,Sony Yay Bangla
 http://app.hughag.store/api/b45f637d05/playlist.m3u8
-
+#EXTINF:-1,Sony Yay Bangla
+https://allottplay.com/tv/toffee/live.php?id=sonyyay&e=.m3u8
 
 #EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/11/Desh-Bangla-Tv.png",Desh Bangla Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshbanglatv.stream/tracks-v1a1/mono.m3u8
@@ -5132,6 +5155,18 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/JrR95zG/NTV-Bangladesh-logo-svg.pngg",Ntv Europe
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Logo_of_Nagorik_TV.svg/1078px-Logo_of_Nagorik_TV.svg.png",Nagorik
+http://fast.luckonline.eu/Ali130225/Cpyej2JL56Xy/560
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/refs/heads/tv/slazzer-preview-uuw1l.png",B24C
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8
+#EXTINF:-0 tvg-logo="https://yt3.ggpht.com/EUfH-zm--KHbNr1vUG6MP7QLaH1Yeutc7w-doCn7Ty1b2w0kKvaV_tkjCVIliYkpqiMAIT7EEx8=s900-c-k-c0x00ffffff-no-rj",Nan TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/e/ed/%E0%A6%9C%E0%A6%BE%E0%A6%97%E0%A7%8B_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C.png",Jago News 24
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://thenrb.tv/wp-content/uploads/2021/11/NRB-tv-Final-Logo-PNG-2.png",NRB TV
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
+#EXTINF:-0 tvg-logo="https://channeleurope.tv/storage/settings/BNyRMyomifMQ7VlzvHKbNwCfzxM7kF4Vq7bj4zxZ.png",Channel Europe
+https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
 
 
 #EXTINF:-1 group-title="Indian-bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png",Bangla dhum
@@ -5948,7 +5983,8 @@ http://202.78.232.181:8090/playontv/playon@admin/1981
 http://202.78.232.181:8090/playontv/playon@admin/1979
 #EXTINF:-1 xui-id="1980" tvg-id="" tvg-name="BHAKTI SAGAR" tvg-logo="http://ott.playontv.in:8090/images/wM9PrGmOMl2R1ko2OeeDo00tbkxhh2vlzTPhnbKrwVncwxNccR0-pD8MgqPxKPGt0u5WFHByjJjKk3-ToFgI8QwYsmFgLZEdeiwEn9l3sJY.jpg" group-title="DEVOTIONAL",BHAKTI SAGAR 
 http://202.78.232.181:8090/playontv/playon@admin/1980
-
+#EXTINF:-1 xui-id="1982" tvg-id="" tvg-name="News Uni Bangla" tvg-logo="http://ott.playontv.in:8090/images/IETHqQbWw1beZQGzca1U3_LdrSSMVH2KOhMykEDPrE5y466QhqXjvpZWmhlYzxjC25cbv1XG-KwmAUnb25yc9Q.png" group-title="NEWS",News Uni Bangla 
+http://202.78.232.181:8090/playontv/playon@admin/1982
 
 #EXTINF:-1 tvg-id="895" group-title="ASSAM | INDIA" tvg-logo="http://zap4k.me/stalker_portal/misc/logos/320/812.jpg",RENGONI
 https://cdn-7.pishow.tv/live/10018/master.m3u8
@@ -6112,6 +6148,20 @@ https://live20.bozztv.com/giatvplayout7/giatv-209634/index.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play Cartoon
 https://live20.bozztv.com/giatvplayout7/giatv-209599/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxysvva86UdV2btn-I1uZ7h-FPEGxmlinqoA&s ",BOOM ANIME
+https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png ",Boomerang Thai 
+https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+#EXTINF:-1,The Q
+https://mumt05.tangotv.in/THEQ/index.m3u8
+#EXTINF:-1,MAJID 
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8 
+#EXTINF:-1,KOOGI TV
+https://5b622f07944df.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+#EXTINF:-1,MOONBUG KIDS
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2023/08/ChatGPT-Image-Sep-4-2025-08_21_25-AM-1-200x300.jpg?strip=all&lossy=1&ssl=1 ",shemaroo Chumbak TV 
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Oggy e as Baratas Tontas" tvg-logo="https://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png" group-title="PLUTO TV BRASIL",Oggy e as Baratas Tontas
 https://stitcher.pluto.tv/stitch/hls/channel/63221bafdc6e110007b50270/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=47ec9a07-62bc-11ef-af0a-6eb4f045f593
