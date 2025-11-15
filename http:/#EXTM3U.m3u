@@ -1,0 +1,1296 @@
+#EXTM3U
+#EXTINF:-1 ,BTV World
+http://103.230.105.252:1935/live/btv/manifest.m3u8
+#EXTINF:-1 ,SONY LIV
+https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
+#EXTINF:-1 ,SONY LIV2
+https://dai.google.com/linear/hls/event/tG04-ukTSleEi0819p-EqA/master.m3u8
+#EXTINF:-1 ,Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 ,TSPORTS
+http://116.204.149.16/t_sports/index.m3u8
+#EXTINF:-1 ,Zee-Bangla
+http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
+#EXTINF:-1 ,ZeeCinema
+http://smart.bengaldigital.live/ZeeCinema/index.m3u8
+#EXTINF:-1 ,NICKTOONS
+http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:-1 ,Movie Bangla
+http://103.175.242.10:8080/moviebangla/index.m3u8
+#EXTINF:-1 ,Disney_Junior
+http://78.108.251.7/Disney_Junior/index.m3u8
+#EXTINF:-1 ,Cartoon_Network
+http://78.108.251.7/Cartoon_Network/index.m3u8
+#EXTINF:-1 ,Boomerang
+http://78.108.251.7/Boomerang/index.m3u8
+#EXTINF:-1 ,Nick_Jr Raja-Krisno
+http://78.108.251.7/Nick_Jr/index.m3u8
+#EXTINF:-1 ,Discovery_HD
+http://78.108.251.7/Discovery_HD/index.m3u8
+#EXTINF:-1 ,Histoire HD
+http://151.80.18.177:86/Histoire/index.m3u8
+#EXTINF:-1 ,TF1_HD
+http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1 ,RTL9 HD
+http://151.80.18.177:86/RTL9/index.m3u8
+#EXTINF:-1 ,Discovery_HD
+http://151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:-1 ,Eurosport_HD
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 ,Sony Ten 5 🇮🇳
+http://103.175.242.10:8080/sonyten5/index.m3u8
+#EXTINF:-1 ,Sony Ten 5 🇮🇳
+http://stvlive.net:8080/sonyten5/index.m3u8
+#EXTINF:-1 ,TSports
+http://103.175.242.10:8080/tsports1/index.m3u8
+#EXTINF:-1 ,T Sports
+http://147.93.154.65/Bein3/index.m3u8
+#EXTINF:-1 ,True Vision Sports
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=191873&extension=m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/xC2TbNWn/minimax.jpg ",Minimax 
+https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+#EXTINF:,T0m and Jerry 3
+http://live.iill.top/huya.php?id=11352879
+#EXTINF:,Cart00n Netw0rk (Retr0 Blast)
+https://retroblast.tv/hls/0/stream.m3u8?cachebust=f224d41f
+#EXTINF:,TG Juni0r
+https://d3i6upqaqzosi1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9k42dil136v1e-prod/tg/jr_us/tg_jr_us.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bvbf9o7.png" group-title="Kids",Gubbare (1080p)
+https://epiconvh.akamaized.net/live/gubbare/master.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/512px-Hungama_TV.svg.png" group-title="Kids",Hungama TV (576p) 
+http://87.255.35.150:18811/ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OSKUQHW.png" group-title="Kids",Kochu TV (576p) 
+http://87.255.35.150:18212
+#EXTINF:,Sony yay 
+http://87.255.35.150:18285
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxysvva86UdV2btn-I1uZ7h-FPEGxmlinqoA&s ",BOOM ANIME 
+https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png ",Boomerang Thai 
+https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+#EXTINF:,The Q
+https://mumt05.tangotv.in/THEQ/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Kids 123 ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids 123 ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567058
+#EXTINF:-1 tvg-id="" tvg-name="Kids Vlad&Niki ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids Vlad&Niki ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567059
+#EXTINF:-1 tvg-id="" tvg-name="Kids Diana Show ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids Diana Show ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567060
+#EXTINF:-1 tvg-id="" tvg-name="Kids Nastya ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids Nastya ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567061
+#EXTINF:-1 tvg-id="" tvg-name="Kids Blippi ᴴᴰ" tvg-logo="https://iili.io/LjYFhG.md.png" group-title="EXCLUSIVE",Kids Blippi ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567062
+#EXTINF:-1 tvg-id="" tvg-name="Kids Paw Patrol ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids Paw Patrol ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567063
+#EXTINF:-1 tvg-id="" tvg-name="Kids Pj Masks ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids Pj Masks ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567064
+#EXTINF:-1 tvg-id="" tvg-name="Kids Masha&Bear ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids Masha&Bear ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567065
+#EXTINF:-1 tvg-id="" tvg-name="Kids Mickey Mouse ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids Mickey Mouse ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567066
+#EXTINF:-1 tvg-id="" tvg-name="Kids Peppa Pig ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids Peppa Pig ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567067
+#EXTINF:-1 tvg-id="" tvg-name="Kids Tom&Jerry ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids Tom&Jerry ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567068
+#EXTINF:-1 tvg-id="" tvg-name="Kids Bloopies ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids Bloopies ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567069
+#EXTINF:-1 tvg-id="" tvg-name="Kids SpongeBob ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids SpongeBob ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567070
+#EXTINF:-1 tvg-id="" tvg-name="Kids Pets ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids Pets ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567071
+#EXTINF:-1 tvg-id="" tvg-name="Kids Spidey ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids Spidey ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567072
+#EXTINF:-1 tvg-id="" tvg-name="Kids Oddbods ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids Oddbods ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567073
+#EXTINF:-1 tvg-id="" tvg-name="Kids Larva ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids Larva ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567074
+#EXTINF:-1 tvg-id="" tvg-name="Kids Grizzy ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids Grizzy ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567075
+#EXTINF:-1 tvg-id="" tvg-name="Kids Bob The Builder ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids Bob The Builder ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567076
+#EXTINF:-1 tvg-id="" tvg-name="Kids BabyShark ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids BabyShark ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567077
+#EXTINF:-1 tvg-id="" tvg-name="Kids CloudBabies ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids CloudBabies ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567078
+#EXTINF:-1 tvg-id="" tvg-name="Kids Cocomelon ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids Cocomelon ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567079
+#EXTINF:-1 tvg-id="" tvg-name="Kids BabyTV ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids BabyTV ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567080
+#EXTINF:-1 tvg-id="" tvg-name="Kids Boss-Baby ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids Boss-Baby ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567081
+#EXTINF:-1 tvg-id="" tvg-name="Kids MightyLittleBheem ᴴᴰ" tvg-logo="https://iili.io/Lj7m1p.md.png" group-title="EXCLUSIVE",Kids MightyLittleBheem ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567082
+#EXTINF:-1 tvg-id="" tvg-name="Kids Sonic ᴴᴰ" tvg-logo="https://iili.io/LjYFhG.md.png" group-title="EXCLUSIVE",Kids Sonic ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567083
+#EXTINF:-1 tvg-id="" tvg-name="Kids Little Pony ᴴᴰ" tvg-logo="https://iili.io/LjwckG.md.png" group-title="EXCLUSIVE",Kids Little Pony ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567084
+#EXTINF:-1 tvg-id="" tvg-name="Kids Shaun The Sheep ᴴᴰ" tvg-logo="https://iili.io/LjYFhG.md.png" group-title="EXCLUSIVE",Kids Shaun The Sheep ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567085
+#EXTINF:-1 tvg-id="" tvg-name="Kids Garfield Show ᴴᴰ" tvg-logo="https://iili.io/LjYFhG.md.png" group-title="EXCLUSIVE",Kids Garfield Show ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567086
+#EXTINF:-1 tvg-id="" tvg-name="Kids Zig Sharko ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids Zig Sharko ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567087
+#EXTINF:-1 tvg-id="" tvg-name="Kids Oggy ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids Oggy ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567088
+#EXTINF:-1 tvg-id="" tvg-name="Kids CuriousGeorge ᴴᴰ" tvg-logo="https://iili.io/Lj7m1p.md.png" group-title="EXCLUSIVE",Kids CuriousGeorge ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567089
+#EXTINF:-1 tvg-id="" tvg-name="Kids Pucca ᴴᴰ" tvg-logo="https://iili.io/Lj7m1p.md.png" group-title="EXCLUSIVE",Kids Pucca ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567090
+#EXTINF:-1 tvg-id="" tvg-name="Kids Pink Panther ᴴᴰ" tvg-logo="https://iili.io/LjwckG.md.png" group-title="EXCLUSIVE",Kids Pink Panther ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567091
+#EXTINF:-1 tvg-id="" tvg-name="Kids Fireman Sam ᴴᴰ" tvg-logo="https://iili.io/LjYFhG.md.png" group-title="EXCLUSIVE",Kids Fireman Sam ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567092
+#EXTINF:-1 tvg-id="" tvg-name="Kids Alvinn Chipmunks ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids Alvinn Chipmunks ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567093
+#EXTINF:-1 tvg-id="" tvg-name="Kids Angry Birds ᴴᴰ" tvg-logo="https://iili.io/Lj7m1p.md.png" group-title="EXCLUSIVE",Kids Angry Birds ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567094
+#EXTINF:-1 tvg-id="" tvg-name="Kids AngryBirds Blue ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids AngryBirds Blue ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567095
+#EXTINF:-1 tvg-id="" tvg-name="Kids SuperWings ᴴᴰ" tvg-logo="https://iili.io/Lj7m1p.md.png" group-title="EXCLUSIVE",Kids SuperWings ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567096
+#EXTINF:-1 tvg-id="" tvg-name="Kids CupHeadShow ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids CupHeadShow ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567097
+#EXTINF:-1 tvg-id="" tvg-name="Kids GoDogGo ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids GoDogGo ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567098
+#EXTINF:-1 tvg-id="" tvg-name="Kids SharkDog ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids SharkDog ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567099
+#EXTINF:-1 tvg-id="" tvg-name="Kids Bluey ᴴᴰ" tvg-logo="https://iili.io/HiS85NI.md.png" group-title="EXCLUSIVE",Kids Bluey ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567100
+#EXTINF:-1 tvg-id="" tvg-name="Kids Gecko's Garage ᴴᴰ" tvg-logo="https://iili.io/HiSSRgj.md.png" group-title="EXCLUSIVE",Kids Gecko's Garage ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567101
+#EXTINF:-1 tvg-id="" tvg-name="Kids MrBean ᴴᴰ" tvg-logo="https://iili.io/HiSSRgj.md.png" group-title="EXCLUSIVE",Kids MrBean ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567102
+#EXTINF:-1 tvg-id="" tvg-name="Kids Omar&Hana ᴴᴰ" tvg-logo="https://iili.io/HiSU5CX.md.png" group-title="EXCLUSIVE",Kids Omar&Hana ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567103
+#EXTINF:-1 tvg-id="" tvg-name="Kids Prophet Stories ᴴᴰ" tvg-logo="https://iili.io/HiSSRgj.md.png" group-title="EXCLUSIVE",Kids Prophet Stories ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567104
+#EXTINF:-1 tvg-id="" tvg-name="Kids Wolfo ᴴᴰ" tvg-logo="https://iili.io/HiS85NI.md.png" group-title="EXCLUSIVE",Kids Wolfo ᴴᴰ
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567105
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Chip n Dale Rescue Rangers" tvg-logo="http://onlytimewilltell.xyz:2086/images/ee594124fd25bfe9e0b91bf00561719b.jpg" group-title="24/7",24/7: Chip n Dale Rescue Rangers
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/681902
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Chowder" tvg-logo="http://onlytimewilltell.xyz:2086/images/07cfd94271d00d567537909300b1e0d9.jpg" group-title="24/7",24/7: Chowder
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/681903
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Courage The Cowardly Dog" tvg-logo="http://onlytimewilltell.xyz:2086/images/9f9bc4670dbd189a783215b5bd9fc42b.jpg" group-title="24/7",24/7: Courage The Cowardly Dog
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/681916
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Inspector Gadget" tvg-logo="http://onlytimewilltell.xyz:2086/images/20a9803b395fa5ac272dc7b3f894daa1.jpg" group-title="24/7",24/7: Inspector Gadget
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/682108
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Jake and the Never Land Pirates" tvg-logo="http://onlytimewilltell.xyz:2086/images/03447afef3674df4e1501483b527f5d8.jpg" group-title="24/7",24/7: Jake and the Never Land Pirates
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/682117
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Mr Bean" tvg-logo="http://onlytimewilltell.xyz:2086/images/462394ceb1800ca7234af84ee9871735.jpg" group-title="24/7",24/7: Mr Bean
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/682235
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Mr Benn" tvg-logo="http://onlytimewilltell.xyz:2086/images/68e24ead172f4c1142cd340c32daf8c6.jpg" group-title="24/7",24/7: Mr Benn
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/682236
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Phineas and Ferb" tvg-logo="http://onlytimewilltell.xyz:2086/images/369b7489a464a4c02b3eabb1a3af5b7a.jpg" group-title="24/7",24/7: Phineas and Ferb
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/682294
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Power Rangers" tvg-logo="http://onlytimewilltell.xyz:2086/images/da6127c63b9d2c9d808a449574882c1a.jpg" group-title="24/7",24/7: Power Rangers
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/682311
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Wallace and Gromit" tvg-logo="http://onlytimewilltell.xyz:2086/images/ce702dceca8a972c3ef50ada1cc0627c.jpg" group-title="24/7",24/7: Wallace and Gromit
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/682706
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Ben 10" tvg-logo="http://onlytimewilltell.xyz:2086/images/b68d2846ee1097ee3093dc5ab19bcd89.jpg" group-title="24/7",24/7: Ben 10
+http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/681847
+
+
+#EXTINF:-1,★☆★ COCUK ★☆★
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/95271
+#EXTINF:-1,TRT ÇOCUK HD+
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559706
+#EXTINF:-1,TRT ÇOCUK HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559705
+#EXTINF:-1,TRT DİYANET ÇOCUK HD+
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559704
+#EXTINF:-1,TRT DİYANET ÇOCUK HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559703
+#EXTINF:-1,BABY TV HD+
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559702
+#EXTINF:-1,BABY TV HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559701
+#EXTINF:-1,DISNEY JR HD+
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559700
+#EXTINF:-1,DISNEY JR HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559699
+#EXTINF:-1,DA VINCI HD+
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/597512
+#EXTINF:-1,SMART ÇOCUK HD+
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559698
+#EXTINF:-1,SMART ÇOCUK HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559697
+#EXTINF:-1,CARTOONITO FHD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674447
+#EXTINF:-1,CARTOONITO HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674448
+#EXTINF:-1,CARTOON NETWORK HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559696
+#EXTINF:-1,CARTOON NETWORK
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559695
+#EXTINF:-1,NICK JR HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559694
+#EXTINF:-1,NICK JR
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559693
+#EXTINF:-1,NICKELODEON HD+
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559691
+#EXTINF:-1,NICKELODEON HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559692
+#EXTINF:-1,NICKTOONS HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559690
+#EXTINF:-1,NICKTOONS
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559689
+#EXTINF:-1,MINIKA GO HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559688
+#EXTINF:-1,MINIKA GO
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559687
+#EXTINF:-1,MINIKA ÇOCUK HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559686
+#EXTINF:-1,MINIKA ÇOCUK
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559685
+#EXTINF:-1,SPACETOON TV HD+
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/676842
+#EXTINF:-1,GÜLDÜY GÜLDÜY ÇOCUK
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571386
+#EXTINF:-1,BOOBA
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571382
+#EXTINF:-1,BARBİE
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571379
+#EXTINF:-1,KRAL ŞAKİR
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571385
+#EXTINF:-1,CANIM KARDEŞİM
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/559677
+#EXTINF:-1,ÇİZGİ FİLM TV
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571322
+#EXTINF:-1,MASAL DİYARI
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571380
+#EXTINF:-1,MAŞA İLE KOCA AYI
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571381
+#EXTINF:-1,LİMON İLE ZEYTİN
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571318
+#EXTINF:-1,ŞEKER HOCA
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571384
+#EXTINF:-1,SEVİMLİ DOSTLAR
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571383
+#EXTINF:-1,PEPPA PİG
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571378
+#EXTINF:-1,NİLOYA 1
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571323
+#EXTINF:-1,NİLOYA 2
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571376
+#EXTINF:-1,KUKULİ 1
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571326
+#EXTINF:-1,KUKULİ 2
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571371
+#EXTINF:-1,PEPEE 1
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571375
+#EXTINF:-1,PEPEE 2
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571374
+#EXTINF:-1,RAFADAN TAYFA 1
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571373
+#EXTINF:-1,RAFADAN TAYFA 2
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571317
+#EXTINF:-1,PIJAMASKELİLER 1
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571372
+#EXTINF:-1,PIJAMASKELİLER 2
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571325
+#EXTINF:-1,ANİMASYON 1
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571310
+#EXTINF:-1,ANİMASYON 2
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571309
+#EXTINF:-1,ANİMASYON 3
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571370
+#EXTINF:-1,ŞİRİNLER 1
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571369
+#EXTINF:-1,ŞİRİNLERLER 2
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571312
+#EXTINF:-1,WARNER BROS
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571319
+#EXTINF:-1,TOM VE JERRY
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571324
+#EXTINF:-1,SCOOBY DOO
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571321
+#EXTINF:-1,HAYALET CASPER
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571320
+#EXTINF:-1,TAŞ DEVRİ
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571316
+#EXTINF:-1,REDKİT
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571314
+#EXTINF:-1,HEIDI
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571313
+#EXTINF:-1,ARI MAYA
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571315
+#EXTINF:-1,ALVİNNNN!
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571367
+#EXTINF:-1,MÜFETTİŞ GADGET
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571366
+#EXTINF:-1,TRANSFORMERS
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571365
+#EXTINF:-1,JURASSİC WORLD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/571368
+#EXTINF:-1,★☆★ SPECIAL BOX COCUK 24/7 ★☆★
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/210351
+#EXTINF:-1,COCUK 7/24 | ANGRY BIRDS TOONS
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/587741
+#EXTINF:-1,COCUK 7/24 | BOOBA
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/587740
+#EXTINF:-1,COCUK 7/24 | GABBYS
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/587739
+#EXTINF:-1,COCUK 7/24 | JETGILLER
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/587738
+#EXTINF:-1,COCUK 7/24 | JURRASICWORLD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/587737
+#EXTINF:-1,COCUK 7/24 | KELOGLAN
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/587736
+#EXTINF:-1,COCUK 7/24 | KRAL SAKİN
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/587735
+#EXTINF:-1,COCUK 7/24 | MASA ILE KOCA AYI
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/587733
+#EXTINF:-1,COCUK 7/24 | PEPEE
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/587732
+#EXTINF:-1,COCUK 7/24 | RED KID
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/587731
+#EXTINF:-1,COCUK 7/24 | SCOOBY DOO
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/587730
+#EXTINF:-1,COCUK 7/24 | TOM VE JERRY
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/587729
+#EXTINF:-1,COCUK 24/7 TATLIS TV
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/310387
+#EXTINF:-1,COCUK 24/7 HOT WHEELS
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/310388
+#EXTINF:-1,COCUK 24/7 HAPSU
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/210353
+#EXTINF:-1,COCUK 24/7 KRAL SAKIR
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/210354
+#EXTINF:-1,COCUK 24/7 RAFADAN TAYFA
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/210355
+#EXTINF:-1,COCUK 24/7 NILOYA
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/210356
+#EXTINF:-1,COCUK 24/7 ARI MAYA
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/210357
+#EXTINF:-1,COCUK 24/7 PEPEE
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/210358
+#EXTINF:-1,COCUK 24/7 EMIRAY
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/210359
+#EXTINF:-1,COCUK 24/7 COCUKBOX 1
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/240627
+#EXTINF:-1,COCUK 24/7 COCUKBOX 2
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/240628
+#EXTINF:-1,COCUK 24/7 COCUKBOX 3
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/240629
+#EXTINF:-1,COCUK 24/7 COCUKBOX 4
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/240630
+#EXTINF:-1,COCUK 24/7 COCUKBOX 5
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/240631
+#EXTINF:-1,COCUK 24/7 COCUKBOX 6
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/240632
+#EXTINF:-1,COCUK 24/7 COCUKBOX 7
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/240633
+#EXTINF:-1,COCUK 24/7 COCUKBOX 8
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/240634
+#EXTINF:-1,COCUK 24/7 COCUKBOX 9
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/240635
+#EXTINF:-1,COCUK 24/7 COCUKBOX 10
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/240636
+#EXTINF:-1,COCUK 24/7 SCOOBY DO
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/210360
+#EXTINF:-1,COCUK 24/7 SUNGERBOB
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/210361
+#EXTINF:-1,COCUK 24/7 POKEMON
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/210362
+#EXTINF:-1,COCUK 24/7 METTIS GADGET
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/210363
+#EXTINF:-1,COCUK 24/7 VOLTRON 84
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/210365
+#EXTINF:-1,COCUK 24/7 KELOGLAN
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/210367
+#EXTINF:-1,COCUK 24/7 MASA ILE KOCA AYI
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/210368
+#EXTINF:-1,COCUK 24/7 LUCKY LUKE [RED KID]
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/210370
+#EXTINF:-1,COCUK 24/7 RICHIE RICH
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/210372
+#EXTINF:-1,COCUK 24/7 JETGILER
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/210373
+#EXTINF:-1,★☆★ SPECIAL BOX COCUK 7/24 ★☆★
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594732
+#EXTINF:-1,COCUK 7/24 | ALVİNNNN
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594731
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | ADALET BIRLIGI
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594730
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | ALVIN ve SINCAPLAR
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594729
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | ARABALAR
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594728
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | ASLAN KRAL
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594727
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | AYI KARDES
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594726
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | BARBIE
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594725
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | BATMAN
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594724
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | BUZ DEVRI
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594723
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | CESUR
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594722
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | CILGIN DOSTLAR
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594721
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | CILGIN HIRSIZ
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594720
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | DC
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594719
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | DENIZ CANAVARLARI
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594718
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | EJDERHALAR KURTARMA EKIBI
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594717
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | EVCIL HAYVANLAR
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594716
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | FINDIK
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594715
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | FORKY
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594714
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | INANILMAZ AILE
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594713
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | KAHRAMAN
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594712
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | KAPTAN
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594711
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | KAR
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594710
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | KOCA AYAK
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594709
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | KRAL SAKIR
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594708
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | KUNGFU PANDA
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594707
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | KUZULAR
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594706
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | LEGO
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594705
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | MADAGASKAR
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594704
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | MONSTER
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594703
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | MORTAL KOMBAT
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594702
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | NESELI
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594701
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | ONE PIECE
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594700
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | OTEL TRANSILVANYA
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594699
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | OYUNCAK HIKAYESI
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594698
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | PATRON BEBEK
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594697
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | POKEMON
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594696
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | RAFADAN TAYFA
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594695
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | SEVIMLI
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594694
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | SHREK
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594693
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | SIHIRLI
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594692
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | SIRINLER
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594691
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | SUNGERBOB
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594690
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | SUPER
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594689
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | TINKERBELL
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594688
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | TOM ve JERRY
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594687
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | TROLL
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594686
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | 1. SALON
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594685
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 |  2. SALON
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594684
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 |  3. SALON
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594683
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | 4. SALON
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594682
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | 5. SALON
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594681
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | 6. SALON
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594680
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | 7. SALON
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594679
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | 8. SALON
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594678
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | 9. SALON
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594677
+#EXTINF:-1,TR COCUK ANİMASYON 7/24 | 10. SALON
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/594676
+#EXTINF:-1,★☆★ KINDER ★☆★
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/95621
+#EXTINF:-1,TOGGO FHD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674710
+#EXTINF:-1,TOGGO HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674709
+#EXTINF:-1,TOGGO PLUS FHD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674708
+#EXTINF:-1,TOGGO PLUS HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674707
+#EXTINF:-1,KIKA FHD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674706
+#EXTINF:-1,KIKA HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674705
+#EXTINF:-1,NICK JR HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674704
+#EXTINF:-1,NICK JR
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674703
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674702
+#EXTINF:-1,DISNEY CHANNEL HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674701
+#EXTINF:-1,FIX & FOXI HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674700
+#EXTINF:-1,FIX & FOXI
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674699
+#EXTINF:-1,CARTOON NETWORK FHD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674698
+#EXTINF:-1,CARTOON NETWORK HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674697
+#EXTINF:-1,CARTOONITO FHD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/637683
+#EXTINF:-1,CARTOONITO HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/637684
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674696
+#EXTINF:-1,COMEDY CENTRAL HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674695
+#EXTINF:-1,NICKELODEON FHD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674693
+#EXTINF:-1,NICKELODEON HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674694
+#EXTINF:-1,NICKTOONS HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674692
+#EXTINF:-1,NICKTOONS
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674691
+#EXTINF:-1,BABY TV HD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674690
+#EXTINF:-1,BABY TV
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674689
+#EXTINF:-1,THE BOSS BABY
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/674688
+#EXTINF:-1,KINDER 24/7 PEPPER ANN
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/614323
+#EXTINF:-1,KINDER 24/7 SPIDER-MAN COMIC
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/614312
+#EXTINF:-1,KINDER 24/7 PHINEAS AND FERB
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/614301
+#EXTINF:-1,KINDER 24/7 DOUG
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/614300
+#EXTINF:-1,KINDER 24/7 JoNaLu
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/614298
+#EXTINF:-1,KINDER 24/7 DUCKTALES
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/614296
+#EXTINF:-1,KINDER 24/7 DARKWING DUCK
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/614295
+#EXTINF:-1,KINDER 24/7 GOOFY AND MAX
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/614299
+#EXTINF:-1,KINDER 24/7 LEGO
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/614322
+#EXTINF:-1,KINDER 24/7 CALLIOU
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/614321
+#EXTINF:-1,KINDER 24/7 SPIDEY und SEINE SUPER FREUNDE
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601480
+#EXTINF:-1,KINDER 24/7 ANGRY BIRDS VERRUCKTER SOMMER
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601479
+#EXTINF:-1,KINDER 24/7 BAYMAX
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601478
+#EXTINF:-1,KINDER 24/7 BLUEY
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601477
+#EXTINF:-1,KINDER 24/7 BOBS BURGERS
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601476
+#EXTINF:-1,KINDER 24/7 CARS on the ROAD
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601475
+#EXTINF:-1,KINDER 24/7 CHIP und CHAP DAS LEBEN IM PARK
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601474
+#EXTINF:-1,KINDER 24/7 CHIP und CHAP DIE RITTER DES RECHTS
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601473
+#EXTINF:-1,KINDER 24/7 DARKWING DUCK DER SCHRECKEN DER BOSEWICHTE
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601472
+#EXTINF:-1,KINDER 24/7 DAS HAUS DER 101 DALMATINER
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601471
+#EXTINF:-1,KINDER 24/7 DER GEIST und MOLLY MCGEE
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601470
+#EXTINF:-1,KINDER 24/7 DIE BARBARIN und DER TROLL
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601469
+#EXTINF:-1,KINDER 24/7 DIE DANOS
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601468
+#EXTINF:-1,KINDER 24/7 DIE GARDE DER LOWEN
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601467
+#EXTINF:-1,KINDER 24/7 DIE GUMMIBARENBANDE
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601466
+#EXTINF:-1,KINDER 24/7 DIE KLEINE MEERJUNGFRAU
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601465
+#EXTINF:-1,KINDER 24/7 DIE PROUDS LAUTTER und TRAUTER
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601464
+#EXTINF:-1,KINDER 24/7 DIE WUNDERBARE WELT VON MICKY MAUS
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601463
+#EXTINF:-1,KINDER 24/7 DISNEY PRASENTIERT GOOFY IN ANLEINTUNG ZUM ZU HAUSE BLEIBEN
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601462
+#EXTINF:-1,KINDER 24/7 DISNEY ALADDIN
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601461
+#EXTINF:-1,KINDER 24/7 DISNEY GROBE PAUSE
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601460
+#EXTINF:-1,KINDER 24/7 DISNEY HOUSE of MOUSE
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601459
+#EXTINF:-1,KINDER 24/7 DOGS in SPACE
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601458
+#EXTINF:-1,KINDER 24/7 DUCK TALES
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601457
+#EXTINF:-1,KINDER 24/7 DUCK TALES NEUS aus ENTENHAUSEN
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601456
+#EXTINF:-1,KINDER 24/7 DUG TAGE
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601455
+#EXTINF:-1,KINDER 24/7 ELENA von AVALOR
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601454
+#EXTINF:-1,KINDER 24/7 FAMILY GUY
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601453
+#EXTINF:-1,KINDER 24/7 FILLMORE
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601452
+#EXTINF:-1,KINDER 24/7 GARGOYLES AUF den SCHWINGEN der GERECHTIGKEIT
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601451
+#EXTINF:-1,KINDER 24/7 GHOST FORCE
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601450
+#EXTINF:-1,KINDER 24/7 GIGANTOSAURUS
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601449
+#EXTINF:-1,KINDER 24/7 GOOFY und MAX
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601448
+#EXTINF:-1,KINDER 24/7 ICE AGE SCRATS ABENTEUER
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601447
+#EXTINF:-1,KINDER 24/7 KIM POSSIBLE
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601446
+#EXTINF:-1,KINDER 24/7 KUKEN im EINSATZ
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601445
+#EXTINF:-1,KINDER 24/7 LEGO ELVES SECRETS of ELVENDALE
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601444
+#EXTINF:-1,KINDER 24/7 MARVEL SUPERHELDEN ABENTEUER
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601443
+#EXTINF:-1,KINDER 24/7 MARVEL MOON GIRL and DEVIL DINOSAUR
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601442
+#EXTINF:-1,KINDER 24/7 MICKEY MAUS WUNDERHAUS
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601441
+#EXTINF:-1,KINDER 24/7 MIGHTY EXPRESS
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601440
+#EXTINF:-1,KINDER 24/7 MIRA DIE MEISTERDETEKTIVIN
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601439
+#EXTINF:-1,KINDER 24/7 MONSTER BEI DER ARBEIT
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601438
+#EXTINF:-1,KINDER 24/7 OLAF PRASENTIER
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601437
+#EXTINF:-1,KINDER 24/7 PIXAR POPCORN
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601436
+#EXTINF:-1,KINDER 24/7 SABER RIDER und die STAR SHERRIFFS
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601435
+#EXTINF:-1,KINDER 24/7 STAR WARS THE BAD BATCH
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601434
+#EXTINF:-1,KINDER 24/7 THE ROCKETEER
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601433
+#EXTINF:-1,KINDER 24/7 TOM and JERRY IN NEW YORK
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601432
+#EXTINF:-1,KINDER 24/7 WAS IST WAS
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601431
+#EXTINF:-1,KINDER 24/7 WILLKOMMEN im HAUS der EULEN
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601430
+#EXTINF:-1,KINDER 24/7 WILLKOMMEN im GRAVITY FALLS
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/601429
+#EXTINF:-1,KIDS 24/7 KICKERS
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/569375
+#EXTINF:-1,KIDS 24/7 WEIHNACHTSMANN UND Co.KG
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/569374
+#EXTINF:-1,KIDS 24/7 BOB DER BAUMEISTER
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/598754
+#EXTINF:-1,KIDS 24/7 FEUERWEHRMANN SAM
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/598753
+#EXTINF:-1,KIDS 24/7 DIE DINOS
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/598747
+#EXTINF:-1,SERIE 24/7 PAW PATROL
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/598746
+#EXTINF:-1,KIDS 24/7 BEYBLADE V-FORCE
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/598745
+#EXTINF:-1,KIDS 24/7 BEYBLADE REVOLUTION
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/598744
+#EXTINF:-1,KIDS 24/7 YU GI OH
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/598743
+#EXTINF:-1,KIDS 24/7 PEPPA PIG
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/598741
+#EXTINF:-1,SERIE 24/7 SPONGEBOB SCHWAMMKOPF
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/585657
+#EXTINF:-1,KINDER 24/7 MUPPET BABIES
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/210900
+#EXTINF:-1,KINDER 24/7 DIE GARDE DER LOEWEN
+http://xcmaster.live:8080/@Melek/TOegq4PGJ4/210897
+
+
+#EXTINF:-1 ,BBC
+http://78.108.251.7/BBC/index.m3u8
+#EXTINF:-1 ,CNN HD
+http://78.108.251.7/CNN/index.m3u8
+#EXTINF:-1 ,RTVi
+http://78.108.251.7/RTVi/index.m3u8
+#EXTINF:-1 ,Travel_Channel_HD
+http://78.108.251.7/Travel_Channel_HD/index.m3u8
+#EXTINF:-1 group-title="-",&flix HD - Rs 19.00
+http://66.102.120.18:8000/play/a022
+#EXTINF:-1 group-title="-",&pictures HD - Rs 19.00
+http://66.102.120.18:8000/play/a01t
+#EXTINF:-1 group-title="-",&tv HD - Rs 19.00
+http://66.102.120.18:8000/play/a01u
+#EXTINF:-1 group-title="-",24 News HD
+http://66.102.120.18:8000/play/a04v
+#EXTINF:-1 group-title="-",24B HD
+http://66.102.120.18:8000/play/a044
+#EXTINF:-1 group-title="-",365 NEWS
+http://66.102.120.18:8000/play/a039
+#EXTINF:-1 group-title="-",8XM HD
+http://66.102.120.18:8000/play/a050
+#EXTINF:-1 group-title="-",92 Entertainment
+http://66.102.120.18:8000/play/a06m
+#EXTINF:-1 group-title="-",92 News HD
+http://66.102.120.18:8000/play/a04y
+#EXTINF:-1 group-title="-",A SportsHD
+http://66.102.120.18:8000/play/a032
+#EXTINF:-1 group-title="-",A1 TV
+http://66.102.120.18:8000/play/a04q
+#EXTINF:-1 group-title="-",AAJ ENTERTANMENT
+http://66.102.120.18:8000/play/a05b
+#EXTINF:-1 group-title="-",AAJ NEWS
+http://66.102.120.18:8000/play/a05a
+#EXTINF:-1 group-title="-",AAN TV - HD
+http://66.102.120.18:8000/play/a05j
+#EXTINF:-1 group-title="-",ABBTAKK HD
+http://66.102.120.18:8000/play/a051
+#EXTINF:-1 group-title="-",AIK NEWS
+http://66.102.120.18:8000/play/a03d
+#EXTINF:-1 group-title="-",APNA CHANNEL HD
+http://66.102.120.18:8000/play/a04z
+#EXTINF:-1 group-title="-",APlus Pakistan
+http://66.102.120.18:8000/play/a03c
+#EXTINF:-1 group-title="-",ARYDigitalAsia HD
+http://66.102.120.18:8000/play/a030
+#EXTINF:-1 group-title="-",ARYMusik
+http://66.102.120.18:8000/play/a036
+#EXTINF:-1 group-title="-",ARYNewsAsia
+http://66.102.120.18:8000/play/a02z
+#EXTINF:-1 group-title="-",ARYQTV
+http://66.102.120.18:8000/play/a014
+#EXTINF:-1 group-title="-",ARYZindagi
+http://66.102.120.18:8000/play/a031
+#EXTINF:-1 group-title="-",ATV ENT HD
+http://66.102.120.18:8000/play/a03t
+#EXTINF:-1 group-title="-",AUR_Life HD
+http://66.102.120.18:8000/play/a05k
+#EXTINF:-1 group-title="-",AXN
+http://66.102.120.18:8000/play/a06i
+#EXTINF:-1 group-title="-",Al Jazeera English HD
+http://66.102.120.18:8000/play/a015
+#EXTINF:-1 group-title="-",Animal Planet HD
+http://66.102.120.18:8000/play/a00o
+#EXTINF:-1 group-title="-",B4U Movies - Free
+http://66.102.120.18:8000/play/a01w
+#EXTINF:-1 group-title="-",BBC News
+http://66.102.120.18:8000/play/a074
+#EXTINF:-1 group-title="-",BOL News Urdu
+http://66.102.120.18:8000/play/a038
+#EXTINF:-1 group-title="-",CITY-21
+http://66.102.120.18:8000/play/a05z
+#EXTINF:-1 group-title="-",CITY-42 HD
+http://66.102.120.18:8000/play/a05x
+#EXTINF:-1 group-title="-",CNN International
+http://66.102.120.18:8000/play/a017
+#EXTINF:-1 group-title="-",COLORS CINIPLEX HD
+http://66.102.120.18:8000/play/a06z
+#EXTINF:-1 group-title="-",Capital TV
+http://66.102.120.18:8000/play/a02y
+#EXTINF:-1 group-title="-",Cartoon Network - Rs 4.75
+http://66.102.120.18:8000/play/a00t
+#EXTINF:-1 group-title="-",Cartoon Network HD+ - Rs 7.0
+http://66.102.120.18:8000/play/a011
+#EXTINF:-1 group-title="-",Colors Cineplex Bollywood - Rs 0.10
+http://66.102.120.18:8000/play/a01a
+#EXTINF:-1 group-title="-",Colors HD
+http://66.102.120.18:8000/play/a00a
+#EXTINF:-1 group-title="-",Colors Infinity HD
+http://66.102.120.18:8000/play/a00q
+#EXTINF:-1 group-title="-",DW English HD
+http://66.102.120.18:8000/play/a03i
+#EXTINF:-1 group-title="-",Discover Pakistan
+http://66.102.120.18:8000/play/a06r
+#EXTINF:-1 group-title="-",Discover Pakistan
+http://66.102.120.18:8000/play/a03v
+#EXTINF:-1 group-title="-",Discovery HD - Rs 8.00
+http://66.102.120.18:8000/play/a01k
+#EXTINF:-1 group-title="-",Discovery Kids - Rs 3.50
+http://66.102.120.18:8000/play/a00k
+#EXTINF:-1 group-title="-",Discovery Science - Rs 1.00
+http://66.102.120.18:8000/play/a01l
+#EXTINF:-1 group-title="-",Discovery Turbo - Rs 1.00
+http://66.102.120.18:8000/play/a016
+#EXTINF:-1 group-title="-",Disney International HD
+http://66.102.120.18:8000/play/a078
+#EXTINF:-1 group-title="-",Disney Junior
+http://66.102.120.18:8000/play/a004
+#EXTINF:-1 group-title="-",Disny
+http://66.102.120.18:8000/play/a070
+#EXTINF:-1 group-title="-",Dunya News HD
+http://66.102.120.18:8000/play/a04u
+#EXTINF:-1 group-title="-",EXP ENTERTAINMENT
+http://66.102.120.18:8000/play/a054
+#EXTINF:-1 group-title="-",EXPRESS NEWS
+http://66.102.120.18:8000/play/a053
+#EXTINF:-1 group-title="-",Eurosport HD - Rs 6.00
+http://66.102.120.18:8000/play/a01g
+#EXTINF:-1 group-title="-",FAST SPORTS HD
+http://66.102.120.18:8000/play/a05f
+#EXTINF:-1 group-title="-",FILMAX
+http://66.102.120.18:8000/play/a04c
+#EXTINF:-1 group-title="-",FILMAZIA
+http://66.102.120.18:8000/play/a04d
+#EXTINF:-1 group-title="-",FILMAZIA PUNJABI
+http://66.102.120.18:8000/play/a04n
+#EXTINF:-1 group-title="-",FIX&FOXI
+http://66.102.120.18:8000/play/a04b
+#EXTINF:-1 group-title="-",GEM COMEDY
+http://66.102.120.18:8000/play/a049
+#EXTINF:-1 group-title="-",GEM TV HD
+http://66.102.120.18:8000/play/a045
+#EXTINF:-1 group-title="-",GEO HD
+http://66.102.120.18:8000/play/a062
+#EXTINF:-1 group-title="-",GEO KAHANI HD
+http://66.102.120.18:8000/play/a064
+#EXTINF:-1 group-title="-",GEO NEWS
+http://66.102.120.18:8000/play/a05w
+#EXTINF:-1 group-title="-",GEO SUPER HD
+http://66.102.120.18:8000/play/a063
+#EXTINF:-1 group-title="-",GNNHD
+http://66.102.120.18:8000/play/a06p
+#EXTINF:-1 group-title="-",GTV NEWS HD
+http://66.102.120.18:8000/play/a05m
+#EXTINF:-1 group-title="-",GTV NEWS HD
+http://66.102.120.18:8000/play/a05l
+#EXTINF:-1 group-title="-",Geo Tez
+http://66.102.120.18:8000/play/a05o
+#EXTINF:-1 group-title="-",HUM HD
+http://66.102.120.18:8000/play/a06c
+#EXTINF:-1 group-title="-",HUM NEWS HD
+http://66.102.120.18:8000/play/a05e
+#EXTINF:-1 group-title="-",HUM SITARAY
+http://66.102.120.18:8000/play/a05i
+#EXTINF:-1 group-title="-",Hidayat TV
+http://66.102.120.18:8000/play/a04p
+#EXTINF:-1 group-title="-",History TV18 HD - Rs 7.00
+http://66.102.120.18:8000/play/a01q
+#EXTINF:-1 group-title="-",Hoora TV
+http://66.102.120.18:8000/play/a040
+#EXTINF:-1 group-title="-",INPLUS Pakistan
+http://66.102.120.18:8000/play/a02x
+#EXTINF:-1 group-title="-",Investigation Discovery - Rs 1.00
+http://66.102.120.18:8000/play/a01h
+#EXTINF:-1 group-title="-",Isaac TV
+http://66.102.120.18:8000/play/a04j
+#EXTINF:-1 group-title="-",JALWA HD
+http://66.102.120.18:8000/play/a052
+#EXTINF:-1 group-title="-",KSA SPORT1 HD
+http://66.102.120.18:8000/play/a03o
+#EXTINF:-1 group-title="-",KSA SPORT2 HD
+http://66.102.120.18:8000/play/a03p
+#EXTINF:-1 group-title="-",Khyber News HD
+http://66.102.120.18:8000/play/a058
+#EXTINF:-1 group-title="-",Kidzone Pakistan
+http://66.102.120.18:8000/play/a02l
+#EXTINF:-1 group-title="-",LTN FAMILY
+http://66.102.120.18:8000/play/a04a
+#EXTINF:-1 group-title="-",Lahore News HD
+http://66.102.120.18:8000/play/a04x
+#EXTINF:-1 group-title="-",Lahore Rang HD
+http://66.102.120.18:8000/play/a05h
+#EXTINF:-1 group-title="-",LotusTV
+http://66.102.120.18:8000/play/a03b
+#EXTINF:-1 group-title="-",MASALA TV
+http://66.102.120.18:8000/play/a059
+#EXTINF:-1 group-title="-",MIFA + HD
+http://66.102.120.18:8000/play/a047
+#EXTINF:-1 group-title="-",MIFA + HD
+http://66.102.120.18:8000/play/a048
+#EXTINF:-1 group-title="-",MIFA MUSIC HD
+http://66.102.120.18:8000/play/a046
+#EXTINF:-1 group-title="-",MINIMAX 2
+http://66.102.120.18:8000/play/a04o
+#EXTINF:-1 group-title="-",MTCL 1HD
+http://66.102.120.18:8000/play/a07m
+#EXTINF:-1 group-title="-",MTCL 2HD
+http://66.102.120.18:8000/play/a07j
+#EXTINF:-1 group-title="-",MTCL 3HD
+http://66.102.120.18:8000/play/a07k
+#EXTINF:-1 group-title="-",MTCL 4HD
+http://66.102.120.18:8000/play/a07l
+#EXTINF:-1 group-title="-",MTCL 5HD
+http://66.102.120.18:8000/play/a07i
+#EXTINF:-1 group-title="-",MTCL 6HD
+http://66.102.120.18:8000/play/a07h
+#EXTINF:-1 group-title="-",MTCL 8HD
+http://66.102.120.18:8000/play/a07g
+#EXTINF:-1 group-title="-",MTCL7HD
+http://66.102.120.18:8000/play/a07f
+#EXTINF:-1 group-title="-",MUN TV
+http://66.102.120.18:8000/play/a02j
+#EXTINF:-1 group-title="-",Metro 1
+http://66.102.120.18:8000/play/a034
+#EXTINF:-1 group-title="-",Movies Now HD - Rs 14.00
+http://66.102.120.18:8000/play/a019
+#EXTINF:-1 group-title="-",NATIONAL GEOGRAPHIC HD - Rs 14.00
+http://66.102.120.18:8000/play/a01f
+#EXTINF:-1 group-title="-",NEO NEWS HD
+http://66.102.120.18:8000/play/a05g
+#EXTINF:-1 group-title="-",NEWS ONE
+http://66.102.120.18:8000/play/a057
+#EXTINF:-1 group-title="-",NHK WORLD-JPN
+http://66.102.120.18:8000/play/a03k
+#EXTINF:-1 group-title="-",NOOR TV PK
+http://66.102.120.18:8000/play/a04m
+#EXTINF:-1 group-title="-",Nat Geo Wild HD - Rs 8.00
+http://66.102.120.18:8000/play/a01d
+#EXTINF:-1 group-title="-",Nick  - Rs 6.00
+http://66.102.120.18:8000/play/a00w
+#EXTINF:-1 group-title="-",Nick HD+
+http://66.102.120.18:8000/play/a07a
+#EXTINF:-1 group-title="-",Nick Jr. - Rs 1.00
+http://66.102.120.18:8000/play/a00m
+#EXTINF:-1 group-title="-",ONYX HD
+http://66.102.120.18:8000/play/a041
+#EXTINF:-1 group-title="-",PTV HOME HD
+http://66.102.120.18:8000/play/a04r
+#EXTINF:-1 group-title="-",PTV NATIONAL
+http://66.102.120.18:8000/play/a03s
+#EXTINF:-1 group-title="-",PTV NEWS HD
+http://66.102.120.18:8000/play/a04s
+#EXTINF:-1 group-title="-",PTV WORLD HD
+http://66.102.120.18:8000/play/a04t
+#EXTINF:-1 group-title="-",PTV-SPORTS-HD
+http://66.102.120.18:8000/play/a04w
+#EXTINF:-1 group-title="-",Paigham Pashto
+http://66.102.120.18:8000/play/a04g
+#EXTINF:-1 group-title="-",Paigham Urdu
+http://66.102.120.18:8000/play/a03e
+#EXTINF:-1 group-title="-",Paigham Urdu
+http://66.102.120.18:8000/play/a04k
+#EXTINF:-1 group-title="-",Peace TV English  HD
+http://66.102.120.18:8000/play/a05q
+#EXTINF:-1 group-title="-",Peace TV Urdu  HD
+http://66.102.120.18:8000/play/a05p
+#EXTINF:-1 group-title="-",Planet Fun HD
+http://66.102.120.18:8000/play/a02k
+#EXTINF:-1 group-title="-",Pogo - Rs 4.75
+http://66.102.120.18:8000/play/a00l
+#EXTINF:-1 group-title="-",Public News
+http://66.102.120.18:8000/play/a03u
+#EXTINF:-1 group-title="-",QURAN TV
+http://66.102.120.18:8000/play/a04h
+#EXTINF:-1 group-title="-",RIVER HD
+http://66.102.120.18:8000/play/a043
+#EXTINF:-1 group-title="-",ROHI TV
+http://66.102.120.18:8000/play/a05y
+#EXTINF:-1 group-title="-",RUBIX HD
+http://66.102.120.18:8000/play/a042
+#EXTINF:-1 group-title="-",Romedy Now - Rs 5.00
+http://66.102.120.18:8000/play/a01j
+#EXTINF:-1 group-title="-",SAMAA
+http://66.102.120.18:8000/play/a06o
+#EXTINF:-1 group-title="-",SAUDI CH For Quran HD
+http://66.102.120.18:8000/play/a03m
+#EXTINF:-1 group-title="-",SAUDI CH For Sunnah HD
+http://66.102.120.18:8000/play/a03n
+#EXTINF:-1 group-title="-",SET HD - Rs 19.00
+http://66.102.120.18:8000/play/a005
+#EXTINF:-1 group-title="-",SONY BBC EARTH HD - Rs 19.00
+http://66.102.120.18:8000/play/a01r
+#EXTINF:-1 group-title="-",SONY MAX - Rs 19.00
+http://66.102.120.18:8000/play/a00u
+#EXTINF:-1 group-title="-",SONY MAX 2 - Rs 1.00
+http://66.102.120.18:8000/play/a00h
+#EXTINF:-1 group-title="-",SONY MAX HD
+http://66.102.120.18:8000/play/a071
+#EXTINF:-1 group-title="-",SONY PIX HD - Rs 19.00
+http://66.102.120.18:8000/play/a01z
+#EXTINF:-1 group-title="-",SONY SAB HD - Rs 19.00
+http://66.102.120.18:8000/play/a00d
+#EXTINF:-1 group-title="-",SONY SPORTS TEN 1 HD - Rs 19.00
+http://66.102.120.18:8000/play/a002
+#EXTINF:-1 group-title="-",SONY SPORTS TEN 2 HD - Rs 19.00
+http://66.102.120.18:8000/play/a01y
+#EXTINF:-1 group-title="-",SONY SPORTS TEN 3 HD - Rs 19.00
+http://66.102.120.18:8000/play/a001
+#EXTINF:-1 group-title="-",SONY SPORTS TEN 5 HD - Rs 25.00
+http://66.102.120.18:8000/play/a010
+#EXTINF:-1 group-title="-",SONY YAY! - Rs 4.00
+http://66.102.120.18:8000/play/a00s
+#EXTINF:-1 group-title="-",STAR GOLD HD - Rs 19.00
+http://66.102.120.18:8000/play/a00f
+#EXTINF:-1 group-title="-",STAR Movies HD - Rs 19.00
+http://66.102.120.18:8000/play/a021
+#EXTINF:-1 group-title="-",STAR Movies Select HD - Rs 19.00
+http://66.102.120.18:8000/play/a020
+#EXTINF:-1 group-title="-",STAR Plus HD - Rs 22.00
+http://66.102.120.18:8000/play/a008
+#EXTINF:-1 group-title="-",STAR SPORTS S1 HD
+http://66.102.120.18:8000/play/a06x
+#EXTINF:-1 group-title="-",STAR SPORTS S2 HD
+http://66.102.120.18:8000/play/a06y
+#EXTINF:-1 group-title="-",STAR Sports 1 Hindi HD
+http://66.102.120.18:8000/play/a072
+#EXTINF:-1 group-title="-",STAR Sports2 Hindi HD
+http://66.102.120.18:8000/play/a00v
+#EXTINF:-1 group-title="-",SUNO NEWS HD
+http://66.102.120.18:8000/play/a05n
+#EXTINF:-1 group-title="-",Sab TV
+http://66.102.120.18:8000/play/a035
+#EXTINF:-1 group-title="-",See TV
+http://66.102.120.18:8000/play/a03y
+#EXTINF:-1 group-title="-",Set Entertainment
+http://66.102.120.18:8000/play/a05r
+#EXTINF:-1 group-title="-",Sindh News
+http://66.102.120.18:8000/play/a03x
+#EXTINF:-1 group-title="-",Sindh TV
+http://66.102.120.18:8000/play/a03w
+#EXTINF:-1 group-title="-",Sonic - Rs 1.00
+http://66.102.120.18:8000/play/a00p
+#EXTINF:-1 group-title="-",Star Bharat HD - Rs 19
+http://66.102.120.18:8000/play/a012
+#EXTINF:-1 group-title="-",Star Gold 2 - Rs 3.00
+http://66.102.120.18:8000/play/a00g
+#EXTINF:-1 group-title="-",Star Gold 2 HD
+http://66.102.120.18:8000/play/a077
+#EXTINF:-1 group-title="-",Star Gold Romance - Rs 2.00
+http://66.102.120.18:8000/play/a00r
+#EXTINF:-1 group-title="-",Star Gold Select HD - Rs 8.00
+http://66.102.120.18:8000/play/a01s
+#EXTINF:-1 group-title="-",Star Gold Thrills - Rs 2.00
+http://66.102.120.18:8000/play/a00c
+#EXTINF:-1 group-title="-",Star Sports 1 HD - Rs 19.00
+http://66.102.120.18:8000/play/a009
+#EXTINF:-1 group-title="-",Star Sports 1 Hindi - Rs 19.00
+http://66.102.120.18:8000/play/a00i
+#EXTINF:-1 group-title="-",TLC HD - Rs 3.00
+http://66.102.120.18:8000/play/a01c
+#EXTINF:-1 group-title="-",TRT World HD
+http://66.102.120.18:8000/play/a03l
+#EXTINF:-1 group-title="-",TV ONE
+http://66.102.120.18:8000/play/a055
+#EXTINF:-1 group-title="-",Travelxp HD
+http://66.102.120.18:8000/play/a075
+#EXTINF:-1 group-title="-",WASEB TV
+http://66.102.120.18:8000/play/a056
+#EXTINF:-1 group-title="-",Zee Anmol Cinema - Rs 0.10
+http://66.102.120.18:8000/play/a01v
+#EXTINF:-1 group-title="-",Zee Bollywood - Rs 3.00
+http://66.102.120.18:8000/play/a00n
+#EXTINF:-1 group-title="-",Zee Cafe HD
+http://66.102.120.18:8000/play/a076
+#EXTINF:-1 group-title="-",Zee Cinema HD
+http://66.102.120.18:8000/play/a06w
+#EXTINF:-1 group-title="-",Zee Classic - Rs 0.10
+http://66.102.120.18:8000/play/a006
+#EXTINF:-1 group-title="-",Zee TV HD - Rs 19.00
+http://66.102.120.18:8000/play/a00y
+#EXTINF:-1 group-title="-",iFilm English
+http://66.102.120.18:8000/play/a06n
+#EXTINF:-1 ,Movie Bangla
+http://stvlive.net:8080/moviebangla/index.m3u8
+#EXTINF:-1 ,Star Sports 1 HD Tamil
+http://ptu.ridsys.in/riptv/live/stream20/index.m3u8
+#EXTINF:-1 ,TSN 1 🇨🇦
+http://212.102.60.231/TSN_1/index.m3u8
+#EXTINF:-1 ,TSN 4 🇨🇦
+http://212.102.60.231/TSN_4/index.m3u8
+#EXTINF:-1 ,TSN 5 🇨🇦
+http://212.102.60.231/TSN_5/index.m3u8
+#EXTINF:-1 ,FS 1 SPORT 🇺🇸
+http://212.102.60.10/FOX_Sports_1/index.m3u8
+#EXTINF:-1 ,ESPN PREMIUM 🇦🇷
+http://190.102.246.93:9005/play/a00x
+#EXTINF:-1 ,ESPN 2 🇨🇴
+http://190.102.246.93:9005/play/a029
+#EXTINF:-1 ,ESPN 3 🇨🇴
+http://190.102.246.93:9005/play/a02l
+#EXTINF:-1 ,ESPN 1 NORTE 🇩🇴
+http://45.71.254.1:8000/play/a0e6/index.m3u8
+#EXTINF:-1 ,ESPN 2 NORTE 🇩🇴
+http://45.71.254.1:8000/play/a0e7/index.m3u8
+#EXTINF:-1 ,ESPN 🇦🇷
+http://45.71.254.1:8000/play/a038/index.m3u8
+#EXTINF:-1 ,Disney Channel
+http://103.182.170.32:8888/play/a04g
+#EXTINF:-1 ,DEPTO BANGLA HD
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1 ,RogeenTV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,INDEPENDENT TV
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+#EXTINF:-1 ,JAMUNA TV
+https://ythls.armelin.one/channel/UCDj9HHrRUzlsTuPQN0PHxjw.m3u8
+#EXTINF:-1 ,EKUSHEY TV HD
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 ,MY TV HD
+https://mytvbangla.com/0.m3u8
+#EXTINF:-1 ,Europe Sports 1 HD
+http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:-1 ,Europe  Sports 2 HD
+http://185.189.225.157/EuroSport2/index.m3u8
+#EXTINF:-1 ,Discovery Kids
+https://dplus.gammacdn.workers.dev/videos/113.m3u8
+#EXTINF:-1 ,Rishtey
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6586/index.m3u8
+#EXTINF:-1 ,Sangeet Bangla
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2906.ts
+#EXTINF:-1 ,B4u Music
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2762.ts
+#EXTINF:-1 ,US-BD Journal 24 TV
+http://208.86.19.13:81/510.stream/index.m3u8?
+#EXTINF:-1 ,Zee Bangla HD
+https://smart.bengaldigital.live/Zee-Bangla/index.m3u8
+#EXTINF:-1 ,Sananda TV
+https://live.sanonda.tv/sanonda/index.m3u8
+#EXTINF:-1 ,Unifi HD
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:-1 ,Arena_Sport
+http://178.23.88.55/Arena_sport/index.m3u8
+#EXTINF:-1 ,Sport 1 HD
+http://178.23.88.55/Sport1/index.m3u8
+#EXTINF:-1 ,Nova_Sport
+http://178.23.88.55/Nova_Sport/index.m3u8
+#EXTINF:-1 ,Eurosport_2
+http://178.23.88.55/Eurosport_2/index.m3u8
+#EXTINF:-1 ,Arena_Sport_1 HD
+http://78.108.251.7/Arena_Sport_1/index.m3u8
+#EXTINF:-1 ,Arena_Sport_2 HD
+http://78.108.251.7/Arena_Sport_2/index.m3u8
+#EXTINF:-1 ,Arena_Sport_3 HD
+http://78.108.251.7/Arena_Sport_3/index.m3u8
+#EXTINF:-1 ,Arena_Sport_4 HD
+http://78.108.251.7/Arena_Sport_4/index.m3u8
+#EXTINF:-1 ,Arena_Sport_5 HD
+http://78.108.251.7/Arena_Sport_5/index.m3u8
+#EXTINF:-1 ,MovieStar HD
+http://78.108.251.7/MovieStar/index.m3u8
+#EXTINF:-1 ,Diema HD
+http://78.108.251.7/Diema/index.m3u8
+#EXTINF:-1 ,MagicTV HD
+http://78.108.251.7/MagicTV/index.m3u8
+#EXTINF:-1 ,DMSat
+http://78.108.251.7/DMSat/index.m3u8
+#EXTINF:-1 ,EKids
+http://78.108.251.7/EKids/index.m3u8
+#EXTINF:-1 ,RodinaTV HD
+http://78.108.251.7/RodinaTV/index.m3u8
+#EXTINF:-1 ,DaVinciLearning
+http://78.108.251.7/DaVinciLearning/index.m3u8
+#EXTINF:-1 ,DuckTV
+http://78.108.251.7/DuckTV/index.m3u8
+#EXTINF:-1 ,MTVEurope
+http://78.108.251.7/MTVEurope/index.m3u8
+#EXTINF:-1 ,EpicDrama HD
+http://78.108.251.7/EpicDrama/index.m3u8
+#EXTINF:-1 ,DiemaFamily
+http://78.108.251.7/DiemaFamily/index.m3u8
+#EXTINF:-1 ,BabyTV
+http://78.108.251.7/BabyTV/index.m3u8
+#EXTINF:-1 ,NickToons
+http://78.108.251.7/NickToons/index.m3u8
+#EXTINF:-1 ,amc
+http://78.108.251.7/amc/index.m3u8
+#EXTINF:-1 ,A&E
+http://190.60.48.149:8000/play/AE
+#EXTINF:-1 ,RTA Sports
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
+#EXTINF:-1 ,Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 ,Duck TV
+https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
+#EXTINF:-1 ,Nick
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 ,PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 ,Zoo Moo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Cartoon box
+https://tiger-hub.vercel.app/kids_Zone/Cartoon-box/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ,Shehab
+http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/192411
+#EXTINF:-1 ,U toon
+http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/184144
+
+#EXTINF:-1 ,pluto TV Movies
+https://tiger-hub.vercel.app/Pluto_tv/Movies/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 ,pluto TV Action
+https://tiger-hub.vercel.app/Pluto_tv/Action/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 ,pluto TV Thriller
+https://tiger-hub.vercel.app/Pluto_tv/Thrillers/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 ,pluto TV Horror
+https://tiger-hub.vercel.app/Pluto_tv/Horror/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 ,luto TV  Animal
+https://tiger-hub.vercel.app/Pluto_tv/Animals/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 ,pluto TV Sci-fi series
+https://tiger-hub.vercel.app/Pluto_tv/Sci-fi_series/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 ,pluto TV kids
+https://tiger-hub.vercel.app/Pluto_tv/Kids/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 ,luto TV Family
+https://tiger-hub.vercel.app/Pluto_tv/Family/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 ,pluto TV History
+https://tiger-hub.vercel.app/Pluto_tv/History/tracks-v1a1/mono.ts.m3u8
+
+http://181.78.4.250:8098/play/a03n/index.m3u8
+http://181.78.4.250:8098/play/a07f/index.m3u8
+http://181.78.4.250:8098/play/a07m/index.m3u8
+http://181.78.4.250:8098/play/a08p/index.m3u8
+http://181.78.4.250:8098/play/a07o/index.m3u8
+http://181.78.4.250:8098/play/a03g/index.m3u8
+http://181.78.4.250:8098/play/a06l/index.m3u8
+http://181.78.4.250:8098/play/a08m/index.m3u8
+#EXTINF:-1 ,pluto TV Documentary
+https://tiger-hub.vercel.app/Pluto_tv/Documantary/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 ,pluto TV mastery
+https://tiger-hub.vercel.app/Pluto_tv/Mastery/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 ,pluto TV Sci-fi
+https://tiger-hub.vercel.app/Pluto_tv/Sci-fi/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 ,PassionXXX HD
+http://78.108.251.7/PassionXXX/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="ADULT LIVE",DORACEL TV (USA)
+https://cdnsk003.panaccess.com/local/Dorcel/index.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="ADULT LIVE",O la la (USA) 
+http://31.148.48.15/O-la-la/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="ADULT LIVE",French Lover (USA)
+http://31.148.48.15/French_Lover/mono.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="ADULT LIVE",Brazzers Tv (USA)
+http://31.148.48.15/Brazzers_TV_Europe/mono.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="ADULT LIVE",Russkaya Noch (USA)
+http://31.148.48.15/Russkaya_Noch/mono.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="ADULT LIVE",Playboy (USA)
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="ADULT LIVE",PRONPROS (USA)
+http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451483
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="ADULT LIVE",PRIVATE (USA)
+http://pl.online24.pm/play/793/623939143BE8A4B/video.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="ADULT LIVE",PASSION XXX (USA)
+http://78.108.251.7/PassionXXX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="ADULT LIVE",PORN  HUB (USA)
+http://217.156.66.36:8080/crocco2023/izQ42k4q8Lfh/174207-000f0947.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="ADULT LIVE",PORN  HUB (USA)
+http://149.18.45.187:80/live/8EA3N6BT/Y5Q4NFU8/401452348.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="ADULT LIVE",PORN  HUB (USA)
+http://vipgerretger.top:8080/VIP0131169833740900/21698337409640/132420
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="ADULT LIVE",BOYS TUBE (USA)
+http://flx.lat:8080//live/DonPota/hz4fhL6f3ZCg/330553.ts
+
