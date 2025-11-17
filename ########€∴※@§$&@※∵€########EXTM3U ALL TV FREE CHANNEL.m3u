@@ -6148,6 +6148,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-209634/index.m3u8
 #EXTINF:-1 group-title="Kids"tvg-logo="https://i.postimg.cc/Jzqh6SSX/tplay.jpg",T play Cartoon
 https://live20.bozztv.com/giatvplayout7/giatv-209599/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/xC2TbNWn/minimax.jpg ",Minimax
+https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxysvva86UdV2btn-I1uZ7h-FPEGxmlinqoA&s ",BOOM ANIME
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png ",Boomerang Thai 
@@ -8149,242 +8152,195 @@ http://vocotv.live:80/yesterday/yesterday/91201
 http://vocotv.live:80/yesterday/yesterday/102453
 
 
-#EXTINF:-1 tvg-logo="https://commons/thumb/f/f3/Logo_UEFA_Champions_League.png/220px-Logo_UEFA_Champions_League.png/thumb/8/83/TRT_%C3%87ocuk_kurumsal_logo.png/1280px-TRT_%C3%87ocuk_kurumsal_logo.png" group-title="TR | COCUK 7/24", TR: TRT ÇOCUK HD+
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/429
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: TRT COCUK HD
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/186668
-#EXTINF:-1 tvg-logo="https://www.trtdiyanetcocuk.net.tr/logo.svg" group-title="TR | COCUK 7/24", TR: TRT DIYANET COCUK HD
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/554924
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: SMART COCUK HD
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/425
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="TR | COCUK 7/24", TR: CARTOON NETWORK HD
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/426
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" group-title="TR | COCUK 7/24", TR: NICKELODEON HD
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/430
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_jr_us.png" group-title="TR | COCUK 7/24", TR: NICK JR HD HD
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/431
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_channel_global.png" group-title="TR | COCUK 7/24", TR: DISNEY JR HD+
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/444
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_channel_global.png" group-title="TR | COCUK 7/24", TR: DISNEY JR HD
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/432
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: CBEEBiES HD
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/434
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: BABY TV HD
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/436
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: MINICA GO
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/438
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: MINIKA COCUK
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/439
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boomerang_global.png" group-title="TR | COCUK 7/24", TR: BOOMERANG HD
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/437
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KIDSAX PAW PATROL
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/594668
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KIDSAX SONIC PRIME
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/594670
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KIDSAX KRAL SAKIR
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/594666
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KIDSAX EGE ILE GAGA
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/594665
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KIDSAX KOSTEBEKGILLER
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/594667
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KIDSAX BATWHEELS
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/594652
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KIDSAX CAILLOU
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/594651
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KIDSAX COCOMELON
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/594663
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KIDSAX COCOMELON SOKAGI
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/594662
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KIDSAX BLUEY
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/594661
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KIDSAX CANIM KARDESIM
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/594664
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KIDSAX KUKULI
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/219394
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KIDSAX NILOYA
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/219395
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KIDSAX PEPE
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/219396
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KIDSAX RAFADAN TAYFA
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/219398
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KIDSAX PJ MASKS
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/219397
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KIDSAX THE POWERPUFF GIRLS
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/594669
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KIDSAX SPONGE BOB
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/594672
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KIDSAX TAS DEVRI
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/594671
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KIDSAX PINK PANTER
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/219399
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: Real BOX Niloya
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/436339
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: DIZIAX Pokemon HD+
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/451
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: DIZIAX Masa İle Koca Ayı HD+
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/65778
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: DIZIAX Cocuk Alvinnnn HD+
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/124296
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: DIZIAX Cocuk Heidi HD+
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/124297
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: DIZIAX Cocuk Patron Bebek HD+
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/124298
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: DIZIAX Cocuk Jurassic World HD+
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/124300
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: DIZIAX Cocuk Transformers HD+
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/124301
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: DIZIAX Cocuk Sonic Boom HD+
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/124302
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: DIZIAX Cocuk Wakfu HD+
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/124303
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: DIZIAX Cocuk Kral Sakir HD+
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/124307
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: DIZIAX Aslan HD+
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/433
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: DIZIAX Elif ve Arkadaslari HD+
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/443
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: DIZIAX Rafadan Tayfa HD+
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/445
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: TOM & JERRY
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/440
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: PIJAMA MASKELILER TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/441
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: SiRiNLER TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/442
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: Cizgi Film HD
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/446
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KUKULI TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/447
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: Niloya HD+
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/448
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: PEPEE TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/195213
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: Animation 1 HD
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/453
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: Animation 2 HD
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/454
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: BOOBA TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/191901
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: 64 KARE ULKESI
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260507
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: ADIBESA MASALLARI
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260508
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: ANKA TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260509
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: ASLAN TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260510
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: BARBAROS TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260511
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: BEN 10 TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260512
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: BULMACA KULESI
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260513
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: CAILLOU TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260514
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: CANIM KARDESIM TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260515
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: GUMBEL
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260516
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: CILGIN ORMAN TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260517
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: ILAHI COCUK TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260518
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: DORU TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260519
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: EGE ILE GAGA
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260520
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: ELIF VE ARKADASLARI
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260521
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: ELIFIN RUYASI
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260522
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: GIZEMLER DIYARI
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260523
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: HAPSUU TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260524
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: ITFAYECI SAM
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260525
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KARE TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260526
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KELOGLAN TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260527
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KOSTEBEKGILLER TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260528
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KRAL SAKIR TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260529
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: KUKULI TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260530
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: LEYLEK KARDES
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260531
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: LIMON ZEYTIN
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260532
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: MASA KOCAAYI
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260533
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: MIMOCAN TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260534
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: NASREDDIN HOCA
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260535
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: NILOYA TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260536
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: OSCAR COLLERDE
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260537
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: PAK PIRPIR TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260538
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: PAW PETROL
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260539
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: PEPPA PIG
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260540
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: PEPE TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260541
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: PIJAMA MASKE
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260542
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: PIRIL TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260543
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: PISI TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260544
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: POKEMON TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260545
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: RAFADAN TAYFA
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260546
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: RUYA TRENI
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260547
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: SEF ROKKA TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260548
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: Limon ile Zeytin
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260549
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: SERCE KUS TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260550
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: SEVIMLI DOSTLAR
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260551
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: SIRINLER TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260552
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: SPIDERMAN TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260553
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: TAVSAN MOMO
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260554
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: TAYO TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260555
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: VIKINGLER TV
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260556
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: ALVIN
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260557
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: ANGRY BIRDS
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260558
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: MUFFETIS GADGET
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260560
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: HEIDI
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260561
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: JURASSIC WORLD
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260562
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: MAYMUNLAR KRALI KONG
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260563
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: SONİC BOOM
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260565
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: TRANSFORMERS
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260566
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: ZORRO
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260569
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TR | COCUK 7/24", TR: WAKFU
-http://tg.goldblue.xyz:8080/ecrenovatTRTR/98430248023SDD/260568
+#EXTINF:-1 tvg-id="NULL" tvg-name="* TURK COCUK *" tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/turkcocuk.png" group-title="TURK COCUK",* TURK COCUK *
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/37333
+#EXTINF:-1 tvg-id="" tvg-name="TR:BABY TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/babytv.png" group-title="TURK COCUK",TR:BABY TV HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89191
+#EXTINF:-1 tvg-id="" tvg-name="TR:CARTOON NETWORK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/cartoonnetwork.png" group-title="TURK COCUK",TR:CARTOON NETWORK HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89200
+#EXTINF:-1 tvg-id="" tvg-name="TR:CARTOONITO HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/cartoonito.png" group-title="TURK COCUK",TR:CARTOONITO HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114502
+#EXTINF:-1 tvg-id="" tvg-name="TR:COCUK SMART HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/smarttv.png" group-title="TURK COCUK",TR:COCUK SMART HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89196
+#EXTINF:-1 tvg-id="" tvg-name="TR:DA VINCI KIDS HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/davincikids.png" group-title="TURK COCUK",TR:DA VINCI KIDS HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/90690
+#EXTINF:-1 tvg-id="" tvg-name="TR:DISNEY JUNIOR HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/disneyjunior.png" group-title="TURK COCUK",TR:DISNEY JUNIOR HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/90689
+#EXTINF:-1 tvg-id="" tvg-name="TR:GAMETOON HD" tvg-logo="https://i0.wp.com/resim.yayins.com/2/gametoon.png" group-title="TURK COCUK",TR:GAMETOON HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114286
+#EXTINF:-1 tvg-id="" tvg-name="TR:MOOBUG KIDS HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/moonbug-kids.png" group-title="TURK COCUK",TR:MOOBUG KIDS HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114796
+#EXTINF:-1 tvg-id="" tvg-name="TR:MINIKA COCUK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/minikacocuk.png" group-title="TURK COCUK",TR:MINIKA COCUK HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89195
+#EXTINF:-1 tvg-id="" tvg-name="TR:MINIKA GO HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/gominika.png" group-title="TURK COCUK",TR:MINIKA GO HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89194
+#EXTINF:-1 tvg-id="" tvg-name="TR:NICK JR HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/nickjr.png" group-title="TURK COCUK",TR:NICK JR HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89192
+#EXTINF:-1 tvg-id="" tvg-name="TR:NICKELODEON HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/nickelodeon.png" group-title="TURK COCUK",TR:NICKELODEON HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89193
+#EXTINF:-1 tvg-id="" tvg-name="TR:NICKTOONS HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/nicktoons.png" group-title="TURK COCUK",TR:NICKTOONS HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/90692
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT COCUK DIYANET HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/trt-cocuk-diyanet.png" group-title="TURK COCUK",TR:TRT COCUK DIYANET HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114501
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT COCUK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/trtcocuk.png" group-title="TURK COCUK",TR:TRT COCUK HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89189
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - 64 KARE ULKESI Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/64kareulkesi.png" group-title="TURK COCUK",TR:GLIFE - 64 KARE ULKESI Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112283
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - ADISEBABA MASAL Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/adisebabamasal.png" group-title="TURK COCUK",TR:GLIFE - ADISEBABA MASAL Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112284
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - ADVENTURE TIME Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/adventuretime.png" group-title="TURK COCUK",TR:GLIFE - ADVENTURE TIME Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114117
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - ANGRY BIRDS Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/angrybirds.png" group-title="TURK COCUK",TR:GLIFE - ANGRY BIRDS Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112285
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - AVATAR Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/avatar.png" group-title="TURK COCUK",TR:GLIFE - AVATAR Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112286
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - BEN10 Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/ben10.png" group-title="TURK COCUK",TR:GLIFE - BEN10 Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114104
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - BLUEY Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/bluey.png" group-title="TURK COCUK",TR:GLIFE - BLUEY Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112287
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - BOOBA Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/booba.png" group-title="TURK COCUK",TR:GLIFE - BOOBA Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112459
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - CAILLOU Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/caillou.png" group-title="TURK COCUK",TR:GLIFE - CAILLOU Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112288
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - CANIM KARDESIM Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/canimkardesim.png" group-title="TURK COCUK",TR:GLIFE - CANIM KARDESIM Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112460
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - CHICKY Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/chicky.png" group-title="TURK COCUK",TR:GLIFE - CHICKY Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114116
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - CILGIN ORMAN Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/cilginorman.png" group-title="TURK COCUK",TR:GLIFE - CILGIN ORMAN Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114115
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - COCUK ILAHI Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/cocukilahi.png" group-title="TURK COCUK",TR:GLIFE - COCUK ILAHI Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112463
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - DORU Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/doru.png" group-title="TURK COCUK",TR:GLIFE - DORU Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112289
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - EGE ILE GAGA Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/egeilegaga.png" group-title="TURK COCUK",TR:GLIFE - EGE ILE GAGA Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112290
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - GABBYNIN HAYAL EVI Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/hayalevi.png" group-title="TURK COCUK",TR:GLIFE - GABBYNIN HAYAL EVI Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112464
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - GRIZZY Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/grizy.png" group-title="TURK COCUK",TR:GLIFE - GRIZZY Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112291
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - GUMBALL Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/gumball.png" group-title="TURK COCUK",TR:GLIFE - GUMBALL Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114114
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - HEIDI Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/heide.png" group-title="TURK COCUK",TR:GLIFE - HEIDI Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114108
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - JURASSIC WORLD Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/jurassicpark.png" group-title="TURK COCUK",TR:GLIFE - JURASSIC WORLD Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114107
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KRAL SAKIR Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/kralsakir.png" group-title="TURK COCUK",TR:GLIFE - KRAL SAKIR Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112292
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KUCUK BHEEM ILE BUYUK MACERALAR Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/kucuk.png" group-title="TURK COCUK",TR:GLIFE - KUCUK BHEEM ILE BUYUK MACERALAR Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114102
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KUCUK KAMYON LEO Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/kucukkamyonleo.png" group-title="TURK COCUK",TR:GLIFE - KUCUK KAMYON LEO Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112467
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KUKULI Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/kukuli.png" group-title="TURK COCUK",TR:GLIFE - KUKULI Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112293
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KUZU SHAUN Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/kuzuha.png" group-title="TURK COCUK",TR:GLIFE - KUZU SHAUN Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114113
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - LIMON ILE ZEYTIN Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/limonilezeytin.png" group-title="TURK COCUK",TR:GLIFE - LIMON ILE ZEYTIN Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112294
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - MASA ILE KOCA AYI Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/masailekocaayi.png" group-title="TURK COCUK",TR:GLIFE - MASA ILE KOCA AYI Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112282
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - MOLANG Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/molang.png" group-title="TURK COCUK",TR:GLIFE - MOLANG Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114121
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - MUFETTIS GADGET Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/mufettisgasget.png" group-title="TURK COCUK",TR:GLIFE - MUFETTIS GADGET Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114112
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - NASREDDIN HOCA Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/nasreddinhoca.png" group-title="TURK COCUK",TR:GLIFE - NASREDDIN HOCA Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112295
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - NILOYA Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/niloya.png" group-title="TURK COCUK",TR:GLIFE - NILOYA Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112296
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - NINJAGO Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/ninjago.png" group-title="TURK COCUK",TR:GLIFE - NINJAGO Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112461
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - OSCAR COLLERDE Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/oscarcollarde.png" group-title="TURK COCUK",TR:GLIFE - OSCAR COLLERDE Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112462
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - PATRON BEBEK Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/patronbebek.png" group-title="TURK COCUK",TR:GLIFE - PATRON BEBEK Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112297
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - PAW PATROL Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/pawpetrol.png" group-title="TURK COCUK",TR:GLIFE - PAW PATROL Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114106
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - PEPE Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/pepe.png" group-title="TURK COCUK",TR:GLIFE - PEPE Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112298
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - PEPPA PIG Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/peppapig.png" group-title="TURK COCUK",TR:GLIFE - PEPPA PIG Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114105
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - PIRIL Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/piril.png" group-title="TURK COCUK",TR:GLIFE - PIRIL Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114111
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - PISI TV Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/pisitv.png" group-title="TURK COCUK",TR:GLIFE - PISI TV Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114110
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - PJ MASKS Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/pjmaks.png" group-title="TURK COCUK",TR:GLIFE - PJ MASKS Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112299
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - POKEMON Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/pokemon.png" group-title="TURK COCUK",TR:GLIFE - POKEMON Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114109
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - POWER RANGERS Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/powerrangers.png" group-title="TURK COCUK",TR:GLIFE - POWER RANGERS Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112466
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - RAFADAN TAYFA Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/rafadantayfa.png" group-title="TURK COCUK",TR:GLIFE - RAFADAN TAYFA Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112300
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - REGULAR SHOW Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/regularshow.png" group-title="TURK COCUK",TR:GLIFE - REGULAR SHOW Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114119
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - SEKER HOCA Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/sekerhoca.png" group-title="TURK COCUK",TR:GLIFE - SEKER HOCA Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114120
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - SEVIMLI DOSTLAR Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/sevimlidostlar.png" group-title="TURK COCUK",TR:GLIFE - SEVIMLI DOSTLAR Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112301
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - SIHIRLI OKUL OTOBUSU Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/sihirliotobus.png" group-title="TURK COCUK",TR:GLIFE - SIHIRLI OKUL OTOBUSU Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114118
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - SIRINLER Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/sirinler.png" group-title="TURK COCUK",TR:GLIFE - SIRINLER Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112302
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - SONIC Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/sonic.png" group-title="TURK COCUK",TR:GLIFE - SONIC Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112303
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - TAVSAN MOMO Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/tavsanmomo.png" group-title="TURK COCUK",TR:GLIFE - TAVSAN MOMO Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112385
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - TAYO Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/tayo.png" group-title="TURK COCUK",TR:GLIFE - TAYO Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112386
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - TEEN TITANS Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/teentitans.png" group-title="TURK COCUK",TR:GLIFE - TEEN TITANS Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/115912
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - TRANSFORMERS Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/transfermoers.png" group-title="TURK COCUK",TR:GLIFE - TRANSFORMERS Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112387
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - WAKFU Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/WAKFU.png" group-title="TURK COCUK",TR:GLIFE - WAKFU Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112465
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - YILDIZ KIZ Êœá´…" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/yildizkiz.png" group-title="TURK COCUK",TR:GLIFE - YILDIZ KIZ Êœá´…
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114103
+
+#EXTINF:-1 tvg-id="1445" tvg-name="RTL Kockica" tvg-logo="https://tvprofil.com/img/kanali-logo/rtl-kockica-logo.png" group-title="Kids" ,RTL Kockica
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1445
+#EXTINF:-1 tvg-id="1444" tvg-name="Nickelodeon" tvg-logo="https://tvprofil.com/img/kanali-logo/nickelodeon-logo.png" group-title="Kids" ,Nickelodeon
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1444
+#EXTINF:-1 tvg-id="1443" tvg-name="Nick Jr Hr" tvg-logo="https://tvprofil.com/img/kanali-logo/nick_jr_logo.png" group-title="Kids" ,Nick Jr Hr
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1443
+#EXTINF:-1 tvg-id="1441" tvg-name="Minimax" tvg-logo="https://tvprofil.com/img/kanali-logo/minimax-logo.png" group-title="Kids" ,Minimax
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1441
+#EXTINF:-1 tvg-id="1442" tvg-name="Mini Tv" tvg-logo="" group-title="Kids" ,Mini Tv
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1442
+#EXTINF:-1 tvg-id="1440" tvg-name="Hayatovci" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/hayatovci-logo.png" group-title="Kids" ,Hayatovci
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1440
+#EXTINF:-1 tvg-id="1439" tvg-name="Pink Kids" tvg-logo="https://tvprofil.com/img/kanali-logo/pink-kids-logo.png" group-title="Kids" ,Pink Kids
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1439
+#EXTINF:-1 tvg-id="1438" tvg-name="Pink Super Kids" tvg-logo="https://tvprofil.com/img/kanali-logo/PinkSuperKids_logo.png" group-title="Kids" ,Pink Super Kids
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1438
+#EXTINF:-1 tvg-id="5212" tvg-name="Pikaboo Hr" tvg-logo="https://tvprofil.com/img/kanali-logo/pikaboo_logo.png" group-title="Kids" ,Pikaboo Hr
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/5212
+#EXTINF:-1 tvg-id="1436" tvg-name="Disney Channel UK" tvg-logo="https://tvprofil.com/img/kanali-logo/disney_channel_2019.png" group-title="Kids" ,Disney Channel UK
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1436
+#EXTINF:-1 tvg-id="1435" tvg-name="Disney Junior UK" tvg-logo="" group-title="Kids" ,Disney Junior UK
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1435
+#EXTINF:-1 tvg-id="1433" tvg-name="Cartoon Network UK" tvg-logo="https://tvprofil.com/img/kanali-logo/cartoon_network_de.png" group-title="Kids" ,Cartoon Network UK
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1433
+#EXTINF:-1 tvg-id="13839" tvg-name="Boomerang (DE)" tvg-logo="https://tvprofil.com/img/kanali-logo/boomerang_it_logo.png" group-title="Kids" ,Boomerang (DE)
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/13839
+#EXTINF:-1 tvg-id="13840" tvg-name="CARTOON NETWORK DE" tvg-logo="https://tvprofil.com/img/kanali-logo/cartoon_network_de.png" group-title="Kids" ,CARTOON NETWORK DE
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/13840
+#EXTINF:-1 tvg-id="4841" tvg-name="Disney Channel De" tvg-logo="https://tvprofil.com/img/kanali-logo/disney_channel_2019.png" group-title="Kids" ,Disney Channel De
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/4841
+#EXTINF:-1 tvg-id="6925" tvg-name="Disney Cinemagic DE" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4f62318602691.560c0356efb24.jpg" group-title="Kids" ,Disney Cinemagic DE
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/6925
+#EXTINF:-1 tvg-id="6923" tvg-name="Disney Junior DE" tvg-logo="https://tvprofil.com/img/kanali-logo/disney-junior-logo.png" group-title="Kids" ,Disney Junior DE
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/6923
+#EXTINF:-1 tvg-id="6924" tvg-name="Disney XD DE" tvg-logo="" group-title="Kids" ,Disney XD DE
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/6924
+#EXTINF:-1 tvg-id="1432" tvg-name="Kika DE" tvg-logo="https://tvprofil.com/img/kanali-logo/kika-logo.png" group-title="Kids" ,Kika DE
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1432
+#EXTINF:-1 tvg-id="1430" tvg-name="Nickelodeon DE" tvg-logo="https://tvprofil.com/img/kanali-logo/nickelodeon-logo.png" group-title="Kids" ,Nickelodeon DE
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1430
+#EXTINF:-1 tvg-id="34187" tvg-name="NickToons DE" tvg-logo="" group-title="Kids" ,NickToons DE
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/34187
+#EXTINF:-1 tvg-id="6927" tvg-name="Tnt Kids" tvg-logo="" group-title="Kids" ,Tnt Kids
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/6927
+#EXTINF:-1 tvg-id="1429" tvg-name="Baby TV" tvg-logo="" group-title="Kids" ,Baby TV
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1429
 
 
 #EXTINF:-1 tvg-logo="https://go4.pw/ASIA/INDIA/disney.png" group-title="AS | HINDI", HINDI - Disney
