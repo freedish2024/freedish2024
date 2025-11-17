@@ -69,6 +69,197 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 #EXTINF:,The Q
 https://mumt05.tangotv.in/THEQ/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/xC2TbNWn/minimax.jpg ",Minimax
+https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+#EXTINF:-1 tvg-id="NULL" tvg-name="* TURK COCUK *" tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/turkcocuk.png" group-title="TURK COCUK",* TURK COCUK *
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/37333
+#EXTINF:-1 tvg-id="" tvg-name="TR:BABY TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/babytv.png" group-title="TURK COCUK",TR:BABY TV HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89191
+#EXTINF:-1 tvg-id="" tvg-name="TR:CARTOON NETWORK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/cartoonnetwork.png" group-title="TURK COCUK",TR:CARTOON NETWORK HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89200
+#EXTINF:-1 tvg-id="" tvg-name="TR:CARTOONITO HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/cartoonito.png" group-title="TURK COCUK",TR:CARTOONITO HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114502
+#EXTINF:-1 tvg-id="" tvg-name="TR:COCUK SMART HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/smarttv.png" group-title="TURK COCUK",TR:COCUK SMART HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89196
+#EXTINF:-1 tvg-id="" tvg-name="TR:DA VINCI KIDS HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/davincikids.png" group-title="TURK COCUK",TR:DA VINCI KIDS HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/90690
+#EXTINF:-1 tvg-id="" tvg-name="TR:DISNEY JUNIOR HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/disneyjunior.png" group-title="TURK COCUK",TR:DISNEY JUNIOR HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/90689
+#EXTINF:-1 tvg-id="" tvg-name="TR:GAMETOON HD" tvg-logo="https://i0.wp.com/resim.yayins.com/2/gametoon.png" group-title="TURK COCUK",TR:GAMETOON HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114286
+#EXTINF:-1 tvg-id="" tvg-name="TR:MOOBUG KIDS HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/moonbug-kids.png" group-title="TURK COCUK",TR:MOOBUG KIDS HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114796
+#EXTINF:-1 tvg-id="" tvg-name="TR:MINIKA COCUK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/minikacocuk.png" group-title="TURK COCUK",TR:MINIKA COCUK HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89195
+#EXTINF:-1 tvg-id="" tvg-name="TR:MINIKA GO HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/gominika.png" group-title="TURK COCUK",TR:MINIKA GO HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89194
+#EXTINF:-1 tvg-id="" tvg-name="TR:NICK JR HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/nickjr.png" group-title="TURK COCUK",TR:NICK JR HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89192
+#EXTINF:-1 tvg-id="" tvg-name="TR:NICKELODEON HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/nickelodeon.png" group-title="TURK COCUK",TR:NICKELODEON HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89193
+#EXTINF:-1 tvg-id="" tvg-name="TR:NICKTOONS HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/nicktoons.png" group-title="TURK COCUK",TR:NICKTOONS HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/90692
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT COCUK DIYANET HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/trt-cocuk-diyanet.png" group-title="TURK COCUK",TR:TRT COCUK DIYANET HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114501
+#EXTINF:-1 tvg-id="" tvg-name="TR:TRT COCUK HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/trtcocuk.png" group-title="TURK COCUK",TR:TRT COCUK HD
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/89189
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - 64 KARE ULKESI ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/64kareulkesi.png" group-title="TURK COCUK",TR:GLIFE - 64 KARE ULKESI ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112283
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - ADISEBABA MASAL ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/adisebabamasal.png" group-title="TURK COCUK",TR:GLIFE - ADISEBABA MASAL ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112284
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - ADVENTURE TIME ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/adventuretime.png" group-title="TURK COCUK",TR:GLIFE - ADVENTURE TIME ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114117
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - ANGRY BIRDS ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/angrybirds.png" group-title="TURK COCUK",TR:GLIFE - ANGRY BIRDS ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112285
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - AVATAR ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/avatar.png" group-title="TURK COCUK",TR:GLIFE - AVATAR ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112286
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - BEN10 ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/ben10.png" group-title="TURK COCUK",TR:GLIFE - BEN10 ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114104
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - BLUEY ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/bluey.png" group-title="TURK COCUK",TR:GLIFE - BLUEY ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112287
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - BOOBA ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/booba.png" group-title="TURK COCUK",TR:GLIFE - BOOBA ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112459
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - CAILLOU ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/caillou.png" group-title="TURK COCUK",TR:GLIFE - CAILLOU ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112288
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - CANIM KARDESIM ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/canimkardesim.png" group-title="TURK COCUK",TR:GLIFE - CANIM KARDESIM ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112460
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - CHICKY ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/chicky.png" group-title="TURK COCUK",TR:GLIFE - CHICKY ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114116
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - CILGIN ORMAN ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/cilginorman.png" group-title="TURK COCUK",TR:GLIFE - CILGIN ORMAN ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114115
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - COCUK ILAHI ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/cocukilahi.png" group-title="TURK COCUK",TR:GLIFE - COCUK ILAHI ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112463
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - DORU ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/doru.png" group-title="TURK COCUK",TR:GLIFE - DORU ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112289
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - EGE ILE GAGA ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/egeilegaga.png" group-title="TURK COCUK",TR:GLIFE - EGE ILE GAGA ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112290
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - GABBYNIN HAYAL EVI ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/hayalevi.png" group-title="TURK COCUK",TR:GLIFE - GABBYNIN HAYAL EVI ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112464
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - GRIZZY ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/grizy.png" group-title="TURK COCUK",TR:GLIFE - GRIZZY ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112291
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - GUMBALL ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/gumball.png" group-title="TURK COCUK",TR:GLIFE - GUMBALL ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114114
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - HEIDI ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/heide.png" group-title="TURK COCUK",TR:GLIFE - HEIDI ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114108
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - JURASSIC WORLD ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/jurassicpark.png" group-title="TURK COCUK",TR:GLIFE - JURASSIC WORLD ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114107
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KRAL SAKIR ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/kralsakir.png" group-title="TURK COCUK",TR:GLIFE - KRAL SAKIR ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112292
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KUCUK BHEEM ILE BUYUK MACERALAR ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/kucuk.png" group-title="TURK COCUK",TR:GLIFE - KUCUK BHEEM ILE BUYUK MACERALAR ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114102
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KUCUK KAMYON LEO ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/kucukkamyonleo.png" group-title="TURK COCUK",TR:GLIFE - KUCUK KAMYON LEO ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112467
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KUKULI ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/kukuli.png" group-title="TURK COCUK",TR:GLIFE - KUKULI ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112293
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - KUZU SHAUN ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/kuzuha.png" group-title="TURK COCUK",TR:GLIFE - KUZU SHAUN ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114113
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - LIMON ILE ZEYTIN ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/limonilezeytin.png" group-title="TURK COCUK",TR:GLIFE - LIMON ILE ZEYTIN ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112294
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - MASA ILE KOCA AYI ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/masailekocaayi.png" group-title="TURK COCUK",TR:GLIFE - MASA ILE KOCA AYI ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112282
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - MOLANG ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/molang.png" group-title="TURK COCUK",TR:GLIFE - MOLANG ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114121
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - MUFETTIS GADGET ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/mufettisgasget.png" group-title="TURK COCUK",TR:GLIFE - MUFETTIS GADGET ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114112
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - NASREDDIN HOCA ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/nasreddinhoca.png" group-title="TURK COCUK",TR:GLIFE - NASREDDIN HOCA ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112295
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - NILOYA ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/niloya.png" group-title="TURK COCUK",TR:GLIFE - NILOYA ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112296
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - NINJAGO ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/ninjago.png" group-title="TURK COCUK",TR:GLIFE - NINJAGO ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112461
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - OSCAR COLLERDE ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/oscarcollarde.png" group-title="TURK COCUK",TR:GLIFE - OSCAR COLLERDE ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112462
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - PATRON BEBEK ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/patronbebek.png" group-title="TURK COCUK",TR:GLIFE - PATRON BEBEK ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112297
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - PAW PATROL ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/pawpetrol.png" group-title="TURK COCUK",TR:GLIFE - PAW PATROL ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114106
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - PEPE ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/pepe.png" group-title="TURK COCUK",TR:GLIFE - PEPE ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112298
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - PEPPA PIG ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/peppapig.png" group-title="TURK COCUK",TR:GLIFE - PEPPA PIG ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114105
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - PIRIL ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/piril.png" group-title="TURK COCUK",TR:GLIFE - PIRIL ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114111
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - PISI TV ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/pisitv.png" group-title="TURK COCUK",TR:GLIFE - PISI TV ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114110
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - PJ MASKS ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/pjmaks.png" group-title="TURK COCUK",TR:GLIFE - PJ MASKS ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112299
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - POKEMON ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/pokemon.png" group-title="TURK COCUK",TR:GLIFE - POKEMON ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114109
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - POWER RANGERS ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/powerrangers.png" group-title="TURK COCUK",TR:GLIFE - POWER RANGERS ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112466
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - RAFADAN TAYFA ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/rafadantayfa.png" group-title="TURK COCUK",TR:GLIFE - RAFADAN TAYFA ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112300
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - REGULAR SHOW ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/regularshow.png" group-title="TURK COCUK",TR:GLIFE - REGULAR SHOW ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114119
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - SEKER HOCA ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/sekerhoca.png" group-title="TURK COCUK",TR:GLIFE - SEKER HOCA ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114120
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - SEVIMLI DOSTLAR ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/sevimlidostlar.png" group-title="TURK COCUK",TR:GLIFE - SEVIMLI DOSTLAR ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112301
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - SIHIRLI OKUL OTOBUSU ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/sihirliotobus.png" group-title="TURK COCUK",TR:GLIFE - SIHIRLI OKUL OTOBUSU ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114118
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - SIRINLER ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/sirinler.png" group-title="TURK COCUK",TR:GLIFE - SIRINLER ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112302
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - SONIC ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/sonic.png" group-title="TURK COCUK",TR:GLIFE - SONIC ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112303
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - TAVSAN MOMO ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/tavsanmomo.png" group-title="TURK COCUK",TR:GLIFE - TAVSAN MOMO ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112385
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - TAYO ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/tayo.png" group-title="TURK COCUK",TR:GLIFE - TAYO ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112386
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - TEEN TITANS ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/teentitans.png" group-title="TURK COCUK",TR:GLIFE - TEEN TITANS ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/115912
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - TRANSFORMERS ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/transfermoers.png" group-title="TURK COCUK",TR:GLIFE - TRANSFORMERS ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112387
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - WAKFU ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/cc/WAKFU.png" group-title="TURK COCUK",TR:GLIFE - WAKFU ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/112465
+#EXTINF:-1 tvg-id="" tvg-name="TR:GLIFE - YILDIZ KIZ ʜᴅ" tvg-logo="https://i0.wp.com/resim.yayins.com/glife/turkcocuk/yildizkiz.png" group-title="TURK COCUK",TR:GLIFE - YILDIZ KIZ ʜᴅ
+http://bensteknik.com:8080/awJPKPzP/3N1igHpU/114103
+
+#EXTINF:-1 tvg-id="1445" tvg-name="RTL Kockica" tvg-logo="https://tvprofil.com/img/kanali-logo/rtl-kockica-logo.png" group-title="Kids" ,RTL Kockica
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1445
+#EXTINF:-1 tvg-id="1444" tvg-name="Nickelodeon" tvg-logo="https://tvprofil.com/img/kanali-logo/nickelodeon-logo.png" group-title="Kids" ,Nickelodeon
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1444
+#EXTINF:-1 tvg-id="1443" tvg-name="Nick Jr Hr" tvg-logo="https://tvprofil.com/img/kanali-logo/nick_jr_logo.png" group-title="Kids" ,Nick Jr Hr
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1443
+#EXTINF:-1 tvg-id="1441" tvg-name="Minimax" tvg-logo="https://tvprofil.com/img/kanali-logo/minimax-logo.png" group-title="Kids" ,Minimax
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1441
+#EXTINF:-1 tvg-id="1442" tvg-name="Mini Tv" tvg-logo="" group-title="Kids" ,Mini Tv
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1442
+#EXTINF:-1 tvg-id="1440" tvg-name="Hayatovci" tvg-logo="https://cdn-0.tvprofil.com/cdn/200x64/4/img/kanali-logo/hayatovci-logo.png" group-title="Kids" ,Hayatovci
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1440
+#EXTINF:-1 tvg-id="1439" tvg-name="Pink Kids" tvg-logo="https://tvprofil.com/img/kanali-logo/pink-kids-logo.png" group-title="Kids" ,Pink Kids
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1439
+#EXTINF:-1 tvg-id="1438" tvg-name="Pink Super Kids" tvg-logo="https://tvprofil.com/img/kanali-logo/PinkSuperKids_logo.png" group-title="Kids" ,Pink Super Kids
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1438
+#EXTINF:-1 tvg-id="5212" tvg-name="Pikaboo Hr" tvg-logo="https://tvprofil.com/img/kanali-logo/pikaboo_logo.png" group-title="Kids" ,Pikaboo Hr
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/5212
+#EXTINF:-1 tvg-id="1436" tvg-name="Disney Channel UK" tvg-logo="https://tvprofil.com/img/kanali-logo/disney_channel_2019.png" group-title="Kids" ,Disney Channel UK
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1436
+#EXTINF:-1 tvg-id="1435" tvg-name="Disney Junior UK" tvg-logo="" group-title="Kids" ,Disney Junior UK
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1435
+#EXTINF:-1 tvg-id="1433" tvg-name="Cartoon Network UK" tvg-logo="https://tvprofil.com/img/kanali-logo/cartoon_network_de.png" group-title="Kids" ,Cartoon Network UK
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1433
+#EXTINF:-1 tvg-id="13839" tvg-name="Boomerang (DE)" tvg-logo="https://tvprofil.com/img/kanali-logo/boomerang_it_logo.png" group-title="Kids" ,Boomerang (DE)
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/13839
+#EXTINF:-1 tvg-id="13840" tvg-name="CARTOON NETWORK DE" tvg-logo="https://tvprofil.com/img/kanali-logo/cartoon_network_de.png" group-title="Kids" ,CARTOON NETWORK DE
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/13840
+#EXTINF:-1 tvg-id="4841" tvg-name="Disney Channel De" tvg-logo="https://tvprofil.com/img/kanali-logo/disney_channel_2019.png" group-title="Kids" ,Disney Channel De
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/4841
+#EXTINF:-1 tvg-id="6925" tvg-name="Disney Cinemagic DE" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4f62318602691.560c0356efb24.jpg" group-title="Kids" ,Disney Cinemagic DE
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/6925
+#EXTINF:-1 tvg-id="6923" tvg-name="Disney Junior DE" tvg-logo="https://tvprofil.com/img/kanali-logo/disney-junior-logo.png" group-title="Kids" ,Disney Junior DE
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/6923
+#EXTINF:-1 tvg-id="6924" tvg-name="Disney XD DE" tvg-logo="" group-title="Kids" ,Disney XD DE
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/6924
+#EXTINF:-1 tvg-id="1432" tvg-name="Kika DE" tvg-logo="https://tvprofil.com/img/kanali-logo/kika-logo.png" group-title="Kids" ,Kika DE
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1432
+#EXTINF:-1 tvg-id="1430" tvg-name="Nickelodeon DE" tvg-logo="https://tvprofil.com/img/kanali-logo/nickelodeon-logo.png" group-title="Kids" ,Nickelodeon DE
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1430
+#EXTINF:-1 tvg-id="34187" tvg-name="NickToons DE" tvg-logo="" group-title="Kids" ,NickToons DE
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/34187
+#EXTINF:-1 tvg-id="6927" tvg-name="Tnt Kids" tvg-logo="" group-title="Kids" ,Tnt Kids
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/6927
+#EXTINF:-1 tvg-id="1429" tvg-name="Baby TV" tvg-logo="" group-title="Kids" ,Baby TV
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1429
 
 #EXTINF:-1 tvg-id="" tvg-name="Kids 123 ᴴᴰ" tvg-logo="https://iili.io/Lj76dP.md.png" group-title="EXCLUSIVE",Kids 123 ᴴᴰ
 http://defaultgen.com:5050/yvetteangelinahubbs@icloud.com/LJ2wkazRV6/567058
@@ -1265,6 +1456,35 @@ https://tiger-hub.vercel.app/Pluto_tv/Mastery/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,pluto TV Sci-fi
 https://tiger-hub.vercel.app/Pluto_tv/Sci-fi/tracks-v1a1/mono.ts.m3u8
 
+
+#EXTINF:-1 tvg-id="1716" tvg-name="Hustler" tvg-logo="https://tvprofil.com/img/kanali-logo/hustlertv-logo.png" group-title="For Adults" parent-code="1234",Hustler
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1716
+#EXTINF:-1 tvg-id="14320" tvg-name="Blue Hustler" tvg-logo="https://tvprofil.com/img/kanali-logo/blue-hustler-logo.png" group-title="For Adults" parent-code="1234",Blue Hustler
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/14320
+#EXTINF:-1 tvg-id="4823" tvg-name="Playboy" tvg-logo="" group-title="For Adults" parent-code="1234",Playboy
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/4823
+#EXTINF:-1 tvg-id="14321" tvg-name="Private TV HD" tvg-logo="https://tvprofil.com/img/kanali-logo/private-tv-logo.png" group-title="For Adults" parent-code="1234",Private TV HD
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/14321
+#EXTINF:-1 tvg-id="4820" tvg-name="REDLIGHT HD" tvg-logo="https://www.dreamportugal.pt/image/cache/catalog/Logos/redlight-tv-logo-600x315h.jpg" group-title="For Adults" parent-code="1234",REDLIGHT HD
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/4820
+#EXTINF:-1 tvg-id="1718" tvg-name="Brazzers" tvg-logo="https://tvprofil.com/img/kanali-logo/brazzerstv-europe-logo.png" group-title="For Adults" parent-code="1234",Brazzers
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1718
+#EXTINF:-1 tvg-id="1717" tvg-name="Dorcel" tvg-logo="" group-title="For Adults" parent-code="1234",Dorcel
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1717
+#EXTINF:-1 tvg-id="14319" tvg-name="Fake Taxi" tvg-logo="https://s.cdnshm.com/catalog/hu/t/170082214/fake-taxi-automatrica.jpg" group-title="For Adults" parent-code="1234",Fake Taxi
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/14319
+#EXTINF:-1 tvg-id="4822" tvg-name="Penthouse" tvg-logo="https://ewsat.com/img/PENTHOUSE.png" group-title="For Adults" parent-code="1234",Penthouse
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/4822
+#EXTINF:-1 tvg-id="1714" tvg-name="Adult mix" tvg-logo="https://tvprofil.com/img/kanali-logo/Adult_Channel_logo.png" group-title="For Adults" parent-code="1234",Adult mix
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1714
+#EXTINF:-1 tvg-id="1713" tvg-name="Adult mix 2" tvg-logo="https://tvprofil.com/img/kanali-logo/Adult_Channel_logo.png" group-title="For Adults" parent-code="1234",Adult mix 2
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/1713
+#EXTINF:-1 tvg-id="4817" tvg-name="Adult mix 3" tvg-logo="https://tvprofil.com/img/kanali-logo/Adult_Channel_logo.png" group-title="For Adults" parent-code="1234",Adult mix 3
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/4817
+#EXTINF:-1 tvg-id="4818" tvg-name="Adult mix 4" tvg-logo="https://tvprofil.com/img/kanali-logo/Adult_Channel_logo.png" group-title="For Adults" parent-code="1234",Adult mix 4
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/4818
+#EXTINF:-1 tvg-id="4819" tvg-name="Adult mix 5" tvg-logo="https://tvprofil.com/img/kanali-logo/Adult_Channel_logo.png" group-title="For Adults" parent-code="1234",Adult mix 5
+http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/4819
 #EXTINF:-1 ,PassionXXX HD
 http://78.108.251.7/PassionXXX/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="ADULT LIVE",DORACEL TV (USA)
