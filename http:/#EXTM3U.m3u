@@ -71,6 +71,25 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 https://mumt05.tangotv.in/THEQ/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/xC2TbNWn/minimax.jpg ",Minimax
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="491" tvg-name="Dreamworks" tvg-logo="http://45.144.165.187:8080/images/f19df8b7ac2377c767b446f75ff339c2.png" group-title="การ์ตูน",Dreamworks
+http://45.144.165.187:8080/xtreamvip/12345/54
+#EXTINF:-1 tvg-id="368424" tvg-name="Cartoon Network" tvg-logo="http://45.144.165.187:8080/images/06e73487977375b7b66c030cbb159ff8.png" group-title="การ์ตูน",Cartoon Network
+http://playid.ddnsgeek.com:8080/thaihd2535/12345/15652
+#EXTINF:-1 tvg-id="3600" tvg-name="Nick Jr." tvg-logo="http://45.144.165.187:8080/images/873617b13e37ed8f7555877af676d66b.png" group-title="การ์ตูน",Nick Jr.
+http://45.144.165.187:8080/xtreamvip/12345/56
+#EXTINF:-1 tvg-id="368494" tvg-name="Nickelodeon" tvg-logo="http://45.144.165.187:8080/images/c78ebea6dbd7e7d01b71cdf15a4f88a6.png" group-title="การ์ตูน",Nickelodeon
+http://45.144.165.187:8080/xtreamvip/12345/57
+#EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boom" tvg-logo="http://45.144.165.187:8080/images/d3f101b8ac64169214ab14a92f0b3b0c.png" group-title="การ์ตูน",Boom
+http://45.144.165.187:8080/xtreamvip/12345/58
+#EXTINF:-1 tvg-id="368459" tvg-name="Cartoonito" tvg-logo="http://45.144.165.187:8080/images/23b70e491cce0e8a4526fa298fddb32f.png" group-title="การ์ตูน",Cartoonito
+http://45.144.165.187:8080/xtreamvip/12345/60
+#EXTINF:-1 tvg-id="NBT.th" tvg-name="TLC" tvg-logo="http://45.144.165.187:8080/images/66667dbf2ac9ca9d547360ee3f91a15b.jpg" group-title="สารคดี",TLC
+http://45.144.165.187:8080/xtreamvip/12345/69
+#EXTINF:-1 tvg-id="" tvg-name="Boom Ainme" tvg-logo="http://45.144.165.187:8080/images/964c4f822f2b3e0cf1fd7eab2a764332.png" group-title="การ์ตูน",Boom Ainme
+http://45.144.165.187:8080/xtreamvip/12345/72
+
+
 #EXTINF:-1 tvg-id="NULL" tvg-name="* TURK COCUK *" tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/turkcocuk.png" group-title="TURK COCUK",* TURK COCUK *
 http://bensteknik.com:8080/awJPKPzP/3N1igHpU/37333
 #EXTINF:-1 tvg-id="" tvg-name="TR:BABY TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/cocuk/babytv.png" group-title="TURK COCUK",TR:BABY TV HD
@@ -1497,7 +1516,10 @@ http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/96
 #EXTINF:-1 tvg-id="" tvg-name="vividtouch" tvg-logo="" group-title="18",vividtouch
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/95
 
-
+#EXTINF:-1 ,Autop
+https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 ,V2
+https://v2.catcast.tv/content/40381/index.m3u8
 
 
 #EXTINF:-1 ,MTV 
@@ -1536,6 +1558,69 @@ http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/4817
 http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/4818
 #EXTINF:-1 tvg-id="4819" tvg-name="Adult mix 5" tvg-logo="https://tvprofil.com/img/kanali-logo/Adult_Channel_logo.png" group-title="For Adults" parent-code="1234",Adult mix 5
 http://103.121.49.231/XX24SuadViberRazmjena50/SPfbtyeepaup/4819
+
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 1" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 1
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9736
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 2" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 2
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9735
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 3" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 3
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9734
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 4" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 4
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9733
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 5" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 5
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9732
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 6" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 6
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9655
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 7" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 7
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9746
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 8" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 8
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/10019
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 9" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 9
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9644
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 10" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 10
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9643
+#EXTINF:-1 tvg-id="" tvg-name="+18 Porn Mix 11" tvg-logo="" group-title="For Adults 18 +",+18 Porn Mix 11
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9642
+#EXTINF:-1 tvg-id="" tvg-name="18+  Porn Mix 12" tvg-logo="" group-title="For Adults 18 +",18+  Porn Mix 12
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9641
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 13" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 13
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9640
+#EXTINF:-1 tvg-id="" tvg-name="+18  Porn Mix 14" tvg-logo="" group-title="For Adults 18 +",+18  Porn Mix 14
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9639
+#EXTINF:-1 tvg-id="" tvg-name="+18  Porn Mix 15" tvg-logo="" group-title="For Adults 18 +",+18  Porn Mix 15
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9638
+#EXTINF:-1 tvg-id="" tvg-name="18+  Premium 1 HD" tvg-logo="" group-title="For Adults 18 +",18+  Premium 1 HD
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9647
+#EXTINF:-1 tvg-id="" tvg-name="18+  Premium 2 HD" tvg-logo="" group-title="For Adults 18 +",18+  Premium 2 HD
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9648
+#EXTINF:-1 tvg-id="" tvg-name="18+ Premium 3 HD" tvg-logo="" group-title="For Adults 18 +",18+ Premium 3 HD
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9649
+#EXTINF:-1 tvg-id="" tvg-name="18+ Premium 4 HD" tvg-logo="" group-title="For Adults 18 +",18+ Premium 4 HD
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9650
+#EXTINF:-1 tvg-id="" tvg-name="18+  Premium 5 HD" tvg-logo="" group-title="For Adults 18 +",18+  Premium 5 HD
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9651
+#EXTINF:-1 tvg-id="" tvg-name="18+  Premium 6 HD" tvg-logo="" group-title="For Adults 18 +",18+  Premium 6 HD
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9652
+#EXTINF:-1 tvg-id="" tvg-name="18+  Premium 7 HD" tvg-logo="" group-title="For Adults 18 +",18+  Premium 7 HD
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9653
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 17" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 17
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9738
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 16" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 16
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9740
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 18" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 18
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9739
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 23" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 23
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9741
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 19" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 19
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9742
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 20" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 20
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9743
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 21" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 21
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9744
+#EXTINF:-1 tvg-id="" tvg-name="18+ Porn Mix 22" tvg-logo="" group-title="For Adults 18 +",18+ Porn Mix 22
+http://89.248.173.158:8080/Crach_Iptv/Hekxbjelsofjur628264772new/9745
+
+
 
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="ADULT LIVE",PORN  HUB (USA)
 http://185.236.183.116:14770
@@ -1589,6 +1674,11 @@ http://vipgerretger.top:8080/VIP01191699804893001/61699804893673/132430
 http://vipgerretger.top:8080/VIP01191699804893001/61699804893673/132444
 #EXTINF:-1 tvg-id="" tvg-name="XXX: GAY [VIP]" tvg-logo="https://asiagrandiptv.us/logo//GAYTV.png" group-title="XXX | VIP 18+",XXX: GAY [VIP]
 http://vipgerretger.top:8080/VIP01191699804893001/61699804893673/132512
+
+#EXTINF:-1,XXX: BAREBACK CUMPARTY (GAY)
+http://defaultgen.com:5050/cardoodette@yahoo.com/N2tCnJmn7N/682764
+#EXTINF:-1,XXX: RUDEBOIZ (GAY)
+http://defaultgen.com:5050/cardoodette@yahoo.com/N2tCnJmn7N/682826
 
 
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="ADULT LIVE",PORN  HUB (USA)
