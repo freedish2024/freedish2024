@@ -1074,10 +1074,6 @@ http://bluedk.xyz:8880/12895541964492/79706583056975/223751
 
 
 
-
-
-
-
 #EXTINF:-1 group-title="Arab" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/m3alitv.jpg?v=6",M3alitv
 https://kali.vdopanel.com:3797/live/bashaclicklive.m3u8
 #EXTINF:-1 group-title="Saudi"tvg-logo="https://www.elahmad.com/tv/mobiletv/images/qaftv.jpg?v=6",Qaf TV
@@ -1239,7 +1235,12 @@ https://live.kwikmotion.com/alressalahlive/alressalah.smil/alressalahpublish/alr
 https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ahl-alquran-tv-sa.png" ,Sad Satellite Channel
 https://win.holol.com/live/saad/playlist.m3u8
-
+#EXTINF:-1 tvg-id="SpookyNights.sa@SD",Spooky Nights (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
+#EXTINF:-1 tvg-id="Anime.sa@SD",Anime (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaEnglish.sa@SD",Al Arabiya English (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png" ,عبدالمجيد عبدالله Abdulmajeed Abdullah (1080p)
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
 #EXTINF:-1 tvg-id="AlHadath.sa",Al Arabiya Al Hadath (1080p) [Not 24/7]
@@ -5124,6 +5125,11 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-6-231/list/rsz1170x658withlogoa42e8a74c9f14b5782c42e183fcb5e19.jpg",Batul The Great
 https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="Kids" tvg-logo="http://14.102.123.50:5001/jtvimage/Sonic_Bangla.png",Sonic Bangla
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1440977
+#EXTINF:-1 group-title="Kids" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",Sony Yay
+https://allottplay.com/tv/toffee/live.php?id=sonyyay&e=.m3u8
+
 #EXTINF:-1 tvg-id="1341" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids",Nick Bangla  (Kids)
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/5011
 #EXTINF:-1 tvg-id="1341" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids",Nick Bangla  (Kids)
@@ -5221,6 +5227,13 @@ https://stream.bozztv.com/visionhd/visionhd/playlist.m3u8
 https://allottplay.com/tv/toffee/live.php?id=toffee_drama&e=.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtWFnbxRv79FAeewSDwacZoGCNpmLepawfjX1zoAnz0NrdTQgF1XOO0s0zRHtBIxG4h-QvWczSjbflJrNJPXPmet1dixf7nmx0_3KVu2a9wcNAM6sEXl6TRyjDlHNXxP1562mlyNYR1GarBa0q6ZAHxlCGrmVYUpuS-DeCtZJV3RW61JXn2GOV1v-VEiI/s1600/278fd2ab-3320-440c-9e8d-d702cea3dfa8_copy_900x900.png",Toffee Movie
 https://allottplay.com/tv/toffee/live.php?id=toffee_movie&e=.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png",Sony Aart
+https://allottplay.com/tv/toffee/live.php?id=sonyaath&e=.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png",Zee Bangla
+https://allottplay.com/tv/toffee/live.php?id=zee_bangla&e=.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-C7MX5UBv9knK3AHdKOi/posters/90d82846-70b9-44ee-9f7e-e440f00b3be8.png",Zee Bangla Sonara
+https://allottplay.com/tv/toffee/live.php?id=zee_bangla_cinema&e=.m3u8
+
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/04/Tata_Sky_BC_HD_logo_2017.png/revision/latest?cb=20210729043837",TATA SKY BANGLA
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63329
 #EXTINF:-1,BENGALI ▎NAT GEO HD
@@ -5229,6 +5242,27 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63557
 http://luxetv.online:80/play/live.php?mac=A0:BB:3E:00:04:B7&stream=155775&extension=ts
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.postimg.cc/hzDHfkJr/Whats-App-Image-2025-12-05-at-18-21-34.jpg",Snb Cinema
 https://live-stream.utkalbongo.com/utkalbongo/stream11/hls/snbcinemalive.m3u8
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="http://dugdugilive.com/img/channels/gtv.png",Gazi Tv
+http://172.16.29.2:8090/hls/gazitvhd.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://image.ghuddi.tv/uploads/images/2023/12/21/tv_covers_4062f694e7d8174bf13464efbc16f135_goplay_atn_news_1920_x_1080.png",ATN NEWS HD
+http://172.16.29.2:8090/hls/AtnNews.m3u8
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-big-2.8c0bf75.png" ,SOMOY TV
+http://172.16.29.2:8090/hls/somoytv.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png",JAMUNA TV
+http://172.16.29.2:8090/hls/JamunaTV.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png",Sony Aart
+http://172.16.29.2:8090/hls/SonyAtth.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png",Zee Bangla
+http://172.16.29.2:8090/hls/ZeeBanglaHD.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/9F9RWxLr/images-5-26.jpg",Star Jalsha HD
+http://172.16.29.2:8090/hls/StarJalshaHD.m3u8
+#EXTINF:-1 tvg-id="ts26"tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png" group-title="Bengali;Regional;Entertainment",Colors Bangla
+http://172.16.29.2:8090/hls/StarJalshaHD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg"group-title="Kolkata Bangla Movies",Jalsha Movies HD
+http://172.16.29.2:8090/hls/JalshaMoviesHD.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://appv10static.jaagobd.com/media/channel_logos/1000062342.jpg",Sangeet Bangla
+http://172.16.29.2:8090/hls/SangeetBangla.m3u8
 
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/shadinbanglatv",Shadin  Bangla tv
@@ -6341,14 +6375,34 @@ https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kx7GwKQP/image.png" group-title="General",Dream 
 https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8
-#EXTINF:-1 group-title="-",Cartoon Network - Rs 4.75
-https://allottplay.com/tv/toffee/live.php?id=cartoon_network_sd&e=.m3u8
-#EXTINF:-1 group-title="-",Cartoon Network HD+ - Rs 7.0
-https://allottplay.com/tv/toffee/live.php?id=cartoon_network_hd&e=.m3u8
-#EXTINF:-1 group-title="-",Discovery Kids - Rs 3.50
-https://allottplay.com/tv/toffee/live.php?id=discovery_kids&e=.m3u8
-#EXTINF:-1 group-title="-",Pogo - Rs 4.75
+#EXTINF:-1,Tmp
+http://tmptv.sunduk.tv/CH3317/index.m3u8
+#EXTINF:-1 tvg-id="94" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GREGLD/Mobile/thumbnail/3db87275-f469-4f9d-8ee5-b6cd5fa3a039.png" group-title="Kids",Green Gold TV
+https://vglivessai.akamaized.net/ptnr-yupptv/title-Green_Gold_India/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/bf318b98-c42f-46a5-8bb6-06dfc3e19841/0.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/N09VvLpb/kiddo.png",Kiddo+
+https://streams2.sofast.tv/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/manifest.m3u8
+#EXTINF:-1 tvg-id="cartoon-tv-classics" tvg-name="CARTOON TV CLASSICS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/cartoon_classics_512X512_balck.png" tvg-language="ENG" group-title="ENT",CARTOON TV CLASSICS 
+https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
+#EXTINF:-1 group-title="INDIAN | KIDS Cartoon" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/wow-kidz-new-hindi-black.png" ,24/7 Wow Kids 
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/hdntl=exp=1765724471~acl=%2f*~data=hdntl~hmac=18550ab73b6c265c0739eba5085dee700bd468df2f216b11fcdbe4e38ca80fa4/chunklist_b2628000.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",Sony Yay
+https://allottplay.com/tv/toffee/live.php?id=sonyyay&e=.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ny6W-JQBv9knK3AHujXC/posters/7e7c2afe-a663-4c09-983a-2d0fa0f1ca9a.webp",Pogo
 https://allottplay.com/tv/toffee/live.php?id=pogo_sd&e=.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/1i6e-JQBv9knK3AHHTXR/posters/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp",Discovery Kids
+https://allottplay.com/tv/toffee/live.php?id=discovery_kids&e=.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://assetshttps://assets-prod.services.toffeelive.com/f_png,w_300,q_85/mC6W-JQBv9knK3AHfDWA/posters/d2a02d82-fde4-4769-a6d9-95c0560e2120.webp",Cn Cartoon Sd
+https://allottplay.com/tv/toffee/live.php?id=cartoon_network_sd&e=.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://assetshttps://assetshttps://assets-prod.services.toffeelive.com/f_png,w_300,q_85/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp",Cn Cartoon Hd
+https://allottplay.com/tv/toffee/live.php?id=cartoon_network_hd&e=.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/1i6e-JQBv9knK3AHHTXR/posters/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp",Discovery Kids
+http://172.16.29.2:8090/hls/DiscoveryKids.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://assetshttps://assetshttps://assets-prod.services.toffeelive.com/f_png,w_300,q_85/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp",Cn Cartoon Hd
+http://172.16.29.2:8090/hls/CartoonNetworkHD.m3u8
+#EXTINF:-1 tvg-id="PooyaTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png" group-title="Undefined",Pooya & Nahal
+https://lenz.splus.ir/PLTV/88888888/224/3221226145/index.m3u8
+
+
 #EXTINF:-1 group-title="-",Sonic - Rs 1.00
 http://103.182.170.32:8888/play/a02s
 #EXTINF:-1 group-title="-",Nick  - Rs 6.00
@@ -8797,6 +8851,135 @@ http://luxetv.online:80/play/live.php?mac=A0:BB:3E:00:04:B7&stream=1540033&exten
 http://luxetv.online:80/play/live.php?mac=A0:BB:3E:00:04:B7&stream=1540024&extension=ts
 
 
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Baby Looney Tunes (2002)" tvg-logo="https://i.postimg.cc/pV1f8LCr/Proyectox-24-7-Infantil-1.png" group-title="24/7 INFANTIL",24/7 Baby Looney Tunes (2002)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/102584
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ben 10 (e)" tvg-logo="https://i.postimg.cc/jqw14cZg/Proyectox-24-7-series-Animacion2-1.png" group-title="24/7 SERIES ANIMACION",24/7 Ben 10 (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/102881
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ben 10 - Alience Force (e)" tvg-logo="https://i.postimg.cc/VvCHssJQ/Proyectox-24-7-series-Animacion2.png" group-title="24/7 SERIES ANIMACION",24/7 Ben 10 - Alience Force (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/102882
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ben 10 Ultimate Alien (e)" tvg-logo="https://i.postimg.cc/tRKMS6cX/Proyectox-24-7-series-Animacion2-2.png" group-title="24/7 SERIES ANIMACION",24/7 Ben 10 Ultimate Alien (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/102883
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bob Esponja (e)" tvg-logo="https://i.postimg.cc/T3bJTvrw/Proyectox-24-7-Infantil-2.png" group-title="24/7 INFANTIL",24/7 Bob Esponja (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95041
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bobo y Tonto (e)" tvg-logo="https://i.postimg.cc/9fQ8RYDB/Proyectox-24-7-series-Animacion2-3.png" group-title="24/7 SERIES ANIMACION",24/7 Bobo y Tonto (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/102884
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CatDog (e)" tvg-logo="https://i.postimg.cc/QxvcqLbH/Proyectox-24-7-Juveniles1-3.png" group-title="24/7 SERIES JUVENILES",24/7 CatDog (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/94989
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Disney Animacion (e)" tvg-logo="https://i.postimg.cc/5ttnccgF/Proyectox-Cinema-24.png" group-title="24/7 CINEMA ",24/7 Cinema - Disney Animacion (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95622
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Disney Animacion 3D (e)" tvg-logo="https://i.postimg.cc/0QTfJzsp/Proyectox-Cinema-22.png" group-title="24/7 CINEMA ",24/7 Cinema - Disney Animacion 3D (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95623
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Disney Live Action (e)" tvg-logo="https://i.postimg.cc/7hN2YhYP/Proyectox-Cinema.png" group-title="24/7 CINEMA ",24/7 Cinema - Disney Live Action (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95624
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Documentales (e)" tvg-logo="https://i.postimg.cc/mr6VBdpp/Proyectox-Cinema-25.png" group-title="24/7 CINEMA ",24/7 Cinema - Documentales (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95625
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Dramas (e)" tvg-logo="https://i.postimg.cc/y8jvr6mH/Proyectox-Cinema-26.png" group-title="24/7 CINEMA ",24/7 Cinema - Dramas (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95626
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Familiar (e)" tvg-logo="https://i.postimg.cc/jj83Cq2X/Proyectox-Cinemax-1.png" group-title="24/7 CINEMA ",24/7 Cinema - Familiar (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95630
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Infantiles (e)" tvg-logo="https://i.postimg.cc/ZnNwfrc7/Proyectox-Cinema-30.png" group-title="24/7 CINEMA ",24/7 Cinema - Infantiles (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95632
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Coraje el Perro Cobarde (e)" tvg-logo="https://i.postimg.cc/T39N343w/Proyectox-24-7-series-Animacion2-4.png" group-title="24/7 SERIES ANIMACION",24/7 Coraje el Perro Cobarde (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/102885
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Doraemon (e)" tvg-logo="https://i.postimg.cc/L6QCcBdG/Proyectox-24-7-Anime-3.png" group-title="24/7 ANIME",24/7 Doraemon (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/94893
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Show de los Looney Tunes (e)" tvg-logo="https://i.postimg.cc/W1dfry0L/Proyectox-24-7-Infantil-3.png" group-title="24/7 INFANTIL",24/7 El Show de los Looney Tunes (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95042
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El show de Scooby-Doo y Scrappy-Doo (e)" tvg-logo="https://i.postimg.cc/Fs7xnLz0/Proyectox-24-7-Infantil-4.png" group-title="24/7 INFANTIL",24/7 El show de Scooby-Doo y Scrappy-Doo (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95040
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El show de Tom y Jerry 1980 (e)(1080)" tvg-logo="https://i.postimg.cc/ZnDx5T79/Proyectox-24-7-Infantil-5.png" group-title="24/7 INFANTIL",24/7 El show de Tom y Jerry 1980 (e)(1080)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/101814
+#EXTINF:-1 tvg-id="Canal.#Vamos.sv" tvg-name="24/7 Infantil - Avatar: La leyenda de Aang (e)" tvg-logo="https://i.postimg.cc/J42p1QvT/Proyectox-24-7-Infantil-6.png" group-title="24/7 INFANTIL",24/7 Infantil - Avatar: La leyenda de Aang (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95009
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Ben 10: Ultimate Alien (e)" tvg-logo="https://i.postimg.cc/s2FKWgV7/Proyectox-24-7-Infantil-7.png" group-title="24/7 INFANTIL",24/7 Infantil - Ben 10: Ultimate Alien (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95648
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - El Chavo Animado (e)" tvg-logo="https://i.postimg.cc/c4HDyz9g/Proyectox-24-7-Infantil-9.png" group-title="24/7 INFANTIL",24/7 Infantil - El Chavo Animado (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95012
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - El Pajaro Loco y sus Amigos (e)" tvg-logo="https://i.postimg.cc/1z6C7NWv/Proyectox-24-7-Infantil-10.png" group-title="24/7 INFANTIL",24/7 Infantil - El Pajaro Loco y sus Amigos (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95013
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - El Show Del Pajaro Loco" tvg-logo="https://i.postimg.cc/J4vQwzHv/Proyectox-24-7-Infantil-11.png" group-title="24/7 INFANTIL",24/7 Infantil - El Show Del Pajaro Loco
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95014
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Gravity Falls (E)" tvg-logo="https://i.postimg.cc/x1Zh4Q91/Proyectox-24-7-Infantil-12.png" group-title="24/7 INFANTIL",24/7 Infantil - Gravity Falls (E)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95015
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Jimmy Neutron (e)" tvg-logo="https://i.postimg.cc/XNgh0dnh/Proyectox-24-7-Infantil-13.png" group-title="24/7 INFANTIL",24/7 Infantil - Jimmy Neutron (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95016
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Kick Buttowski (e)" tvg-logo="https://i.postimg.cc/wTTrxMvB/Proyectox-24-7-Infantil-14.png" group-title="24/7 INFANTIL",24/7 Infantil - Kick Buttowski (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95017
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - KND Los Chicos Del Barrio (e)" tvg-logo="https://i.postimg.cc/sXd83JQF/Proyectox-24-7-Infantil-15.png" group-title="24/7 INFANTIL",24/7 Infantil - KND Los Chicos Del Barrio (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95018
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Las Aventuras de Billy y Mandy (e)" tvg-logo="https://i.postimg.cc/28zsqTHr/Proyectox-24-7-Infantil-18.png" group-title="24/7 INFANTIL",24/7 Infantil - Las Aventuras de Billy y Mandy (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95022
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Looney Tunes Platinium (e)" tvg-logo="https://i.postimg.cc/0NTgbs4B/Proyectox-24-7-Infantil-20.png" group-title="24/7 INFANTIL",24/7 Infantil - Looney Tunes Platinium (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/102583
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Los Padrinos Magicos" tvg-logo="https://i.postimg.cc/qMwdQWtN/Proyectox-24-7-Infantil-21.png" group-title="24/7 INFANTIL",24/7 Infantil - Los Padrinos Magicos
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95653
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Los pingüinos de Madagascar" tvg-logo="https://i.postimg.cc/G2Tc5KWZ/Proyectox-24-7-Infantil-22.png" group-title="24/7 INFANTIL",24/7 Infantil - Los pingüinos de Madagascar
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95028
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Los Pitufos (e)" tvg-logo="https://i.postimg.cc/DzHhLsS5/Proyectox-24-7-Infantil-23.png" group-title="24/7 INFANTIL",24/7 Infantil - Los Pitufos (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95029
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Masha y el Oso (e)" tvg-logo="https://i.postimg.cc/LsnRJv8n/Proyectox-24-7-Infantil-24.png" group-title="24/7 INFANTIL",24/7 Infantil - Masha y el Oso (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95030
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Oye Arnold" tvg-logo="https://i.postimg.cc/CLsw-Xz2L/Proyectox-24-7-Infantil-25.png" group-title="24/7 INFANTIL",24/7 Infantil - Oye Arnold
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95031
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Paw Patrol (e)" tvg-logo="https://i.postimg.cc/NjGQcQh8/Proyectox-24-7-Infantil-26.png" group-title="24/7 INFANTIL",24/7 Infantil - Paw Patrol (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95019
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Peppa Pig (e)" tvg-logo="https://i.postimg.cc/SxGj6Z4d/Proyectox-24-7-Infantil-27.png" group-title="24/7 INFANTIL",24/7 Infantil - Peppa Pig (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95032
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Phineas y Ferb (e)" tvg-logo="https://i.postimg.cc/jjFxcmFH/Proyectox-24-7-Infantil-28.png" group-title="24/7 INFANTIL",24/7 Infantil - Phineas y Ferb (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95033
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Rugrats (e)" tvg-logo="https://i.postimg.cc/JzK4DG3d/Proyectox-24-7-Infantil-29.png" group-title="24/7 INFANTIL",24/7 Infantil - Rugrats (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95034
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Rugrats Crecidos (e)" tvg-logo="https://i.postimg.cc/SKsQWkDQ/Proyectox-24-7-Infantil-30.png" group-title="24/7 INFANTIL",24/7 Infantil - Rugrats Crecidos (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95010
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Infantil - Winnie the Pooh (e)" tvg-logo="https://i.postimg.cc/Y0gChR81/Proyectox-24-7-Infantil-31.png" group-title="24/7 INFANTIL",24/7 Infantil - Winnie the Pooh (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95024
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Johnny Bravo (e)" tvg-logo="https://i.postimg.cc/QMCmxNz4/Proyectox-24-7-series-Animacion2-16.png" group-title="24/7 SERIES ANIMACION",24/7 Johnny Bravo (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/102894
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Las aventuras de Timon y Pumba (e)" tvg-logo="https://i.postimg.cc/vBCmYk7Y/Proyectox-24-7-Infantiles.png" group-title="24/7 INFANTIL",24/7 Las aventuras de Timon y Pumba (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/102588
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Las chicas superpoderosas (e)" tvg-logo="https://i.postimg.cc/yx4yPm8t/Proyectox-24-7-series-Animacion2-23.png" group-title="24/7 SERIES ANIMACION",24/7 Las chicas superpoderosas (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/102911
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Las macabras aventuras de Billy y Mandy (e)" tvg-logo="https://i.postimg.cc/MGg767VH/Proyectox-24-7-series-Animacion2-24.png" group-title="24/7 SERIES ANIMACION",24/7 Las macabras aventuras de Billy y Mandy (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/102900
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Las Nuevas Aventuras De Los Picapiedras (e)(1080)" tvg-logo="" group-title="24/7 RETRO",24/7 Las Nuevas Aventuras De Los Picapiedras (e)(1080)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/110038
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Las nuevas Aventuras de Scooby-Doo (e)" tvg-logo="https://i.postimg.cc/ZqKnVrKS/Proyectox-24-7-Infantiles-1.png" group-title="24/7 INFANTIL",24/7 Las nuevas Aventuras de Scooby-Doo (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95035
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lobo Ralph y Perro Sam (e)" tvg-logo="https://i.postimg.cc/DftWnJ5r/Proyectox-24-7-Infantiles-2.png" group-title="24/7 INFANTIL",24/7 Lobo Ralph y Perro Sam (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/102586
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson - 11al20 (e)" tvg-logo="https://i.postimg.cc/8kwsVwpp/Proyectox-24-7-Comedia-Animada-2.png" group-title="24/7 COMEDIA ANIMADA",24/7 Los Simpson - 11al20 (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/94882
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson - 1al10 (e)" tvg-logo="https://i.postimg.cc/nrdLYVRj/Proyectox-24-7-Comedia-Animada-3.png" group-title="24/7 COMEDIA ANIMADA",24/7 Los Simpson - 1al10 (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/94881
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson - 21al35 (e)" tvg-logo="https://i.postimg.cc/BvWnCVgg/Proyectox-24-7-Comedia-Animada-4.png" group-title="24/7 COMEDIA ANIMADA",24/7 Los Simpson - 21al35 (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/94883
+#EXTINF:-1,24/7 Los Supersonicos (1962)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/105643
+#EXTINF:-1,24/7 Los Thunderman (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95002
+#EXTINF:-1,24/7 Peliculas Cartoon Network (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/102905
+#EXTINF:-1,24/7 Pepe Le Pew (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/102585
+#EXTINF:-1,24/7 Scooby-Doo Misterios S. A.
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95039
+#EXTINF:-1,24/7 Scooby-Doo y adivina quién?
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95037
+#EXTINF:-1,24/7 Soy La Comadreja (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/102907
+#EXTINF:-1,24/7 Speedy Gonzales (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/102587
+#EXTINF:-1,24/7 Tom Y Jerry (e)(1080)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/101184
+#EXTINF:-1,24/7 Un cachorro llamado Scooby Doo (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95036
+#EXTINF:-1,24/7 Un Show mas (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/102912
+#EXTINF:-1,24/7 ¡Scooby-Doo, dónde estás!
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/95038
+#EXTINF:-1,24/7 Las aventuras de Timon y Pumba (e)
+http://tv.zapping.life:8080/hernanllerena1/89fVTSCGJS/102588
+
 #EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="https://i.pinimg.com/736x/27/a7/d3/27a7d36f3ac0a60c681d5cc295de819f.jpg" ,|SA| Cartoonito (AR)
 http://258540820214.d4ktv.info/DRFOURK234/j6914uju6w/1244195
 #EXTINF:-1 group-title="|AR| ✪ KIDS ENTERTAINMENT | KIDS 24/7" tvg-logo="https://e7.pngegg.com/pngimages/310/617/png-clipart-disney-logo-art-disney-channel-television-channel-disney-xd-disney-junior-monster-inc-miscellaneous-television-thumbnail.png" ,|SA| Disney Channel (AR)
@@ -10678,54 +10861,6 @@ http://jbdtgpmr.eldervpn.xyz/7X5MV8KJ/NVRZ3FSM/400159482
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Doraemon (e)" tvg-logo="https://i.postimg.cc/L6QCcBdG/Proyectox-24-7-Anime-3.png" group-title="24/7 ANIME",24/7 Doraemon (e)
-http://tv.proyectox.vip:8080/marvidela01/latinplus3742/94893
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Baby Looney Tunes (2002)" tvg-logo="https://i.postimg.cc/pV1f8LCr/Proyectox-24-7-Infal-1.png" group-title="24/7 INFANTIL",24/7 Baby Looney Tunes (2002)
-http://tv.proyectox.vip:8080/marvidela01/latinplus3742/102584
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ben 10 (e)" tvg-logo="https://i.postimg.cc/jqw14cZg/Proyectox-24-7-series-Animacion2-1.png" group-title="24/7 SERIES ANIMACION",24/7 Ben 10 (e)
-http://tv.proyectox.vip:8080/marvidela01/latinplus3742/102881
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ben 10 - Alience Force (e)" tvg-logo="https://i.postimg.cc/VvCHssJQ/Proyectox-24-7-series-Animacion2.png" group-title="24/7 SERIES ANIMACION",24/7 Ben 10 - Alience Force (e)
-http://tv.proyectox.vip:8080/marvidela01/latinplus3742/102882
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ben 10 Ultimate Alien (e)" tvg-logo="https://i.postimg.cc/tRKMS6cX/Proyectox-24-7-series-Animacion2-2.png" group-title="24/7 SERIES ANIMACION",24/7 Ben 10 Ultimate Alien (e)
-http://tv.proyectox.vip:8080/marvidela01/latinplus3742/102883
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Bob Esponja (e)" tvg-logo="https://i.postimg.cc/T3bJTvrw/Proyectox-24-7-Infantil-2.png" group-title="24/7 INFANTIL",24/7 Bob Esponja (e)
-http://tv.proyectox.vip:8080/marvidela01/latinplus3742/95041
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Bobo y Tonto (e)" tvg-logo="https://i.postimg.cc/9fQ8RYDB/Proyectox-24-7-series-Animacion2-3.png" group-title="24/7 SERIES ANIMACION",24/7 Bobo y Tonto (e)
-http://tv.proyectox.vip:8080/marvidela01/latinplus3742/102884
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CatDog (e)" tvg-logo="https://i.postimg.cc/QxvcqLbH/Proyectox-24-7-Juveniles1-3.png" group-title="24/7 SERIES JUVENILES",24/7 CatDog (e)
-http://tv.proyectox.vip:8080/marvidela01/latinplus3742/94989
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Disney Animacion (e)" tvg-logo="https://i.postimg.cc/5ttnccgF/Proyectox-Cinema-24.png" group-title="24/7 CINEMA ",24/7 Cinema - Disney Animacion (e)
-http://tv.proyectox.vip:8080/marvidela01/latinplus3742/95622
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Disney Animacion 3D (e)" tvg-logo="https://i.postimg.cc/0QTfJzsp/Proyectox-Cinema-22.png" group-title="24/7 CINEMA ",24/7 Cinema - Disney Animacion 3D (e)
-http://tv.proyectox.vip:8080/marvidela01/latinplus3742/95623
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Disney Live Action (e)" tvg-logo="https://i.postimg.cc/7hN2YhYP/Proyectox-Cinema.png" group-title="24/7 CINEMA ",24/7 Cinema - Disney Live Action (e)
-http://tv.proyectox.vip:8080/marvidela01/latinplus3742/95624
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Documentales (e)" tvg-logo="https://i.postimg.cc/mr6VBdpp/Proyectox-Cinema-25.png" group-title="24/7 CINEMA ",24/7 Cinema - Documentales (e)
-http://tv.proyectox.vip:8080/marvidela01/latinplus3742/95625
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Dramas (e)" tvg-logo="https://i.postimg.cc/y8jvr6mH/Proyectox-Cinema-26.png" group-title="24/7 CINEMA ",24/7 Cinema - Dramas (e)
-http://tv.proyectox.vip:8080/marvidela01/latinplus3742/95626
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Familiar (e)" tvg-logo="https://i.postimg.cc/jj83Cq2X/Proyectox-Cinemax-1.png" group-title="24/7 CINEMA ",24/7 Cinema - Familiar (e)
-http://tv.proyectox.vip:8080/marvidela01/latinplus3742/95630
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Infantiles (e)" tvg-logo="https://i.postimg.cc/ZnNwfrc7/Proyectox-Cinema-30.png" group-title="24/7 CINEMA ",24/7 Cinema - Infantiles (e)
-http://tv.proyectox.vip:8080/marvidela01/latinplus3742/95632
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Coraje el Perro Cobarde (e)" tvg-logo="https://i.postimg.cc/T39N343w/Proyectox-24-7-series-Animacion2-4.png" group-title="24/7 SERIES ANIMACION",24/7 Coraje el Perro Cobarde (e)
-http://tv.proyectox.vip:8080/marvidela01/latinplus3742/102885
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La Vaca Y El Pollito (e)" tvg-logo="https://i.postimg.cc/15SKVrTN/Proyectox-24-7-series-Animacion2-21.png" group-title="24/7 SERIES ANIMACION",24/7 La Vaca Y El Pollito (e)
-http://tv.proyectox.vip:8080/marvidela01/latinplus3742/102898
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Lady La Vendedora de Rosas" tvg-logo="https://i.postimg.cc/zXSb3dcJ/Proyectox-24-7seri3s-29.png" group-title="24/7 TELENOVELAS",24/7 Lady La Vendedora de Rosas
-http://tv.proyectox.vip:8080/marvidela01/latinplus3742/95589
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Las Aventuras de Batman y Robin el Chico Maravilla (1977)" tvg-logo="" group-title="24/7 RETRO",24/7 Las Aventuras de Batman y Robin el Chico Maravilla (1977)
-http://tv.proyectox.vip:8080/marvidela01/latinplus3742/101819
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Las aventuras de Silvestre y Piolin (e)" tvg-logo="https://i.postimg.cc/vTrLS41B/Proyectox-24-7-series-Animacion2-22.png" group-title="24/7 SERIES ANIMACION",24/7 Las aventuras de Silvestre y Piolin (e)
-http://tv.proyectox.vip:8080/marvidela01/latinplus3742/102899
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Las aventuras de Timon y Pumba (e)" tvg-logo="https://i.postimg.cc/vBCmYk7Y/Proyectox-24-7-Infantiles.png" group-title="24/7 INFANTIL",24/7 Las aventuras de Timon y Pumba (e)
-http://tv.proyectox.vip:8080/marvidela01/latinplus3742/102588
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Las chicas superpoderosas (e)" tvg-logo="https://i.postimg.cc/yx4yPm8t/Proyectox-24-7-series-Animacion2-23.png" group-title="24/7 SERIES ANIMACION",24/7 Las chicas superpoderosas (e)
-http://tv.proyectox.vip:8080/marvidela01/latinplus3742/102911
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Las macabras aventuras de Billy y Mandy (e)" tvg-logo="https://i.postimg.cc/MGg767VH/Proyectox-24-7-series-Animacion2-24.png" group-title="24/7 SERIES ANIMACION",24/7 Las macabras aventuras de Billy y Mandy (e)
-http://tv.proyectox.vip:8080/marvidela01/latinplus3742/102900
-
-
 #EXTINF:-1 group-title="|AR| ☺ KIDS  اطفال" tvg-logo="http://go4.pw/BEIN/BEINBARAEM-1.png" ,Vip: Bein Baraem Kids
 http://wolvestv.net:8880/80746551156356/22314879512479/391394
 #EXTINF:-1 group-title="|AR| ☺ KIDS  اطفال" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTykrEYlNuSbos1wieDj-9TSPRQlm6NxKAtRG4RqWTT&s" ,Vip: Bein Cartoonito HD AR
@@ -11737,291 +11872,6 @@ http://supersonictv.live:8080/live/Wellshouse/@A1B2C3D4/79049
 
 #EXTINF:-1 tvg-id="ts114" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Hindi;Animation;Kids;Cartoons",Disney 
 https://my.rspublication.com/opp1.php?id=167551&e=.m3u8
-#EXTINF:-1,24/7 Amantes Del Desierto (e)()
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95580
-#EXTINF:-1,24/7 American Dad (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/94874
-#EXTINF:-1,24/7 Aqui no hay quien viva (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95596
-#EXTINF:-1,24/7 Ataque a los titanes (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/94884
-#EXTINF:-1,24/7 Atrapada en el medio (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95640
-
-#EXTINF:-1,24/7 Bob Esponja (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95041
-#EXTINF:-1,24/7 Bobo y Tonto (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102884
-
-#EXTINF:-1,24/7 Coraje el Perro Cobarde (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102885
-
-#EXTINF:-1,24/7 El Show de los Looney Tunes (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95042
-#EXTINF:-1,24/7 El show de Scooby-Doo y Scrappy-Doo (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95040
-#EXTINF:-1,24/7 El show de Tom y Jerry 1980 (e)(1080)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/01814
-#EXTINF:-1,24/7 Infantil - Avatar: La leyenda de Aang (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95009
-#EXTINF:-1,24/7 Infantil - Ben 10: Ultimate Alien (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95648
-#EXTINF:-1,24/7 Infantil - Capitán Calzoncillos (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024//95023
-#EXTINF:-1,24/7 Infantil - El Chavo Animado (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95012
-#EXTINF:-1,24/7 Infantil - El Pajaro Loco y sus Amigos (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95013
-#EXTINF:-1,24/7 Infantil - El Show Del Pajaro Loco
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95014
-#EXTINF:-1,24/7 Infantil - Gravity Falls (E)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95015
-#EXTINF:-1,24/7 Infantil - Jimmy Neutron (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95016
-#EXTINF:-1,24/7 Infantil - Kick Buttowski (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95017
-#EXTINF:-1,24/7 Infantil - KND Los Chicos Del Barrio (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95018
-#EXTINF:-1,24/7 Infantil - Las Aventuras de Billy y Mandy (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95022
-#EXTINF:-1,24/7 Infantil - Looney Tunes Platinium (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102583
-#EXTINF:-1,24/7 Infantil - Los Padrinos Magicos
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95653
-#EXTINF:-1,24/7 Infantil - Los pingüinos de Madagascar
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95028
-#EXTINF:-1,24/7 Infantil - Los Pitufos (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95029
-#EXTINF:-1,24/7 Infantil - Masha y el Oso (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95030
-#EXTINF:-1,24/7 Infantil - Oye Arnold
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95031
-#EXTINF:-1,24/7 Infantil - Paw Patrol (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95019
-#EXTINF:-1,24/7 Infantil - Peppa Pig (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95032
-#EXTINF:-1,24/7 Infantil - Phineas y Ferb (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95033
-#EXTINF:-1,24/7 Infantil - Rugrats (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95034
-#EXTINF:-1,24/7 Infantil - Rugrats Crecidos (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95010
-#EXTINF:-1,24/7 Infantil - Winnie the Pooh (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95024
-#EXTINF:-1,24/7 Johnny Bravo (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102894
-#EXTINF:-1,24/7 Jones El Robot (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102895
-#EXTINF:-1,24/7 Krypto El Superperro (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102896
-#EXTINF:-1,24/7 La Vaca Y El Pollito (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102898
-#EXTINF:-1,24/7 Las aventuras de Silvestre y Piolin (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102899
-#EXTINF:-1,24/7 Las aventuras de Timon y Pumba (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102588
-#EXTINF:-1,24/7 Las chicas superpoderosas (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102911
-#EXTINF:-1,24/7 Las macabras aventuras de Billy y Mandy (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102900
-#EXTINF:-1,24/7 Las Nuevas Aventuras De Los Picapiedras (e)(1080)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/110038
-#EXTINF:-1,24/7 Las nuevas Aventuras de Scooby-Doo (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95035
-#EXTINF:-1,24/7 Lobo Ralph y Perro Sam (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102586
-#EXTINF:-1,24/7 Los Pitufos (e)(SD)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/110049
-#EXTINF:-1,24/7 Los Sabados Secretos (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102903
-#EXTINF:-1,24/7 Los Simpson - 11al20 (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/94882
-#EXTINF:-1,24/7 Los Simpson - 1al10 (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/94881
-#EXTINF:-1,24/7 Los Simpson - 21al35 (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/94883
-#EXTINF:-1,24/7 Los Supersonicos (1962)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/105643
-#EXTINF:-1,24/7 Los Thunderman (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95002
-#EXTINF:-1,24/7 Peliculas Cartoon Network (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102905
-#EXTINF:-1,24/7 Pepe Le Pew (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102585
-#EXTINF:-1,24/7 Scooby-Doo Misterios S. A.
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95039
-#EXTINF:-1,24/7 Scooby-Doo y adivina quién?
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95037
-#EXTINF:-1,24/7 Soy La Comadreja (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102907
-#EXTINF:-1,24/7 Speedy Gonzales (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102587
-#EXTINF:-1,24/7 Tom Y Jerry (e)(1080)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/101184
-#EXTINF:-1,24/7 Un cachorro llamado Scooby Doo (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95036
-#EXTINF:-1,24/7 Un Show mas (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102912
-#EXTINF:-1,24/7 ¡Scooby-Doo, dónde estás!
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95038
-#EXTINF:-1,24/7 Las aventuras de Timon y Pumba (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102588
-
-
-#EXTINF:-1,24/7 Amantes Del Desierto (e)()
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95580
-#EXTINF:-1,24/7 American Dad (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/94874
-#EXTINF:-1,24/7 Aqui no hay quien viva (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95596
-#EXTINF:-1,24/7 Ataque a los titanes (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/94884
-#EXTINF:-1,24/7 Atrapada en el medio (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95640
-#EXTINF:-1,24/7 Baby Looney Tunes (2002)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102584
-#EXTINF:-1,24/7 Ben 10 (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102881
-#EXTINF:-1,24/7 Ben 10 - Alience Force (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102882
-#EXTINF:-1,24/7 Ben 10 Ultimate Alien (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102883
-#EXTINF:-1,24/7 Bob Esponja (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95041
-#EXTINF:-1,24/7 Bobo y Tonto (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102884
-#EXTINF:-1,24/7 CatDog (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/94989
-#EXTINF:-1,24/7 Cinema - Disney Animacion (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95622
-#EXTINF:-1,24/7 Cinema - Disney Animacion 3D (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95623
-#EXTINF:-1,24/7 Cinema - Disney Live Action (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95624
-#EXTINF:-1,24/7 Cinema - Documentales (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95625
-#EXTINF:-1,24/7 Cinema - Dramas (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95626
-#EXTINF:-1,24/7 Cinema - Familiar (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95630
-#EXTINF:-1,24/7 Cinema - Infantiles (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95632
-#EXTINF:-1,24/7 Coraje el Perro Cobarde (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102885
-#EXTINF:-1,24/7 Doraemon (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/94893
-#EXTINF:-1,24/7 El Show de los Looney Tunes (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95042
-#EXTINF:-1,24/7 El show de Scooby-Doo y Scrappy-Doo (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95040
-#EXTINF:-1,24/7 El show de Tom y Jerry 1980 (e)(1080)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/101814
-#EXTINF:-1,24/7 Infantil - Avatar: La leyenda de Aang (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95009
-#EXTINF:-1,24/7 Infantil - Ben 10: Ultimate Alien (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95648
-#EXTINF:-1,24/7 Infantil - Capitán Calzoncillos (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95023
-#EXTINF:-1,24/7 Infantil - El Chavo Animado (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95012
-#EXTINF:-1,24/7 Infantil - El Pajaro Loco y sus Amigos (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95013
-#EXTINF:-1,24/7 Infantil - El Show Del Pajaro Loco
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95014
-#EXTINF:-1,24/7 Infantil - Gravity Falls (E)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95015
-#EXTINF:-1,24/7 Infantil - Jimmy Neutron (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95016
-#EXTINF:-1,24/7 Infantil - Kick Buttowski (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95017
-#EXTINF:-1,24/7 Infantil - KND Los Chicos Del Barrio (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95018
-#EXTINF:-1,24/7 Infantil - Las Aventuras de Billy y Mandy (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95022
-#EXTINF:-1,24/7 Infantil - Looney Tunes Platinium (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102583
-#EXTINF:-1,24/7 Infantil - Los Padrinos Magicos
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95653
-#EXTINF:-1,24/7 Infantil - Los pingüinos de Madagascar
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95028
-#EXTINF:-1,24/7 Infantil - Los Pitufos (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95029
-#EXTINF:-1,24/7 Infantil - Masha y el Oso (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95030
-#EXTINF:-1,24/7 Infantil - Oye Arnold
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95031
-#EXTINF:-1,24/7 Infantil - Paw Patrol (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95019
-#EXTINF:-1,24/7 Infantil - Peppa Pig (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95032
-#EXTINF:-1,24/7 Infantil - Phineas y Ferb (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95033
-#EXTINF:-1,24/7 Infantil - Rugrats (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95034
-#EXTINF:-1,24/7 Infantil - Rugrats Crecidos (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95010
-#EXTINF:-1,24/7 Infantil - Winnie the Pooh (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95024
-#EXTINF:-1,24/7 Johnny Bravo (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102894
-#EXTINF:-1,24/7 Jones El Robot (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102895
-#EXTINF:-1,24/7 Krypto El Superperro (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102896
-#EXTINF:-1,24/7 La Vaca Y El Pollito (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102898
-#EXTINF:-1,24/7 Las aventuras de Silvestre y Piolin (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102899
-#EXTINF:-1,24/7 Las aventuras de Timon y Pumba (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102588
-#EXTINF:-1,24/7 Las chicas superpoderosas (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102911
-#EXTINF:-1,24/7 Las macabras aventuras de Billy y Mandy (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102900
-#EXTINF:-1,24/7 Las Nuevas Aventuras De Los Picapiedras (e)(1080)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/110038
-#EXTINF:-1,24/7 Las nuevas Aventuras de Scooby-Doo (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95035
-#EXTINF:-1,24/7 Lobo Ralph y Perro Sam (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102586
-#EXTINF:-1,24/7 Los Pitufos (e)(SD)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/110049
-#EXTINF:-1,24/7 Los Sabados Secretos (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102903
-#EXTINF:-1,24/7 Los Simpson - 11al20 (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/94882
-#EXTINF:-1,24/7 Los Simpson - 1al10 (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/94881
-#EXTINF:-1,24/7 Los Simpson - 21al35 (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/94883
-#EXTINF:-1,24/7 Los Supersonicos (1962)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/105643
-#EXTINF:-1,24/7 Los Thunderman (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95002
-#EXTINF:-1,24/7 Peliculas Cartoon Network (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102905
-#EXTINF:-1,24/7 Pepe Le Pew (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102585
-#EXTINF:-1,24/7 Scooby-Doo Misterios S. A.
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95039
-#EXTINF:-1,24/7 Scooby-Doo y adivina quién?
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95037
-#EXTINF:-1,24/7 Soy La Comadreja (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102907
-#EXTINF:-1,24/7 Speedy Gonzales (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102587
-#EXTINF:-1,24/7 Tom Y Jerry (e)(1080)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/101184
-#EXTINF:-1,24/7 Un cachorro llamado Scooby Doo (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95036
-#EXTINF:-1,24/7 Un Show mas (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102912
-#EXTINF:-1,24/7 ¡Scooby-Doo, dónde estás!
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/95038
-#EXTINF:-1,24/7 Las aventuras de Timon y Pumba (e)
-http://tv.proyectox.vip:8080/Yanditv2024/Yandi2024/102588
-
-
 
 #EXTINF:-1 group-title="Indian Hindi" group-title="India" tvg-id="Jalwa.pk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/9x_Jalwa.png",MU | Jalwa
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8
@@ -12417,6 +12267,94 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1440388
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1440389
 #EXTINF:-1,SA ▎SAUDI ALAAN FHD
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1440390
+
+#EXTINF:-1 tvg-id="Andflix.in@SD",&flix (480p) 
+https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8 
+#EXTINF:-1 tvg-id="Andpictures.in@HD",&pictures (1080p) 
+http://66.102.120.18:8000/play/a01t/index.m3u8 
+#EXTINF:-1 tvg-id="Andpictures.in@SD",&pictures (576p) 
+http://87.255.35.150:18510 
+#EXTINF:-1 tvg-id="AndpriveHD.in@SD",&prive HD (1080p) 
+http://87.255.35.150:18494 
+#EXTINF:-1 tvg-id="AndxplorHD.in@SD",&xplor HD (1080p) 
+http://66.102.120.18:8000/play/a012/index.m3u8
+#EXTINF:-1 tvg-id="SonyPal.in@SD",Sony Pal (576p)
+http://87.255.35.150:18887
+#EXTINF:-1 tvg-id="StarMovies.in@HD",Star Movies HD (1080p)
+http://87.255.35.150:18301
+#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD",Star Movies Select HD (1080p)
+http://87.255.35.150:18548
+#EXTINF:-1 tvg-id="StarBharat.in@HD",Star Bharat HD (1080p)
+http://87.255.35.150:18555
+
+
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/QMwWnZUBtpl-Sbt7S2sx/posters/8cad9a82-842a-47bf-a060-f17011f11c07.png",And Picture
+https://allottplay.com/tv/toffee/live.php?id=andpicture_hd&e=.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/5cwRnZUBtpl-Sbt7wWrN/posters/5779ade3-e9ba-4107-b3da-bae6f891500a.png",And Tv
+https://allottplay.com/tv/toffee/live.php?id=and_tv_hd&e=.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/DK8dd5YBrjBfS2_Ru22e/posters/a4e57fd0-1853-4540-a9bc-0265ee43b5cb.png",Zing Sd
+https://allottplay.com/tv/toffee/live.php?id=zing_sd&e=.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assetshttps://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/8bc7ae1b-1a46-4b76-bdb1-13c7dbd3a95c.png",Zee Cafe Hd
+https://allottplay.com/tv/toffee/live.php?id=zee_cafe_hd&e=.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/7x0Jd5YBEef-9-uVv_Gy/posters/f9c07bfc-9fde-40d0-91a1-e28c5840f400.png",Zee Anmol
+https://allottplay.com/tv/toffee/live.php?id=zee_anmol&e=.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/OnSlPJYBcqxnFHJB6lFX/posters/d9ccb2a6-227f-4a41-8714-efaddab5cf5e.png",Zee Bollywood
+https://allottplay.com/tv/toffee/live.php?id=zee_bollywood&e=.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Pc3RD5YBtpl-Sbt7doxr/posters/33d667ae-bcc3-4f6b-b376-76c552136923.png",Zee Action
+https://allottplay.com/tv/toffee/live.php?id=zee_action&e=.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/5y7HX5UBv9knK3AHs6Nk/posters/7582fb79-c15f-4247-ba5b-1d2dd27f3d71.png",Zee Cinema Hd
+https://allottplay.com/tv/toffee/live.php?id=zee_cinema_hd&e=.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ltPQX5UBm1RY_In7b3F1/posters/d039d9df-9877-4969-a0b6-56888ebe2385.png",Zee Tv Hd
+https://allottplay.com/tv/toffee/live.php?id=zee_tv_hd&e=.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp",Sony Entertainment
+https://allottplay.com/tv/toffee/live.php?id=sony_entertainment&e=.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp",Sony Sab Hd
+https://allottplay.com/tv/toffee/live.php?id=sonysab_hd&e=.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp",Sony Pix Hd
+https://allottplay.com/tv/toffee/live.php?id=sonypix_hd&e=.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp",Sony Max
+https://allottplay.com/tv/toffee/live.php?id=sony_max&e=.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp",Sony Max Hd
+https://allottplay.com/tv/toffee/live.php?id=sony_max_hd&e=.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ii5_-JQBv9knK3AHLDV3/posters/d961cc87-81b6-4b30-8414-8c0af2774818.webp",Sony Max 2
+https://allottplay.com/tv/toffee/live.php?id=sonymax_2&e=.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/PC6F-JQBv9knK3AHlTUO/posters/fb0243ba-39a0-4101-a78c-c197be550c6c.webp",B4u Movies
+https://allottplay.com/tv/toffee/live.php?id=b4u_movies&e=.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/PS6F-JQBv9knK3AHqjVz/posters/0f83ee72-be0f-4861-94df-30b158d3df8d.webp",B4u Music
+https://allottplay.com/tv/toffee/live.php?id=b4u_music&e=.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/T9O9X5UBm1RY_In7UXFv/posters/30e0f372-eb3e-4cf9-be1e-b196a40c2fc7.png",Hum Masala
+https://allottplay.com/tv/toffee/live.php?id=hum_masala&e=.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/0C63X5UBv9knK3AHxaOs/posters/6dce1143-1045-4fec-ac4f-86d2bfb32447.png",Hum Tv
+https://allottplay.com/tv/toffee/live.php?id=hum_tv&e=.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/WtPBX5UBm1RY_In7mXEU/posters/188d51f6-aeef-41ed-835b-e25ff911e209.png",Hum Sitaray
+https://allottplay.com/tv/toffee/live.php?id=hum_sitaray&e=.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://appv10static.jaagobd.com/media/channel_logos/macau_lotus_tv_mo_eKbv6l5.png",Lotus Macau
+https://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://appv10static.jaagobd.com/media/channel_logos/macau_lotus_tv_mo_eKbv6l5.png",Lotus Macau
+https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus-avc1_2089200=342-mp4a_256000_eng=343.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Hindi",Star Plus
+http://172.16.29.2:8090/hls/StarPlusHD.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/8n2qMTmR/unnamed.jpg",STAR GOLD HD
+http://172.16.29.2:8090/hls/StarGoldHD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies" group-title="",Star Movies HD
+http://172.16.29.2:8090/hls/StarMoviesHD.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ltPQX5UBm1RY_In7b3F1/posters/d039d9df-9877-4969-a0b6-56888ebe2385.png",Zee Tv Hd
+http://172.16.29.2:8090/hls/ZeeTVHD.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/5y7HX5UBv9knK3AHs6Nk/posters/7582fb79-c15f-4247-ba5b-1d2dd27f3d71.png",Zee Cinema Hd
+http://172.16.29.2:8090/hls/ZeeCinemaHD.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp",Sony Entertainment
+http://172.16.29.2:8090/hls/SonyHD.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp",Sony Max Hd
+http://172.16.29.2:8090/hls/sonymaxhd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Hindi Movies" group-title="",Colors Cineplex HD
+http://172.16.29.2:8090/hls/ColorsCineplexHD.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://172.16.29.28/images/colors.png",Colors Hd
+http://172.16.29.2:8090/hls/ColorsHD.m3u8
+
 
 
 #EXTINF:-1 tvg-id=",Maah Tv
@@ -13335,6 +13273,18 @@ https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/866.m3u8
 #EXTINF:-1 tvg-id=",WB☔️ 
 https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/1533.m3u8
 
+#EXTINF:-1 group-title="Sport" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp",Sony Sport 1
+https://allottplay.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png",Sony Sport 2
+https://allottplay.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://assetshttps://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2f3gmVZYAVNehItzUyJ80yNQNzeMT0q703H1ONkWhwTUF0P9XkIfYIc_t6vK52CUogm31lRqTLyG6eHiI2opcqrQ6qoOYqldOeuVw7gj3dFOQ7LS3r-6_cM9U3YcXvwhGFFpSD-xsfbzkATScjldJYcPNGLgi94E-qKWae1pcsd9wXEmTQGlEGG8uVZk/s1600/Sony_Sports_Ten_3_copy_900x900.webp",Sony Sport 3
+https://allottplay.com/tv/toffee/live.php?id=sony_sports_3_hd&e=.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/vi5n-JQBv9knK3AHqzTC/posters/241705c1-06a9-4694-92c6-0013d1879e42.webp",Sony Sport 5
+https://allottplay.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",Sony Ten Cricket
+https://allottplay.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguMdZRZnM6pmBIKfL_-m1VsZx1VFQ6MKDbbUDjXbA4viGwl2Dq4Hy7_SIAMGt7mkDoFbrzOkF2bDHHf3CJZhufXz_qKDp87zGFqB3bvfqrl8mgJp1IPbMavaHSudFvrxR7WzLkxb21cZgyVOUUVMnfkJvWisP0lxTE479MmshGRGbKQ4TYDr_pRNc9yF8/s1600/01709bcd-6d53-4710-a64f-bc49cecf1d61_copy_900x900.webp",Euro Sport Hd
+https://allottplay.com/tv/toffee/live.php?id=euro_sports_hd&e=.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://appv10static.jaagobd.com/media/channel_logos/sportv-logo-1-1.png",Sports (Tennis)
@@ -13476,6 +13426,37 @@ http://125x.org:8080/bn6hd/tracks-v1a1/mono.m3u8
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",Sport Italia
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp",Sony Bbc Earth
+https://allottplay.com/tv/toffee/live.php?id=sonybbc_earth_hd&e=.m3u8
+#EXTINF:-1 group-title="Innfotainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp",Discovery Sd
+https://allottplay.com/tv/toffee/live.php?id=discovery_sd&e=.m3u8
+#EXTINF:-1 group-title="Innfotainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KC6x-JQBv9knK3AHqjYc/posters/55e554f1-dbbb-47bd-97fe-fca878726c4c.webp",Discovery Hd
+https://allottplay.com/tv/toffee/live.php?id=discovery_hd&e=.m3u8
+#EXTINF:-1 group-title="Innfotainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ni61-JQBv9knK3AHcDYc/posters/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp",Animal Planet Hd
+https://allottplay.com/tv/toffee/live.php?id=animal_planet_hd&e=.m3u8
+#EXTINF:-1 group-title="Innfotainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ny61-JQBv9knK3AHgzZ7/posters/0909b36a-afd5-426a-93b3-4512800977db.webp",Animal Planet Sd
+https://allottplay.com/tv/toffee/live.php?id=animal_planet_sd&e=.m3u8
+#EXTINF:-1 group-title="Innfotainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/7C6j-JQBv9knK3AHVzUA/posters/e8f84105-5efe-4e91-a0d4-18a0849cf2f2.webp",Tlc Sd
+https://allottplay.com/tv/toffee/live.php?id=tlc_sd&e=.m3u8
+#EXTINF:-1 group-title="Innfotainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/7S6j-JQBv9knK3AHbzXC/posters/0973097c-bc5c-4b28-aaca-f04d6f6cb5e2.webp",Tlc Hd
+https://allottplay.com/tv/toffee/live.php?id=tlc_hd&e=.m3u8
+#EXTINF:-1 group-title="Innfotainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ay6s-JQBv9knK3AHJTY1/posters/e8f65578-e82d-4e4a-a1ff-073becc5bd71.webp",Discovery Turbo
+https://allottplay.com/tv/toffee/live.php?id=discovery_turbo&e=.m3u8
+#EXTINF:-1 group-title="Innfotainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/AS6s-JQBv9knK3AHDTZb/posters/eab8fd0f-9351-464c-b45e-332f38b49f4b.webp",Discovery Science
+https://allottplay.com/tv/toffee/live.php?id=discovery_science&e=.m3u8
+#EXTINF:-1 group-title="Innfotainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ay7uX5UBv9knK3AHs6TI/posters/deb3c186-b2e1-4a91-aafb-d86f9128b851.png",Discovery Investigation
+https://allottplay.com/tv/toffee/live.php?id=discovary_investigation_hd&e=.m3u8
+#EXTINF:-1 group-title="Documentary & Education" tvg-logo="https://i.ibb.co.com/1Gny5NSv/images-1.jpg",WILD 
+http://172.16.29.2:8090/hls/NatGeoWild.m3u8
+#EXTINF:-1 group-title="Innfotainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ni61-JQBv9knK3AHcDYc/posters/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp",Animal Planet Hd
+http://172.16.29.2:8090/hls/AnimalPlanetHD.m3u8
+#EXTINF:-1 group-title="Innfotainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KC6x-JQBv9knK3AHqjYc/posters/55e554f1-dbbb-47bd-97fe-fca878726c4c.webp",Discovery Hd
+http://172.16.29.2:8090/hls/DiscoveryHD.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp",Sony Bbc Earth
+http://172.16.29.2:8090/hls/bbcearthhd.m3u8
+
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-18-2025-07_31_49-AM-1-200x300.png",Discovery Asia
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
@@ -13692,6 +13673,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 
+#EXTINF:-1 group-title="News" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV.jpg",Aljazeera
+http://172.16.29.2:8090/hls/ALjazeeraNews.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg",BBC World News
+http://172.16.29.2:8090/hls/bbc_world.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp",Cnn
+https://allottplay.com/tv/toffee/live.php?id=cnn&e=.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/BBC_World_Service_2022_%28Boxed%29.svg",BBC World News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://appv10static.jaagobd.com/media/channel_logos/images_HPJpDa4.jpeg",RT
@@ -19769,125 +19757,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
 
-#EXTINF:-1 xui-id="4" tvg-id="" tvg-name="& Picture HD" tvg-logo="http://lifetvbd.xyz:8080/images/2bd7d7e6b3194c71396a93c396fa6196.png" group-title="INDIA | Movies",& Picture HD
-http://lifetvbd.xyz:8080/play/YKCmqJkX8--w4Ezr5j8yrg/ts
-#EXTINF:-1 xui-id="9" tvg-id="" tvg-name="& Tv HD" tvg-logo="" group-title="INDIA | Entertainment",& Tv HD
-http://lifetvbd.xyz:8080/play/jGeMVOyM1pXm6oIP3Qw5Zg/ts
-#EXTINF:-1 xui-id="100" tvg-id="" tvg-name="&Flix HD" tvg-logo="http://lifetvbd.xyz:8080/images/b9ddb18e473b2fab66f64f0c8e57c16f.png" group-title="English Movie",&Flix HD
-http://lifetvbd.xyz:8080/play/XxsoHdyajLOKUkLBmXToP8-3bAFBITo-2eUJE12cR4k/ts
-#EXTINF:-1 xui-id="99" tvg-id="" tvg-name="&Xplore HD" tvg-logo="http://lifetvbd.xyz:8080/images/28bcd6a8a93b3ee53f2c8c7b175605ad.png" group-title="English Movie",&Xplore HD
-http://lifetvbd.xyz:8080/play/W5hoJVeZ7xEWxXtA_5cwmg/ts
-#EXTINF:-1 xui-id="16" tvg-id="" tvg-name="9xm" tvg-logo="" group-title="Music",9xm
-http://lifetvbd.xyz:8080/play/XzGtk-56TxnHOSV9MCGwSw/ts
-#EXTINF:-1 xui-id="2649" tvg-id="" tvg-name="Aapka Colors" tvg-logo="http://lifetvbd.xyz:8080/images/a3da6e47c1baffca9897d9a2bfe7ee28.png" group-title="INDIA | Entertainment",Aapka Colors
-http://lifetvbd.xyz:8080/play/ISDZViaqPFLVTqMO9SK5BAbkXtVB_Be7oDg0JxEP3kc/ts
-#EXTINF:-1 xui-id="54" tvg-id="" tvg-name="AXN" tvg-logo="http://lifetvbd.xyz:8080/images/144404b37f4b5d847a7f1a8f45b6fc06.png" group-title="English Movie",AXN
-http://lifetvbd.xyz:8080/play/XlmG3BZoQUqWNXMi818nCA/ts
-#EXTINF:-1 xui-id="108" tvg-id="" tvg-name="B4u Kadak" tvg-logo="http://lifetvbd.xyz:8080/images/95a73393735c339ee27f75a5a4515e8c.png" group-title="INDIA | Movies",B4u Kadak
-http://lifetvbd.xyz:8080/play/3d2nqKsCdXeUEAtCJ_fXDwSETl27AWXkJADaZ--26Ik/ts
-#EXTINF:-1 xui-id="36" tvg-id="" tvg-name="B4u Movie" tvg-logo="http://lifetvbd.xyz:8080/images/bf91f247d01ddc44443408b1ff3238b6.png" group-title="INDIA | Movies",B4u Movie
-http://lifetvbd.xyz:8080/play/EEmHRUjjzXqLo-4md5bArg/ts
-#EXTINF:-1 xui-id="72" tvg-id="" tvg-name="B4u Music" tvg-logo="http://lifetvbd.xyz:8080/images/b5d9fd2ce95b11f2a1fedcdf0c5e62ff.png" group-title="Music",B4u Music
-http://lifetvbd.xyz:8080/play/H7lRu_mwSN_iirnCiPPV2Q/ts
-#EXTINF:-1 xui-id="1508" tvg-id="" tvg-name="b4u Music APAC" tvg-logo="" group-title="Music",b4u Music APAC
-http://lifetvbd.xyz:8080/play/mRKwBQPm6GfBth6RQHGTojOPNol4Fy2rzfwlD1Y1ZTI/ts
-#EXTINF:-1 xui-id="197" tvg-id="" tvg-name="Bhojpuri Cinema" tvg-logo="" group-title="INDIA | Movies",Bhojpuri Cinema
-http://lifetvbd.xyz:8080/play/C723nbN29mum5ESELmHRyGG_kMI842B6lrCf1nsgNLY/ts
-#EXTINF:-1 xui-id="535" tvg-id="" tvg-name="Bol Entertainment" tvg-logo="" group-title="Pakistani",Bol Entertainment
-http://lifetvbd.xyz:8080/play/oaO56wq8rOzhGzbRsTu-9IsDndjbIzu9Pct82Svuh7U/ts
-#EXTINF:-1 xui-id="173" tvg-id="" tvg-name="Bollywood Classic" tvg-logo="http://lifetvbd.xyz:8080/images/799fb075c910013ff3a9d12b99e41034.png" group-title="INDIA | Movies",Bollywood Classic
-http://lifetvbd.xyz:8080/play/fJgl-2vaOz_HIl43VE-6yAOyEv8za0kA8P1Q9zvofjM/ts
-#EXTINF:-1 xui-id="174" tvg-id="" tvg-name="Bollywood HD" tvg-logo="http://lifetvbd.xyz:8080/images/b22977edb862d2ee098604abe58262ed.png" group-title="INDIA | Movies",Bollywood HD
-http://lifetvbd.xyz:8080/play/RCDrq42mse0Cugjm0j8KqzlLMF3R4hy0xtsB-8xSdNE/ts
-#EXTINF:-1 xui-id="214" tvg-id="" tvg-name="Colors Cineplex HD" tvg-logo="http://lifetvbd.xyz:8080/images/3c72e0fb843a57fb610b08c61650c0e3.png" group-title="INDIA | Movies",Colors Cineplex HD
-http://lifetvbd.xyz:8080/play/a0eIwps75M1Yp-Q3eNxyvYYgRWKlmIYTXyiTnX0O7V8/ts
-#EXTINF:-1 xui-id="1504" tvg-id="" tvg-name="Colors HD India" tvg-logo="http://lifetvbd.xyz:8080/images/a3da6e47c1baffca9897d9a2bfe7ee28.png" group-title="INDIA | Entertainment",Colors HD India
-http://lifetvbd.xyz:8080/play/mRKwBQPm6GfBth6RQHGToi03nsqDL0hW9w9eeJ-J1Lc/ts
-#EXTINF:-1 xui-id="1506" tvg-id="" tvg-name="Colors Rishtey" tvg-logo="" group-title="INDIA | Entertainment",Colors Rishtey
-http://lifetvbd.xyz:8080/play/mRKwBQPm6GfBth6RQHGTooaAors6UbWhfBTHXYr0S74/ts
-#EXTINF:-1 xui-id="3639" tvg-id="" tvg-name="Colors UK" tvg-logo="http://lifetvbd.xyz:8080/images/a3da6e47c1baffca9897d9a2bfe7ee28.png" group-title="INDIA | Entertainment",Colors UK
-http://lifetvbd.xyz:8080/play/kPewZdFhn_H54LPZqYjR4twSSSDIA3-CxUMyl4glqHg/ts
-#EXTINF:-1 xui-id="106" tvg-id="" tvg-name="Comedy King" tvg-logo="" group-title="INDIA | Movies",Comedy King
-http://lifetvbd.xyz:8080/play/TieQHoku3AfbWWIV4lt6aRSU7cQ2AqKOYpUmIWLB73o/ts
-#EXTINF:-1 xui-id="12" tvg-id="" tvg-name="GoldMines" tvg-logo="" group-title="INDIA | Movies",GoldMines
-http://lifetvbd.xyz:8080/play/o6lDCRwKC-Y0I5v_-yVyRQ/ts
-#EXTINF:-1 xui-id="56" tvg-id="" tvg-name="HBO" tvg-logo="http://lifetvbd.xyz:8080/images/e037d3c0db28ff0a995a07f4353f7dd3.png" group-title="English Movie",HBO
-http://lifetvbd.xyz:8080/play/F7YVrf7MTPvKbSYnryjgkg/ts
-#EXTINF:-1 xui-id="1685" tvg-id="" tvg-name="Hollywood Dubbed Movies" tvg-logo="http://lifetvbd.xyz:8080/images/a60b595d21c643e29f32a213fd8ae9de.png" group-title="24x7 Movie",Hollywood Dubbed Movies
-http://lifetvbd.xyz:8080/play/QN2KFfHTWRMYWT39i6Oxr8JICDOBnn5_EcHxwmUONlo/ts
-#EXTINF:-1 xui-id="27" tvg-id="" tvg-name="Masti" tvg-logo="" group-title="Music",Masti
-http://lifetvbd.xyz:8080/play/m6GxEdZMNkDx-EC8kw9KXg/ts
-#EXTINF:-1 xui-id="382" tvg-id="" tvg-name="MBC Bollywood" tvg-logo="http://lifetvbd.xyz:8080/images/65789dad3c09429ab0fe05aef5bca4fb.png" group-title="INDIA | Movies",MBC Bollywood
-http://lifetvbd.xyz:8080/play/FfzWjKI5vWP_7lIrj8OiYYF9t_xaBQksvhahRyALgJ4/ts
-#EXTINF:-1 xui-id="1677" tvg-id="" tvg-name="MLS Live" tvg-logo="http://lifetvbd.xyz:8080/images/1fcddf1648bc968dc9b458f11c8b91a9.png" group-title="FOOTBALL LIVE EVENT",MLS Live
-http://lifetvbd.xyz:8080/play/FzBUatwwr0Mne4uaKAakTl3Y-IibVdGiaIq9DS_GiXw/ts
-#EXTINF:-1 xui-id="130" tvg-id="" tvg-name="MNX" tvg-logo="http://lifetvbd.xyz:8080/images/f10ff07a032a806d0745d24b056f0c88.png" group-title="English Movie",MNX
-http://lifetvbd.xyz:8080/play/eeQUxm1ekrndNgggp3RO_Ss-DxIxd9sLRYd2nVrTW30/ts
-#EXTINF:-1 xui-id="104" tvg-id="" tvg-name="Movies Now" tvg-logo="http://lifetvbd.xyz:8080/images/73b129f09b75f522359b906ed754414d.png" group-title="English Movie",Movies Now
-http://lifetvbd.xyz:8080/play/2TNh9C4vdpD-VlnYeAN-NiI4gVXARaXFXNiPQFR5GL4/ts
-#EXTINF:-1 xui-id="9380" tvg-id="" tvg-name="Movies Thriller" tvg-logo="" group-title="English Movie",Movies Thriller
-http://lifetvbd.xyz:8080/play/bnZ9riaZDKTMrqSNNsy5WLFE72KuQk8WfrcrzxLVW-8/ts
-#EXTINF:-1 xui-id="5360" tvg-id="" tvg-name="MTV" tvg-logo="http://lifetvbd.xyz:8080/images/80e215892e6def7dbf2a909e00cf6f7e.png" group-title="Music",MTV
-http://lifetvbd.xyz:8080/play/hBuOmwgBv8ZfqvtkCJHjlcFoPoLCI9k7VOA90pqmqY0/ts
-#EXTINF:-1 xui-id="110" tvg-id="" tvg-name="MTV Beats HD" tvg-logo="http://lifetvbd.xyz:8080/images/d2242f8e929ab2e7ddaa80da65282722.png" group-title="Music",MTV Beats HD
-http://lifetvbd.xyz:8080/play/zHFd43PuNj_gezkC6-ZAtuk_qtCY4TCIARAoztnSl00/ts
-#EXTINF:-1 xui-id="9438" tvg-id="" tvg-name="MTV India" tvg-logo="http://lifetvbd.xyz:8080/images/80e215892e6def7dbf2a909e00cf6f7e.png" group-title="Music",MTV India
-http://lifetvbd.xyz:8080/play/jQNykyERYqow_UhPuWfu7K-go5L3WN8KX4sPXpj0Gds/ts
-#EXTINF:-1 xui-id="127" tvg-id="" tvg-name="Romedy Now" tvg-logo="http://lifetvbd.xyz:8080/images/4379f7f91e9ad73c2dab9aead9936a56.png" group-title="English Movie",Romedy Now
-http://lifetvbd.xyz:8080/play/w5wKl_JMoN55WGYd469EjQZf5wNVxpCsICf8ZJDksaQ/ts
-#EXTINF:-1 xui-id="1511" tvg-id="" tvg-name="Shemaroo Marathibana" tvg-logo="" group-title="Indian Regional",Shemaroo Marathibana
-http://lifetvbd.xyz:8080/play/N0X2YHWTV_0u_FZI2N2nCfJL4Ngqu-RHqBdyA1JJkSQ/ts
-#EXTINF:-1 xui-id="1509" tvg-id="" tvg-name="Shemaroo Tv" tvg-logo="" group-title="INDIA | Entertainment",Shemaroo Tv
-http://lifetvbd.xyz:8080/play/mRKwBQPm6GfBth6RQHGTov6OwQJ1x8GBzcDFT36o-Rs/ts
-#EXTINF:-1 xui-id="9439" tvg-id="" tvg-name="Sony D2H" tvg-logo="" group-title="INDIA | Entertainment",Sony D2H
-http://lifetvbd.xyz:8080/play/jQNykyERYqow_UhPuWfu7FIthmNyKhx79ymIBTLPTjQ/ts
-#EXTINF:-1 xui-id="2799" tvg-id="" tvg-name="Sony HD" tvg-logo="http://lifetvbd.xyz:8080/images/39876053482b7501aac3e824e443d342.png" group-title="INDIA | Entertainment",Sony HD
-http://lifetvbd.xyz:8080/play/6wPyyn3gdiHwOnQuWd3uS3FEiZKNl1vv9bbYz5Vg9gA/ts
-#EXTINF:-1 xui-id="226" tvg-id="" tvg-name="Sony HD USA" tvg-logo="http://lifetvbd.xyz:8080/images/39876053482b7501aac3e824e443d342.png" group-title="INDIA | Entertainment",Sony HD USA
-http://lifetvbd.xyz:8080/play/Ne9-Vu51rYFmSwQbdkgC30gZHRA63EJ1sR1_fZz2dz0/ts
-#EXTINF:-1 xui-id="180" tvg-id="" tvg-name="Sony Kal" tvg-logo="" group-title="INDIA | Entertainment",Sony Kal
-http://lifetvbd.xyz:8080/play/p3H_WPb5wRpDM2Kl1nF_KixqyCXmY-7Lru2tjTtQh94/ts
-#EXTINF:-1 xui-id="9440" tvg-id="" tvg-name="Sony Max D2H" tvg-logo="" group-title="INDIA | Movies",Sony Max D2H
-http://lifetvbd.xyz:8080/play/nT1_iz54gOwtRq7B7Ad-5yS85TMs4E9WcJ6Yp292Pe4/ts
-#EXTINF:-1 xui-id="2800" tvg-id="" tvg-name="Sony Max HD" tvg-logo="http://lifetvbd.xyz:8080/images/89c359989145c2073ef0935eec24cb32.png" group-title="INDIA | Movies",Sony Max HD
-http://lifetvbd.xyz:8080/play/TYw4hOB2kC0qx-_F8XWmGSPzMiinUPa6F8KZeBNVxxY/ts
-#EXTINF:-1 xui-id="5629" tvg-id="" tvg-name="Sony Movies" tvg-logo="" group-title="English Movie",Sony Movies
-http://lifetvbd.xyz:8080/play/99q3CJnBRN9I05v9sK8i_jT2eUZiKA_RUWPhaUeJnHs/ts
-#EXTINF:-1 xui-id="474" tvg-id="" tvg-name="Sony Pal" tvg-logo="" group-title="INDIA | Entertainment",Sony Pal
-http://lifetvbd.xyz:8080/play/H0BM2LJen7wAo58yzqvcviSh3o6TCp3OEc-VoQuJhj8/ts
-#EXTINF:-1 xui-id="128" tvg-id="" tvg-name="Sony Pix HD" tvg-logo="http://lifetvbd.xyz:8080/images/2237db5515ed959929d7014e091dd109.png" group-title="English Movie",Sony Pix HD
-http://lifetvbd.xyz:8080/play/3B8Wq9w4DSy2yCC-ROxVBZlXWPClcJRZTVKWSDAz93Q/ts
-#EXTINF:-1 xui-id="65" tvg-id="" tvg-name="Star Gold 2" tvg-logo="http://lifetvbd.xyz:8080/images/e4bfb5ba388b68b63a82f7830466accd.png" group-title="INDIA | Movies",Star Gold 2
-http://lifetvbd.xyz:8080/play/DmV8TkApKDV00vNrd3VT9Q/ts
-#EXTINF:-1 xui-id="42" tvg-id="" tvg-name="Star Gold HD" tvg-logo="http://lifetvbd.xyz:8080/images/5d75dc990709d30de24eace6f1f21d93.png" group-title="INDIA | Movies",Star Gold HD
-http://lifetvbd.xyz:8080/play/hei_EXhNFO0roqb7O4FaPQ/ts
-#EXTINF:-1 xui-id="93" tvg-id="" tvg-name="Star Gold Thrills" tvg-logo="http://lifetvbd.xyz:8080/images/4523ede2f652c681463765a870aa1962.png" group-title="INDIA | Movies",Star Gold Thrills
-http://lifetvbd.xyz:8080/play/2ORkV8JVlv0cKpcRAPXfoA/ts
-#EXTINF:-1 xui-id="236" tvg-id="" tvg-name="Star Movies HD" tvg-logo="http://lifetvbd.xyz:8080/images/bacdd59198c92cf05aaee0aaf6abfbb9.png" group-title="English Movie",Star Movies HD
-http://lifetvbd.xyz:8080/play/lN3Gt8ysiX9rDxdO0ngGM1fCoO0jG01-Z_b6k8O_zkc/ts
-#EXTINF:-1 xui-id="123" tvg-id="" tvg-name="Star Plus HD" tvg-logo="http://lifetvbd.xyz:8080/images/9f2356ec28a04358d6e1c56fd0cf2d12.png" group-title="INDIA | Entertainment",Star Plus HD
-http://lifetvbd.xyz:8080/play/MYZhN_5HuPMjJ4QVxy2aJQbUsEMVam3KZXWGaTJi0eo/ts
-#EXTINF:-1 xui-id="2838" tvg-id="" tvg-name="Star Plus HD Backup" tvg-logo="http://lifetvbd.xyz:8080/images/9f2356ec28a04358d6e1c56fd0cf2d12.png" group-title="INDIA | Entertainment",Star Plus HD Backup
-http://lifetvbd.xyz:8080/play/t01u_7SG3Wh0qj2UbE4-D93Ul5C0I3DqyglvKykHb28/ts
-#EXTINF:-1 xui-id="2" tvg-id="" tvg-name="Zee Action HD" tvg-logo="http://lifetvbd.xyz:8080/images/0455a50f7c3e8c24914521bbaae2fc8f.png" group-title="INDIA | Movies",Zee Action HD
-http://lifetvbd.xyz:8080/play/zLVJFWGkFB-ACXArUeeZLQ/ts
-#EXTINF:-1 xui-id="17" tvg-id="" tvg-name="Zee Anmol" tvg-logo="" group-title="INDIA | Entertainment",Zee Anmol
-http://lifetvbd.xyz:8080/play/LlQnZoNbSwX_3XQhJaY-4Q/ts
-#EXTINF:-1 xui-id="15" tvg-id="" tvg-name="Zee Anmol Cinema" tvg-logo="" group-title="INDIA | Movies",Zee Anmol Cinema
-http://lifetvbd.xyz:8080/play/owmLLfcvZSwIv3sRU6aLrw/ts
-#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Zee Cinema HD" tvg-logo="http://lifetvbd.xyz:8080/images/10e34d06ef17a3303f492d71ae1f06c5.png" group-title="INDIA | Movies",Zee Cinema HD
-http://lifetvbd.xyz:8080/play/3rKS9J2MYQuwrM4HldyGlg/ts
-#EXTINF:-1 xui-id="190" tvg-id="" tvg-name="Zee Classic" tvg-logo="http://lifetvbd.xyz:8080/images/31238401c43a6ce95f2324d441ab05a5.png" group-title="INDIA | Movies",Zee Classic
-http://lifetvbd.xyz:8080/play/Gd5XPAg2OM33ZU2tqYIEGONKf1VcAqm-_Tnn2IViS9E/ts
-#EXTINF:-1 xui-id="205" tvg-id="" tvg-name="Zee News" tvg-logo="" group-title="International News",Zee News
-http://lifetvbd.xyz:8080/play/WHVRaK9aLxaNOO5cdVeF656fsMYVxNig4Z4003hpegg/ts
-#EXTINF:-1 xui-id="996" tvg-id="" tvg-name="Zee Tv HD India" tvg-logo="http://lifetvbd.xyz:8080/images/b16fee0a37ac4168eaa929427263fb17.png" group-title="INDIA | Entertainment",Zee Tv HD India
-http://lifetvbd.xyz:8080/play/Vgr8zZkdH-IE3UmnCJgTZ5YE1P1xAl2HA5gj7wcIky8/ts
-#EXTINF:-1 xui-id="6" tvg-id="" tvg-name="Zing" tvg-logo="" group-title="Music",Zing
-http://lifetvbd.xyz:8080/play/l1dQUgVKWqMb4dQkBXb-mQ/ts
-#EXTINF:-1 xui-id="285" tvg-id="" tvg-name="Dhamaal" tvg-logo="" group-title="Indian Regional",Dhamaal
-http://lifetvbd.xyz:8080/play/y73OVCc1EprQ6Kfp1wWZf3OJ3sQbprAclGJznAyFCYM/ts
-
 
 #EXTINF:-1 group-title="Jagobd",CGTN DOCUMENTARY
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8
@@ -20072,78 +19941,4 @@ https://da6c334e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/playlist.m3u8
 #EXTINF:-1 group-title="𝗜𝗻𝗱𝗶𝗮𝗻 𝗛𝗶𝗻𝗱𝗶" tvg-logo="https://i.postimg.cc/D0C1gF3t/20240825_075247.png",𝙕𝙚𝙚 𝙒𝙤𝙧𝙡𝙙
 https://da6c334e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9aZWVXb3JsZF9ITFM/playlist.m3u8
-
-
-#EXTINF:-1,Hi Dost!
-https://hdipl.live/oz/linear-live.php?id=11963&vtoken=&e=.m3u8
-#EXTINF:-1,Jbn music
-https://hdbox.chunklistv.com/live?stream=jbn39
-#EXTINF:-1,Alfat
-https://alfat7-q.com:5443/LiveApp/streams/434833549141598440488987.m3u8
-#EXTINF:-1,Mtv japan
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
-#EXTINF:-1,Lala tv
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
-#EXTINF:-1,Hilaal tv
-https://cdn5.iqsat.net/iq/aa89b15058a61b904359307cc0a5e80a.sdp/playlist.m3u8
-#EXTINF:-1,Penel Music
-https://s.emisoras.tv:8081/penielmusical/index.m3u8
-#EXTINF:-1,Altv
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1,312
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-
-
-#EXTINF:-1,9x jalwa
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
-#EXTINF:-1,9XM
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1,Masti India 
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/d9970bfb-9d9f-4cf6-a4e8-9b1eb579ce00/1.m3u8
-#EXTINF:-1,SANGEET BANGLA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8
-#EXTINF:-1,MTV Beats(BD)
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1,Love nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1,Music India
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
-#EXTINF:-1,Yrf Music
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/5e60e1a9-c796-4bf2-ab37-a1d9c98ca0b3/4.m3u8
-#EXTINF:-1,Zoom
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
-
-
-
-
-#EXTINF:-1,Óčko
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1,Óčko Expres
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1,Óčko STAR
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1,Жар Птица
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-#EXTINF:-1,М2
-https://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1,Матур ТВ HD
-https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1,Новое
-https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ts142" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-475-j5jx44s8-v1/imageContent-475-j5jx44s8-m1.png" group-title="Hindi;Entertainment",UTV Bindass
-https://tplay.dinesh29.com.np/live/tataplay-universal/utv-bindass/index.ts
-#EXTINF:-1,Kappa TV
-http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
-#EXTINF:-1 tvg-id="ts986" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70821-l3edt8uw-v1/imageContent-70821-l3edt8uw-m3.png" group-title="Hindi;Entertainment",Tata Play Zindagi
-https://tplay.dinesh29.com.np/live/tataplay-universal/tata-play-zindagi/index.ts
-#EXTINF:-1,Groovy
-http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1 tvg-id="ts1276" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/INVESTDISHD_Thumbnail-v1/INVESTDISHD_Thumbnail.png" group-title="Hindi;Entertainment",Investigation Discovery HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/investigation-discovery-hd/index.ts
-#EXTINF:-1,B4U Hitz
-http://iptvtree.net:8080/F19236/516c41c7/286926
-#EXTINF:-1 tvg-id="ts633" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49002-k5cch1cg-v2/imageContent-49002-k5cch1cg-m5.png" group-title="Hindi;Entertainment",Investigation Discovery
-https://tplay.dinesh29.com.np/live/tataplay-universal/investigation-discovery/index.ts
-#EXTINF:-1,Utsav Bharat
-http://iptvtree.net:8080/F19236/516c41c7/16614
 
