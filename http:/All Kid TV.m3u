@@ -1327,7 +1327,7 @@ http://xown.site/live/d4k4u/277410.m3u8
 http://xown.site/live/d4k4u/277411.m3u8
 http://xown.site/live/d4k4u/277412.m3u8
 http://xown.site/live/d4k4u/277413.m3u8
-http://xown.site/live/d4k4u/277416.m3u8
+http://xown.site/live/d4k4u/277414.m3u8
 http://xown.site/live/d4k4u/277415.m3u8
 http://xown.site/live/d4k4u/277416.m3u8
 http://xown.site/live/d4k4u/277417.m3u8
@@ -1350,6 +1350,239 @@ http://xown.site/live/d4k4u/277433.m3u8
 http://xown.site/live/d4k4u/277434.m3u8
 http://xown.site/live/d4k4u/277435.m3u8
 http://xown.site/live/d4k4u/277436.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1765950.png" group-title="AR| MBC/ROTANA",AR| MBC ANIME
+http://xown.site/stream.php?id=1765950
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1765949.png" group-title="AR| MBC/ROTANA",AR| MBC TOON
+http://xown.site/stream.php?id=1765949
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1543651.png" group-title="AR| MBC/ROTANA",AR| MBC TOONS 2 4K
+http://xown.site/stream.php?id=1543651
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1543650.png" group-title="AR| MBC/ROTANA",AR| MBC TOONS 1 4K
+http://xown.site/stream.php?id=1543650
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1021118.png" group-title="AR| MBC/ROTANA",AR| MBC+ TOON FHD
+http://xown.site/stream.php?id=1021118
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/7745.png" group-title="AR| MBC/ROTANA",AR| MBC 3
+http://xown.site/stream.php?id=7745
+#EXTINF:-1 tvg-logo="" group-title="AR| KIDS",##### KIDS TV #####
+http://xown.site/stream.php?id=587355
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587339.png" group-title="AR| KIDS",AR| ROTANA KIDS FHD
+http://xown.site/stream.php?id=587339
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587338.png" group-title="AR| KIDS",AR| MAJID KIDS FHD
+http://xown.site/stream.php?id=587338
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587337.png" group-title="AR| KIDS",AR| MAJID KIDS
+http://xown.site/stream.php?id=587337
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1387896.png" group-title="AR| KIDS",AR| ADNAN & LINA
+http://xown.site/stream.php?id=1387896
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/BILL-_-SEBASTIAN.png" group-title="AR| KIDS",AR| BILL & SEBASTIAN
+http://xown.site/stream.php?id=1387892
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/CARTOON-NETWORK.png" group-title="AR| KIDS",AR| CARTOON
+http://xown.site/stream.php?id=1387909
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/COCOMELON-AR.png" group-title="AR| KIDS",AR| COCOMELON AR
+http://xown.site/stream.php?id=1387899
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1387900.png" group-title="AR| KIDS",AR| COCOMELON EN
+http://xown.site/stream.php?id=1387900
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1387891.png" group-title="AR| KIDS",AR| MASHA & THE BEAR
+http://xown.site/stream.php?id=1387891
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1387901.png" group-title="AR| KIDS",AR| MR BEAN
+http://xown.site/stream.php?id=1387901
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/SHAUN-THE-SHEEP.png" group-title="AR| KIDS",AR| SHAUN THE SHEEP
+http://xown.site/stream.php?id=1387893
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1387895.png" group-title="AR| KIDS",AR| SPONGEBOB
+http://xown.site/stream.php?id=1387895
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1387894.png" group-title="AR| KIDS",AR| TELETUBBIES
+http://xown.site/stream.php?id=1387894
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1387897.png" group-title="AR| KIDS",AR| THA SMURFS
+http://xown.site/stream.php?id=1387897
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1387902.png" group-title="AR| KIDS",AR| THREE BEARS
+http://xown.site/stream.php?id=1387902
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1387898.png" group-title="AR| KIDS",AR| TOM &JERRY
+http://xown.site/stream.php?id=1387898
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/%d8%a8%d8%b7%d8%a7%d8%b1%d9%8a%d9%82-%d9%85%d8%af%d8%ba%d8%b4%d9%82%d8%b1.png" group-title="AR| KIDS",AR| بطاريق مدغشقر
+http://xown.site/stream.php?id=1387904
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/%d9%82%d8%b5%d8%b5-%d8%a7%d9%84%d8%a2%d8%b7%d9%81%d8%a7%d9%84.png" group-title="AR| KIDS",AR| قصص الآطفال
+http://xown.site/stream.php?id=1387908
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/%d9%82%d8%b5%d8%b5-%d8%a7%d9%84%d8%a2%d9%8a%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86.jpg" group-title="AR| KIDS",AR| قصص الآيات في القرآن
+http://xown.site/stream.php?id=1387907
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/%d9%82%d8%b5%d8%b5-%d8%a7%d9%84%d8%a3%d9%86%d8%a8%d9%8a%d8%a7%d8%a1.png" group-title="AR| KIDS",AR| قصص الأنبياء
+http://xown.site/stream.php?id=1387905
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/%d9%82%d8%b5%d8%b5-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86.jpg" group-title="AR| KIDS",AR| قصص الإنسان في القرآن
+http://xown.site/stream.php?id=1387906
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/%d9%84%d9%8a%d8%ab-%d8%b0%d8%a7-%d9%83%d9%8a%d9%86%d8%ac.png" group-title="AR| KIDS",AR| ليث ذا كينج
+http://xown.site/stream.php?id=1387903
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587334.png" group-title="AR| KIDS",AR| SPACE TOON 1 FHD
+http://xown.site/stream.php?id=587334
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587333.png" group-title="AR| KIDS",AR| CN ARABIC CARTOON ARABIC FHD
+http://xown.site/stream.php?id=587333
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587332.png" group-title="AR| KIDS",AR| TAHA
+http://xown.site/stream.php?id=587332
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587330.png" group-title="AR| KIDS",AR| TOYOR AL JANEH
+http://xown.site/stream.php?id=587330
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587327.png" group-title="AR| KIDS",AR| KOOGI TV
+http://xown.site/stream.php?id=587327
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587326.png" group-title="AR| KIDS",AR| SHEHAB TV FHD
+http://xown.site/stream.php?id=587326
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587325.png" group-title="AR| KIDS",AR| SH
+http://xown.site/stream.php?id=587325
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| KARAMEESH
+http://xown.site/stream.php?id=587323
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1043995.png" group-title="AR| KIDS",AR| MARAH TV HD
+http://xown.site/stream.php?id=1043995
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/netflix.png" group-title="AR| KIDS",AR| NETFLIX KIDS 1 FHD
+http://xown.site/stream.php?id=642107
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/591478.png" group-title="AR| KIDS",AR| DISNEY+ 1 HD
+http://xown.site/stream.php?id=591478
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/591477.png" group-title="AR| KIDS",AR| DISNEY+ 2 HD
+http://xown.site/stream.php?id=591477
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587354.png" group-title="AR| KIDS",AR| CHU CHU 1 HD
+http://xown.site/stream.php?id=587354
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR|
+http://xown.site/stream.php?id=587353
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/MASHA-MICHKA.png" group-title="AR| KIDS",AR| MASHA AND THE BEAR HD
+http://xown.site/stream.php?id=587352
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| SHAUN THE SHEEP HD
+http://xown.site/stream.php?id=587351
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587345.png" group-title="AR| KIDS",AR| SIRAG 1 FHD
+http://xown.site/stream.php?id=587345
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587344.png" group-title="AR| KIDS",AR| SIRAG 2 FHD
+http://xown.site/stream.php?id=587344
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| TOM AND JERRY
+http://xown.site/stream.php?id=587343
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| MR BEAN KIDS 1 FHD
+http://xown.site/stream.php?id=587342
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| KIDS ISLAMIC 1 HD
+http://xown.site/stream.php?id=587340
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| SASOKI KIDS 1 FHD
+http://xown.site/stream.php?id=587341
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587322.png" group-title="AR| KIDS",AR| DOROS 1
+http://xown.site/stream.php?id=587322
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587321.png" group-title="AR| KIDS",AR| DOROS 2
+http://xown.site/stream.php?id=587321
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587320.png" group-title="AR| KIDS",AR| DOROS 3
+http://xown.site/stream.php?id=587320
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587319.png" group-title="AR| KIDS",AR| DOROS 4
+http://xown.site/stream.php?id=587319
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587318.png" group-title="AR| KIDS",AR| DOROS 5
+http://xown.site/stream.php?id=587318
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587317.png" group-title="AR| KIDS",AR| DOROS 6
+http://xown.site/stream.php?id=587317
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587316.png" group-title="AR| KIDS",AR| DOROS 7
+http://xown.site/stream.php?id=587316
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587315.png" group-title="AR| KIDS",AR| DOROS 8
+http://xown.site/stream.php?id=587315
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| DOROS 9
+http://xown.site/stream.php?id=587314
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587313.png" group-title="AR| KIDS",AR| DOROS 10
+http://xown.site/stream.php?id=587313
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/587312.png" group-title="AR| KIDS",AR| DOROS 11
+http://xown.site/stream.php?id=587312
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| DOROS 12
+http://xown.site/stream.php?id=587311
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| AKWAM KIDS 1 HD
+http://xown.site/stream.php?id=587310
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| AKWAM KIDS 2 HD
+http://xown.site/stream.php?id=587309
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| AKWAM KIDS 3 HD
+http://xown.site/stream.php?id=587308
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| AKWAM KIDS 4 HD
+http://xown.site/stream.php?id=587307
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| AKWAM KIDS 5 HD
+http://xown.site/stream.php?id=587306
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| AKWAM KIDS 6 HD
+http://xown.site/stream.php?id=587305
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| AKWAM KIDS 7 HD
+http://xown.site/stream.php?id=587304
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| AKWAM KIDS 8 HD
+http://xown.site/stream.php?id=587303
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| AKWAM KIDS 9 HD
+http://xown.site/stream.php?id=587302
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| AKWAM KIDS 10 HD
+http://xown.site/stream.php?id=587301
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| AKWAM KIDS 11 HD
+http://xown.site/stream.php?id=587300
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| AKWAM KIDS 12 HD
+http://xown.site/stream.php?id=587299
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| AKWAM KIDS 13 HD
+http://xown.site/stream.php?id=587298
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| AKWAM KIDS 14 HD
+http://xown.site/stream.php?id=587297
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| AKWAM KIDS 15 HD
+http://xown.site/stream.php?id=587296
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KIDS-KIDS.png" group-title="AR| KIDS",AR| AKWAM KIDS 16 HD
+http://xown.site/stream.php?id=587295
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/%d9%82%d8%b5%d8%b5-%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a1-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86.png" group-title="AR| ISLAMIC",AR| قصص النساء في القرآن
+http://xown.site/stream.php?id=1434231
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/%d9%82%d8%b5%d8%b5-%d8%a7%d9%84%d8%b9%d8%ac%d8%a7%d8%a6%d8%a8-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86.jpg" group-title="AR| ISLAMIC",AR| قصص العجائب في القرآن
+http://xown.site/stream.php?id=1434230
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/%d9%82%d8%b5%d8%b5-%d8%a7%d9%84%d8%ad%d9%8a%d9%88%d8%a7%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86.jpg" group-title="AR| ISLAMIC",AR| قصص الحيوان في القرآن
+http://xown.site/stream.php?id=1434229
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/%d9%82%d8%b5%d8%b5-%d8%a7%d9%84%d8%a3%d9%8a%d8%a7%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86.png" group-title="AR| ISLAMIC",AR| قصص الآيات في القرآن
+http://xown.site/stream.php?id=1434228
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/695051.png" group-title="AR| AL-MAJD GROUP",AR| AL MAJD SPACE
+http://xown.site/stream.php?id=695051
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/695050.png" group-title="AR| AL-MAJD GROUP",AR| AL MAJD QURAN
+http://xown.site/stream.php?id=695050
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/695048.png" group-title="AR| AL-MAJD GROUP",AR| AL MAJD EDU
+http://xown.site/stream.php?id=695048
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/695047.png" group-title="AR| AL-MAJD GROUP",AR| AL MAJD DAL
+http://xown.site/stream.php?id=695047
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/695046.png" group-title="AR| AL-MAJD GROUP",AR| AL MAJD TABEEYA
+http://xown.site/stream.php?id=695046
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/695045.png" group-title="AR| AL-MAJD GROUP",AR| AL MAJD BASMA
+http://xown.site/stream.php?id=695045
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/695044.png" group-title="AR| AL-MAJD GROUP",AR| AL MAJD MASSA
+http://xown.site/stream.php?id=695044
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/695043.png" group-title="AR| AL-MAJD GROUP",AR| AL MAJD TAGHRED
+http://xown.site/stream.php?id=695043
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/695042.png" group-title="AR| AL-MAJD GROUP",AR| AL MAJD DOCUMENTARY
+http://xown.site/stream.php?id=695042
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/695041.png" group-title="AR| AL-MAJD GROUP",AR| AL MAJD RAWDA
+http://xown.site/stream.php?id=695041
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/695040.png" group-title="AR| AL-MAJD GROUP",AR| AL MAJD NEWS
+http://xown.site/stream.php?id=695040
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/695039.png" group-title="AR| AL-MAJD GROUP",AR| AL MAJD KIDS
+http://xown.site/stream.php?id=695039
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY-YAY.png" group-title="ASIA | INDIA",HINDI| SONY YAY
+http://xown.site/stream.php?id=156089
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156000.png" group-title="ASIA | INDIA",HINDI| DISNEY SD
+http://xown.site/stream.php?id=156000
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/disneych.png" group-title="ASIA | INDIA",HINDI| DISNEY CHANNEL
+http://xown.site/stream.php?id=1158195
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/811469.png" group-title="ASIA | INDIA",HINDI| DISNEY JUNIOR
+http://xown.site/stream.php?id=811469
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156128.png" group-title="ASIA | INDIA",HINDI| POGO KIDS
+http://xown.site/stream.php?id=156128
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/280906.png" group-title="ASIA | INDIA",HINDI| THEQ
+http://xown.site/stream.php?id=280906
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/280748.png" group-title="ASIA | INDIA",HINDI| CARTOON NETWORK FHD
+http://xown.site/stream.php?id=280748
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DISCOVERY-KIDS.png" group-title="ASIA | INDIA",HINDI| DISCOVERY KIDS HINDI
+http://xown.site/stream.php?id=1540017
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1540023.png" group-title="ASIA | INDIA",HINDI| NICK HINDI
+http://xown.site/stream.php?id=1540023
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1752845.png" group-title="ASIA | INDIA",HINDI| NICK JR
+http://xown.site/stream.php?id=1752845
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1540021.png" group-title="ASIA | INDIA",HINDI| NICK JR HINDI
+http://xown.site/stream.php?id=1540021
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1752846.png" group-title="ASIA | INDIA",HINDI| NICKELODEON
+http://xown.site/stream.php?id=1752846
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1752848.png" group-title="ASIA | INDIA",HINDI| NICKELODEON HD
+http://xown.site/stream.php?id=1752848
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/VT-SONIC-KIDS.png" group-title="ASIA | INDIA",HINDI| NICK SONIC HINDI
+http://xown.site/stream.php?id=1540020
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1540022.png" group-title="ASIA | INDIA",HINDI| NICK+ FHD
+http://xown.site/stream.php?id=1540022
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1540016.png" group-title="ASIA | INDIA",HINDI| PUNJAB TODAY
+http://xown.site/stream.php?id=1540016
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1540025.png" group-title="ASIA | INDIA",HINDI| TLC WORLD FHD
+http://xown.site/stream.php?id=1540025
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1540033.png" group-title="ASIA | INDIA",HINDI| TRAVEL XP HINDI FHD
+http://xown.site/stream.php?id=1540033
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1540024.png" group-title="ASIA | INDIA",HINDI| VT SONIC KIDS FHD
+http://xown.site/stream.php?id=1540024
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TATA-SKY.png" group-title="ASIA | BENGALI/BANGLA",BENGLAI| TATA SKY BANGLA HD
+http://xown.site/stream.php?id=155775
+
 
 http://xown.site/stream.php?id=683147
 http://xown.site/stream.php?id=1858978
