@@ -873,6 +873,178 @@ https://hls.navahang.live/hls/stream.m3u8
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Uncategorized",Zee One
+https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVPbmVfSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg" group-title="Uncategorized",Schl Dachstein
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2MDjU7x.png" group-title="Uncategorized",Kayhan TV
+https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rshG38zb/maahtv.png" group-title="Uncategorized",Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Uncategorized",Xtrema Cineaccion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HQxKLlK.png" group-title="Uncategorized",Xtrema Animal
+https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="Uncategorized",Xtrema Cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j91M4Yf.png" group-title="Uncategorized",Xtrema Cine Cladico
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FcaTUym.png" group-title="Uncategorized",Xtrema Cine Terror
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Uncategorized",Zee One
+https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pxFamLr.png" group-title="Uncategorized",Ado TV
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5xllfed.png" group-title="Uncategorized",Travel TV
+https://streamer103.neterra.tv/travel/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tPMNDtD.png" group-title="Uncategorized",Agro TV
+https://restr2.bgtv.bg/agro/hls/agro.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/512px-Wild_TV_logo_2020.png" group-title="Uncategorized",Wild TV
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOMEgMQ.png" group-title="Uncategorized",Nei MonggolTV Chailden
+https://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YQUK4wO.png" group-title="Uncategorized",UMC TV
+https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/euy5zp6.png" group-title="Uncategorized",Zoom TV 
+https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg" group-title="Uncategorized",Extrema Kids
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="Uncategorized",Chinola Tv
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3800-294x165-FFFFFF.jpg" group-title="Uncategorized",Turismo RDTV 
+https://streamunoapp.com:3086/live/telemileniolive.m3u8
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/tigueritos-tv.jpg" group-title="Uncategorized",Tigueritos TV 
+https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ig4gR93.png" group-title="Uncategorized",Teletur TV 
+https://cloudflare.streamgato.us:3227/live/teleturtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/a/pUlIJZX.png" group-title="Uncategorized",Ecovision TV 
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgKaoe4.png" group-title="Uncategorized",Caillou TV 
+https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/512px-Canal_J_2019_Logo.png" group-title="Uncategorized",Canal J
+https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Uncategorized",Gulli TV 
+https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k6spR1AVLZ0ISqrFP-Z9JeBMHPpAc9T-pmFlG6_lSkNw=s160-c-k-c0x00ffffff-no-rj" group-title="Uncategorized",Xiam TV 
+https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ai9gpjy.png" group-title="Uncategorized",Dhoomm Music
+https://cdn-1.pishow.tv/live/1456/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RF9L97qj/persiana-Travel.png" group-title="Uncategorized",Persiana Travel 
+https://ptravelhls.persiana.live/hls/stream.m3u8
+Nick Jr
+http://103.140.254.2:3500/live/544.m3u8
+Nick HD
+http://103.140.254.2:3500/live/1226.m3u8
+
+Cartoon Network
+http://103.140.254.2:3500/live/1079.m3u8
+
+Nick
+http://103.140.254.2:3500/live/545.m3u8
+D kids
+http://103.140.254.2:3500/live/550.m3u8
+turbo
+http://103.140.254.2:3500/live/541.m3u8
+
+Cartoon Network
+http://103.140.254.2:3500/live/816.m3u8
+Cartoon Network
+http://103.140.254.2:3500/live/815.m3u8
+D kids
+http://103.140.254.2:3500/live/554.m3u8
+Nick 
+http://103.140.254.2:3500/live/545.m3u8
+
+Nick Jr hindi
+http://103.140.254.2:3500/live/548.m3u8
+Pogo
+http://103.140.254.2:3500/live/559.m3u8
+
+Colors HD
+http://103.140.254.2:3500/live/144.m3u8
+
+Ten 1 HD 
+http://103.140.254.2:3500/live/162.m3u8
+DD sports
+http://103.140.254.2:3500/live/204.m3u8
+Ten 1
+http://103.140.254.2:3500/live/514.m3u8
+Ten 2 
+http://103.140.254.2:3500/live/523.m3u8
+
+Ten 3
+http://103.140.254.2:3500/live/524.m3u8
+
+Ten 5
+http://103.140.254.2:3500/live/525.m3u8
+
+Euro sports
+http://103.140.254.2:3500/live/875.m3u8
+
+Jio sports
+http://103.140.254.2:3500/live/889.m3u8
+
+Star sports hindi 2 hd
+http://103.140.254.2:3500/live/1984.m3u8
+
+Star sports hindi 2
+http://103.140.254.2:3500/live/1985.m3u8
+
+star Sports khel
+http://103.140.254.2:3500/live/1998.m3u8
+Pickleball now
+http://103.140.254.2:3500/live/3243.m3u8
+
+Sony liv 1
+http://103.140.254.2:3500/live/3372.m3u8
+
+Sony liv 2
+http://103.140.254.2:3500/live/3373.m3u8
+
+Sony liv 3
+http://103.140.254.2:3500/live/3374.m3u8
+
+Sony liv 4
+http://103.140.254.2:3500/live/3397.m3u8
+
+Sony liv 4
+http://103.140.254.2:3500/live/3399.m3u8
+
+zee cinema
+http://103.140.254.2:3500/live/165.m3u8
+Sony max HD 
+http://103.140.254.2:3500/live/476.m3u8
+
+Sony max
+http://103.140.254.2:3500/live/289.m3u8
+
+Colors cineplex
+http://103.140.254.2:3500/live/482.m3u8
+
+Sony max 2
+http://103.140.254.2:3500/live/483.m3u8
+
+B4u movie
+http://103.140.254.2:3500/live/182.m3u8
+
+Colors cineplex super hit
+http://103.140.254.2:3500/live/1450.m3u8
+
+Colors cineplex 
+http://103.140.254.2:3500/live/1477.m3u8
+
+Colors cineplex Bollywood
+http://103.140.254.2:3500/live/1763.m3u8
+
+
+Cricket
+http://103.140.254.2:3500/live/551.m3u8
+
+
+
+
+
+
 #EXTINF:-1,HINDI ▎ZEE ACTION ◉ rec
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/109165
 #EXTINF:-1,HINDI ▎ZEE TV HD ◉ rec
@@ -1322,6 +1494,144 @@ https://padmaonline.duckdns.org:8088/sdcv/index.m3u8
 #EXTINF:-1,Sun bangla
 http://103.182.170.32:8888/play/a01v
 
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i0.wp.com/tds-images.thedailystar.net/sites/default/files/styles/very_big_201/public/images/2022/10/05/duronto_1.jpg?w=640&ssl=1",Durantoo Tv
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/433.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: KHUSHBOO TV BANGLA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d60bd7b.png" group-title="BENGALI" ,BD: KHUSHBOO TV BANGLA
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/3808.ts
+#EXTINF:-1 tvg-id="ts905" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62236-kny7yzaw-v1/imageContent-62236-kny7yzaw-m1.png" group-title="Hindi;Kids",ETV Bal Bharat
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/355286.ts
+#EXTINF:-1 group-title="Arab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/DIHDlogo.png",Disney International HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/20925.ts
+#EXTINF:-1 tvg-id="ts114" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" group-title="Hindi;Animation;Kids;Cartoons",Disney 
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/19741.ts
+#EXTINF:-1 tvg-id=""tvg-group="Cartoon"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9F3Qdt_xLS63UROdf4leWQhrknaJ92URx0Q&s",Nick Bangla
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/205.ts
+#EXTINF:-1 tvg-id=1226 tvg-name="Nick HD+" tvg-logo="http://14.102.123.50:5001/jtvimage/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick HD+
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/7438.ts
+#EXTINF:-1 tvg-id="ts239" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png" group-title="Telugu;Hindi;Tamil;Animation;Kids;Cartoons",Pogo
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/7220.ts
+#EXTINF:-1 tvg-id="ts119" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png" group-title="Telugu;Malayalam;Kannada;Hindi;Tamil;Animation;Kids;Cartoons",Discovery Kids
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/208.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="KIDS" group-title="",Cartoon Network HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/8.m3u8
+#EXTINF:-1 tvg-id="ts587" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" group-title="English;Telugu;Hindi;Tamil;Animation;Kids;Cartoons",Super Hungama
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/66162.ts
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg8HES2tUB4reIXMjiMJk-z9EBknI5aazdcw&s",Hungama tv
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/18456.ts
+#EXTINF:-1 tvg-id=""tvg-group="Cartoon"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmtDovzBn80q0LPKyV_vo9ISpHa5uNBDBmzA&s",Sonic Bangla
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/207.ts
+#EXTINF:-1 tvg-id="ts965" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67799-kx7m7rhc-v1/imageContent-67799-kx7m7rhc-m2.png" group-title="Hindi;Entertainment",Manoranjan Grand
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/2433.ts
+#EXTINF: -1 tvg-name="Kids Zon" group-title="Indian Regional", Kids Zon
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/4084.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm7ZxGBaQF0GiQwTSGqaax2Q5v2MWnfLuyKeMLMR0hYpTiQL7F_YWN8xA&s=10",Sinchen
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147724.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxTzYJerGSc9D06JEt-xGbB8-f5Kwp1ITCq3il0JQjPRf3leqJ6rsEezsy&s=10",Perman
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147736.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd9MjRlL2jrjnhfHApO0ixbL1omr7QOLcC9Zjpcengqx-Ht_ExVrVqY_S-&s=10",Doraemon
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147746.ts
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/FzHFbZ92/images-6-1.jpg",kung fu panda
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147738.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKVRx2KOXImi3auWLotXKDNfTHmI74xSEnErICy1DisSyYqTsfFQXgviBh&s=10",Mr Been
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147777.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT86cdj_zcE45Wa8B8JcHma6T7IPCC1dQE0ew&s",BEN 10 ULTIMATE ALIEN
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147743.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzdnsGbhgegFUg44_b1dXR86k0_hU68okWXg&s",BEN 10 OMNIVERSE
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147749.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5e7eMs9ij-8hE3pUJii8iVQFoRO6XdkjZxA&s",BEN TEN CLASSIC
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147750.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLYdkmKmndjX8M3Iz-spuapBA2aifgu_6cQBSBtNrKvewbr7encDJVMQn3&s=10",BEN 10 ALIEN FORCE HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147751.ts
+#EXTINF:-1,Kids:  Cartoon Network Arabia HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319402.ts
+#EXTINF:-1,Kids: Toyor Aljana
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319403.ts
+#EXTINF:-1,Kids:  SpaceToon TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319404.ts
+#EXTINF:-1,Kids: Rotana Kids HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319405.ts
+#EXTINF:-1,Kids:  Karamesh
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319406.ts
+#EXTINF:-1,Kids:  OSN Kids Zone HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319407.ts
+#EXTINF:-1,Kids | Ar: NickToons HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319408.ts
+#EXTINF:-1,Kids: OSN Nickelodeon HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319409.ts
+#EXTINF:-1,Kids: Baby TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319410.ts
+#EXTINF:-1,Kids:  HodHod  TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319411.ts
+#EXTINF:-1,Kids:  Taha TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319412.ts
+#EXTINF:-1,Kids: Majid Kids TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319413.ts
+#EXTINF:-1,Kids | Ar: Shehab TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319414.ts
+#EXTINF:-1,Kids:  Atfal & Mawaheb
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319415.ts
+#EXTINF:-1,Kids | En: NickToons HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319416.ts
+
+
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147720.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147721.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147722.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147723.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147725.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147726.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147727.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147728.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147729.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147730.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147731.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147732.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147733.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147734.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147735.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147737.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147739.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147740.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147741.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147742.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147744.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147745.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147747.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147748.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147752.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147753.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147774.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147755.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147756.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147757.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147758.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147759.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147760.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147761.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147762.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147763.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147764.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147765.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147766.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147767.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147768.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147769.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147770.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147771.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147772.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147773.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147774.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147775.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147776.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147778.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147779.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147780.ts
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147781.ts
+
+
+
+
 https://cdn-4.pishow.tv/live/1029/master.m3u8
 
 https://cdn-2.pishow.tv/live/1494/master.m3u8
@@ -1339,7 +1649,8 @@ https://cdn-4.pishow.tv/live/1039/master.m3u8
 https://cdn-6.pishow.tv/live/10009/master.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://familytvbd.com/wp-content/uploads/2023/10/Logo.png",Family Tv
-https://aps33.playlist.ttvnw.net/v1/playlist/CqEGWTlBbQve8WBubLWfnZQRjR7cOHKp2jnU3f4NBP-nWoVGgmQtEC111htP0B-Ci_hNM0YwzRtu4jpN_zZa4yle4Gn5FkaHhLprvGJWoMMDV6YeKiT-2wm5rcdRXhkEkDx0N3MXnneH0_LcNyqhXhtMnXaEEWCBzUSAg3WBVznlFeyUvtlJhvnlI4htBUpHt3UMUWEuieLcVOm4cNPleUWbLYiJIzWcrY2H2NQtBi2CP0SwrnbtQ5xdHLK3VEWmWvT-YeBdH7P3apMahWqLgkNm0PZmTzpgkSRl4vtifw74KKcFLRb_aQ9M8liIiRZOp_B0yNyH9mVtIwaKWoVwcSlhxfX1I8uEn1RxhN2NllWpsOdoED9GlGe9qFIKHOLrBq22uF3A3GMH9Eqn6y--zAimWYsWoTFsSRQhn9EH6WiAZCrJ4Of-DooLJs6f1B41W-yQ3AdPxsTYRCCxYuJtFE4O9weOBT0cQWWGAn2NSd68H3JqNiI_jl9JC1dS2W8Gwyqr8sT3lRtMpN-MYydeq40YcKh3G6VOS4nDuxUPnDluoSNHRdtPvMv7OPh5h1wpiu1U4-AWdqC6NLMh-oYZ37yw9sx_h6FN38O2AIa2tzOu6ckfkcpyOXGbE0kbTooR5T9yfNaPbLrqpiOISirQ6hRJLImmVAjgjJv5ovmgSGMl8IGf1yu5HjqBxEwOKd26glz18GCqGtrvKb0ho7YnkydVhjvoMfYyAh2usqoYwBjGWlpwICoxpcCshhDcLOCDu4XHKpvns5MRdFWZXDSMNb4zK7OWLpCHhjCmAhBJpIN3lpQmcphNmWZ_zrXTMgSya59CDgiPZWt4JloTbu1RLzpaPRwQ9H9V11sIrT0BfRMWleNa6h4Hfqpt55zI2bNN9Ht8cZAtbz6_cqAXBUUkujH3_XfzH9C5EhsDsGRl2PjV42qzerHgMtexWmD_ANXyi8rsPX3HWSWKEH-9IKNvUg1OV0fXW3073dJvbJ7m5zYkJtYVxS6oqLIMtMJ0xZ3PwNpzDtJX7gKlemz6KCbTJeW0O8EvBuW4DCV5vaB1-T5D8c6WGgzNJsmOZ0ImJzolyHsgASoJdXMtd2VzdC0yMPwN.m3u8
+https://aps32.playlist.ttvnw.net/v1/playlist/CqQG-_eMMZlrVK6vc7Lyap28CuQSzxBH17b7Rt1DdPAGQ5xGfD2uDB3U4zVzf00L0YshxeVJRGBIYLPYv8In_zFk8u9ZDra8D8n1bsSG-Pkj6GwD33q8GI3-ShW4WX5CllZblfIHutUxdYR8xakMxtewH8qaCAC0-_cNFYGMxe7juOsIWJTUBv-nXqi-q822B5S-K3JagTnYSQfVz-BN-rpUHcIg0iBq5br-fRyfq01oLwA6OCpNw_X1-lbCZDnEpFNv5TXl4NTtWYp2egb19ySK0rDp5XFdtU9g1lr3PU4teIRzqwXo6ZQ1nFo75wjvQKEZ6PK85Z9GR-r4oopB6R0e_NUVDRLB7TnPtaLZlrUa-FLl8r4Lcd-OM1ncLMekU0GFXGpdoN4Ab256FsLTmU_81I0yjEo-nyggnlQK4oxWE0N8ZiXYBM0a3LSNeXe3aOR_yQeHninxxwfj12BT5V39eFwA_z20fdUz46LXa23JZ5mdLqRQ1td8R33bOKvnMVZdG975IRMUot1WqvNbrJZVb-ynpFimc_wge0kXREWDA9cIbh9zh2Uj3qdLCBiLQQgX9efmXqO-GSQasmCYbC8GZ1TPk1Kokj4LDCsK3Awxf3Mfaf84n9bLvXNaQ-QszMpCRBVx5xlwTyRwhRlhEEV4m4Y-CWawh4bWzbanSbkDFcl1qGsHjut2_sp83jMZR00CjR6WvwUm5kzmXmDVqsWeEgVTCyBTRHjpLc1u1y-RckvC8883wWsL4o65EFcqju0_xcKXuy2jEo3Ml8hETdBXCL6Yt25fLwiORushorj1Abn-6XSQwvPmywW29cl2gxi5LO9aFF_pQHMDFG_7Vcbgd_rCEwinVceAW1uwh8AuQ6U_KYXOCeAFOLU1AeIYmNjLVDL17b9mCmcykAxQ5MpiwsFkI23KLEq5KOF-O7_MWST0mPGRq18v-EA93jvCZd8dcJJQkkA6nqdeaz5putcGJ2ys8LzOasvYO3IejFasU7dFzj05Gz3Wspn55ax1T2WUrre0lJTtcl3MAZ2J56Gxt6h3uWcrwqPGX3FkyFJeKShWTY_EGgwXHdnBtx9f9vnP61YgASoJdXMtd2VzdC0yMIEO.m3u8
+
 
 https://streams.uzunmuhalefet.com/stream/f18c5afc-97bb-4790-b124-dd17c70b6217.m3u8
 
