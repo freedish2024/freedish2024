@@ -931,119 +931,403 @@ https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
 https://cdn-1.pishow.tv/live/1456/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RF9L97qj/persiana-Travel.png" group-title="Uncategorized",Persiana Travel 
 https://ptravelhls.persiana.live/hls/stream.m3u8
-Nick Jr
-http://103.140.254.2:3500/live/544.m3u8
-Nick HD
-http://103.140.254.2:3500/live/1226.m3u8
-
-Cartoon Network
-http://103.140.254.2:3500/live/1079.m3u8
-
-Nick
-http://103.140.254.2:3500/live/545.m3u8
-D kids
-http://103.140.254.2:3500/live/550.m3u8
-turbo
-http://103.140.254.2:3500/live/541.m3u8
-
-Cartoon Network
-http://103.140.254.2:3500/live/816.m3u8
-Cartoon Network
-http://103.140.254.2:3500/live/815.m3u8
-D kids
-http://103.140.254.2:3500/live/554.m3u8
-Nick 
-http://103.140.254.2:3500/live/545.m3u8
-
-Nick Jr hindi
-http://103.140.254.2:3500/live/548.m3u8
-Pogo
-http://103.140.254.2:3500/live/559.m3u8
-
-Colors HD
-http://103.140.254.2:3500/live/144.m3u8
-
-Ten 1 HD 
-http://103.140.254.2:3500/live/162.m3u8
-DD sports
-http://103.140.254.2:3500/live/204.m3u8
-Ten 1
-http://103.140.254.2:3500/live/514.m3u8
-Ten 2 
-http://103.140.254.2:3500/live/523.m3u8
-
-Ten 3
-http://103.140.254.2:3500/live/524.m3u8
-
-Ten 5
-http://103.140.254.2:3500/live/525.m3u8
-
-Euro sports
-http://103.140.254.2:3500/live/875.m3u8
-
-Jio sports
-http://103.140.254.2:3500/live/889.m3u8
-
-Star sports hindi 2 hd
-http://103.140.254.2:3500/live/1984.m3u8
-
-Star sports hindi 2
-http://103.140.254.2:3500/live/1985.m3u8
-
-star Sports khel
-http://103.140.254.2:3500/live/1998.m3u8
-Pickleball now
-http://103.140.254.2:3500/live/3243.m3u8
-
-Sony liv 1
-http://103.140.254.2:3500/live/3372.m3u8
-
-Sony liv 2
-http://103.140.254.2:3500/live/3373.m3u8
-
-Sony liv 3
-http://103.140.254.2:3500/live/3374.m3u8
-
-Sony liv 4
-http://103.140.254.2:3500/live/3397.m3u8
-
-Sony liv 4
-http://103.140.254.2:3500/live/3399.m3u8
-
-zee cinema
-http://103.140.254.2:3500/live/165.m3u8
-Sony max HD 
-http://103.140.254.2:3500/live/476.m3u8
-
-Sony max
-http://103.140.254.2:3500/live/289.m3u8
-
-Colors cineplex
-http://103.140.254.2:3500/live/482.m3u8
-
-Sony max 2
-http://103.140.254.2:3500/live/483.m3u8
-
-B4u movie
-http://103.140.254.2:3500/live/182.m3u8
-
-Colors cineplex super hit
-http://103.140.254.2:3500/live/1450.m3u8
-
-Colors cineplex 
-http://103.140.254.2:3500/live/1477.m3u8
-
-Colors cineplex Bollywood
-http://103.140.254.2:3500/live/1763.m3u8
 
 
-Cricket
-http://103.140.254.2:3500/live/551.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/VSq7b5E.jpg",Disney Channel Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png",Disney Channel PL (1080p)
+http://185.236.229.62:9981/play/a07d
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png",Disney Junior (576p)
+http://185.236.229.62:9981/play/a06n
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png",Disney Junior Japan (400p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png",Disney XD (576p)
+http://178.219.128.68:64888/DISNXD
+
+#EXTINF:-1,&flix HD - Rs 19.00
+http://66.102.120.18:8000/play/a022/index.m3u8
+#EXTINF:-1,&pictures HD - Rs 19.00
+http://66.102.120.18:8000/play/a01t/index.m3u8
+#EXTINF:-1,&tv HD - Rs 19.00
+http://66.102.120.18:8000/play/a01u/index.m3u8
+#EXTINF:-1,24 News HD
+http://66.102.120.18:8000/play/a04v/index.m3u8
+#EXTINF:-1,24B HD
+http://66.102.120.18:8000/play/a044/index.m3u8
+#EXTINF:-1,365 NEWS
+http://66.102.120.18:8000/play/a039/index.m3u8
+#EXTINF:-1,8XM HD
+http://66.102.120.18:8000/play/a050/index.m3u8
+#EXTINF:-1,92 Entertainment
+http://66.102.120.18:8000/play/a06m/index.m3u8
+#EXTINF:-1,92 News HD
+http://66.102.120.18:8000/play/a04y/index.m3u8
+#EXTINF:-1,A SportsHD
+http://66.102.120.18:8000/play/a032/index.m3u8
+#EXTINF:-1,A1 TV
+http://66.102.120.18:8000/play/a04q/index.m3u8
+#EXTINF:-1,AAJ ENTERTANMENT
+http://66.102.120.18:8000/play/a05b/index.m3u8
+#EXTINF:-1,AAJ NEWS
+http://66.102.120.18:8000/play/a05a/index.m3u8
+#EXTINF:-1,AAN TV - HD
+http://66.102.120.18:8000/play/a05j/index.m3u8
+#EXTINF:-1,ABBTAKK HD
+http://66.102.120.18:8000/play/a051/index.m3u8
+#EXTINF:-1,AIK NEWS
+http://66.102.120.18:8000/play/a03d/index.m3u8
+#EXTINF:-1,APNA CHANNEL HD
+http://66.102.120.18:8000/play/a04z/index.m3u8
+#EXTINF:-1,APlus Pakistan
+http://66.102.120.18:8000/play/a03c/index.m3u8
+#EXTINF:-1,ARYDigitalAsia HD
+http://66.102.120.18:8000/play/a030/index.m3u8
+#EXTINF:-1,ARYMusik
+http://66.102.120.18:8000/play/a036/index.m3u8
+#EXTINF:-1,ARYNewsAsia
+http://66.102.120.18:8000/play/a02z/index.m3u8
+#EXTINF:-1,ARYQTV
+http://66.102.120.18:8000/play/a033/index.m3u8
+#EXTINF:-1,ARYZindagi
+http://66.102.120.18:8000/play/a031/index.m3u8
+#EXTINF:-1,ATV ENT HD
+http://66.102.120.18:8000/play/a03t/index.m3u8
+#EXTINF:-1,AUR_Life HD
+http://66.102.120.18:8000/play/a05k/index.m3u8
+#EXTINF:-1,AXN 
+http://66.102.120.18:8000/play/a06i/index.m3u8
+#EXTINF:-1,Al Jazeera English HD
+http://66.102.120.18:8000/play/a03j/index.m3u8
+#EXTINF:-1,Animal Planet - Rs 2.00
+http://66.102.120.18:8000/play/a010/index.m3u8
+#EXTINF:-1,B4U Movies - Free
+http://66.102.120.18:8000/play/a01w/index.m3u8
+#EXTINF:-1,BBC CEBEEBIES HD
+http://66.102.120.18:8000/play/a06g/index.m3u8
+#EXTINF:-1,BBC LIFESTYLE HD
+http://66.102.120.18:8000/play/a06h/index.m3u8
+#EXTINF:-1,BBC News 
+http://66.102.120.18:8000/play/a074/index.m3u8
+#EXTINF:-1,BOL News Urdu
+http://66.102.120.18:8000/play/a038/index.m3u8
+#EXTINF:-1,CITY-21
+http://66.102.120.18:8000/play/a05z/index.m3u8
+#EXTINF:-1,CITY-42 HD
+http://66.102.120.18:8000/play/a05x/index.m3u8
+#EXTINF:-1,CNN International
+http://66.102.120.18:8000/play/a03h/index.m3u8
+#EXTINF:-1,COLORS CINIPLEX HD
+http://66.102.120.18:8000/play/a06z/index.m3u8
+#EXTINF:-1,Capital TV
+http://66.102.120.18:8000/play/a02y/index.m3u8
+#EXTINF:-1,Cartoon Network - Rs 4.75
+http://66.102.120.18:8000/play/a00t/index.m3u8
+#EXTINF:-1,Cartoon Network HD+ 
+http://66.102.120.18:8000/play/a07d/index.m3u8
+#EXTINF:-1,Colors Cineplex Bollywood - Rs 0.10
+http://66.102.120.18:8000/play/a01a/index.m3u8
+#EXTINF:-1,Colors HD - Rs 19.00
+http://66.102.120.18:8000/play/a00a/index.m3u8
+#EXTINF:-1,DW English HD
+http://66.102.120.18:8000/play/a03i/index.m3u8
+#EXTINF:-1,Discover Pakistan
+http://66.102.120.18:8000/play/a06r/index.m3u8
+#EXTINF:-1,Discover Pakistan
+http://66.102.120.18:8000/play/a03v/index.m3u8
+#EXTINF:-1,Discovery HD - Rs 8.00
+http://66.102.120.18:8000/play/a01k/index.m3u8
+#EXTINF:-1,Discovery Kids - Rs 3.50
+http://66.102.120.18:8000/play/a00k/index.m3u8
+#EXTINF:-1,Discovery Science - Rs 1.00
+http://66.102.120.18:8000/play/a01l/index.m3u8
+#EXTINF:-1,Discovery Turbo - Rs 1.00
+http://66.102.120.18:8000/play/a016/index.m3u8
+#EXTINF:-1,Disney International HD
+http://66.102.120.18:8000/play/a078/index.m3u8
+#EXTINF:-1,Disney Junior - Rs 4.00
+http://66.102.120.18:8000/play/a004/index.m3u8
+#EXTINF:-1,Disny 
+http://66.102.120.18:8000/play/a070/index.m3u8
+#EXTINF:-1,Dunya News HD
+http://66.102.120.18:8000/play/a04u/index.m3u8
+#EXTINF:-1,EXP ENTERTAINMENT
+http://66.102.120.18:8000/play/a054/index.m3u8
+#EXTINF:-1,EXPRESS NEWS
+http://66.102.120.18:8000/play/a053/index.m3u8
+#EXTINF:-1,Eurosport HD - Rs 6.00
+http://66.102.120.18:8000/play/a01g/index.m3u8
+#EXTINF:-1,FAST SPORTS HD
+http://66.102.120.18:8000/play/a05f/index.m3u8
+#EXTINF:-1,FILMAX
+http://66.102.120.18:8000/play/a04c/index.m3u8
+#EXTINF:-1,FILMAZIA
+http://66.102.120.18:8000/play/a04d/index.m3u8
+#EXTINF:-1,FILMAZIA PUNJABI
+http://66.102.120.18:8000/play/a04n/index.m3u8
+#EXTINF:-1,FIX&FOXI
+http://66.102.120.18:8000/play/a04b/index.m3u8
+#EXTINF:-1,FN MOVIES HD
+http://66.102.120.18:8000/play/a06e/index.m3u8
+#EXTINF:-1,GEM COMEDY
+http://66.102.120.18:8000/play/a049/index.m3u8
+#EXTINF:-1,GEM TV HD
+http://66.102.120.18:8000/play/a045/index.m3u8
+#EXTINF:-1,GEO HD
+http://66.102.120.18:8000/play/a062/index.m3u8
+#EXTINF:-1,GEO KAHANI HD
+http://66.102.120.18:8000/play/a064/index.m3u8
+#EXTINF:-1,GEO NEWS
+http://66.102.120.18:8000/play/a05w/index.m3u8
+#EXTINF:-1,GEO SUPER HD
+http://66.102.120.18:8000/play/a063/index.m3u8
+#EXTINF:-1,GNNHD
+http://66.102.120.18:8000/play/a06p/index.m3u8
+#EXTINF:-1,GTV NEWS HD
+http://66.102.120.18:8000/play/a05m/index.m3u8
+#EXTINF:-1,GTV NEWS HD
+http://66.102.120.18:8000/play/a05l/index.m3u8
+#EXTINF:-1,Geo Tez
+http://66.102.120.18:8000/play/a05o/index.m3u8
+#EXTINF:-1,HUM HD
+http://66.102.120.18:8000/play/a06c/index.m3u8
+#EXTINF:-1,HUM NEWS HD
+http://66.102.120.18:8000/play/a05e/index.m3u8
+#EXTINF:-1,HUM SITARAY
+http://66.102.120.18:8000/play/a05i/index.m3u8
+#EXTINF:-1,Hidayat TV
+http://66.102.120.18:8000/play/a04p/index.m3u8
+#EXTINF:-1,History TV18 HD - Rs 7.00 
+http://66.102.120.18:8000/play/a01q/index.m3u8
+#EXTINF:-1,Hoora TV
+http://66.102.120.18:8000/play/a040/index.m3u8
+#EXTINF:-1,INPLUS Pakistan
+http://66.102.120.18:8000/play/a02x/index.m3u8
+#EXTINF:-1,Investigation Discovery - Rs 1.00
+http://66.102.120.18:8000/play/a01h/index.m3u8
+#EXTINF:-1,Isaac TV
+http://66.102.120.18:8000/play/a04j/index.m3u8
+#EXTINF:-1,JALWA HD
+http://66.102.120.18:8000/play/a052/index.m3u8
+#EXTINF:-1,KSA SPORT1 HD
+http://66.102.120.18:8000/play/a03o/index.m3u8
+#EXTINF:-1,KSA SPORT2 HD
+http://66.102.120.18:8000/play/a03p/index.m3u8
+#EXTINF:-1,Khyber News HD
+http://66.102.120.18:8000/play/a058/index.m3u8
+#EXTINF:-1,Kidzone Pakistan
+http://66.102.120.18:8000/play/a02l/index.m3u8
+#EXTINF:-1,LTN FAMILY
+http://66.102.120.18:8000/play/a04a/index.m3u8
+#EXTINF:-1,Lahore News HD
+http://66.102.120.18:8000/play/a04x/index.m3u8
+#EXTINF:-1,Lahore Rang HD
+http://66.102.120.18:8000/play/a05h/index.m3u8
+#EXTINF:-1,LotusTV
+http://66.102.120.18:8000/play/a03b/index.m3u8
+#EXTINF:-1,MASALA TV
+http://66.102.120.18:8000/play/a059/index.m3u8
+#EXTINF:-1,MIFA + HD
+http://66.102.120.18:8000/play/a048/index.m3u8
+#EXTINF:-1,MIFA + HD
+http://66.102.120.18:8000/play/a047/index.m3u8
+#EXTINF:-1,MIFA MUSIC HD
+http://66.102.120.18:8000/play/a046/index.m3u8
+#EXTINF:-1,MINIMAX 2
+http://66.102.120.18:8000/play/a04o/index.m3u8
+#EXTINF:-1,MTCL 1HD
+http://66.102.120.18:8000/play/a07m/index.m3u8
+#EXTINF:-1,MTCL 2HD
+http://66.102.120.18:8000/play/a07j/index.m3u8
+#EXTINF:-1,MTCL 3HD
+http://66.102.120.18:8000/play/a07k/index.m3u8
+#EXTINF:-1,MTCL 4HD
+http://66.102.120.18:8000/play/a07l/index.m3u8
+#EXTINF:-1,MTCL 5HD
+http://66.102.120.18:8000/play/a07i/index.m3u8
+#EXTINF:-1,MTCL 6HD
+http://66.102.120.18:8000/play/a07h/index.m3u8
+#EXTINF:-1,MTCL 8HD
+http://66.102.120.18:8000/play/a07g/index.m3u8
+#EXTINF:-1,MTCL7HD
+http://66.102.120.18:8000/play/a07f/index.m3u8
+#EXTINF:-1,MUN TV
+http://66.102.120.18:8000/play/a02j/index.m3u8
+#EXTINF:-1,Mastiii - Free
+http://66.102.120.18:8000/play/a073/index.m3u8
+#EXTINF:-1,Metro 1
+http://66.102.120.18:8000/play/a034/index.m3u8
+#EXTINF:-1,Movies Now HD - Rs 14.00
+http://66.102.120.18:8000/play/a019/index.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD - Rs 14.00
+http://66.102.120.18:8000/play/a01f/index.m3u8
+#EXTINF:-1,NEO NEWS HD
+http://66.102.120.18:8000/play/a05g/index.m3u8
+#EXTINF:-1,NEWS ONE
+http://66.102.120.18:8000/play/a057/index.m3u8
+#EXTINF:-1,NHK WORLD-JPN
+http://66.102.120.18:8000/play/a03k/index.m3u8
+#EXTINF:-1,NOOR TV PK
+http://66.102.120.18:8000/play/a04m/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD - Rs 8.00
+http://66.102.120.18:8000/play/a01d/index.m3u8
+#EXTINF:-1,Nick  - Rs 6.00
+http://66.102.120.18:8000/play/a00w/index.m3u8
+#EXTINF:-1,Nick HD+ 
+http://66.102.120.18:8000/play/a07a/index.m3u8
+#EXTINF:-1,Nick Jr. - Rs 1.00
+http://66.102.120.18:8000/play/a00m/index.m3u8
+#EXTINF:-1,ONYX HD
+http://66.102.120.18:8000/play/a041/index.m3u8
+#EXTINF:-1,PTV HOME HD
+http://66.102.120.18:8000/play/a04r/index.m3u8
+#EXTINF:-1,PTV NATIONAL
+http://66.102.120.18:8000/play/a03s/index.m3u8
+#EXTINF:-1,PTV NEWS HD
+http://66.102.120.18:8000/play/a04s/index.m3u8
+#EXTINF:-1,PTV WORLD HD
+http://66.102.120.18:8000/play/a04t/index.m3u8
+#EXTINF:-1,PTV-SPORTS-HD
+http://66.102.120.18:8000/play/a04w/index.m3u8
+#EXTINF:-1,Paigham Pashto
+http://66.102.120.18:8000/play/a04g/index.m3u8
+#EXTINF:-1,Paigham Urdu
+http://66.102.120.18:8000/play/a04k/index.m3u8
+#EXTINF:-1,Paigham Urdu
+http://66.102.120.18:8000/play/a03e/index.m3u8
+#EXTINF:-1,Peace TV English  HD
+http://66.102.120.18:8000/play/a05q/index.m3u8
+#EXTINF:-1,Peace TV Urdu  HD
+http://66.102.120.18:8000/play/a05p/index.m3u8
+#EXTINF:-1,Planet Fun HD
+http://66.102.120.18:8000/play/a02k/index.m3u8
+#EXTINF:-1,Pogo - Rs 4.75
+http://66.102.120.18:8000/play/a00l/index.m3u8
+#EXTINF:-1,Public News
+http://66.102.120.18:8000/play/a03u/index.m3u8
+#EXTINF:-1,QURAN TV
+http://66.102.120.18:8000/play/a04h/index.m3u8
+#EXTINF:-1,RIVER HD
+http://66.102.120.18:8000/play/a043/index.m3u8
+#EXTINF:-1,ROHI TV
+http://66.102.120.18:8000/play/a05y/index.m3u8
+#EXTINF:-1,RUBIX HD
+http://66.102.120.18:8000/play/a042/index.m3u8
+#EXTINF:-1,Romedy Now - Rs 5.00
+http://66.102.120.18:8000/play/a01j/index.m3u8
+#EXTINF:-1,SAMAA
+http://66.102.120.18:8000/play/a06o/index.m3u8
+#EXTINF:-1,SAUDI CH For Quran HD
+http://66.102.120.18:8000/play/a03m/index.m3u8
+#EXTINF:-1,SAUDI CH For Sunnah HD
+http://66.102.120.18:8000/play/a03n/index.m3u8
+#EXTINF:-1,SET HD - Rs 19.00
+http://66.102.120.18:8000/play/a005/index.m3u8
+#EXTINF:-1,SONY BBC EARTH HD - Rs 19.00
+http://66.102.120.18:8000/play/a01r/index.m3u8
+#EXTINF:-1,SONY MAX - Rs 19.00
+http://66.102.120.18:8000/play/a00u/index.m3u8
+#EXTINF:-1,SONY MAX 2 - Rs 1.00
+http://66.102.120.18:8000/play/a00h/index.m3u8
+#EXTINF:-1,SONY MAX HD
+http://66.102.120.18:8000/play/a071/index.m3u8
+#EXTINF:-1,SONY PAL - Rs 0.50
+http://66.102.120.18:8000/play/a00j/index.m3u8
+#EXTINF:-1,SONY PIX HD - Rs 19.00
+http://66.102.120.18:8000/play/a01z/index.m3u8
+#EXTINF:-1,SONY SAB HD - Rs 19.00
+http://66.102.120.18:8000/play/a00d/index.m3u8
+#EXTINF:-1,SONY SPORTS TEN 1 HD - Rs 19.00
+http://66.102.120.18:8000/play/a012/index.m3u8
+#EXTINF:-1,SONY SPORTS TEN 2 HD - Rs 19.00
+http://66.102.120.18:8000/play/a01y/index.m3u8
+#EXTINF:-1,SONY SPORTS TEN 3 HD - Rs 19.00
+http://66.102.120.18:8000/play/a013/index.m3u8
+#EXTINF:-1,SONY SPORTS TEN 4 - Rs 17.00
+http://66.102.120.18:8000/play/a014/index.m3u8
+#EXTINF:-1,SONY SPORTS TEN 5 HD 
+http://66.102.120.18:8000/play/a07b/index.m3u8
+#EXTINF:-1,SONY SPORTS TEN4 HD 
+http://66.102.120.18:8000/play/a07n/index.m3u8
+#EXTINF:-1,SONY WAH - Rs 0.10
+http://66.102.120.18:8000/play/a007/index.m3u8
+#EXTINF:-1,SONY YAY! - Rs 4.00
+http://66.102.120.18:8000/play/a00s/index.m3u8
+#EXTINF:-1,STAR GOLD HD - Rs 19.00
+http://66.102.120.18:8000/play/a00f/index.m3u8
+#EXTINF:-1,STAR Movies HD - Rs 19.00
+http://66.102.120.18:8000/play/a021/index.m3u8
+#EXTINF:-1,STAR Movies Select HD - Rs 19.00
+http://66.102.120.18:8000/play/a020/index.m3u8
+#EXTINF:-1,STAR Plus HD - Rs 22.00
+http://66.102.120.18:8000/play/a008/index.m3u8
+#EXTINF:-1,STAR SPORTS S1 HD
+http://66.102.120.18:8000/play/a06x/index.m3u8
+#EXTINF:-1,STAR SPORTS S2 HD
+http://66.102.120.18:8000/play/a06y/index.m3u8
+#EXTINF:-1,STAR Sports 1 Hindi HD 
+http://66.102.120.18:8000/play/a072/index.m3u8
+#EXTINF:-1,STAR Sports2 Hindi HD 
+http://66.102.120.18:8000/play/a00v/index.m3u8
+#EXTINF:-1,SUNO NEWS HD
+http://66.102.120.18:8000/play/a05n/index.m3u8
+#EXTINF:-1,Sab TV
+http://66.102.120.18:8000/play/a035/index.m3u8
+#EXTINF:-1,See TV
+http://66.102.120.18:8000/play/a03y/index.m3u8
+#EXTINF:-1,Set Entertainment
+http://66.102.120.18:8000/play/a05r/index.m3u8
+#EXTINF:-1,Showbox - Rs 0.10
+http://66.102.120.18:8000/play/a018/index.m3u8
+#EXTINF:-1,Sindh News
+http://66.102.120.18:8000/play/a03x/index.m3u8
+#EXTINF:-1,Sindh TV
+http://66.102.120.18:8000/play/a03w/index.m3u8
+#EXTINF:-1,Sonic - Rs 1.00
+http://66.102.120.18:8000/play/a00p/index.m3u8
+#EXTINF:-1,Star Gold 2 - Rs 3.00
+http://66.102.120.18:8000/play/a00g/index.m3u8
+#EXTINF:-1,Star Gold 2 HD
+http://66.102.120.18:8000/play/a077/index.m3u8
+#EXTINF:-1,Star Gold Romance - Rs 2.00
+http://66.102.120.18:8000/play/a00r/index.m3u8
+#EXTINF:-1,Star Gold Select HD - Rs 8.00
+http://66.102.120.18:8000/play/a01s/index.m3u8
+#EXTINF:-1,Star Gold Thrills - Rs 2.00
+http://66.102.120.18:8000/play/a00c/index.m3u8
+#EXTINF:-1,Star News Asia
+http://66.102.120.18:8000/play/a03z/index.m3u8
+#EXTINF:-1,Star Sports 1 HD - Rs 19.00
+http://66.102.120.18:8000/play/a009/index.m3u8
+#EXTINF:-1,Star Sports 1 Hindi - Rs 19.00
+http://66.102.120.18:8000/play/a00i/index.m3u8
+#EXTINF:-1,TLC HD - Rs 3.00
+http://66.102.120.18:8000/play/a01c/index.m3u8
+#EXTINF:-1,TRT World HD
+http://66.102.120.18:8000/play/a03l/index.m3u8
+#EXTINF:-1,TV ONE
+http://66.102.120.18:8000/play/a055/index.m3u8
+#EXTINF:-1,Travelxp HD
+http://66.102.120.18:8000/play/a075/index.m3u8
+#EXTINF:-1,WASEB TV
+http://66.102.120.18:8000/play/a056/index.m3u8
+#EXTINF:-1,Zee Anmol Cinema - Rs 0.10
+http://66.102.120.18:8000/play/a01v/index.m3u8
+#EXTINF:-1,Zee Bollywood - Rs 3.00
+http://66.102.120.18:8000/play/a00n/index.m3u8
+#EXTINF:-1,Zee Cafe HD
+http://66.102.120.18:8000/play/a076/index.m3u8
+#EXTINF:-1,Zee Cinema HD 
+http://66.102.120.18:8000/play/a06w/index.m3u8
+#EXTINF:-1,Zee Classic - Rs 0.10
+http://66.102.120.18:8000/play/a006/index.m3u8
+#EXTINF:-1,Zee TV HD - Rs 19.00
+http://66.102.120.18:8000/play/a00y/index.m3u8
+#EXTINF:-1,iFilm English
+http://66.102.120.18:8000/play/a06n/index.m3u8
 
 
-
-
-
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg",Disney Channel HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=10&bind=0&uin=159413&playseek=0
 
 #EXTINF:-1,HINDI ▎ZEE ACTION ◉ rec
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/109165
@@ -1575,59 +1859,182 @@ https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319415.ts
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319416.ts
 
 
+#EXTINF:-1, IN: Pogo_Hindi
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/1918.ts
+#EXTINF:-1,IN: POGO (ENGLISH)
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/7220.ts
+#EXTINF:-1,IN: Disney Channel (4K)
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/19741.ts
+#EXTINF:-1,Kids: Hungama
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/18456.ts
+#EXTINF:-1,KIDS: SUPER HUNGAMA
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/66162.ts
+#EXTINF:-1,IN:  Nick_Hindi
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/205.ts
+#EXTINF:-1,IN: Nick+ FHD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/7438.ts
+#EXTINF:-1,IN: NICK (4K).
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/98880.ts
+#EXTINF:-1,IN: Nick_Junior
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/206.ts
+#EXTINF:-1,IN: sonic_Hindi
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/207.ts
+#EXTINF:-1,IN: Discovery_Kids_1
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/208.ts
+#EXTINF:-1,IN : CARTOON NETWORK HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/8.ts
+#EXTINF:-1,KIDS-SPIDER MAN 2008
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147720.ts
+#EXTINF:-1,KIDS-SPIDER MAN 1981
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147721.ts
+#EXTINF:-1,KIDS-SPIDER MAN 1967
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147722.ts
+#EXTINF:-1,KIDS-SLUGTERRA
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147723.ts
+#EXTINF:-1,KIDS-SHAPE RHYMES
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147725.ts
+#EXTINF:-1,KIDS-SAMURAI JACK
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147726.ts
+#EXTINF:-1,KIDS-POPEYE THE SAILOR MAN
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147727.ts
+#EXTINF:-1,KIDS-PJ MASK
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147728.ts
+#EXTINF:-1,KIDS-PEPPA PIG 2
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147729.ts
+#EXTINF:-1,KIDS-PEPPA PIG
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147730.ts
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147731.ts
+#EXTINF:-1,KIDS-NURSERY RHYMES HD 4
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147732.ts
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147733.ts
+#EXTINF:-1,KIDS-PAW PETROL TOY STORY
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147734.ts
+#EXTINF:-1,KIDS-PAW PETROL
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147735.ts
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147737.ts
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147739.ts
+#EXTINF:-1,KIDS-PERMAN
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147736.ts
+#EXTINF:-1,KIDS-KUNG FU PANDA
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147738.ts
+#EXTINF:-1,KIDS-GENERTOX REX
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147740.ts
+#EXTINF:-1,KIDS-FRUITS VEGETABLE RHYMES
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147741.ts
+#EXTINF:-1,KIDS-FIVE LITTLE RHYMES
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147742.ts
+#EXTINF:-1,KIDS-BEN 10 ULTIMATE ALIEN
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147743.ts
+#EXTINF:-1,KIDS-DUCK TALES HD
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147744.ts
+#EXTINF:-1,KIDS-DUCK TALES CLASSIC
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147745.ts
+#EXTINF:-1,KIDS-DORAEMON
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147746.ts
+#EXTINF:-1,KIDS-COLOUR RHYMES HD
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147747.ts
+#EXTINF:-1,KIDS-CHRISTMAS RHYMES
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147748.ts
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147752.ts
+#EXTINF:-1,KIDS-BEN 10 OMNIVERSE
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147749.ts
+#EXTINF:-1,KIDS-BEN TEN CLASSIC
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147750.ts
+#EXTINF:-1,KIDS-BEN 10 ALIEN FORCE HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147751.ts
+#EXTINF:-1,KIDS-ART-FUN
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight147752.ts
+#EXTINF:-1,KIDS-AVATAR THE LAST AIRBENDER HD
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147753.ts
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147774.ts
+#EXTINF:-1,KIDS-ANIMAL RHMYES
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147754.ts
+#EXTINF:-1,KIDS-ANGERY BIRDS TOONS HD
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147755.ts
+#EXTINF:-1,KIDS-ABCD RHYMES HD 2
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147756.ts
+#EXTINF:-1,KIDS-ABBY HATCHER
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147757.ts
+#EXTINF:-1,KIDS-NURSER RHYMES HD 4
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147758.ts
+#EXTINF:-1,KIDS-STORY
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147759.ts
+#EXTINF:-1,KIDS-BABY TOOT
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147760.ts
+#EXTINF:-1,KIDS-BIRTHDAY SONGS
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147761.ts
+#EXTINF:-1,KIDS-HICKORY DICKORY DOCK
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147762.ts
+#EXTINF:-1,KIDS-BOOM BUDDIES RHYMES HD
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147763.ts
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147764.ts
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147765.ts
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147766.ts
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147767.ts
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147768.ts
+#EXTINF:-1,KIDS-BABAY BAO PANDA HD
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147769.ts
+#EXTINF:-1,KIDS-BABAY RHYMES HD
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147770.ts
+#EXTINF:-1,KIDS-ANIMAL RHYMES HD
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147771.ts
+#EXTINF:-1,KIDS-A B C D RHYMES HD
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147772.ts
+#EXTINF:-1,KIDS-NURSERY RHYMES HD 3
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147773.ts
+#EXTINF:-1,KIDS-NUMBER RHMYES HD
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147774.ts
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147775.ts
+#EXTINF:-1,KIDS-NURSERY RHYMES HD 2
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147776.ts
+#EXTINF:-1,KIDS-MR BEAN HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147777.ts
+#EXTINF:-1,KIDS-RHYMES HD
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147778.ts
+#EXTINF:-1,KIDS-MASH AND BEAR HD
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147779.ts
+#EXTINF:-1,KIDS-CHU CHU TV HD
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147780.ts
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147781.ts
+#EXTINF:-1,KIDS: Sonic 24/7
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/121290.ts
+#EXTINF:-1,24/7: Kids BooBa
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/121314.ts
+#EXTINF:-1,24/7 Kids: Rick And Morty
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/121329.ts
+#EXTINF:-1,24/7 Kids: Masha and the Bear
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/121337.ts
+#EXTINF:-1,24/7 Kids: Little Baby Bum
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/121339.ts
+#EXTINF:-1,24/7 Kids: The Boss Baby_ Back in Business
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/121340.ts
+#EXTINF:-1,24/7 Kids: Peppa Pig
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/121343.ts
+#EXTINF:-1,24/7 Kids: Blippi
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/121368.ts
+#EXTINF:-1,24/7 Kids: Kids: Gabby_s Dollhouse
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/121376.ts
+#EXTINF:-1,Kids:  Cartoon Network Arabia HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319402.ts
+#EXTINF:-1,Kids: Toyor Aljana
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319403.ts
+#EXTINF:-1,Kids:  SpaceToon TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319404.ts
+#EXTINF:-1,Kids: Rotana Kids HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319405.ts
+#EXTINF:-1,Kids:  Karamesh
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319406.ts
+#EXTINF:-1,Kids:  OSN Kids Zone HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319407.ts
+#EXTINF:-1,Kids | Ar: NickToons HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319408.ts
+#EXTINF:-1,Kids: OSN Nickelodeon HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319409.ts
+#EXTINF:-1,Kids: Baby TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319410.ts
+#EXTINF:-1,Kids:  HodHod  TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319411.ts
+#EXTINF:-1,Kids:  Taha TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319412.ts
+#EXTINF:-1,Kids: Majid Kids TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319413.ts
+#EXTINF:-1,Kids | Ar: Shehab TV
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319414.ts
+#EXTINF:-1,Kids:  Atfal & Mawaheb
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319415.ts
+#EXTINF:-1,Kids | En: NickToons HD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/319416.ts
+#EXTINF:-1,KIDS: ETV Bal Bharat SD
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/355286.ts
+#EXTINF:-1,PRESS TV (Iran)
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/255847.ts
 
 
 
