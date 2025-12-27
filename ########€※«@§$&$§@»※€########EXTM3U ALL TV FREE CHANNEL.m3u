@@ -1,4 +1,4 @@
-#EXTM3U
+ #EXTM3U
 
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj",Al Quran Al Kareem
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
@@ -5529,10 +5529,25 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ktvus.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png",GREEN TV HD
 https://app.ncare.live/streams/greentv.stream/playlist.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://ctvusa.tv/wp-content/uploads/2025/08/Ctv-USA.png",CTV Usa
+#EXTINF:-1 group-title="BANGLAvg-logo="https://ctvusa.tv/wp-content/uploads/2025/08/Ctv-USA.png",CTV Usa
 https://cdn.streamcast.xyz/ctvusa/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://ctvusa.tv/wp-content/uploads/2025/08/Ctv-USA.png",CTV Usa
 https://cdn.streamcast.xyz/ctvusa/index.fmp4.m3u8
+#EXTINF:-1 group-title="BANGLADESH  tvg-logo="https://jatvbd.com/wp-content/uploads/2024/12/Jatv-Logo-new.png",Ja Tv  
+https://dish.porosh.live/tmp_hls/jatvbd/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://sokalnews.tv/wp-content/uploads/2025/11/SOKAL-LOGO.png",Sokal News Tv
+https://live.elinhost.com/sokal/newstv/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://news21bangla.tv/wp-content/uploads/2025/07/news21-1.png",News21
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-16-bd.png",Channel 16
+https://aps31.playlist.ttvnw.net/v1/playlist/Cr0GkM7GN_9Cs6HyUJ2Uv1KIt0ASCkQFqqRplPfSl6PieO1sEChQBWlkydvjT-lwykt4X3knnflwq1V2UZlVP_FJ5DoA6K7qe_Va0nTY_TEphsGzLLEDuBsMsCjGzBltrPoQr-AM_2yhFsmhLbIIqTjtG3igy3UfFQUAYfg3UGOFV8Enj6q5c9d8JBiZeODVJsZLPeRXwxzLgyQ2Issv3qvCIrQhEvZgWsK_g5Ay332AIHGcMq0HebZ8JIwbnbyPxFlmVgfAVtEoWR9ydVlfzvdElNkbSawTEMX-_xpZ36AR_AXeqMe3HMVjzIRCaephMd8U4EpSiU77yN6jpMRK98e71-xOf6a1TEgUS9_rEFDQuw5Hsa8kqQW8XlOkZ2XY0vqdipKPfDIQrEAgj8OmI7coM7QYQZE9egu7dMheQ_WGFM7QjCg1dl8vSOpkMhEUPLdqsEKPO1bCq3jKooh5CbICaD6zijCgFcJ-WD0Q13OprQcUvwHkd4XNkNYPzkjhK0_j7tmdgQ5_ateue3S7H7hkMuTlgfTlEWogZy4Ged8rvrfrnOdBjDmF9O7EEMQ3M-h3_a6fpPWh0wkEPhMUlTz_u-Ou6vjvG3_9bCw6zDZRHYT_ZtKJX0jztZlgTqrIKdsHYf8VDV0zXLGtxel16trBJTg7h8pd8qORf0LhmqJjOMHU6RHWb83_WRqi8anv98uC5DOgS3DipMaU8g8NPRDVEAlj6rS2m5mokKeelo5aK2VcGjLpujOHwDr72PYtgWheifLJdlCeCSAUlsiP1VLpi6lntLYbMOVU4RHj9auLO3A5xREZw3ax751Z21SDU2BnneNYTgg7kLh3Uj1lmtAm-k0RWQ2LGzaEUzJBAoxECW4u80ERTQkpTwGUpio85dtQ4pfIEMY0GbIqP1MwPM-C2j8Tiu7X_KbILeAaToBbIJNGDO1phHrNCCa-yHPF-7uqJSpqFYjExY0uBFpWd42NjlvpGMqDBIwNijJ6FkyvkLaY1q_qOPN9a-o67y10752TqR3MnDxhMAQk2ViDlHI24FbfIgQKCicVxoQVRAI1CAVd5m7i16BZxKSmRggsDq0wTpCXr01ymx7nIgLU-xoMsTXWwtZHzWDfRBIuIAEqCXVzLXdlc3QtMjCFDg.m3u8
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://familytvbd.com/wp-content/uploads/2023/10/Logo.png",Family Tv
+https://aps31.playlist.ttvnw.net/v1/playlist/CqQGocj1fZSPxeC6p736ffmjLW1LwhHFpOfQDWiAqrCZgarDCzdpsp4Aa-YkPvT2iS1DljhweGPaZ8OSCK6VDDaeeGgNdJ0BETTBf61jKObKdfUfqEWfWq-SYk2il4N-iNogaBpnm5mqiXo14Wb1iH_Kk3bTO0bQTaNDuF5mUaacY0zRKt6CuDPnbPDA3mvbSz2xKZkg0BUTNY6AD3r8PGGcQwE0EBHT4AzMmDpw32oJy1rNHbLwG19T8bi_P8SSrStg3_FY6rNFONUOHCnMQu97uL2zcjS4RtuhGhlcOY92vuvnS1MUVYj1sa5DGGgrEq_2rIbzf5s3DdI3FmOPw-_S4emRIR8jbmxI5d8ZCfRODl8xccVSL-xK5zSGPnVqW6Yh0WaSDQVJ5yYl1nOmfmRHB6UfTR-ln7ObAe0wLsbfKuNc7mY9kimLwpzWcoxajfrdYSRLMCysgGBASNFnNosfT7Omj24dFylDTVsfcNdrSFyX3lvWH6uz8EF9hHT5XD94_G70t9Q9HDKeNcoOcdunQa8MTWK7OUmDFmOUYfTHvj6HRAv8MQ1WLU-P8JZ1qYKJsVJ4kOPIsHU_inuMTw9eJ0xn9ZaKE3H7a_GLVZAebYNkg4ILQS4lAJ8J291AUppE2rALYOR0BbQbaKgeBXzmGc4gEW2RZETxToSCgebUowtzWeEB1DJaLuijohbfKA2EdMXMsNumyEIM1lE2dlvJF-Bm2JsoOQnXvvWVH_rVX8iUb4RMByLtemR-eE_q8TFDxQhTnvxPRzh4uZtrQBYs-51656Xq5YYEhiTUUnS9zZ118xU424k-35r44XXIKkTAuTMrZcqDKMYAhIMgtiqjDWxosPMIqqceLPvhbsNXOQtTtkMmM-KY0NvwlciwtjJ4KewWhTbGBIDgxR5bRHNHdRoCGasXnx9PWdDH6zduzY-rqaEqb3Q95UbHyHfbPrv6tD6N8-YHa7DNy031adkMOxaM2f12hEs0shW44t-NjheE16u9j9WsFOV_Xp0BoZJa_nihqArb8F0f-vjboWf4wDvIgKQziwcvCCi4T-kLn6ui8j-gGgzrYS5Tx0YmHWLoo3ggASoJdXMtd2VzdC0yMIUO.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvn-world.png",Tvn World
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://news21bangla.tv/wp-content/uploads/2025/07/news21-1.png",News21
+http://103.190.133.68:1935/news21live/live/chunklist_w870394000.m3u8
+
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.postimg.cc/L4bfq0Ys/bangla-tv.jpg",Bangla TV
 https://tplay.live/out/bangladesh/banglatv.index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Bangla" group-title="",Nagorik TV
@@ -5553,7 +5568,8 @@ https://allottplay.com/tv/toffee/live.php?id=zee_bangla_cinema&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#Local Channel",Padma Cable Vision
 https://padmaonline.duckdns.org:8088/pcv/index.m3u8
-
+#EXTINF:-1,BANGLA ▎SUN BANGLA
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/126098
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/sami-768x768.jpg",Sami Tv
 https://padmaonline.duckdns.org:8088/SamiTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/sami-768x768.jpg",Sami Tv
@@ -5562,8 +5578,41 @@ https://padmaonline.duckdns.org:8088/SamiTV/index.m3u8
 https://padmaonline.duckdns.org:8088/sdcv/index.m3u8
 #EXTINF:-1,Sun bangla
 http://103.182.170.32:8888/play/a01v
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://familytvbd.com/wp-content/uploads/2023/10/Logo.png",Family Tv
-https://aps31.playlist.ttvnw.net/v1/playlist/CqUGV07EtQgkFqs6zZp9cs-puoBtpTxuWuFafSppGFUVkDq8XKtmk8v-vYw7AdbpqEaJR3sob8WzRU5ZW_0LB0UP-Qxb_DqzndV8rgHHndsU2Em_Ox15tHcXjeRK2Cnk1B1aBs2V6vOMhjFyxku6rjM3BEMxst-5HkUjSwaQXu5ewXTVxeq3onlbVqFSRNGxMgnMV2foz5x-8iW8CnKM2fKp3A3PiIJM9w0WPKKSmLd08v2jfY7ajruACgTaiVV4ot68lNdQiy3YP8id-a70dJ2HOAcSYyxW1CcvkHdsDtKi8oKRl_Bw-iUSazqVZlroIetAxmx-eXeixzhm7zLs9iWIWrZ-qIKRcdHeJwjXbe3zC31_xlY7zxm7U1fuAfV6xFJaU3pt57eenvjuIadN8z0vajJjqIUmNOAKaKRxSTKJYR1lQeAdd3G7jGj7vnNk4MUcu4d4ZfMx75LeuzP3i1fecGD-oHTB3DFoMH0qai0SKpfEKNzaq0DKSQB7uo-i0cHFPEgZCoAAr4ZzRaBD-jT3ABNA0kZ_nW9S82E3L7BGDiYconwTgnR_ZTyDlKpvuYYGH_DnDwPGFOKGeINwoHuKyYcMWwIy8-bkvAha7Yir7pC6MDiO0rdm4dBWBr4Ukr7k7JZRM3i8R8rOE7K_vzcvGG1iTTgXboSvTumd7viptuJLA8fmosgDwWx_lHlVjOpENKJSd3Lz4eVur18Qf7tWGR-qxDLyAvIKC0bKAzqumS0Z7j2XsRQHBzoMhDvKQKB6GX0_Xmhfm9I8vSHUJkKSFsjV3MnZUcyK7W4ENzTaA6E1Vp5ocspzbtjW1uyDi3IN_E8_bAwU5gH2jpf759KcWvsOYWrULyGRUqD-62WONkT5yvlTEa0SjX0JozBh8jKSPKQZwnzDxr6yv5QChyPp7WEZjMGH6Tg3KWczuX6tdJzb-ke9JLExCic55rS4pb3y0CPJ1aaNOsf3n_JUQFBEb2Gdoku8TKTsCK-v8Smr5VSuBB1rgFiw7qbemgRdmnDWpatu283rYOwFhfrLop2DP4AH0atT-BE7BPzbPWxqc9axNyiQHBoMgSLQ0d5SxLW0dVAJIAEqCXVzLXdlc3QtMjCCDg.m3u8
+#EXTINF:-1,Sony Yaat
+https://falconftp.noobmaster.xyz/SONYAAT/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zee bangla sonara
+https://padmaonline.duckdns.org:8088/ZeeBanglaSonar/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Jalsha
+https://padmaonline.duckdns.org:8088/StarJalshaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Colors HD
+https://padmaonline.duckdns.org:8088/ColorsHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Nick Jr
+http://103.140.254.2:3500/live/544.m3u8
+#EXTINF:-1,Nick HD
+http://103.140.254.2:3500/live/1226.m3u8
+#EXTINF:-1,Cartoon Network
+http://103.140.254.2:3500/live/1079.m3u8
+#EXTINF:-1,Nick
+http://103.140.254.2:3500/live/545.m3u8
+#EXTINF:-1,D kids
+http://103.140.254.2:3500/live/550.m3u8
+#EXTINF:-1,Turbo
+http://103.140.254.2:3500/live/541.m3u8
+#EXTINF:-1,Cartoon Network
+http://103.140.254.2:3500/live/816.m3u8
+#EXTINF:-1,Cartoon Network
+http://103.140.254.2:3500/live/815.m3u8
+#EXTINF:-1,D kids
+http://103.140.254.2:3500/live/554.m3u8
+#EXTINF:-1,Nick 
+http://103.140.254.2:3500/live/545.m3u8
+#EXTINF:-1,Nick Jr hindi
+http://103.140.254.2:3500/live/548.m3u8
+#EXTINF:-1,Pogo
+http://103.140.254.2:3500/live/559.m3u8
+#EXTINF:-1,Colors HD
+http://103.140.254.2:3500/live/144.m3u8
+
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/04/Tata_Sky_BC_HD_logo_2017.png/revision/latest?cb=20210729043837",TATA SKY BANGLA
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63329
 #EXTINF:-1,BENGALI ▎NAT GEO HD
@@ -5686,8 +5735,6 @@ https://tplay.live/out/news/btv-chattagram.index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x67896",Songsod Tv 
 https://tplay.live/out/news/bd-sangsad.index.m3u8
 
-
-
 #EXTINF:-1 group-title="BANGLADESH"tvg-logo="https://i.postimg.cc/mZ7yRY36/ha24-7.jpg",Humayun Ahmed 
 https://live20.bozztv.com/giatvplayout7/giatv-210444/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Bangladesh"tvg-logo="https://i.postimg.cc/7YR2vbGk/bm.jpg",Bangla Movies 
@@ -5753,19 +5800,14 @@ http://103.175.242.10:8080/sunbangla/index.m3u8
 
 #EXTINF:-,Amar Bangla*
 http://115.187.41.216:8080/hls/amarbangla/index.m3u8
-
 #EXTINF:-,Amar Digital*
 http://115.187.41.216:8080/hls/amardigital/index.m3u8
-
 #EXTINF:-,Mon Tv Bangla*
 http://115.187.41.216:8080/hls/montvbangla/index.m3u8
-
 #EXTINF:-,Bhakti Bangla*
 http://115.187.41.216:8080/hls/bhaktibangla/index.m3u8
-
 #EXTINF:-,Salam Bangla*
 http://115.187.41.216:8080/hls/salambangla/index.m3u8
-
 #EXTINF:-,Digital Fashion*
 http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
 #EXTINF:-,Sananda Tv*
@@ -6659,6 +6701,10 @@ https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b
 #EXTINF:-1 tvg-id="101" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-10013.jpg" group-title="Entertainment",NKTV PLUS  (Pishow)
 https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=67343c45f3659eebe8f0ffac
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" group-title="Kids",Sony Yay
+https://falconftp.noobmaster.xyz/SONYYAY/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-FE0w9oV0EKEdjMkoN1eNdo4cz4uD7hX7VA&s",,24/7 KIDS | Tom And Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ6VW8yo69XZOzaRklyFyCyE18gnNsiMnLfFECQHop7g&s",Shinchan
@@ -6766,12 +6812,90 @@ https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8
 #EXTINF:-1,Tmp
 http://tmptv.sunduk.tv/CH3317/index.m3u8
-#EXTINF:-1 tvg-id="94" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/GREGLD/Mobile/thumbnail/3db87275-f469-4f9d-8ee5-b6cd5fa3a039.png" group-title="Kids",Green Gold TV
-https://vglivessai.akamaized.net/ptnr-yupptv/title-Green_Gold_India/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/bf318b98-c42f-46a5-8bb6-06dfc3e19841/0.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/N09VvLpb/kiddo.png",Kiddo+
-https://streams2.sofast.tv/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/manifest.m3u8
-#EXTINF:-1 tvg-id="cartoon-tv-classics" tvg-name="CARTOON TV CLASSICS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/cartoon_classics_512X512_balck.png" tvg-language="ENG" group-title="ENT",CARTOON TV CLASSICS 
-https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrftfH1FQh-wPIcQm2tOrR-sEm-2suqv4b9Q&s",SONY YAY
+http://110.39.27.47:8001/play/a01j/index.m3u8
+#EXTINF:-1,Baby Tv
+https://ml-pull-dvc-myco.io:2096/BABY_TV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/790/709/png-clipart-pogo-com-television-channel-logo-others-television-text.png",POGO
+http://110.39.27.47:8001/play/a00j/index.m3u8
+#EXTINF:-1,Hoora Tv
+http://163.61.227.29:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiywdYwYEnO8lcOJ6dBZ9v9Y7uAWdS7sFb5PgG8Gzi-AATV0-LOyWttnA&s=10",PBS KIDS
+https://us.ml-pull-dvc-myco.io:2096/PBS_KIDS/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Minimax_Pakistan_logo_2025.png/revision/latest/scale-to-width-down/284?cb=20250820202703",MINIMAX
+https://s2.ideationtec.live/MiniMax/MiniMax.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTObpngIdeaH7Ez2900Pf1GNCGFoKKoyBjlMH0zG3duAQ&s=10",PLANET FUN
+http://163.61.227.29:8000/play/a03w/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfl8Br_BX3i4h5-Lz4arlEE9rPptmkbGr8Xgw9zf9Yrw&s=10",KIDS ZONE PK
+http://163.61.227.29:8000/play/a03x/index.m3u8
+#EXTINF:-1,Disney Channel
+http://110.39.27.47:8001/play/a03m/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://110.39.27.47:8001/play/a01k/index.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://110.39.27.47:8001/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="83" tvg-chno="232" tvg-name="kiddo" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kiddo.png" group-title="Kids", Kiddo
+#KODIPROP:inputstream=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1 
+https://streams2.sofast.tv/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/manifest.m3u8?hdnts=st%3D1766575259~exp%3D1766596859~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-KIDDO-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F5bcf9d24-04f2-401d-a93f-7af54f29461a%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.154.20.51_yuppfast_2_channel_83_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.154.20.51_yuppfast_2_channel_83_-1~hmac%3D0e4dd6444e827784f0cd9407983dfb407d9b1d5b739acf37e7901acadf9dd6f9
+#EXTINF:-1 tvg-id="48" tvg-chno="235" tvg-name="cartoon-tv-classics" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehuljr.png" group-title="Kids", Cartoon TV Classics
+#KODIPROP:inputstream=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=hls 
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8?hdnts=st%3D1766575260~exp%3D1766596860~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-CARTOON-TV-CLASSICS-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fd5543c06-5122-49a7-9662-32187f48aa2c%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.154.20.51_yuppfast_2_channel_48_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.154.20.51_yuppfast_2_channel_48_-1~hmac%3D53e8c4087c8d71330eeffc74136b3ea4392e03be6a74b1319e49c315a7bbf836 
+#EXTINF:-1 tvg-id="326" tvg-chno="" tvg-name="green-gold-tv-india" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/green-gold-tv-india.png" group-title="Kids", Green Gold TV India
+#KODIPROP:inputstream=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=hls 
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1 
+https://vglivessai.akamaized.net/ptnr-yupptv/title-Green_Gold_India/eu/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/playlist.m3u8?hdnts=st%3D1766575260~exp%3D1766596860~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-Green_Gold_India%2Feu%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F675a37e5-f517-434e-adae-d25ae1706340%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.154.20.51_yuppfast_2_channel_326_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.154.20.51_yuppfast_2_channel_326_-1~hmac%3D9454bca0e710d6897bdfe2c538a6ab2860d69bcb2461bc72a0322e97ddf0913f 
+#EXTINF:-1 tvg-id="281" tvg-chno="2" tvg-name="green-gold-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/green-gold-tv.png" group-title="Kids", Green Gold TV
+#KODIPROP:inputstream=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=hls 
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://greengold-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/abce93aa-dfba-43c5-a356-876695d20088/playlist.m3u8?hdnts=st%3D1766575261~exp%3D1766596861~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fabce93aa-dfba-43c5-a356-876695d20088%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_52.154.20.51_yuppfast_2_channel_281_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_52.154.20.51_yuppfast_2_channel_281_-1~hmac%3D805e564d5a42edb127b684147ae9addadaea63ff3f193d9bbcaa0110444464a5
+#EXTINF:-1 channel-id="f66aa243a9465896ac3e7eaef7cba3fd" tvg-id="f66aa243a9465896ac3e7eaef7cba3fd" tvg-chno="412" tvg-name="Power Rangers" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f66aa243a9465896ac3e7eaef7cba3fd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1683056022523_PWR_FAST_HUD_Logo_top_260x147.png" group-title="Action",Power Rangers 
+https://jmp2.uk/rok-f66aa243a9465896ac3e7eaef7cba3fd.m3u8 
+#EXTINF:-1 channel-id="8e0ba996e9985beb9c5e7f7f994ddc2e" tvg-id="8e0ba996e9985beb9c5e7f7f994ddc2e" tvg-chno="417" tvg-name="Toony Planet" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8e0ba996e9985beb9c5e7f7f994ddc2e/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1680614970035_Toony_Planet_HUD_logo_260x147.png" group-title="Uncategorized",Toony Planet 
+https://jmp2.uk/rok-8e0ba996e9985beb9c5e7f7f994ddc2e.m3u8
+#EXTINF:-1 channel-id="40d73ba5be775428a377908b02033b4c" tvg-id="40d73ba5be775428a377908b02033b4c" tvg-chno="419" tvg-name="BABY SHARK TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/40d73ba5be775428a377908b02033b4c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1700073147593_Roku_BABY_SHARK_TV_Image_HUD_2_260x147.png" group-title="Uncategorized",BABY SHARK TV 
+https://jmp2.uk/rok-40d73ba5be775428a377908b02033b4c.m3u8
+#EXTINF:-1,Tiny Pop
+https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,janson
+https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids",Kid Screation
+http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Rongeen tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rongeen-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nursary Rhymes
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nursary Rhymes-2
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/master_en.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Nursary Rhymes-3
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-ind/master_en.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png" group-title="Kids",Tonz kids
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids",Hungama Kids
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Kids",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+http://66.102.120.18:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/512px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Kids",Nick Jr. (576p)
+http://66.102.120.18:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/512px-Nick.svg.png" group-title="Kids",Nickelodeon (576p)
+http://66.102.120.18:8000/play/a00w/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vSJzF6o.png" group-title="Kids",Sonic (576p)
+http://66.102.120.18:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Tom_and_Jerry_Logo.jpg" group-title="Kids",0. Tom and Jerry 3
+http://live.iill.top/huya.php?id=11352879
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/Motu-patlu-cover.jpg" group-title="Kids",Cartoon Anima
+https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23195/cartoon-classics/logo_20241119_223053_61.png" group-title="Kids",Cartoon Classics
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/D6NOXKW7TYP8TG7YMYZH/hls3/now,-1m/m.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cartoon-network-ca.png" group-title="Kids",Cartoon Network (Retro Blast)
+https://retroblast.tv/hls/0/stream.m3u8?cachebust=f224d41f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cartoonito-it.png" group-title="Kids",Cartoonito
+http://181.78.4.250:8098/play/a067/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/discovery-kids-br.png" group-title="Kids",Discovery Kids
+http://181.78.4.250:8098/play/a08h/index.m3u8
+
 #EXTINF:-1 group-title="INDIAN | KIDS Cartoon" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/wow-kidz-new-hindi-black.png" ,24/7 Wow Kids 
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/hdntl=exp=1765724471~acl=%2f*~data=hdntl~hmac=18550ab73b6c265c0739eba5085dee700bd468df2f216b11fcdbe4e38ca80fa4/chunklist_b2628000.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",Sony Yay
@@ -8962,6 +9086,8 @@ https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147721.ts
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147722.ts
 #EXTINF:-1,KIDS-SLUGTERRA
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147723.ts
+
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147724.ts
 #EXTINF:-1,KIDS-SHAPE RHYMES
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147725.ts
 #EXTINF:-1,KIDS-SAMURAI JACK
@@ -8974,8 +9100,12 @@ https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147728.ts
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147729.ts
 #EXTINF:-1,KIDS-PEPPA PIG
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147730.ts
+
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147731.ts
 #EXTINF:-1,KIDS-NURSERY RHYMES HD 4
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147732.ts
+
+https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147733.ts
 #EXTINF:-1,KIDS-PAW PETROL TOY STORY
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/147734.ts
 #EXTINF:-1,KIDS-PAW PETROL
