@@ -1,4 +1,5 @@
- #EXTM3U
+
+#EXTM3U
 
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj",Al Quran Al Kareem
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
@@ -5735,8 +5736,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://khobortv.com/wp-content/uploads/2025/12/500-500.webp",Khobor TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ktvus.stream/tracks-v1a1/mono.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ktvus.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1,GALAXY TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/02/galaxybd-768x768.png",Galaxy TV 
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png",GREEN TV HD
 https://app.ncare.live/streams/greentv.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLAvg-logo="https://ctvusa.tv/wp-content/uploads/2025/08/Ctv-USA.png",CTV Usa
@@ -5750,7 +5751,7 @@ https://live.elinhost.com/sokal/newstv/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://news21bangla.tv/wp-content/uploads/2025/07/news21-1.png",News21
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:-1,GALAXY TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxy.stream/tracks-v1a1/mono.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-16-bd.png",Channel 16
 https://aps32.playlist.ttvnw.net/v1/playlist/CrwGcgA1oEP8n36tyKwOa5B2QtkL6za_covgDnvWIqLePTxs1-NNj3UevxwssjrBsti7KiFFk4MQC5v7NSJ809VXwLHq-cHGGhZ8yahwl0nFuyUQihIArdU_gAjdF-1bWsK-BKjlGyfKK3TWlhDYwLhdugBwJHMgiOyn1l0ef8VPPVAoJJXcUJieKqXDoJ7rAX77pNQ-NK5p8UzbQgam6RDuO8lrq_HIIyAybjqOCS6BWdPgEtu790FEIJA4gUzPmKTL04tDLQcHclW2kzGVY3NSaYHIJyvp_dG98xNqqEoBzB2Nxxaz-_9x53BiQJUDeLmfRORoFeVNxjkUfw-_by2dCpoHvxjQPWD7ac_gV8u2YtdRoUlakOTinKo9G2FFEBCI7PONOonbyzcrzbLMxirQoPvlEqzuwgC0mYlBP2s6P9EWMKfViqfQqDB855pFnXR6JoWbLXx5A-rKWj7g8g-lDAELxgEvvHIsWvtlAX5nNLU0QvCV4w5_g1f2kWmAu2ozBjVtA-PAqBo1zKzU4n06BD5uRtfJviw6f6wXc0rokMAyTAe3BBn_QNI7jYBeWnH_K9MRQoOHwlAMzl9qNf084zm3CJgYZ65JoWoRP6ZUFjPKMBrHExxmgXDl6-cQ9o8dd-F3W01MZdhvWmS0m4YsuTnq8H4JE-xtAbEunK6Tjk75PH6t4IOgQfOYQYy_IIMDUQ59nmMTSu0SqoRW2rGw01dfBA7yOAN012vXDA2wqjiawQHVWujENQGsZKoJ1pTFWG4EfZQz5_RI19opGcwKioxByI1o-S4LFi11IiUSC1SjzioUp1mIQ1Xn7MTIsTPdiXNN-swINwLhc5pdLbd_dzTBCvtIpJ0heE78Ut-lkl7W6F5WHtiHeXiwA4V5Q3w60wUVSgh36PZMeS_ZmZtqkTO8Sty11zWrHyt3m9xefJz6aT1itXFQpve9FNgoNvVH6reId3RtlCJkNMkWSsRbkpxaM-9Ed2n1Ulzx9BpFJ6VdmAdmTXWEtdBtrZDHrBVwnU66On2nkUan-u6ssA_jcKCFUhJy0mlyFgT5irq7nV8T6CiX6zAbymS_jyFU3505lv2C1Hb3RBzDoIs-GgxkO5y2WN23seJ9hFQgASoJdXMtd2VzdC0yML4O.m3u8
