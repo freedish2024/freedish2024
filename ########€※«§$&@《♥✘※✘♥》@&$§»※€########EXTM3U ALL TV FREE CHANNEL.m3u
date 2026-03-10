@@ -5520,7 +5520,7 @@ http://103.175.73.12:8080/live/323/323_0.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://nettv.fun/playlist/bdix/logo/sonyyay.png",Sony Yay Bangla
 https://edge2.roarzone.info:8445/roarzone/edge3/sony-yay/index.m3u8?token=73dfe7b40adf25821503821590cd5e6caab3fa0d-4a561802a18f28158e1909537e356474-1771348132-1771344532
 #EXTINF:-1 group-title="Kids" tvg-logo="https://nettv.fun/playlist/bdix/logo/sonyyay.png",Sony Yay Bangla
-https://mrzplayin.fun/roarzon/stream.php?id=7eccfe540a7590406ef28bd40c13ffa0&e=.m3u8
+http://103.99.249.139/sonyyay/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Kids" tvg-logo="http://redforce.live/assets/images/DURANTA%20TV1745043400.png",Duranta TV
@@ -5547,9 +5547,9 @@ https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="http://redforce.live/assets/images/CARTOON%20NETWORK1745033414.png",Cartoon Networ HD
 https://m.mxonlive.xyz/live/16559/roar/edge3/cartoon-network-hd.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="http://redforce.live/assets/images/CARTOON%20NETWORK1745033414.png",Cartoon Networ HD
-http://redforce.live:8082/CARTON.NETWORK.HD/index.m3u8?token=eaab6ff9eaa8a5b0116e4e01dd7063a4092a5e00-f44d3ded1fccdbda1c69b5edf1c11fc0-1757763833-1757753033&remote=no_check_ip
+http://redforce.live:8082/CARTON.NETWORK.HD/index.m3u8?token=8a786da0b430c3c4054920b2ba8fabb2a5eef48b-e7a206acf1ae46146e32da46b54e4a38-1757772063-1757761263&remote=no_check_ip
 #EXTINF:-1 group-title="Kids" tvg-logo="http://redforce.live/assets/images/DISNEY%20JUNIAR1750870581.png",Disney Juniar
-http://redforce.live:8082/DISNEY.JUNIAR/index.m3u8?token=097eb367c1961350041b07d3932a4a6ea368de26-fadc1f38f027c64ab6b01cd4542f781b-1757763810-1757753010&remote=no_check_ip
+http://redforce.live:8082/DISNEY.JUNIAR/index.m3u8?token=2938fe41532b76b0790528667cbc5911e44462ba-6ca58b80257578cc9d389b917efd23e1-1757772094-1757761294&remote=no_check_ip
 #EXTINF:-1 group-title="Kids" tvg-logo="http://redforce.live/assets/images/NICK%20JR1745042397.png",Nick Jr
 http://203.18.159.115/NICKJR/tracks-v1a1/mono.m3u8
 
@@ -5789,6 +5789,9 @@ https://5dd3981940faa.streamlock.net/ibtvusa/ibtvusa/playlist.m3u8
 https://cdn.streamcast.xyz/timetv/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/12/images.jpeg",Star News
 https://tvboss.ziboplay.buzz/Starnewstest_transmission/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://unmochontv.com/wp-content/uploads/2026/01/Untitled-design-3-1-e1767343870887.png",Unmochon TV
+https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://sokalnews.tv/wp-content/uploads/2025/11/SOKAL-LOGO.png",Sokal News Tv
 https://live.elinhost.com/sokal/newstv/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://news21bangla.tv/wp-content/uploads/2025/07/news21-1.png",News21
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
